@@ -10,8 +10,8 @@ Runs entirely locally via [Ollama](https://ollama.com) (CPU, no GPU needed) and 
 2. `chunk_articles.py` — splits articles into ~500-token chunks (100-token overlap), with title/source URL metadata, into `chunks.json`
 3. `embed_chunks.py` — embeds each chunk with Ollama's `nomic-embed-text` model into `chunks_embedded.json`
 4. `load_to_chroma.py` — loads embedded chunks into a local Chroma collection (`./chroma_db`)
-5. `query.py` — CLI: embeds a question, prints the top-5 most similar chunks
-6. `ask.py` — CLI: full RAG flow — retrieves chunks, streams an answer from Ollama's `llama3.2:3b` chat model, prints sources
+5. `query.py` — CLI: embeds a question, prints the top-N most similar chunks (`N_RESULTS`, currently 7), sorted by source article and chunk order
+6. `ask.py` — CLI: full RAG flow — retrieves chunks, streams an answer from Ollama's `qwen2.5:7b` chat model, prints sources
 
 ## Setup
 
@@ -21,7 +21,7 @@ source vw-scraper-env/bin/activate
 pip install requests beautifulsoup4 chromadb
 
 ollama pull nomic-embed-text
-ollama pull llama3.2:3b
+ollama pull qwen2.5:7b
 ```
 
 ## Usage
@@ -43,5 +43,5 @@ python3 ask.py
 
 ## Known limitations
 
-- Small local chat model (`llama3.2:3b`) can occasionally blend content from unrelated articles or produce inconsistent answer length/detail.
-- Fixed-size chunking can split a multi-step procedure across chunk boundaries, occasionally dropping a step from an answer.
+- Small local chat models can still occasionally blend content from unrelated articles or produce inconsistent answer length/detail, though `qwen2.5:7b` is noticeably more coherent than the original `llama3.2:3b`.
+- Fixed-size chunking can split a multi-step procedure across chunk boundaries. Retrieving more chunks (`N_RESULTS=7`) and reordering by source/chunk-index before prompting fixed this for the tested oil-change case, but other multi-step procedures could still hit the same gap if the relevant chunk doesn't make the top-N.

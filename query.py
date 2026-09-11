@@ -5,7 +5,7 @@ DB_PATH = "./chroma_db"
 COLLECTION_NAME = "vw_articles"
 OLLAMA_URL = "http://localhost:11434/api/embeddings"
 MODEL = "nomic-embed-text"
-N_RESULTS = 5
+N_RESULTS = 7
 
 
 def embed_question(text: str):
