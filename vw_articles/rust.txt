@@ -1,0 +1,82 @@
+Rust
+Corrosion
+(Commonly Known as "Rust")
+~~~
+Definitions -
+Technically, rust is any of various powdery or scaly reddish-brown or reddish-yellow hydrated ferric oxides formed on iron and iron-containing materials by low-temperature oxidation in the presence of water -- hence, by extension, any metallic film of corrosion.
+Corrosion is a state of deterioration in metals caused by oxidation or chemical action, resulting in rust.
+The key concern to the VW owner is deterioration of the metal of which the car is made.
+Some brief theory -
+Corrosion specifically refers to any process involving the deterioration or degradation of metal components.  Corrosion is the primary means by which metals deteriorate.  The best known example is the rusting of steel -- the very stuff of which your Bug is made.  Steel will corrode (rust) in many different media.  Most important for our application, steel naturally corrodes in ordinary outdoor atmosphere, especially in the presence water, road salt, sand and gravel, etc.  Steel is selected in automobile manufacture not for its corrosion resistance but for such properties as strength, ease of fabrication, and cost.  The rate of corrosion (rusting) of unprotected steel will usually be higher in the first year of atmospheric exposure than in subsequent years, but will increase significantly if the corrosion film (rust) is scraped away or if there are significant levels of pollution and moisture in the air (e.g., humid environments).
+Most metals (including steel, of course) will corrode on contact with water (including moisture in the air), as well as with all classes of inorganic chemicals (i.e., acids, bases, salts, etc.).  High water velocities (like rain on the highway) tend to sweep the corrosion film away, exposing fresh metal to the water.  Similarly, solid particles in water or wind (dirt, sand, etc.) can brush the corrosion film from the metal and expose it to continuing corrosion.  Thus a variety of natural and environmental factors can have significant effects on the corrosion rate of metals, even when no other special conditions are involved.
+Cars are painted and undercoated primarily to forestall these corrosive reactions.  As these paints and coatings deterioriate, bare steel can be exposed, making the metal immediately vulnerable to corrosion.
+So what can I do about it?
+Read John Henrys excellent article of the subject of
+Rust
+.
+Peruse our conversations below -- they may give you some ideas.
+Consider the use of a product such as
+POR-15
+or Fisholene to repair and prevent rust.  More information regarding POR-15 and Fisholene is given at the end of this article.
+If you have severe rusting of the heater channels and/or floor pan, replacement of these components will be necessary, which will involve cutting and welding.  This work is beyond our scope, but there are books available on the subject which can guide you.
+See our discussion of
+"How to Repair Rust"
+below.
+~~~
+Questions and Answers Regarding Rust
+Question - I'm sure that if I pulled the fenders off of our car I would find severe rusting.  There's a great deal of rust (not severe to the point of metal failure), but the entire underside of the car is rusty.
+Rob responded - So is my chassis.  I'll certainly be looking at painting the underside as part of the restoration.
+Dave wrote regarding a restoration in progress that he saw in Edmonton, Alberta - They had coated the entire underside with something that was thicker than paint.  I would love to do something like that to my car, but I'm a babe in the woods when it comes to things like that.  I'm sure all of the surface rust would have to be removed (sand blasted?)
+Rob responded - John Henry used a rust inhibitor called Corroless which I think is similar to your description.  I'm sure I can find a similar product here for my underside too.
+Taking the fenders off is no biggy, and if there is a little rust at the meeting point with the body, some wire brushing and rust converter would hold it until you are ready to do more.
+One wonderful product I've used inside doors, etc. is Fisholene.  You can't use it where is will be painted over, but it totally stops rust in hard to get at nooks and crannies.
+Dave wrote, after an initial application of POR-15 - I'm going to have one LAST go with the super-potent rust-resistant paint -- this time with gloves and a plastic suit! :-)  My wife found a black splotch of the stuff on my bum, and I don't think I'm going to hear the end of for a while!  :-)
+Rob responded - Big laugh -- been rolling in it with your pants down I imagine!  :-)
+Dave wrote - I made another unholy mess today.  I finished up painting the underside of the car and the back side of the brake plates.  Got a big blob on the side of my face that I tried to remove with lacquer thinner!  I hate using lacquer thinner for that purpose -- its mostly toluene, a known human carcinogen!  But -- toluene is a great carburetor cleaner (a good side effect if it were still in gasoline).
+Note:
+Dave's use of toluene to remove this rust-resistant paint from his skin was very unwise -- as a chemist he should have known better!  Please see our article on
+Automotive Chemicals and Lubricants
+for a listing of some of the others. To work with these chemicals safely, it is imperative that you understand the nature and degree of any hazards that may be associated with them. All chemicals sold in the United States have associated with them a written Material Safety Data Sheet (MSDS) that tells all about the chemical. You can obtain an MSDS for any chemical you use from the supplier, and similar information is found on the product label.  It is a wise precaution to read and understand the MSDSs and/or product labels for the automotive chemicals you will be working with BEFORE you start to work with them.
+Rob responded - Another name for toluene is Methyl Benzene if I remember right.  Shell petrol many years ago used to advertise "over a pint of methyl benzene in every gallon of Super Shell".  Because it has a very high octane rating you see -- about 110.  They DON'T advertise it any more, and I don't think they use it in fuel at all now (carcinogen reasons).
+I found a rusty area on the "new" body around the brake fluid container area -- a previous old leak of brake fluid had not been cleaned up, so it did a good paint stripping job, which rusted later.
+Now its been wire brushed, sanded, derusted (phosphoric acid) and painted.  A bit  awkward -- hand wire brush, then sand paper to smooth the rough paint edges (where it had peeled), and an old paint brush to get the rust converter into all the crannies.  The can of spray paint was easy enough, managed to get reasonable coverage in the crannies.
+Luckily the rust had not penetrated far, just pitted a large area of paint which therefore needed cutting back and cleaning up.  As little fluid has also leaked down the black hole and there is a little rust down there I can't get to -- I'll probably use a thin paint brush on a stick to coat it in Fisholene -- wonderful stuff for stopping rust cold.
+Dave wrote - Interestingly, our car has very little rust -- thank goodness for small favours!
+Rob responded - Yes -- that's a good point for your car -- many US Beetles seem to suffer rust.
+Dave wrote - We found a lot of rust under the back seat, and two small holes under the battery (thus the new battery tray), but everywhere else it was pretty much just surface rust -- nothing serious.
+Question - Another question I had new floor pans put in and they seem to be leaking from the back under the seat I am unsure where it is coming from.  I have tried to spray a rubber sealant in there and it just doesn't work..  What can I use?
+Rob responded  Have you looked under the car around the joints in the pans?  Using rubber sealant on the underside along the seams might help.  This shouldn't happen if the new pans were welded in, but if they were rivetted or screwed in there will be gaps along the seam.
+You might also look along under the back seat where the floor pan meets the body, up and over the tunnel. Depending on how the pans were replaced the black neoprene seal between body and pan may have been damaged or the joiner bolts might even be loose.
+Question - Now about the floor pan situation where do I exactly need to be looking and spraying?  I want to become very familiar with this bug.  I have never owned one until a few years ago.  So I have taken it to a shop in Nashville and they have done all the work.  Well they did the valve adjustments, adjustments of brakes, tune-ups, installing points.  I am just so scared that I am going to screw things up if I try to do something on my own.
+Rob responded - With the floor pan -- have a look under the car in the front and rear footwell areas.  The joints in new floor pan should be obvious -- a seam around the edge which will extend from the centre tunnel to near the line of bolts on the outside of the car which hold the body to the floor pan.  The "normal" look of this area is a seamless floorpan from the sides of the car to the centre tunnel, which has a line of spot welds on either side of the centre tunnel holding the centre cover strip over the bottom of the tunnel.  You should be able to tell by looking if the new pans are welded or pop-riveted etc.  The new welds or pop-rivets will be quite obvious. If seam welded right the way round the new pans there should not be any leaks - but if it's riveted or screwed there could be leaks along the join and you could try using sealant there.
+Rob reported - I've have a couple of good days on the Beetle!!!  The floor has been stripped and de-rusted both inside and out, and I'm currently painting on some bitumen based paint.  There was some rust under the battery area, and a little on the other side too, with 2 pin-holes right through, but fortunately nothing too bad.  A wire brush on the drill did the trick, then rust converter, and now the bitumen based paint, which has tiny fibre glass threads in it to make it thicker and hang together better.  Brushes on easily enough, and dries hard in about two days.  I originally got it so I wouldn't have to replace all the gutters on the house which were starting to rust on the inside (some are difficult to replace) and thought afterwards it would make a great waterproofing paint for the beetle.  It should also provide some sound deadening too, which will be a bonus if it does.  I'm delighted to have had the time to do a "real" job on the car, instead of just scraps of jobs.
+Question - Under the vents by the rear window there is a major like two-inch deep rust spot about the size of a base ball on both sides.  What would you think the cure to be for my little Bug's body cancer?
+Rob responded - That's a common problem with Bugs that have the eyebrow vents ('71+) - moisture gets trapped there and can't get out.  The only real solution is to have the area cut out and new metal inserted.
+You MIGHT reduce the amount of rust growth by pulling out the small sponges which fit up into that area both sides of the engine bay (sort of behind the tar boards - right up in the corners), but they act as sound deadening too, so it might get noisey inside the car with those gone.  With these gone moisture would drain down into the engine bay, and the engine warmth might reduce the build-up in there.
+No simple solution to that one unfortunately.  Keeping the car under a carport or in a garage can help - keeps rain off the eyebrow vents.
+Question - I have just bought a 1967 convertible beetle and I just wanted some advice on rust.  The bodywork on the car overall is quite good and was redone a couple of years ago, but around the door hinges and underneath the door there is quite a bit of rust.
+I don't want to get ripped-off if I take it to a restoration specialist, but from your experience (even though you cannot see my car) can I get away with just fixed these patches without having to restore the whole thing?
+Rob responded - The bottom door hinge area is a difficult area for rust, partly because the hinges are inset into the inner panel, making access for repairs difficult if the inner panel (which holds the hinges) has rusted.
+"Under the door" tells me the heater channels (which run through the door sill) may be a problem too - if that's the case, there IS a fix and parts are available, but it's not easy, since it consists of a metal tube (the heater channel) inside the shaped bodywork, and one or both can be affected.
+~~~
+How to Repair Rust
+The Traditional Method of Rust Repair
+and the Ultimate Alternative
+The Hard Way -
+The traditional method of rust repair is to cut out the affected metal and weld in fresh new metal. Not only does this require expensive tools (cutting wheel or torch, welder, etc.) but it also requires significant experience and time.
+There is an alternative... If the area you are repairing is in a less visible area (floor, trunk, firewall, etc) and is smaller than 6" in diameter there is an easier way.
+The Easy Way -
+Using a product system called
+POR-15
+you can not only repair significant amounts of rust damage very easily, you can use the same products to prevent rust from ever being a problem in the future.
+POR-15 sells a paint which can be painted directly over surface rust (with just a little prep work). For small holes just put tape over the hole and paint the other side. For larger holes they sell a fibreglass mesh which when painted with the special paint hardens to a metal like consistency.
+As noted above, Rob also highly recommends a product called Fisholene, available in Australia and New Zealand.  (I haven't seen it in the U.S.)  Following is some information on Fisholene that we found on the Internet -
+Fisholene is a brilliant product for areas on your vehicle where it can't get washed off.  For example, the insides of doors, rear hatches, pillars, etc.  The only disadvantages with Fisholene are its cost (around $20 per litre), the fact that it does wash off, and its smell.
+Rob provided more information regarding Fisholene -
+Fisholene, a rust preventative, is fish oil with most of the smell removed.  I got it from an auto parts store.  In Australia it comes in spray cans or in brush-on cans. It soaks right into remaining rust and then slowly dries to a very hard layer.  The bondo goes over that and then paint of course.  My first ever car needed about a gallon of the stuff, and no smell removal in those days either, so it smelled like a prawn boat in the hot sun for weeks until it dried out.
+It penetrates rust like crazy, and slowly dries to a very hard layer.  Fisholene is the best rust preventer there is in my opinion.  It saves a lot of work in getting rid of EVERY scrap of rust. But it STILL smells  -- just not so long!
+Other companies (Eastwood, JC Whitney) sell other rust preventative/repair products but in my experience none of them are beneficial, in fact some do more harm than good.
+* 
+                    * * * *
+Design by
+Erin

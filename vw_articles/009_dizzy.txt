@@ -1,0 +1,80 @@
+009 Distributor
+Timing the 009 Distributor
+Please see
+The 009 Centrifugal-Advance Distributor --
+History and Notes
+for more detailed information
+about the 009 distributor.
+~~~
+Sub-topics included in this article -
+Introduction
+Timing the 009 Distributor
+The Notorious 009 "Flat Spot"
+Questions and Answers
+~~~
+Introduction
+The 009 distributor is a centrifugal-advance distributor.  It has no vacuum advance component at all.  It does not have the "load sensing" ability of the vacuum distributors that came as VW original equipment.  But the 009 distributor is very popular because it is inexpensive (and unfortunately also "cheap," as in reduced quality).  We personally prefer the vacuum distributors (Dave uses a Single-Vacuum Dual Advance distributor with which he is very pleased.  For discussion of the distributor choices, please see John Connolly's
+(Aircooled.Net)
+excellent article on
+Choosing the Right Distributor
+.  But since so many Bugs on the road today are equipped with the 009 distributor, we must address the methods by which it is properly tuned.
+~~~
+Timing the 009 Distributor
+Note:
+The 009 distributors usually have the timing 90 degrees out compared to vacuum distributors, so your spark plug wires might be in a different position around the distributor cap.  But the main thing is to set it so it has all the wires going to the right cylinders.
+First of all, make sure that the vacuum points on the carburetor are properly plugged or you'll be sucking air into the carburetor, making it impossible to tune. There is always one vacuum point high on the left side of  the carburettor, near the throttle arm. Some VW carburettors have one or more vacuum points low on the rear of the carb too (rear is rear of car).
+Bring the timing mark up to the split in the crankcase, then check to make sure both valves on the #1 cylinder (right front) are shut so you know it's on the compression/firing stroke.  (The crankshaft turns around TWICE for each revolution of the cam shaft and distributor, so the TDC mark comes up twice - once for #1, and again for #3.  You must make sure you have the #1 piston at TDC (No1 valves both shut/loose), not #3.   Now take the top off the distributor and look at the rotor arm - it should be pointing at the notch in the distributor rim.  This is position of the #1 sparkplug wire on the distributor cap, then going clockwise around the cap the wiring arrangement is 1-4-3-2.
+That check will make sure it's set to fire correctly on #1 and the other cylinders, and so now you can set the 009 at 30-32 degrees at 3000+rpm.  If you want to, you can later check what the idle setting is for THAT distributor (usually somewhere between 5 and 10 degrees BTDC) and set it there (static) in future, rather than disturbing the neighbours with 3000rpm on a Sunday morning.  If you ever change to a different 009 you have to do 3000+rpm method anew, because each 009 can be different (cheap
+build).
+That's the short story.  Here's how one person does it -
+I start by setting the timing to about 7 degrees BTDC statically just to get the engine running (see our
+Static Timing Procedure)
+. Then attach the strobe timing light (see our
+Strobe Timing Procedure
+and rev the engine up until the distributor stops advancing. This should give a total maximum advance of about 28-32 degrees. Subtract the 7 degrees you added statically and you now know for sure what YOUR 009 distributor is doing.
+Depending on where the quality of your 009 distributor, it may have a different amount of advance it can provide.  The total advance for the example above is 21-25 degrees. The amount of total advance varies for each individual engine, what you intend to do with it, and the quality of the fuel your are using.
+~~~
+Rob's 009 Timing Procedure
+First, set the maximum advance with a timing light -- engine speed at least 3000 rpm (see the
+Strobe Timing Procedure
+).  Try 32 degrees at 3000 rpm first, and let the idle timing fall where it may.
+Note:
+Maximum advance is much more important than idle advance. For the aircooled VW engine and 009 distributor, the maximum advance MUST be between 28 and 32 degrees at 3000+ rpm.  The 009 distributor is usually set at 3000+ rpm because it produces its maximum advance at about 2600rpm. Setting the maximum advance timing at 3000+ rpm ensures that it's "all in."  If the engine pings/detonates at 32 degrees, then use 30 degrees or even 28.  Never less than 28 degrees or the engine will be grossly under-advanced at high rpms.  If it pings/detonates at 28 degrees, use a higher octane fuel and try using 30 degrees again.
+If the maximum advance timing is set at less than 28 degrees, it will be under-advanced at high rpm and result in overheating.  Overheating certainly puts an extra load on the heads and there components, especially the already very hot exhaust valves.
+Once the maximum advance has been set, you can turn the engine off and determine the STATIC timing (see the
+Static Timing Procedure
+) and use THAT setting for statically timing THAT distributor in the future if you wish.  The static timing using this method is commonly between about 5 and 10 degrees BTDC, but I have seen reports of up to 16 degrees BTDC, since these distributors DO vary in the total advance they can make.
+Run the vehicle, and try some high speed and lower speed high acceleration runs. If it runs fine, you've got it right. If it pings a bit, or has a flat spot on acceleration, try backing off the maximum advance to say 28 degrees, and try again. and as I said previously. If it pings at 28 dgrees, DON'T go less than that but rather, use a higher octane fuel.
+Try to keep the max advance in the 30-32 degree range.  This will slightly reduce any stubmling on acceleration (read on).
+So the bottom line for 009 distributor timing is that maximum advance timing is much more important than idle timing.  The spec 7.5 degrees BTDC MIGHT be right for some 009 distributors, but not necessarily for all.  We have heard of 009 people with a maximum advance of 26 degrees; that would indicate that THAT 009 distributor should be set at around 10-12 degrees BTDC at idle so the maximum advance will be in the 28-32 degree range.
+It's important to note that the 009 is set this way for ALL aircooled VW engines - 1200, 1300, 1500, 1600 and laerger engines.  This is different to vacuum distirbutor practice which uses different idle settings for different engines.
+~~~
+The Notorious 009 "Flat Spot"
+The 009 distributor sometimes causes an acceleration "flat spot"
+(hesitation, stumbling, the Dreaded Bog!)
+, as it does not have the vacuum advance adjustment of the original distributor.  These can usually be overcome by ensuring that the accelerator pump is adjusted for it's maximum stroke, and installing a richer main jet in the carburetor (one size up should do it).
+This last point is particularly relevant if you live in an area which has a lot of MTBE or similar additives in the fuel (California, etc.). These additives cause carbureted engines to run a little lean, and VW engines prefer to run a touch rich.
+~~~
+Some Questions and Answers
+Question -
+My timing is set to 5 degrees advanced at idle; my points and valves are correct.  Also I have a 009 distributor in case that matters.
+Rob responded -
+Yes, having the 009 distributor matters big time.  You HAVE to set this distributor using a stroboscopic timing light at 28-32 degrees at 3000+rpm.  The 009 distributors vary a lot from one to another (cheap build), and the maximum advance is more important than the idle advance.  So you set the maximum advance and then let the idle timing fall where it may.  Once the maximum advance is correctly set, you can then measure the idle advance and use THAT setting for statically timing THAT 009 distributor in the future.
+The other thing is that you usually need to set the carburetor to run a little rich when using the 009 distributor to reduce any acceleratio stumbles, so checking the main jet size is important.  Increasing the size of the main jet by one size (for example from X125 to 127.5, or from X127.5 to X130) will improve overall performance when using the 009 distributor.  Adjusting the accelerator pump to provide maximum squirt will provide better performance as well.
+Question -
+I just finished building a 2275 cc engine.  When it came to setting the timing I set it to 8 degrees BTDC.  Do I use a timing light and set total advance between 26 and 32 degrees at 2500rpm?  When I checked it was only about 20 degrees advanced.  Can you set the 009 distributor with the test light method?
+Rob responded -
+20 degrees total advance is WAAYYY too little.  It's VERY important to set the 009 distributor to between 28 and 32 degrees at 3000+ rpm, and let the idle timing fall where it may.
+The reasons are:
+009 distributors vary in how much total advance they make -- your's would appear to be 12 degrees (20 minus 8) which is less than most. Since they do vary, and since maximum advance is more important than idle advance, set the engine at 28-32 degrees at 3000+ rpm.  Once you've done that, you can measure the idle (static) advance and use THAT setting for timing THAT 009 distributor in the future. This would normally be from about 5 degrees BTDC to about 10 degrees BTDC for most 009 distributors, but not with yours, apparently!  It's likely to be about 16 BTDC degrees at idle given the figures you've quoted.
+Note:
+The reason we use 3000+ rpm for the 009 distributors is that they provide maximum advance from about 2600rpm, and you want to makes sure it's all there before setting it.
+The 009 distributor only senses rpm, not engine load (see our article
+Timing Vacuum Distributore
+. And because it's a "one size fits all" distributor, it has to be set for "worst case" which means wide open throttle at relatively low rpm, and THAT's 28-32 degrees.  Any more than that and the engine will detonate (ping) when you floor the throttle. Any less than that and it's under advanced at higher rpm and will run hot, and you don't want THAT on your high capacity engine.
+Use as much of the 28-32 degrees advance as the engine can take without detonating (this gets it a fraction closer to the 40 degrees the vacuum units make and THAT improves mileage a fraction). If you can't stop it detonating at 28 degrees, then you need a higher octane fuel or (last resort) lower the compression ratio of the engine a little.
+Show this to your mechanic and see what he says.  Hopefully he'll agree with it and increase the maximum advance to at LEAST 28 degrees at 3000+ rpm (30 or 32 degrees is better if the engine can take it without detonating), and he might then save himself the job of replacing a burned up (but untouched by owner) engine.
+* 
+                    * * * *
+Design by
+Erin

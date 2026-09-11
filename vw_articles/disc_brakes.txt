@@ -1,0 +1,69 @@
+Disc Brakes
+Disc Brakes
+~~~
+The following topics related to disc brakes are discussed in this article -
+Discussion
+Drum-to-Disc Conversion
+Disc Brake Pads
+Squeeky Disc Brakes
+~~~
+Discussion
+Rob wrote - I could never understand why VW gave the USA the biggest engine available in any one year, but left the cars with drum brakes.  In other countries, the 1500s annd 1600s from 1968 onwards had front disc brakes - a big improvement over the drum-only setup.  In other countries, only the smaller engined options - the 1200 and 1300s (not offered as options in the USA) stayed with drum brakes. The USA got the IRS suspenion in all cars earlier too. In other countries, only the semi-autos had the IRS suspension from 68 to 197 inclusive, where the USA got the IRS in ALL cars from 69 onwards. I'm guess it was a cost thing - softer suspension might have been more attractive in the USA than better brakes, or maybe VW took some time to tool up for each major change and had to choose which markets got what features.
+The disc brake pads on my 1970 bug last a LONG time -- just three replacement sets of pads in 248,000 miles so far.  And I have NEVER had to replace any of the seals/calipers etc. in my disc brakes.  The discs are now getting a bit too shiny -- I'll get them machined when I do the car up.  That will be the first time for machining too.
+Another thing you CAN do to improve brakes is to fit Type 3 rear drums.  These have wider shoes, but apparently they fit straight on.  I haven't bothered because mine seem to be okay (they need machining too now though), but I believe it can make a big difference, and the performance boys usually go this route.
+~~~
+Drum-to-Disc Conversion
+See our
+Disk Brake Installation
+procedure.
+The conversion from drum brakes to disc brakes is easy enough with a conversion kit.  There are several types of VW disc sets though.  Mine are identical to the Type 3 units from about 1966 -- they have single retaining pins on the pads.  A later version has two pins.  Doesn't matter which you have, they both work VERY well.  There is an issue with the master cylinder though - you can't use a drum-only master cylinder in a front disc equipped car. There is a specific one for the disc/drums, and more recently a universal version has become available, so when changing to  disc brakes, you need to make sure you have either the older disc/drum master cylinder, or the newer universal version.
+There is no fade with disc brakes -- even when pulling a big load (I've done THAT a few times).  You'd like the disk brakes Dave -- they feel very 'solid'.  They give the VW very confident braking.
+Dave wrote - Ive been able to improve my standard braking system significantly, but Im still not satisfied with them.  I have quite a complete set of instructions, with pictures, on how to install disk brakes on the front of a Super Beetle -- it doesnt look all that hard.  I looked in the Rocky Mountain Motorworks catalog (now
+Mid-America Motorworks
+) for disc brake conversion kits -- $US300 for both Standard Bugs and Supers. The SB conversion kit from
+TopLine Parts
+is also $US300.  (Dave ultimately purchased his disk brake kit from
+Aircooled.Net
+for $US280, excluding the braided stainless steel brake lines.  With the stainless steel brake lines, the kit is $320.)
+Advice from John Connolly (
+Aircooled.Net
+) regarding conversion to disc brakes -
+Convert to front disc brakes: Plan on three hours. Super Beetle and 4-lug Standard Beetles alike will really benefit from this upgrade (especially if you are planning on increasing your driving speed with engine and suspension modifications). There are two distinct advantages to disc brakes:
+They are self adjusting (VW drum brakes need to be manually adjusted).
+In wet weather, you will have great stopping power because they are "self cleaning" and shed themselves of excess water and dirt.  Drum brakes do not.
+No master cylinder change is required (if your car has the newer universal master cyinder).  If you are installing disc brakes on a single-circuit system, try it first before installing a dual-circuit master cylinder. The dual-circuit system IS better/safer in case of a system leak on the pressure side.  You can always switch to a dual-circuit master cylinder later, but it's possible you won't need to.
+Consider adding stainless brake hoses while you are at it; these swell less for a firmer pedal and better feel.  4-lug car owners should also consider changing rear brakes to the Type 3 units; scrounge the junkyard and get everything from the backing plate out. They bolt right on and are about twice as effective as your stock units, and retain your stock emergency brake.
+Dave wondered how difficult it would be to take the disc brakes from one car and install them on another with drum brakes.
+Rob responded - I wandered into a wreckers yesterday and found a complete front disc brake assembly which would fit your car.  They are complete assemblies still on a VW, there would not be any missing parts.  There is not much to them really -- the spindle, the disc/rotor, and the caliper.  The brake lines are the same but new one should be fitted, and your master cylinder should work OK since the newer types are "universal" (the first disc master cylinders were the same size but had a different pressure relief system to the drums).
+Note:
+It is probably not possible to remove the disc brakes from a car in the junk yard and install them directly on to another car with drum brakes.  The conversion kit includes a special bracket that bolts to the spindle assembly using the threaded holes that had been used to attach the backing plate.  The disc brake calipers bolt to this bracket.
+~~~
+Disc Brake Pads
+Rob reported the change out of the front disc pads on his Bug - I changed the front disc pads on the weekend.  You remember me saying it was pulling to the left a little under brakes.  When I pulled them I realised that worn pads were the probable cause -- the inner pads were wafer thin.  I didn't have any new pads available and tried a couple of local auto shops on the off chance... (my "one pin" pads are Bendix DB23, which are also used by some early Alfas) but no luck, so I borrowed the 1/2 worn pads from my other Bug (currently not drivable). Big difference -- nice smooth brakes now. I should really get the discs machined too - they are a little too mirror like and not as flat as they should be. I'd love to do that myself -- I have access to an excellent lathe -- we'll see.
+Squeeky Disc Brakes
+Someone wrote - I have installed new disk brakes on the front of my '64 bug, The left side squeaks a lot. The squeek stops when I put on the brakes, or even just rest my foot on the peddle when moving. The right side is fine.  What could the problem be?
+Rob responded - There are a couple of possibilities you can check out.
+The wavy spring under the retaining pin(s).  If this is not tight
+against the pin or pins (I presume you have the later 2-pin style of
+disc brake assembly) it can sometimes cause squeaking because the pads
+are moving a fraction when they shouldn't.  If it is loose you can try
+bending it a little so it's tight against the pins.
+The wheel bearings need adjusting - if they are even a tiny bit
+loose they allow the whole rotor to move and touch the pads.  The
+clearance between pads and disc with the brake off is only a few
+thousandths of an inch so it doesn't take much movement for the rotor
+to touch a pad. It's very easy to adjust the bearings - with the wheel
+off the ground,  loosen the locking screw on the main nut, tighten the
+nut until the rotor starts to bind, then, without moving the rotor at
+all, loosen the nut and finger tighten it back up so all the slack is
+taken up but it's not binding the bearings, then tighten the locking
+screw.
+There is also an anti-squeak copper based grease you can put between
+the pad and the piston which might help, but I'm not in favour of using
+this stuff unless you really have to - I just don't like the idea of
+ANY lubricant anywhere near the pads and rotors.  If you do try this
+stuff use only the thinnest of smeers.
+* 
+                    * * * *
+Design by
+Erin

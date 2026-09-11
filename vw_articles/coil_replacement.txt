@@ -1,0 +1,35 @@
+Coil Replacement
+Coil Replacement
+Note:
+The following coil replacement procedure is provided in accordance with Product Instructions courtesy of
+Aircooled.Net
+for their OEM (Original Equipment Manufacture) coils.  Additional information regarding coil replacement has also been provided by
+"Speedy Jim"
+.
+~~~
+If you are running points, or a points replacement device (Compufire or Pertronix), you MUST make sure your ignition coil has the ballast resistor. Stock Bosch blue coils have the 3 ohm ballast resistor INSIDE the coil. If your coil or primary ignition winding doesn't have this ballast, the distributor will burn up and leave you walking. There are five different "Bosch Blue Coils", and only one of them has the ballast in it.
+The high-performance electronic coil is designed specifically for use with electronic ignition (e.g., Compufire, Pertronix) which deliver brief high current pulses.  If you are running standard points ignition, stick with the OEM coil.
+Another of Dave's "School of Hard Knocks" experiences.  He ignorently tried using an electronic coil with standard ignition (i.e, points).   After installing it (without electronic ignition) his car wouldn't run at all!  It would barely start, then lurch and lurch, responding not at all to the throttle, then die.  Needless to say, Dave went back to the OEM coil.
+~~~
+Following is the coil replacement procedure -
+Make sure the ignition key is switched off.
+Unplug the large center wire from the coil (the one that goes to the distributor cap).
+Note:
+There are two terminals on the coil, on  either side, with several smaller wires attached.  One of these terminals, usually the furthest one to the rear, is the negative (-) terminal, designated #1.  A green wire from the distributor is attached to it.  The other termimal is the positive (+) one, designated #15. The incoming power wire from the ignition is attached to this terminal, as well as wires to several other components with need power, like the idle cutoff valve, the automatic choke, and the backup lights.  The ONLY reason that these latter which are attached to the coil is that terminal is simply a convenient attachment point to the wire proving power from the ignition.  Note that all of these power wires are BLACK.  In the VW electrical world, black insulation means power.
+To make sure you don't get the wires mixed up, with masking tape tape together one side of the coil's wires at a time. Note on a piece of paper if they came from the #1 or the #15 side of the coil.
+Note:
+If you are unable to determine which side of the coil is which, if you are running conventional points, the green wire leading from the side of the distributor will go to the negative side of the coil. If you are running a points replacement unit (e.g., electronic ignition), the red wire from the side of the coil, will go to the positive side of the coil, and the black will go to the negative.
+With both sides of the coil unwired and properly
+ labeled, loosen the two screws that secure the coil mounting bracket to the fan shroud, and remove the coil.
+The coil is held in the mounting bracket by a single
+ bolt tightening the bracket to clamp the coil in place.  Loosen this bolt sufficiently, and remove the old  coil from the mounting bracket.
+Install the new coil the same way the old coil was
+ removed, making sure that the negative and positive side of the coil face the same way as the old coil.
+Install the coil with it's mounting bracket to the fan
+ shroud, and plug the wires back into the coil, double  checking to make sure the negative and positive wires go to their respective terminals on the coil.
+Reconnect the center coil wire from the distributor
+ cap, and you're all done.
+Take the car on a test drive to make sure it operates properly.  An indicated above, if you have installed an electronic coil in a points ignition system, the engine may start but will not run at all.  Start over with an OEM coil.
+* 
+                * * * * *
+Design by Erin

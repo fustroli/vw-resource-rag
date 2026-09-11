@@ -1,0 +1,27 @@
+Fuel
+Fuel
+~~~
+Following are the sub-topics discussed herein under the general heading of "Fuel" (all links except the Introduction).
+Introduction
+Octane Rating and VW Engines
+Leaded vs Unleaded
+Fuel Additives
+Water in the Gas
+Fuel Smell in the Cabin
+Fuel Economy
+Fuel Safety
+~~~
+Introduction -
+Gasoline
+(petrol) is the most widely-used automotive fuel.  Gasoline is a mixture of mostly saturated (fully hydrogenated) hydrocarbons of between four and twelve carbon atoms; ordinary commercial grades also contain paraffins, olefins, naphthenes, and aromatics in substantial concentration.  Gasoline is obtained by fractional distillation of hydrocarbons.
+From the mid-1920's until the mid-1980's, gasoline used as fuel in motor vehicles contained an additive, Tetra Ethyl Lead (TEL) (up to .075 grams per gallon or 0.2 gm per litre at the time it was phased out, but often much higher before that) - to improve fuel performance by preventing detonation in the cylinders of the engine.  Detonation results in a "hammer blow" to the pistons instead of a nice hard push, and can destroy an engine. (See our article on
+Octane Rating and VW Engines
+for a more complete discussion of knocking and octane rating.)
+In 1984 the allowable level of TEL utilized in gasoline in the U.S. was reduced to 0.1 grams per gallon. To compensate, the concentrations of benzene and other aromatic hydrocarbons (e.g., toluene and xylene) in gasoline was increased to raise the octane rating.  However, benzene is a
+carcinogen
+, and the content of benzene and other aromatics must be considered when choosing a manufacturing process for unleaded gasoline.  In the United States, the benzene content of gasoline is limited to 1%; in the European Community and Australia, it is limited to 5%.
+Other octane boosting chemicals have been tried since then.  MBTE (Methyl Tertiary Butyl Ether) was tried for a time, but it was found to be a really bad contaminant of ground water if it leaked from underground tanks, and people reported that the gasoline smelled really bad, like stale turpentine. It was eventually dropped. TAME, ETBE and other oxygenates were tried with limited success, and evenutally legislators settled on adding ethanol (drinking alcohol) to gasoline. Adding alcohol to improve octane numbers was known about from 1921! So many brands, octane numbers and the like now have added ethanol - in some countries like the USA almost all gasoline has ethanol added - in other countries just one or two varieties have ethanol added, and the rest are striaight hydrocarbons.  Refiners dont HAVE to use ethanol to get higher octane numbers, but legislation is some countries encourages the use of ethanol.
+* 
+                    * * * *
+Design by
+Erin

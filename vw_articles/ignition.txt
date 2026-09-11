@@ -1,0 +1,75 @@
+Ignition
+The VW Ignition System
+See also our list of
+Ignition-Related Procedures
+.
+~~~
+The following sub-topics are included in this article -
+Introduction
+Types of Ignition Systems
+The Distributor
+Ignition Wires and Spark Plugs
+Capacitance Discharge Ignition (CDI)
+Electronic Ignition
+Ignition Switch Replacement
+Ignition Questions and Answers
+~~~
+Introduction
+To paraphrase from John Muir* -
+We have now tracked the fuel/air mixture from the carburetor, through the intake manifold, and into the cylinders by way of the intake valve.  In the cylinders the fuel/air mixture is ignited by the spark plug, and the action within the engine begins.  The ignition system is designed to get spark to the cylinders to burn the fuel to make the power to turn the engine, the transmission, and the differential and, finally, the wheels.
+Look to a little left of the center of the engine and find a brown or black round plastic thing with five heavy wires sticking out of it.  That's the
+Distributor Cap
+.
+Rob's note:
+By the way,
+"Front" means the "Front of the car"
+. In the United States the "Driver's side" is the left side.  In England, Australia, India etc. the "Driver's side" is the right side, so you'll see we usually say Left and Right to avoid any confusion. Even the excellent Bentley Manuals make the mistake of using "Driver's and Passenger's sides" rather than left and right, even though they know their manuals are sold all over the world. One quarter of the world's population drives on the left side of the road!
+Under the distributor cap is the
+Distributor
+and inside the distributor are the
+Rotor
+, the
+Points
+and sometimes the
+Condenser
+, but usually the condenser, which is a small cylinder with a single wire, is attached to the outside of the distributor.  The function of the condenser is to smooth and control the low voltage spark and keep the points from burning and pitting too rapidly.
+There may be a bright metal canister, about three inches in diameter, on the side of the distributor with one or two metal or rubber hoses leading out of it; this is the
+Vacuum Advance
+.  If you don't have this canister and it's vacuum lines, your distributor is a centrifugal advance type.
+When the ignition key is turned on, electrical current goes from the battery to the
+Ignition Coil
+, usually mounted on
+Fan Housing
+.  Inside the coil are thousands of turns of wire, which increases the voltage to something like eighteen thousand volts, which is now available at the center large outlet from the coil and connects to the center large connection at the distributor cap.  It takes a lot of voltage to make a spark jump across the spark plug gap, and this is the way we get it.
+The coil also has two side connections where smaller wires are either bolted or push-on connected.  On one side is a thin wire that goes from the coil to the distributor (usually green); on the other side are a black wire that brings juice from the ignition switch, another black wire that goes to the automatic choke, a wire to the carburetor cut-off jet, and a wire to the back-up lights. These three can be one wire, or three separate wires back to the + side of the coil...so they all get power with the oigntion switch on.
+The function of the
+Distributor
+is to time the spark impulses to the spark plugs so that they fire at the proper time so as to burn the compressed fuel/air mixture, drive the pistons, and provide power to the car.  The
+Distributor Shaft
+is driven round and round by a gear on the crankshaft.  As it goes round and round inside the distributor it opens and closes a set of
+Ignition Points
+.
+The distributor shaft inside the distributor is almost square, and at each point of the square it opens the ignition points.  In between the high places the points close.  When the points are closed, the twelve volt current (or six volt in older VWs) from the key is flowing through the coil, building up a magnetic field. When the points open, that magnetic field collapses, creating a huge voltage spike in the thousands of wire turns in the high voltage circuit of the coil. This high voltage spike flows to the centre pin of the
+Distributor Cap
+and one-at-a-time through the heavy wires to the spark plugs, providing a hot spark to burn the compressed fuel/air mixture in the cylinders.
+So when the points open there are two sparks that jump in the distributor cap -- one 12-volt (or 6-volt) spark in the bottom between the points, and one high-voltage spark in the distributor cap.
+Back to the heavy wires coming out of the distributor cap.  These are the
+Spark Plug wires
+which carry high voltage current from the distributor to the
+Spark Plugs
+, which are down on either side of the engine.  Two go to the right to cylinders #1 (front) and #2 (rear), and the other two go to the left to cylinders #3 (front) and #4 (rear).  On the spark plug end of each heavy wire is a plastic screw-on
+Spark Plug Connector
+which grips the top of the spark plug.
+Note:
+You must never pull on the spark plug wire -- always pull on the plastic connector to get the connector off of the spark plug -- they just push on.
+Around the plastic spark plug connector is a
+Rubber Seal
+which keeps air from spilling out of the shrouding (all that shaped tinware around the engine).  These seals must always be in good condition and pushed into place so as to seal the air in; otherwise cooling air from the fan will leak out and the engine will get hot.  They do harden and crack with age, so if they look bad, make a note to get new ones and put them on.
+To summarize:  The high-voltage current passes from the center of the coil through the center of the distributor cap to the rotor.  From there the current jumps to the post in the cap and through the proper wire to the proper spark plug to ignite the compressed fuel/air mixture in the proper cylinder at just the right time -- and this happens around 2,500 times a minute when the engine is at it's maximum revs!
+*John Muir - "How to Keep Your Volkswagen Alive -- A Manual of Step-by-Step Procedures
+for the Compleat Idiot," 1976 Edition, pages 14 and 37.
+(with minor adjustments of the wording from Rob to improve the way it reads)
+* 
+                    * * * *
+Design by
+Erin

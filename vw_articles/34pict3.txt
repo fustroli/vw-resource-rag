@@ -1,0 +1,356 @@
+SOLEX 34 PICT/3 Carburetor Adjustment Procedures
+Basic
+								Tuneup, and Adjustment of the Solex 34 PICT/3 Carburetor
+This
+								method will also work for the 30PICT/3, 30PICT/4, 31PICT/4,
+								31PICT/3 and H30/31 carburetors with the
+two adjusting
+								screws in the left side.
+~~~
+Note:
+Before we begin to adjust the carburetor, the valves, points,
+								and timing should be set. This is important, and they should
+								be done in the right order, as you start with a cold engine,
+								and end with it warm.
+These
+								topics are addressed in the following in this document (see
+								links below; for more detail, refer to our
+Tune-Up
+								Procedures
+).
+Setting
+									the Valves
+Setting
+									the Points
+Setting
+									the Timing
+Checking
+									the Choke
+Adjusting
+									the Carburetor
+~~~
+Setting
+								the Valves
+Valve
+								adjustment is always done with the engine stone cold.
+0.004
+								inches (0.1 mm) is the factory setting for pre-71 engines. That includes 
+								engines with a number starting B..., D..., E..., F..., H..., L..., or a plain
+								number. Some folks find that this is too tight after the engine warms
+								and use 0.006 inches (0.15 mm). (I've always used the factory setting on my H...
+								engine without any problems.)
+0.006
+								inches (.15 mm) is used on 71 and up engines. That's engines
+								with a number starting AB..., AC..., AD..., AE..., AF...,
+								AH..., AJ..., AK..., AR..., AS....
+The
+								aim of the tappet (valve) setting is to provide virtually NO
+								gap when the engine is at operating temperature.
+~~~
+Setting
+								the Points
+The
+								points are adjusted to .016 inches (0.4 mm). Replace them if
+								the contacts are pitted or the cam rubbing block is badly
+								worn. Add a touch of grease to the cam lobs at the same time.
+								Also pull off the rotor arm and take a look in the centre of
+								the spindle it rides on. If your distributor has a felt pad
+								in there, put a few drops of oil (engine oil is fine) on it
+								to lubricate the distributor drive - don't overdo it though -
+								a few drops only. Some distributors don't have this felt pad
+								- in that case skip this procedure.
+~~~
+Setting
+								the Timing
+Please
+								note that the SIZE of the engine does not matter much when
+								setting the timing, it's the DISTRIBUTOR design which
+								determines the settings. The compression ratio also plays a
+								part – the early low compression engines need a little
+								more advance, and the later higher compression engines
+								usually have a little less advance.
+The
+								usual timing settings are:
+1200
+									engines with single vacuum distributor - 10BTDC. This is set
+									static - engine off (or at idle with a timing light and the
+									vacuum line disconnected).
+1300/1500/1600
+									engines with single vacuum distributor - 7.5BTDC. This is
+									set static - engine off (or at idle with a timing light and
+									the vacuum line disconnected). In the USA, 68-70 cars with
+									the H (1500) and B (1600) series engines and a single vacuum
+									distributor used zero advance – TDC - as an idle
+									setting, as an early attempt at emissions reduction. This
+									also reduced the maximum advance at higher revs. Many folks
+									have found that the 7.5BTDC setting as used outside the USA
+									works fine (single vacuum distributor).
+Engines
+									using the double vacuum distributor (first introduced in
+									1971) - 5ATDC, as a further atempt to reduce emissions at idle. 
+									This must be set using a timing light, with 
+									the engine idling and the vacuum lines connected so the
+									retard line can pull in the 5ADTC (After TDC). These
+									distributors were not used much outside the USA.  In other
+									countries, the 1971 engine had a single vacuum double
+									advance distributor, which was then fitted to USA cars from
+									1974 onwards.
+Note:
+ANY, repeat ANY
+VW aircooled engine using the Bosch
+								009 (or other centrifugal distributor) must be set at the
+								maximum advance with the engine at 3000+rpm, and let the idle
+								advance fall where it may. The reason for this is that the
+								009s vary in the total amount of advance they make, and the
+								maximum advance is more important than idle advance. The
+								normal setting is a max advance of 28-32 BTDC. Try the 32
+								degree setting first.  If the engine detonates/pings at this
+								setting, reduce it to 30 degrees and try again. If it still
+								detonates/pings at 28 degrees, use a higher octane fuel.  Don't use less
+								than 28 degrees. The idle advance will then usually fall in
+								at about 5-10BTDC. Please note that the 009 was designed to
+								be used on VW industrial engines (generators, compressors and
+								such, which ran at near constant speeds).  It was never designed 
+								for engines used on the road with their continually varying load and rpms. 
+								VW never used the 009 distributor for any of it's beetle models, and so,
+								although it will work, you may get flat spots and poor
+								pick-up when using this distributor. Because it actually has less total advance 
+								than most vacuum distributors which can provide up to about 40-42 degrees 
+								when the engine needs it, the 009 will usually have worse fuel economy too.
+~~~
+Checking
+								the Choke
+Now
+								start the engine and warm it up. Take the air cleaner off the
+								top of the carburetor (if it's the oil filled type be
+								careful, you don't want a shoe full of oil) and check that
+								the choke butterfly is standing vertical. If it isn't, run
+								the engine some more to make sure it's thoroughly warm, and
+								check the choke butterfly again. If it is not standing
+								vertical or almost vertical, the butterfly needs adjusting or
+								fixing (another topic).
+It's
+								important to set the valves, points, timing and check the
+								choke (in this order) before setting the carburetor, they all
+								work together for a smooth running engine.
+~~~
+Setting
+								the 34PICT/3 Carburetor
+Reminder
+								- this adjustment procedure also works for the other
+								carburettors with two adjusting screws in the left side –
+								the 30PICT/3, the 31PICT/3 and the H30/31.
+Before
+								we begin,
+a short note about the "Haynes VW Beetle &
+								Karmann Ghia Repair Manual": For those using the earlier
+								edition of the manual, there is an error on the exploded
+								views of the 34PICT/3 carburetor. The designations on the
+								adjustment screws on the left side of the carburetor are
+								reversed. The larger screw on the top is the Bypass Screw,
+								and the lower (smaller) one is the Volume Control Screw - not
+								the other way around as the older Haynes Manual indicates.
+								Other than that, we have found the Haynes Manual to be an
+								excellent resource.
+Note:
+The correct idle speed is important with the 34PICT/3
+								carburetor, which is more complicated (and more sensitive)
+								than the earlier types. It has three separate fuel circuits
+								in it (only two in older carburetors), and the 850-900 rpm
+								idle is designed so the airflow through the carburetor is
+								balanced for the idle circuit fuel flow. That's why it has
+								both Volume and Bypass screws in the side (the earlier ones
+								had only Volume screws), located on the left side of the
+								carburetor. This way the idle speed can be set correctly
+								using the Bypass screw without touching the screw on the
+								throttle arm, which has to be set exactly right.
+Make
+									sure that all the hoses are in place and the gasket at the
+									base of the carburetor is sealing properly (no vacuum leak).
+Install
+									the air cleaner (the carburetor expects it to be there).
+Turn
+									on the engine and run it until it is warm, then switch it
+									off.
+The
+									first step is to set the throttle plate. Back off the
+Fast
+									Idle Adjuster
+(also called the throttle screw) located at
+									the top of the throttle arm. You will find the throttle arm
+									on the left side of the carburetor, connected at the bottom
+									to the accelerator cable, which runs forward to the
+									accelerator pedal.
+Note:
+Fast Idle Adjuster
+is something of a misnomer - this screw it is NOT used
+									to adjust the idle speed. The
+Fast Idle Adjuster
+works with
+									the choke to give a smooth idle on a cold engine. As the
+									choke warms (in lock step with the warming engine, hopefully)
+									the choke butterfly valve in the throat of the carburetor
+									opens and the
+Fast Idle Adjuster
+screw moves down the steps
+									of the choke fast idle cam, reducing the cold-engine idle
+									speed down to the warm-engine idle speed. Screwing the
+Fast
+									Idle Adjuster Screw
+in more will increase the idle speed,
+									but doing so messes up the
+Volume Control
+and
+Bypass Screw
+adjustments. This destroys the idle geometry, and the car
+									won't run right.
+Slowly
+									turn the
+Fast Idle Adjuster
+screw in until it JUST touches
+									the bottom of the stepped cam.  Now screw it in another ¼
+									turn.  This sets the throttle butterfly open the required
+									0.004", so you get the right airflow past the idle and
+									transfer ports in the inside of the carburettor throat.  You
+									can now use the
+Bypass Screw
+(read on) to set the idle speed
+									correctly. From this point on, leave the
+Fast Idle Adjuster
+screw alone.
+Next
+									set the idle mixture. This is done using the
+Volume Control
+									Screw
+.
+Note:
+The
+Volume Control Screw
+is the smaller of the two adjusting
+									screws, located on the left side of the carburetor just
+									above the Idle Cutoff solenoid (which has a black wire from
+									the positive side of the coil attached to it). The
+Volume
+									Control Screw
+is used to set the idle mixture.
+Note:
+Before setting the
+Volume Control Screw
+per the step below,
+									turn the
+Bypass Screw
+(the larger screw in the left side) out 2.5 
+									full turns, which is the initial setting.
+Screw
+									the
+Volume Control Screw
+in GENTLY until it bottoms out -
+									you don't want to open up the hole. Now unscrew it exactly
+									2.5 full turns. This is the initial setting.
+Note:
+Though you want to be careful to not screw the
+Volume
+									Control Screw
+in too far, you also want to make sure that it
+									is initially firmly seated before unscrewing it as
+									specified. If you don't start with the
+Volume Control Screw
+firmly seated, you may have trouble adjusting the idle with
+									the
+Bypass Screw
+, to the point where you may have it turned
+									all the way in and still have the idle too high. This
+									condition will cause stumbling on acceleration if not
+									corrected.
+With
+									the
+Volume Control Screw
+out 2-1/2 turns, start the engine
+									and let it warm up. (Make sure the automatic choke is fully
+									open – pull and release the throttle arm if needed so
+									the stepped cam rotates and the
+Fast Idle Adjuster
+is
+									sitting at the bottom of the stepped cam.)
+Now
+									to set the idle speed. This is done by using the
+Bypass Screw
+. The
+Bypass Screw
+is larger than the
+Volume Control Screw
+and is
+									located a little above and to the left of the
+Volume Screw
+.
+Note:
+Again, the idle speed is NOT set with the
+Fast Idle Adjuster
+on the top of the throttle arm as it is on the older 28 and
+									30 series carburetors - though its name (Fast Idle Adjuster)
+									would lead you to think that its used to set the idle.
+As
+									a starting point, turn the larger
+Bypass Screw
+whichever way
+									(most likely out) to set the idle at 850 rpm (fast idle if
+									you don't have a tachometer). For a semi-automatic car, use
+									900 rpm. (It's far better to have the idle speed a little
+									fast than too slow.)
+Note:
+See our
+Tune-Up Procedure
+for
+									instructions on how to attach and use a dwell-tachometer.
+With
+									the engine warmed up, idling at about 850rpm, and the choke fully open, go back to
+									the
+Volume Screw
+and adjust it slowly to obtain the fastest
+									(smoothest running) idle speed (this is usually out -
+									counter-clockwise). You should not usually need to turn the
+									screw out much outside the range of 2-3 turns (1/2 turn
+									in/out from the basic 2-1/2 turn out setting).
+Then
+									turn the
+Volume Control
+screw back IN (clockwise) very
+									slowly until the engine speed drops by about 20-30 rpm. If
+									you don't have a tachometer, listen until you can just hear
+									the engine speed start to drop, maybe as little as 1/8th
+									turn on the
+Volume Screw
+.
+Go
+									back to the larger
+Bypass screw
+again to reset the idle
+									speed to 850 - 900rpm. (Again, a little fast is better than
+									too slow. Too slow of an idle speed can cause the engine to
+									overheat when you stop at the lights after a good run, as
+									the cooling fan will not be producing enough cooling air to
+									cope with the residual heat in the engine.)
+Note:
+If you find it difficult or impossible to make these
+									settings, it is possible that you could have stripped
+									threads on any of these adjusters, a damaged hole for the
+									tapered screw, or a damaged needle valve or O-ring.
+It
+									is also possible that you have a vacuum leak (i.e., leaking
+									of air into the intake manifold). If there are any
+									holes/gaps in the manifold or at any of the connection
+									points, then air can be sucked into the manifold, causing
+									the fuel-to-air mixture to become too lean. This can cause
+									(among other things) adjustment of the carburetor
+									impossible. See our
+Discussion
+									of Air Inleakage
+, which includes diagnosis and repair.
+That's
+								it - you're done. Your engine should be purring like a
+								kitten!
+*
+								* * * *
+Design
+								by
+Erin

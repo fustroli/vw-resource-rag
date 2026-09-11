@@ -1,0 +1,36 @@
+Charging System
+The VW Charging System
+~~~
+How the VW Charging System Works
+A VW charging system consists of three major components:
+Generator or Alternator
+-
+A mechanical device driven by the engine belt. It produces a steady flow of electrical current on a continuing basis while the engine is running.
+Voltage Regulator
+-
+A device that monitors the state-of-charge in the battery to determine when and if more current should flow from the alternator into the battery to replace used electricity. When a battery is returned to full capacity, the regulator shuts off the flow of current from the alternator. This action occurs several times per minute.
+Battery
+-
+An electrical reservoir used to store current until it is needed to power the engine's starter motor. It provides sufficient electrical power so that the engine can reach starting RPMs. Once the engine is running, the electrical demand is supplied by the alternator alone to the coil, which continues to supply fire to the spark plugs.
+A brief discussion is given at
+Charging
+.
+A simple analogy for a charging system would be to compare it to a garden hose with a spray nozzle and a bucket/receptacle. Water flows through a garden hose as does the electrical current to the alternator. As long as the water/current is flowing, the hose/alternator is producing electrical current to charge the battery. The regulator, compared to the spray nozzle at the end of the hose, determines the amount of the electrical current released into the battery. The battery becomes the bucket/receptacle already filled with water. When water is removed from the bucket, the spray nozzle/regulator will open to allow water/electrical current to refill the bucket, or recharge the battery. Once the battery is completely recharged, the regulator will shut off the flow.
+The system is shown schematically in the following (ignore plugs #5 and #6  :-).
+~~~
+Charging Questions and Answers
+A question regarding the charging of a 6-Volt system - I have a 1965 Bug, all original -- 40 hp 6 volts. I had the generator light come on a week ago, so I ran all the tips on your fault-finding page as well as the Compleat Idiot book.
+The generator was not putting out at all.  I purchased a Bosch premium rebuilt unit and installed last Saturday.  I drove the car very little Sunday, some on Monday and Tuesday. Wednesday morning I crank it up and the generator light is glowing dimly again... Something seems to have happened over night.  By the end of the day it was on fully, and all of the system checks indicated the generator was not charging at all.  The only thing we found remotely wrong with the generator was that the shaft had a slight bend in it on the fan end.  We considered that at high RPMs the wobble may have caused harmonics that damaged the generator.  Hard to swallow that one, but again, the only thing we could find.
+I installed another generator last night and all seems OK.  I was seeing ~6.9 volts off idle. I had forgotten to polarize the unit, so this morning I did so and the charge went up to ~7.2ish.  I drove the car maybe 10 miles and came home to adjust the brakes.  I rechecked the voltage and now off-idle is back to around 6.85 volts, no higher.  I have installed a new battery, cables and transmission ground strap.  The generator came with a new regulator mounted on it.  I read that 7.0 - 7.2 volts is what it should be.  Any idea what may be wrong here?  Or is that optimal and 6.8 - 6.9 volts is fine?  The car is all original except for a hard start relay that was on it before my purchase.  I have cleaned all cable ends everywhere.
+Could something be killing the polarization of the generator?  The only thing I did not do to the original unit and first replacement was try to re-polarize them.  I really do not want to change this thing again.  Any thoughts?
+"Speedy Jim" responded - There is probably nothing wrong.  When first charging, battery voltage may go to 7.2 volts.  As the battery becomes charged, the voltage tapers off to around 6.7 volts and stays there.  Sounds like the regulator is doing its job properly.
+The person wrote back - I went back out about 1/2 hour from sending the email and checked everything over.  Cranked her up, came off idle and heard the generator kick in and she went right to 7.15 volts.  Several tests throughout the day have shown consistent 6.9 volts DC off idle, occasionally topping 7 volts. I finished replacing the battery cables and rewiring the hard start solenoid, cleaning the relay's contacts with a Dremel and sand disk.  I'll keep and eye on the system for a while.
+Rob responded - As "Speedy Jim" says, your charging system is probably okay now.
+A 6-volt battery does in fact make slightly more than 6 volts (and a 12v battery is slightly more than 12 volts), so the generator and regulator have to maintain a voltage above the maximum battery voltage to charge it (force power back through the battery).
+So anything above about 6.7 volts will charge the battery, although 7-7.2 volts is the ideal.  Voltages under 7 will take a little longer to bring a flat battery up to speed but a fresh one will be maintained okay by 6.9 volts or so.
+The regulator voltage is set by compromise - if it's not much above the best battery voltage it will be slow to charge, but if it's too high the battery will bubble and loose water.  For the lead acid battery the best compromise charge voltage is about 2.3-2.4 volts per cell - 7.2 volts for a 6-volt system, 14.5 volts for a 12-volt system and 28 volts for a 24-volt system.
+The real test will come after a week or so of driving including using the lights - if the battery stays charged then the system is working fine.  You may just have a regulator with a fractionally low setting - the generator itself makes about 17 volts maximum, and it's the regulator's job to keep it at a steady 7-7.2 volts for the car's electrical systems.
+* 
+                    * * * *
+Design by
+Erin

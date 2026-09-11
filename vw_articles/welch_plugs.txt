@@ -1,0 +1,66 @@
+Welch Plugs
+Welch Plugs
+Questions and Answers
+~~~
+Someone asked - One of the plugs behind the flywheel in my '72 Bus has come out.  The oil has drained out and I found the plug in the bottom of the housing.  How can I repair this?
+Note:
+"Welch plug" might be an expression that isn't 
+              used in the United States (like spanner/wrench). A "Welch plug" 
+              is a small solid disc with a dish shape which is used to seal the 
+              hole in a case where it's been drilled, etc. There's an aluminum 
+              one on the rear side of Solex carburetors too.
+Rob responded - If it's one of the Welch Plugs then it should be 
+              just a matter of buying a new one and hammering it back in. The 
+              plugs use an interference fit to make them tight - that means they 
+              are a fraction larger than the hole they go into, so the lip is 
+              compressed as you push the plug into the hole - therefore it is 
+              "spring loaded" to press outwards against the sides of the hole. 
+              That's how it both seals and stays in place. Both the plug and the 
+              hole it goes into must have smooth sides so the plug will seal the 
+              hole all the way around the lip of the plug. Any damage to the lip 
+              of the plug or to the smooth surface inside the hole means you won't 
+              get a good seal.
+Someone wrote with more clarification - Welch plugs are 0.550" diameter by 0.220" thick and are press fit into a 0.545" hole in three locations behind the flywheel (in the engine casing) -- two on one side of the cam cap and one on the other.  My guess is that they needed holes drilled inside the engine, and the only way to do this was to drill from outside, then plug the holes (this was done as part of production, at the factory).
+This is a standard way of sealing cases where an internal gallery has been drilled from the outside.  You can see an example on the rear (rear is rear of car) of every 30PICT or 34PICT Solex carburetor.  These have been known to pop out occasionally.  It is very quick to insert the plug (fast construction), and they usually hold okay because the dished shape and interference fit puts outward pressure on the lip of the plug.
+Someone asked - One of the Welch plugs came out and another leaks so I drilled it out.  Do you know anything about this?  My solution so far is to have some plugs machined to size and press them in with Loctite.
+Rob responded - Have you tried getting the plugs from one of the 
+              big parts suppliers like
+Aircooled.Net
+or
+Mid-America 
+              Motorworks
+or
+Wolfsburgwest
+, 
+              etc? We've never had to replace one of these plugs ourselves so 
+              we are not certain as to the best procedure. Locktite or epoxy (e.g., 
+              JB Weld) MIGHT help -- I don't know for sure.
+Someone commented - They say the cause of the plugs coming out are the cycling temperature of the great Canadian winters.   Rob responded - You asked about the casing material - magnesium or aluminum.  In fact, all VW cases are mostly magnesium, but in 1973 they introduced the AS41 case (the number is stamped somewhere on the case, can't remember the exact location - has a bunch of other numbers after it which is the case part number AS41 xxx.xxx.xxx).  The earlier cases have about 1% aluminum in the mix, the AS41 cases have 4%, the rest is magnesium with traces of other metals.
+Someone wrote - My son recently acquired a 1968 Bus equipped with a Solex 30PICT/2 carburetor.  The Bus has suddenly developed a problem with "dying" under acceleration, significantly if under load (vs. at standstill).  Upon investigation, the first thing I see is a hole, about 1/2 inch, in the side of this carburetor that faces the rear.   You can clearly see the fuel stream!!!  I know next to nothing about these things, but that just doesn't seem right.
+Rob responded - VW carburetors have a couple of little silver coloured "buttons" 
+              (called "Welch plugs" in Australia) that are pressed into the body 
+              of the carburetor in a couple of places -- most obviously on the 
+              rear (rear is rear of the car) of the carburetor. These plugs fill 
+              holes that were molded into the body of the carburetor to facilitate 
+              it's manufacture. Obviously on yours one of these is missing (they 
+              are just pressed in). This produces an enormous air leak and thus 
+              a very lean (and uncontrollable) fuel mixture -- obviously a situation 
+              that must be repaired. The symptoms you describe (dying under acceleration, 
+              etc.) are exactly those of an air leak into the system. I'll bet 
+              you have to set the idle very high just to keep the car running 
+              at idle, don't you!
+The fix -- The obvious fix is to replace the Welch plug. You might 
+              call around to your local VW shop and to other shops that work on 
+              carburetors -- they may be able to replace the plug and fill the 
+              hole. If you have a look under your fan belt (in the "well" formed 
+              by the tinware), you might be lucky and find the missing plug. If 
+              not, a coin might fit in the hole (US dime or nickel?). If so, even 
+              a little loose, just fix it in place with JB Weld or similar. All 
+              you need to do is seal that hole -- it doesn't have to look pretty. 
+              If you can't seal it, the only alternative is to replace the carburetor, 
+              at about $150 US for an H30/31 - the modern replacement for the 
+              30PICT/2 carburetor.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,380 @@
+Accelerator Cable
+Accelerator Cable 
+                    Discussion
+~~~
+Subtopics 
+                  covered in this article -
+Accelerator 
+                    Cable Replacement/Adjustment Procedure
+Accelerator 
+                    Cable Experience Discussion
+Accelerator 
+                    Cable Adjustment Discussion
+Experience: 
+                    Accelerator Cable Guide Tube
+Experience: 
+                    Barrel Clamp
+~~~
+The 
+                  accelerator cable is routed from the accelerator pedal through 
+                  the floor pan, then into a flexible guide tube near the transaxle, 
+                  and finally through a tube in the fan housing to the carburetor, 
+                  where it attaches to a lever arm that in turn attaches to the 
+                  throttle valve inside the carburetor. In the top of the lever 
+                  arm there is a screw that rests on a stepped cam. This cam is 
+                  attached to the upper butterfly valve in the carburetor, the 
+                  choke, which we will discuss later.
+~~~
+Experience: 
+                  Accelerator Cable Replacement
+Dave found that one of the reasons his car was 
+                  not idling as is should was that the accelerator cable connection 
+                  under the accelerator pedal was not attached correctly. "A very 
+                  poor design," he thought at first. He bent the metal piece of 
+                  the end of the cable around so that it could not come loose 
+                  or get twisted around improperly. Then he was able to adjust 
+                  the cable properly at the carburetor end.
+Some 
+                  time later Dave's accelerator broke while he was driving home 
+                  from work, right behind the metal fitting that he had previously 
+                  bent around to make it fit properly. Dave then examined the 
+                  fitting on the new cable properly and had a learning experience! 
+                  :-) The proper attachment of the fitting on the forward end 
+                  of the accelerator cable is shown in the following picture -
+Correct Attachment of the 
+                    Accelerator Cable
+~~~
+While 
+                  poking around behind the fan shroud from the left side, Dave 
+                  found the copper guide tube coming through the fan shroud but 
+                  NOT going through the hole in the firewall. So he jockeyed it 
+                  into position and I had his son hold it in place while he pulled 
+                  the old cable out from the front. Dave discovered that was was 
+                  frayed down to two strands about two inches from the front end.
+While 
+                  his son held the copper guide tube in place, Dave started snaking 
+                  the new cable towards the back, greasing it as he went. It got 
+                  right to the hole in the firewall and hung up. So Dave crawled 
+                  under the car and jerked the flexible tube out (he wasn't going 
+                  to replace it, but when he found the fitting on the rear end 
+                  missing he changed his mind). Getting the cable into the tube 
+                  and the tube in place was fiddly, Dave found but not so much 
+                  so as guiding the end of the cable out of the flexible tube, 
+                  through the hole in the firewall, and into the copper tube that 
+                  goes through the fan shroud.
+During 
+                  this process Dave found that something was interfering with 
+                  the accelerator tube just forward of the firewall. He crammed 
+                  a piece of stiff wire through while his son was watching from 
+                  underneath -- he found the interference to be the new tranny 
+                  rubber he had installed. So Dave cut a little notch in the rubber 
+                  to accommodate the cable and reinstalled the cable with no problems.
+Then 
+                  came adjustment time. First Dave adjusted the cable exactly 
+                  according to the specification -- accelerator pedal all the 
+                  way to the floor, throttle lever wide open, 1mm clearance between 
+                  the lever and the carburetor body. No problem -- except adjusted 
+                  that way the throttle lever wouldn't return all the way to the 
+                  cam and the throttle valve inside the carburetor was open too 
+                  much -- thus high idle, just like before when the throttle valve 
+                  was sticking. Dave decided that wouldn't do and readjusted the 
+                  accelerator cable as Rob suggested -- throttle lever against 
+                  the cam, cable pulled back as tightly as possible (finger tight). 
+                  With it adjusted that way Dave was able to proceed with the 
+                  fine tuning.
+Dave 
+                  expressed concern about the interface point between the rear 
+                  end of the flexible tube and the copper guide tube as it pokes 
+                  forward through the firewall. The fitting on the end of the 
+                  flexible tube is flared, and the two just rest together, or 
+                  so it would appear. Manipulating that interface is all by greasy 
+                  feel, with your arm bent around at a very awkward angle. It's 
+                  almost impossible to see it -- it's right on top of the tranny 
+                  a couple of inches above and toward the center from the clutch 
+                  adjustment nut. The copper guide tube wiggles around in the 
+                  fan shroud and comes out of the hole in the firewall very easily. 
+                  The rubber screw-in grommet type thing on the rear as it comes 
+                  out of the fan shroud is deteriorated and not doing much to 
+                  hold the tube in place.
+Rob 
+                  responded - So which way did the cable move when you tried it 
+                  my 'quick' way? Did it project further to the rear of the car, 
+                  or less? If too much further to the rear of the car (more cable 
+                  through the fixing nut on the accelerator arm) it might result 
+                  in overstretch of the cable on full throttle, and would be pulling 
+                  hard on the accelerator arm. If less cable now pokes through 
+                  the fixing nut, it means that at full pedal movement you'll 
+                  have a 'not quite' vertical throttle butterfly maybe lose a 
+                  few revs at the top end.
+Dave's 
+                  response to Rob - The accelerator cable was further "in" when 
+                  adjusted your way. The other way it was further "out" and the 
+                  idle screw (which I knew to be set correctly) would not return 
+                  to the lowest step on the cam. So setting it your way works 
+                  much better. Haven't noticed the loss of a few rev's at the 
+                  top end.
+If 
+                  you see in any of your catalogs one of those screwy little rubber 
+                  grommets that goes on the rear end of the copper guide tube, 
+                  between it and the fan shroud, please let me know. That would 
+                  hold the tube properly in the hole in the firewall.
+~~~
+Experience: 
+                  Accelerator Cable Adjustment
+Dave posed the 
+                  following question to the RAMVA Newsgroup - My car is a '73 
+                  Super Beetle. My question has to do with the accelerator pedal 
+                  and cable. If the throttle lever is adjusted per spec, the cable 
+                  sticks out way further (towards the back) than it should (the 
+                  hold down bolt is actually on the cable). The accelerator pedal 
+                  has very little travel, and when I pull it back I find that 
+                  the arm with the wheel on it (accelerator cable attached) wiggles 
+                  about an inch back and forth (front to back). Intuition tells 
+                  me that this arm (Bentley calls it a "connecting lever") should 
+                  be held completely back (no pressure on the pedal) by a spring 
+                  or something and should only move forward when the pedal is 
+                  depressed. I guess the throttle lever return spring should do 
+                  this, but in mine there is about an inch of free play.
+The 
+                  bottom line is I can't adjust the cable properly, the throttle 
+                  lever will not return completely to the cam, and thus I can't 
+                  adjust the throttle screw or the idle. And the car runs like, 
+                  well, dog do do.
+Responses 
+                  -
+Check 
+                    and see if you have the correct cable installed first. Or, 
+                    the cable may be old and possibly.
+Couple 
+                    of thoughts -- Look under the pedal pedal for dirt/fluff etc. 
+                    which might be catching the cable or pedal at that end. Sometimes 
+                    some dirt gets caught under the bottom end ('floor' end) of 
+                    the rubber cover on the accelerator pedal, which rubs on the 
+                    floor (on mine anyway). Dirt under here tends to push the 
+                    accelerator on. A squirt of WD40 etc on the shaft/bushing 
+                    and little roller (I presume you have one) under the pedal 
+                    helps to keep it loose too. Have you made sure the cable is 
+                    not pulled too tight? I set mine by loosening the lock nut 
+                    on the carby end, and while holding the throttle arm against 
+                    the lowest step on the cam, just tugging the cable rearwards 
+                    with fingers only (not pliers/multigrips) until it's snug 
+                    -- but not tight through the throttle arm connector. This 
+                    means there should be little on no play in the accelerator 
+                    pedal, but not so tight that the throttle is held open on 
+                    idle.
+The 
+                    cable end at the carburetor should fasten on the steel end 
+                    piece, not on the cable itself. Could it be stretched, or 
+                    even frayed cable (inside the cable tube)? Could it be hooked 
+                    on wrong at the pedal end?
+Dave's 
+                  experience - This afternoon I took my 8mm box end wrench out 
+                  to the car, parked at the curb in front of the house. I opened 
+                  the engine lid and applied the wrench to the bolt that holds 
+                  the accelerator cable into the throttle lever assembly. Then 
+                  I loosened it up, held the throttle lever against the lowest 
+                  part of the cam, and gave a pull on the accelerator cable. I 
+                  found a problem -- the metal thing on the end of the cable pulled 
+                  about 1/4-inch past the hold down bolt. I think we've got a 
+                  stretched cable -- next on the shopping list. I tightened the 
+                  bolt down on the wire -- not the best thing to do, but it will 
+                  HAVE to do until I can get the cable replaced. I understand 
+                  that's quite a chore.
+Anyway, 
+                  I went in and washed my hands and then fired her up. There is 
+                  lots more pedal, and a MARKED improvement in the way it runs. 
+                  Still hesitates a little on acceleration, but orders of magnitude 
+                  better than the way is was running this morning. Now I need 
+                  to check to see if the throttle lever is returning properly.
+Question 
+                  - My concern is that there is very little "travel" in the accelerator 
+                  pedal -- the distance between no applied pressure and floor-boarded 
+                  is very short. I think I need to get a buddy to help me with 
+                  this, and I need to get in there under the steering wheel and 
+                  take a look at what's going on. Something is definitely not 
+                  as it should be. I like to be able to "feel" the accelerator 
+                  pedal.
+Rob 
+                  responded - Hmmm... Sounds a little odd. When you floor the 
+                  accelerator pedal lever does the throttle arm move all the way? 
+                  (Put a brick on the accelerator pedal to hold it down if you 
+                  haven't got a second person to look). You might need to remove 
+                  the throttle spring if you can't find a big enough brick to 
+                  hold the throttle down.
+Maybe 
+                  the cable has become partially unhooked or somesuch. It definitely 
+                  sounds out of whack.
+Dave's 
+                  experience - I pulled the cable back pretty hard with my channel 
+                  locks before tightening the bolt that holds it in place -- I've 
+                  probably snugged it up too tight. You said to just pull it back 
+                  finger tight, as I recall.
+Rob 
+                  responded - It certainly shouldn't need a hard tug -- it should 
+                  slip both ways through the cable channel quite easily.
+Experience 
+                  continued - The only hard thing about taking the carburetor 
+                  off is getting that blasted accelerator cable adjusted properly. 
+                  I'm never sure that I've got it right. Your method (hold it 
+                  finger tight and tighten it down) seems to work best, but there's 
+                  still no gap between the arm and the stop as there is supposed 
+                  to be.
+Rob 
+                  responded - Then if you floor it hard, you'd be putting strain 
+                  on the throttle arm. I guess you'll just have to loosen it a 
+                  bit until you get a bit of free play.
+Experience 
+                  continued - I can't loosen it too much -- there's only about 
+                  1/8th inch of the end of the cable sticking out beyond the connection 
+                  on the bottom of the throttle arm. I am going to loosen it just 
+                  a tad more, though.
+Rob 
+                  responded - That seems a little odd too -- mine pokes through 
+                  the clamp about 1/2 way, so there's plenty of adjustment either 
+                  way.
+~~~
+Experience: 
+                  Fan Housing Guide Tube
+Dave's experience - Regarding the tube that passes through the 
+                  fan housing -- this tube just sits 
+                  loose in the fan housing at a slight downwards angle (rear up, 
+                  front down), and has a flange on the rear side which stops it 
+                  falling into the shroud. This tube allows a degree of engine 
+                  rotation under acceleration, etc. without kinking/pulling the 
+                  cable. The hole in the FRONT of the fan shroud is a bit enlarged 
+                  to allow this movement.
+It 
+                  would be a devil of a job to thread the cable through the shroud 
+                  without this metal sleeve, and it could then bind on the shroud 
+                  edges too.
+Question 
+                  - Somebody told me a while back that I would have to get the 
+                  guide tube welded back in place. How about if I position it 
+                  properly and then put a bead of JB Weld around it to hold it 
+                  firmly to the fan housing? I fear that our accelerator cable 
+                  is going through the fan shroud bare and that it's rubbing against 
+                  the metal edge and wearing, thus the lengthening that we seem 
+                  to be experiencing.
+Experience 
+                  continued - Earlier I asked about the accelerator cable tube 
+                  and thought maybe I should "JB Weld" it to the fan housing. 
+                  With the carburetor off I had a better look, and of course you're 
+                  right -- the hole it comes through is enlarged specifically 
+                  so the tube can move. Ours has a rubber spiral type plug that 
+                  surrounds the tube and is supposed to screw into the hole, except 
+                  our plug is old and in very poor shape. I've never seen either 
+                  the tube or the plug for sale anywhere -- have you? The tube 
+                  is so loose that it's sticking out of the fan housing towards 
+                  the back! Could it be that it's just pulled back part way out 
+                  of the fan housing and maybe can be slipped back into place 
+                  fairly easily?
+Rob 
+                  responded - The sheath has a close fitting hole in the rear 
+                  of the shroud, and a slightly elongated hole in the front of 
+                  the shroud. It should be possible to just 'fiddle' it into the 
+                  front hole, so it slides forward and sits flush against the 
+                  rear (carby side) of the shroud. The front hole is elongated 
+                  slightly to allow the cable itself to align the sheath when 
+                  it's pulled (the throttle is worked). With the sheath too far 
+                  to the rear, the cable could be rubbing on the front side of 
+                  the shroud edge, especially as it now has the weight of the 
+                  sheath (the bit inside the shroud) pulling it down.
+If 
+                  you welded (JB or metal) it in, it would lose it's capacity 
+                  to self-align, which is happening all the time as the engine 
+                  flexes (rotates) on it's mounts. So welding is not a good idea 
+                  -- it would create a real rubbing area at the front edge of 
+                  the sheath.
+VW's 
+                  ingenious design again.
+I'm 
+                  not sure if your sheath is different to mine, you have the doghouse 
+                  cooler on the front of the shroud. But I suspect it's the same 
+                  -- that the spot on the shroud where the cable comes through 
+                  is probably 'flush', just to the right of the doghouse 'bulge'. 
+                  If there is a difference, maybe you need a longer sheath? But 
+                  I doubt it.
+Experience 
+                  continued - I was out fussing around the engine this afternoon, 
+                  tightening bolts in the tin and just generally cleaning. I noticed 
+                  something interesting -- the bell shaped fitting on the rear 
+                  end of the accelerator cable tube isn't sticking through the 
+                  front of that piece on the engine that sticks up (whaddya call 
+                  it!?). It's just resting on the other side, dropped down a little 
+                  by gravity. I tried to pull it through, but its too big around. 
+                  This fitting must come off so you can slip it through the hole 
+                  from the rear and then reattached it to the tube. If so, I've 
+                  never seen a procedure that makes this clear. Can you help me 
+                  with this?
+Rob 
+                  responded - I have a single tube-shaped piece with an expanded 
+                  (your bell shaped?) end which slides through the shroud from 
+                  the rear of the engine, and pokes through the front of the shroud. 
+                  The hole in the front of the shroud is slightly elongated so 
+                  when the cable is under tension, the tube can align itself straight 
+                  along the cable. It's only the expanded end which prevents it 
+                  falling through/into the shroud.
+Experience 
+                  continued - I'm a bit baffled by the accelerator cable guide 
+                  tube. The cable is running through okay, but there is a definite 
+                  mismatch at the firewall. And its so awkward trying to work 
+                  back there. I'm going to reach in with my long channel locks 
+                  and see if I can get a good grip on the guide tube and push 
+                  it into the hole and mate it with the cable tube on the other 
+                  side. It's hard because the guide tube moves so freely through 
+                  the fan shroud. I think there's supposed to be a rubber grommet 
+                  or something on the rear end of it that holds it in place; our's 
+                  is missing (of course) and I've never seen anything like that 
+                  in any of the catalogs.
+Rob 
+                  response - There's no grommet (and never was) on mine. The hole 
+                  on the front side of the fan shroud is (on mine) slightly elongated 
+                  so the cable can line up straight from gearbox end to carby 
+                  end, with the tube being "supported" at that point (front of 
+                  fan shroud) by the cable. Makes for a small waste of cooling 
+                  air I guess, but there is definitely no grommet.
+Experience 
+                  continued - The guide tube goes through the fan shroud and then 
+                  through the firewall, protruding about half an inch forward 
+                  of the firewall. The bell-shaped end of the accelerator cable 
+                  tube is supposed to slip over the protruding end of the guide 
+                  tube, but I'm having a devil of a time getting it to do so without 
+                  pushing the guide tube back through the firewall. I think I 
+                  need an assistant to hold the guide tube firmly in place against 
+                  the rear of the fan shroud whilst I reach up over the tranny 
+                  and slip the bell-shaped end of the flexible tube over the other 
+                  end of the guide tube (if that makes any sense at all! :-)
+I'm 
+                  going to detach the accelerator cable and pull it forward through 
+                  the firewall, then I'm going to wrap several layers of black 
+                  plastic electrical tape around the rear end of the guide tube 
+                  and "screw" it into the hole in the fan shroud as tightly as 
+                  I can.
+Rob 
+                  responded - That might work. Certainly worth a try, and easily 
+                  reversible if it doesn't help.
+~~~
+Experience: 
+                  Barrel Clamp
+In January 2005 Dave replaced 
+                  his Bocar 34PICT/3 carburetor with a Pierburg model. Just on 
+                  accounta 'cuz, Dave also replaced the barrel clamp at the base 
+                  of the accelerator throttle arm, the clamp that connects the 
+                  accelerator cable to the throttle arm. Dave found that the fit 
+                  was a little tight, so Dave got out his "persuader" and gently 
+                  tapped the barrel clamp into the throttle lever. Mistake! The 
+                  barrel clamp must turn freely in the throttle lever, otherwise 
+                  it will kink the accelerator cable and cause the engine to run 
+                  at very high rpm. Dave prized the barrel clamp out of the throttle 
+                  lever and reverted to the old one, which is slightly smaller 
+                  in diameter and turns freely. Dave made sure with a healthy 
+                  squirt of WD40! :-)
+Barrel Clamp
+Also 
+                    used to connect the heater cables
+to the heater box lever 
+                    arms.
+* * * * 
+                    *
+Design by
+Erin

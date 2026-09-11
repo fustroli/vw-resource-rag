@@ -1,0 +1,18 @@
+Engine Replacement
+Engine Replacement
+~~~
+Someone wrote - I just bought a '67 Beetle with the intent of working on it as an alternative to paying expensive car payments etc.  I heard a rumor that one can buy a brand new VW engine for older beetles.
+Rob responded - Yes, you can buy brand new 1600cc engines for the Beetle.  They are made in Mexico and are quite good quality, according to a VW mechanic I know who has installed some of them.
+They come in two varieties -- carburetor and fuel injection.  For your '67 you'd need the carburetor version (simpler wiring mainly).
+E-mail (
+John Connolly
+) or visit his web site,
+Aircooled.Net
+.  Tell him you have a '67 and would like a new Mexi-1600cc, and he can tell you what you need.  John will NOT sell poor quality stuff and he has a wealth of information in his head.  Sometimes his answers are a bit short, but that's just because he's busy.  (He's also a little more expensive than other places, but Dave has purchased a lot of stuff from Aircooled.Net and says the little bit of extra cost is worth it.)
+This replacement engine will plug straight in to your '67 gearbox, although the clutch plate and throwout mechanism is different between the '67 and the new 1600cc engines (John can tell you which parts need to be swapped for a perfect fit).
+The new engines have the doghouse oil cooler, so the cooling fan is larger than the your current engine, assuming it's the original 1967 1500cc size (the doghouse fan is wider than the earlier fans).  It really needs more air intake than the slots under the back window -- it will run short of cooling air above about 50mph and start to run hot.  But if you can find a '67 Cabrio engine lid with the two sets of slots, that will fix that problem.  Deck-lid stand off hinges work too, but look ugly in my opinion.  (Dave agrees!)
+The '67 gearbox will give excellent acceleration with this engine, but not much extra speed, because the final drive ratio is a little short for the 1600cc engine.  The '67 with 1500 engine (there were 1300 options in some countries) used 0.89 4th and 4.125 final drive, where the later 1600cc engines (from '73 onwards) used 0.93 4th and 3.875 final drive, the difference being that at 60mph the earlier ratios give about 3200rpm and the later ratios give about 3050rpm for slightly "longer legs".  No biggy unless you intend to do a lot of fast highway cruising.
+* 
+                    * * * *
+Design by
+Erin

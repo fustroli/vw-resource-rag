@@ -1,0 +1,33 @@
+Crankcase Ventilation
+Crankcase Ventilation
+~~~
+Rob wrote -
+There is an opening into the crankcase around the pulley  shaft which is designed to pull in fresh (unfiltered!) air.
+If you remove the engine pulley you'll see a couple of annular slots in the case around the shaft.  The shaft itself has a spiral groove cut in it, so it "screws" air into the crankcase.  This ensures that there is always a slight overpressure in the crankcase, which, combined with the slight vacuum in the carburetor induction system, pulls oil fumes etc. into the carburetor and reburns them.  You might hear the beach buggy boys talk about "sand seals" and these are plug-like devices which seal off these slots so you don't get dust and sand into the sump.
+There is a large washer around the shaft just behind these slots to act as an oil splash plate, and since the air is being drawn into the crankcase, it encourages the oil there to dribble back into the case and sump, rather than force it's way out.
+~~~
+Crankcase Ventilation as a Source of Oil in the Engine Compartment
+What is supposed to happen is that the crankcase pulls in a small amount of fresh air through the slots behind the crank pulley.  The annular orifice around the pulley hub is the normal INTAKE for the crankcase ventilation system. There is a spiral groove on the crankshaft which 'pumps' air in through there.  This is deliberate, to create a positive pressure in the crankcase, which forces any burned gases (leaking past the rings) up through the breather and through the carby.  This way the oil gets less contamination from the cylinder gases, and any excess foaming of oil etc. can be burned, rather than dumped on the road.
+The outlet from the system is through the alternator/generator pedestal and from there to a low pressure area inside the air cleaner.  But when you lift your foot -- close the throttle -- there's no low pressure to maintain air flow through the crankcase.  If you've got a blow-by problem (combustion gases getting past worn rings and valve guides), the pressure inside the crankcase can be great enough to defeat the oil slinger, blowing a gust of oily vapor out the inlet where the pulley does a nice job of distributing it around the engine compartment.
+If you're not using the standard air cleaner, you may not be getting enough vacuum to suck the oil laden fumes up through the alternator stand, resulting in the mist blowing out backwards through the ventilation slots behind the crankshaft pulley.  Take a look -- any evidence of the oil (streaking etc) inside the cleaner would indicate that it's pulling the oily air through properly.
+You MUST have the tube from the oil filler connected to the air cleaner, and have an aircleaner which develops a slight vacuum inside the filter element.
+Many aftermarket air cleaners do not make any provision for fitting a vent line from the oil filler tower.  And those that do have a connection may not develop sufficent vacuum, causing oil to come out of the crankcase where air is supposed to be going in.
+"Speedy Jim"
+suggested the following test -
+Clean everything up real well to spot the source.  Try this:  At idle, remove the oil filler cap and hold it loosely over the opening.  It should just flutter without really being blown away.  If blown away, there is excessive blow-by.
+Rob responded -
+Three other possible sources of oil leakage into the engine compartment have been suggested  -- the oil pressure switch, the dipstick, and the oil filler.  The oil pressure switch should NOT have a gasket or O-ring.  Wrapping string around under the dipstick cap may help. The oil filler cap must fit snugly.
+Dave took the problem of oil in the engine compartment to the RAMVA Newsgroup - A nagging question - What could be the source of oil on the engine tin around the rear of the engine?  We've replaced the oil pressure switch and the distributor shaft seal and tightened the oil filler cap -- oh, yes, and packed string around the inside of the dipstick collar.
+Bob Hoover wrote -
+You may have a blow-by problem.  The annular orifice around the pulley hub is the normal INTAKE for the crankcase ventilation system.  Outlet is via the dynamo tower to a low pressure area inside the air cleaner.  But when you lift your foot -- close the throttle -- there's no low pressure to maintain air flow through the crankcase.  If you've got a blow-by problem -- leaky rings or, more likely, worn valve guides -- the pressure inside the crankcase can be great enough to defeat the oil slinger, blowing a gust of oily vapor out the inlet where the pulley does a nice job of distributing it around the engine compartment.
+Rob commented -
+I can see what Bob Hoover is saying, but I don't think it's your problem -- the engine is "fresh" and so worn valve guides or piston rings are not likely.
+If it is a blow-by problem, it's still my thought that the non-standard air cleaner may be at least a part of the problem (Bob mentions it as a low pressure area too).
+Just one thought though -- the way the spiral groove on the crankshaft works is to "pump" in a small amount of fresh air, and to prevent any oil getting out the same way there is a large diameter washer which acts as an oil slinger (see Bob's comments mentioning this), so any oil splashed at the spiral groove area hits the spinning washer which slings it away from the crankshaft -- a centrifugal barrier to oil flow OUT of the rear of the engine.  If this was missing...
+I'm told you can see it through the openings behind the pulley (I've never looked), once the pulley is removed - you can poke it with a thin screw driver and it should move back and forward a little in there (it "floats" on the shaft).
+Bottom Line -
+Dave replaced his handy-dandy chrome aftermarket aircleaner with the stock aircleaner, attached the hose up from the oil filler and the vacuum line to the port on the intake manifold, and voila!  No more oil on the engine tin (and thus dripping under the car).  A stock air cleaner is your best bet (I know, the little chrome jobs look kewl ? :-)
+* 
+                    * * * *
+Design by
+Erin

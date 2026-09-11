@@ -1,0 +1,36 @@
+Heater Control Cables -- Removal and Installation
+Heater Control Cables --
+Removal and Installation
+~~~
+Note:
+If you'll be relying on the proper operation of the heater boxes for warmth in the cabin, it is critical that you make them work.
+Note:
+The heater cable is really
+two
+cables joined together near the control lever (the one to the
+right
+of the hand brake lever).  If any part of the cable is broken, the whole assembly must be replaced.
+Block the front wheels and raise the rear of the car and support it on jack stands.
+Locate the heater control cables where they come out of the floor pan on both sides of the transaxle (if they are there)!
+If the cables are broken off and the heater cable channels plugged, you've got a problem.  It may be possible to ream the channels out with coat hanger wire, but probably not.  The plug in the channel will most likely be near the end; I solved the problem by simply cutting off the protruding portion of the tube.  DON'T LET SOMEBODY TALK YOU INTO WIRING THE HEATER BOXES OPEN! You CAN have heat inside the car!
+If the cables are in place and are moveable, hold the clamping sleeve with the locking pliers (vise grips) and loosen the clamp bolt.  Slip the cable out and remove the clamping sleeve from the control lever.
+Remove the cable seals from the guide tubes (if they're there--they probably aren't).
+Remove the right side front seat to give yourself room to work.
+Remove the handbrake rubber boot.
+Remove the nut from the right side heater control lever and lift off the lever and friction discs.
+Detach the control cable from the lever and pull the two cables out of the tubes.
+Inspect all components for wear and damage and replace as needed.  Make sure the flap mechanism and controls are moving freely.  Lubricate as needed.
+Back under the car, install return springs between the bottom of the lever assemblies and the engine tin (if your car is so equipped - the return spring is in the heater box valve mechanism).
+Apply a light coat of grease to the new cables and insert them into the tubes from the control lever.  The longer cable goes in the bottom tube (to the left side heater box) and the shorter one goes in the top tube.
+Connect the cable to the control lever, then install the lever, friction discs and mounting nut.  Tighten the nut until sufficient friction is felt when the lever is moved.
+Reinstall the rubber boot over the handbrake assembly.
+Working under the car, insert the sealing plugs onto the cables (small pieces of vacuum hose, slit down the side, work well for this--but again, make sure the cable is well greased).
+Reinstall the barrel clamps and slip the cables into them.  Take up all the slack in the cable and tighten the clamp bolt.
+Have an assistant operate the heater control while you check for full movement of the lever.
+Install the corrugated heat tubes between the heater boxes and 
+                the body of the car (inlets to the heater channels that run forward 
+                on either side of the car).
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,17 @@
+Tranny Mounts
+Transmission (Transaxle) Mounts
+~~~
+As part of the transmission rebuild in his '73 Super Beetle, Dave replaced the transmission (transaxle) mounts, which (like everything else in the car) were buggered up horribly.  The rubber in Dave's mounts was squashed and deformed so badly he wasn't sure the replacement parts were correct, they looked so different.  But they were, indeed, the right ones.
+Old Beat-up Tranny Mounts
+New and Old Tranny Mounts
+~~~
+This wasn't Dave's first experience with defective tranny mounts.  Long ago in a former life Dave had a 63 Bug that he had to rock back and forth (with help) to get it into gear.  He took it to the VW shop (remember those?) and the guy said the mounts (he called them engine mounts) were completely shot, and several teeth were missing on the flywheel.  So it was a pretty hefty bill, but the car ran well afterwards.
+Worn transmission mounts usually show up as a jumpy clutch engagement.  The engine rocks more than it would with good mounts and so you get some kangaroo-hopping, even if the bowden tube (which normally prevents this) has sufficient bend in it.
+The transaxle nestles in a big metal "U", with large threaded holes at the ends of the U (see the picture below).  The rear tranny mount attaches to the mouth of the U with two large bolts with lots of torque on them (165 ft-lbs), and then the tranny rests on the mount (heavy rubber on both sides) and attaches to it with two smaller bolts on each side from the bell of the tranny into the mount (two attachment points, two bolts each).  All the weight of both the engine and the transmission right there on those two 27mm bolts on the rear end of the U-cradle.  Everything hangs on the ends of the yoke via the mounting bracket which straddles the ends of them.  About 200lbs of engine overhangs the yoke ends!  Thus the high torque on the large mounting bolts.
+Transaxle Cradle
+~~~
+To change out the the tranny mounts the engine must be removed from the car.  Then it's just a matter of supporting the transaxle and removing the four small mounting bolts, two on each side of the tranny bell.  Then the two large bolts at the ends of the U-shaped cradle are removed so that the mounting bracket and the mounts themselves can be removed.  The new bracket and mounts are then installed in place of the old ones, the four mounting bolts (two on each side) are replaced, and the two large (27mm) bolts are replaced and torqued to 165 ft-lbs.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,9 @@
+Brakes Testing
+Testing Your Brakes
+~~~
+Rob gives a test of the rear brake circuit -
+With the car stopped, pump the pedal a few times and get a feel for how far the pedal moves.  Then pull the hand brake up hard and then try pumping the brake pedal again.  If the rear brakes are working properly, the hand brake will have removed any slack in the system and the brake pedal should work sooner (less freeplay) after a pump or two.  If the pedal feel does NOT change, then there may be a problem with the rear hydraulic circuit (rear piston in the master cylinder, lines or slave (wheel) cylinders).
+* 
+                    * * * *
+Design by
+Erin

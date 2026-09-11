@@ -1,0 +1,95 @@
+Fault Finding the VW Charging System
+Fault Finding the VW
+Electrical Charging System
+~~~
+Note:
+While this article is specifically directed to generator-equipped VWs, much of the information herein is applicable to alternator-equipped VWs, too.
+~~~
+Topics covered in this article -
+Description of the Battery Charging System.
+A Description of the Automobile Battery.
+Checking the Battery.
+Checking the Charging Voltage.
+Checking the Maximum Voltage of the Generator.
+Polarizing the Generator.
+Checking the Results.
+~~~
+How do you tell the difference between generator and alternator?  On the aircooled VW it's easy -- the generator is only one diameter along it's full length.  Alternators are larger diameter (fatter) at the pulley end than they are at the fan shroud end.
+So -- your car won't start.  Just a clicking sound from the starter motor, or a slow grind from a flat battery.  The headlights are dim and almost go out as you use the starter.  You've got a problem.
+~~~
+Description of the Battery Charging System
+The electrical system on 6- and 12-volt VWs up to and including 1972 used a generator to produce power, a voltage regulator to set the charging level, and a battery to store the power.
+The voltage regulator is used to adjust the current flowing through the field windings (the stationary outer windings) of the generator.  This varies the amount of power produced in the spinning coils.  The brushes take power from those coils via the commutator (the spinning brass contact strips), and then that power is delivered to the battery.
+Generators produce direct current -- similar to a battery, while alternators produce alternating current, similar to your house power supply. When used in a car, the alternator must have a diode rectifier (usually mounted inside the alternator) to convert this to direct current so it can be used to charge the battery.
+The electrical contacts on the generator are D+ which is the main connection to the battery, and DF which is the connection to the field windings.
+~~~
+A Description of the Automobile Battery
+The automobile battery is a lead acid battery, in which each cell produces just over two volts.  A 6-volt battery has three cells, and a 12-volt battery has 6 cells.  Inside each cell is an electrolyte, which is water mixed with sulphuric acid, and a series of plates with lead compounds on them.  These plates are alternatively connected to the + or - side of the cell.  The idea is to maximise the area of plating facing each other, with electrolyte between and around the plates.
+Battery performance reduces as the temperature drops, so the standard test for a battery is it's Cold Cranking Amps (CCA).  The VW Beetle is an easy starting engine and needs only a low CCA rating of about 220; the VW engine, being a lowish compression engine, is relatively easy on batteries.  However, having a battery with a larger CCA rating means you won't be working it quite so hard in the coldest weather when the engine starting demands are highest.  300-350 CCA works just fine.  Anything over about 350CCA is overdoing it and you won't get any extra benefit for the higher cost.
+The other measurement used for batteries is their total storage capacity.  This relates to how much total acid and lead is in the battery.  The standard sized auto battery is usually around 50 amp/hours (that means is could supply one amp for 50 hours). Four-wheel drive and truck batteries are often physically bigger and will have higher amp/hour ratings, but could conceivably have smaller CCA ratings, depending on the number of plates they have. Some modern cars use a physically smaller battery to save weight, and these may be only 30 amp/hours or so.  Make sure the battery you get for your VW has the retaining lugs near the bottom, and is the right size to fit the battery compartment under the rear seat.
+These days battery manufactures prefer to use the term Reserve Capacity.  This number tells you how many minutes a battery could provide 25 amps until it's voltage drops to 10.5v (which is considered to be completely flat for Lead Acid batteries). So a 50amp/hour battery might state a Reserve Capacity - RC - of 120 minutes. Its a useful number for automobile lead acid batteries because it uses a standard (25 amp) discharge test, so it compares batteries with a like-to-like test regime.
+A physically incorrectly sized battery will not be held firmly in place, and you DON'T want a battery moving about when you accelerate and brake.  Since the rear seat has metal springs under it, the best batteries for VWs have a recessed positive terminal with a plastic snap-on cover, just as insurance against shorting from the seat springs if you have a heavy person in the rear seat. If you use a battery without a cover, throw a spare rubber floor mat over the top of it to act as an insulating blanket.
+Auto batteries HATE being flat.  As a lead acid battery discharges, chemical changes in the lead products on the plates results in the material getting soft and it can slump, eventually pooling in the bottom of the cell and shorting it out.  Stater batteries are designed so that ideally a long hard start should not discharge it more than about 15%, and then it gets a quick charge from the generator or alternator.
+Lead acid batteries used in other equipment (like golf carts and electric folk lifts for example) are designed with thicker/stronger plates so that they can withstand deep discharges without ill effects.
+So don't leave batteries unused for long periods -- give them an overnight charge (even a 4-amp charger is enough) once a month if you are not driving the car. If you have a smart battery charger with a Maintenance/Trickle/Float stage as it's last charging stage, you can leave it attached to the battery indefinitely, and it will charge the batery to 100% then drop the charging voltage to hold the battery at that fully charged condition without overcharging it. Even a two step "charge and maintain" charger of less than 1 amp (Rob has one which is 800MA) is sufficient to keep a stored battery charged and ready for the next time you need it.
+Keep a check on electrolyte levels and fill them to above the plates with distilled water (NOT tap water).  Never top them up with acid - just distilled water.  It's easy to forget the battery hiding under the seat on a VW -- so include it in your 3000-mile maintenance procedures.
+A well-cared-for battery will last longer, and won't let you down when you need it most - that cold frosty morning when you'd rather be warm in bed.
+The VW Battery -
+The original VW style battery had recessed terminals and a plastic snap-down cover over the positive terminal so people sitting on the back seat could not short it out on the seat springs. They are hard to find and pricey.
+Any modern battery which is about the same physical size as the original VW battery will work fine.  Just make sure it has a ridge near the bottom so the hold-down bracket will work. If the battery has exposed terminals it should be covered by a piece of rubber matting or similar to prevent shorts with a couple of big folks in the back.
+~~~
+A few words on Lithium batteries
+Lithium is the new buzz word in battery technology.  There is no doubt they are light and can supply more total energy, for the same physical size compared to the Lead Acid battery.  So why aren't they used for starter batteries?
+They are expensive.  Lead acid batteries do the job at a much cheaper price.
+Some lithium chemistries (there are 5-6 different types of "lithium" batteries) are not suitable for the high amps needed to start a car.
+They need an internal Battery Management System - BMS - to ensure even charging of each cell.
+They dont like excessive heat, so don't cope well with engine bay positioning.
+They dont like being charged or discharged at really low temperatures.
+They are less forgiving of overcharging.
+They need a specific charging regime for best performance - more complex charging than that supplied by our generators or alternators.
+There are probably other reasons but that will do.
+The Lead Acid battery has been with us for over 100 years.  The technology is well understood.  They are 100% recyclable. They are tolerant of over charging and can survive a little undercharging (at the expense of a shorter life). They cope well with the high amps needed for starting.  They cope quite well in cold conditions, and dont suffer in high engine bay temperatures. So the lead acid battery is still the favoured battery for starting our cars and powering the electrical items. Even the fully electric Tesla uses a small lead acid style battery for opening the doors and activating the electrical systems when you climb into it.
+Tests
+The following tests may help you trace the fault in your charging system -
+The only tools you'll need for these tests are a voltmeter
+and a wrench (spanner) to remove the generator pulley nut.
+Check the Battery -
+A fresh battery should produce slightly more than 12 volts -- up to 12.6 (about 6.3 volts for a six volt battery).  If the voltage is low, the battery is flat, which means it may just need a charge, or it might be dead and won't take a charge.
+Look at the electrolyte (water) level in each of the cells.  If one is very low compared to the others, it may be a cell which is dead or dying, as a faulty cell will try to take more and more charge and end up electrolysing the water in the cell (converting it to oxygen and hydrogen, so it appears to evaporate).  If the low voltage and low electrolyte level continues even after the battery is refilled then charged, you can safely say the battery is dying/dead and needs replacing.
+If you battery won't seem to hold a charge, check to see if there is a power leak someplace in the car.
+Remove the positive battery cable.  Set the multimeter to the largest amp setting.  Connect the negative probe on the multimeter to battery cable you just took off.  Connect the positive probe to the battery positive (+) post. Gradually reduce the multimeter setting of the lowest milliamp setting.  If there is a power drain you'll get a reading (any reading under ~50 milliamps is not significant).
+If you have a modern radio with a memory (remembers channels and settings etc.) then you WILL have a  small power drain (some radios are hungrier than others).
+If you do have a drain then you can remove fuses one at a time to find what circuit has the problem.
+Batteries last for varying lengths of time - two to five years or thereabouts.  But if you have one which has been left flat for any length of time it will get old MUCH faster (lead acid batteries should be recharged every month if they are not being used - the lead compounds inside slump off the plates and fall to the bottom of the cells if left flat), and won't hold a charge very well after that.
+~~~
+Check the Charging Voltage -
+With the engine running at above idle speeds, the voltage across the battery terminals should rise to 14 - 14.5 volts (7 - 7.2 volts for the 6-volt system).  If you are getting that voltage, the battery is receiving a normal charge.
+If you don't see that voltage and your car has a generator (not an alternator), try pressing the brushes in (against the commutator) while the engine is running (mind out you don't touch the spinning pulley!)  The upper brush is easy enough to reach, the underside one is rather more difficult. You can use your finger (14.5 volts won't  electrocute you :-) or the back of a small screwdriver, but nothing metal please.
+If the voltage shoots up to 14-14.5 volts (7-7.2 volts for the 6volt VWs) when you apply pressure, the brushes are worn to their limits and should be replaced.
+~~~
+Check the Maximum Voltage of the Generator -
+Disconnect the generator from the regulator (both the DF and D+ wires).
+Use a jumper lead to connect DF to the generator frame (grounding the DF connection).
+Now start the engine and test the voltage between D+ and the generator frame.
+The voltage should increase with rpm up to about 35 volts (20 volts or so for the 6-volt generator).
+If the generator passes this test, it's working okay.
+DON'T run this test any more than a few seconds -- just enough to make the test at increasing rpm, as this test will heat up the generator.
+~~~
+Polarize the Generator -
+If the above test fails, a zero charge to the battery may be caused by the generator becoming depolarised (not enough magnetism to start the generating process). THIS TEST DOES NOT APPLY TO ALTERNATORS - generators only please.
+Normally a generator will retain a magnetic field in it's spinning core - it's designed to do that.  So as soon as it starts to spin, it starts creating a current  - it will self-energise.  But if left for weeks - months without being used, that magnetic field can dimish to the point that the generator wont work.  It's not broken, it just needs a magnetic field reinstated.
+To polarise the generator, remove the fan belt, jumper wire from DF to the generator case (grounding the DF terminal). Now connect a wire from the + terminal on the battery to D+ on the generator.  The generator should now start to spin.  A few seconds is enough for this test.
+If the generator doesn't spin, it's faulty.  It's rebuild time (or at least it needs an auto electrician to look at it).
+~~~
+Check the Results -
+Now put the fan belt back on, leave the DF terminal grounded, and check for the high voltage from D+ to ground with the engine running at high rpm.  If you don't get the high voltage (up to 35 volts for the 12-volt generator or 20 volts for the 6-volt generator), the
+generator
+is probably faulty.
+If you get the full voltage, but when it's all connected back up and you don't see the normal charge voltage at the battery (14.5 volts for 12-volt generators or 7.2 volts for the 6-volt generator), the
+regulator
+is probably faulty.
+Hopefully these tests will identify your problem and you can get it fixed yourself without great expense.  You'll have learned more about the electrical systems in a car, and won't get stuck at a critical time with a dead battery.
+* 
+                    * * * *
+Design by
+Erin

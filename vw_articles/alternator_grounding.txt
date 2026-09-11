@@ -1,0 +1,34 @@
+Alternator Grounding
+Alternator Grounding
+~~~
+The VW alternator is internally grounded, according to the electrical guru
+"Speedy Jim"
+.  
+This means that one end of the circuit after the internal regulator is screwed to the case internally. The main windings in the 
+alternator are the fixed outer windings - these go through a "full wave bridge rectifier" (the basic circuit has four large 
+diodes in a diamond pattern with input at one set of opposite corners and the output at the other set of opposite corners), 
+then to the regulator, then the negative side is grounded internally and the other lead comes out at the main terminal post.
+It's a fascinating difference with the generator. In the alternator, the spinning windings just create the magnetic field, 
+and so carry a smallish current. This means the slip rings and brushes can be small, and also smooth - not segments. This means 
+much less arcing, so the rings and brushes last much longer. But this method produces alternating current at the main windings, 
+so it needs a rectifier to convert to DC.
+In the generator, the outer windings generate the magnetic field and the spinning windings carry the main current. 
+The rectifying (conversion from AC to DC) happens mechanically - the commutator is segmented so the brushes keep moving 
+to a new set of windings to keep the current moving in one direction. This creates arcing as the brushes move from segment 
+to segment, and so the generator brushes and commutator need more frequent changing, and the voltage is a little spikey (less smooth).
+In both cases you need a battery connected so you get a current in the field windings to create a magnetic field for the 
+main windings to cut (generate). Disconnect the battery whilst the engine is running and you risk damaging the alt or gen, 
+as the current produced by the main windings is now un-absorbed by the battery and so tend to spike upwards in voltage. 
+The battery acts as a smoothing agent in an electrical sense. It's a neat arrangment.
+Interestingly enough, radios and such which work off AC need smoothing circuits too - after the current has been rectified into 
+"lumpy DC". Usually electrical devices called capacitors are used, but battery cells would be better. Trouble with THAT is after 
+the radio is turned off it would continue to work - the batteries would continue to power the unit. So they don't use batteries. 
+Capacitors are very short term storage devices, and are able to give up their stored energy in a very short time. That's why they 
+are so useful in camera flashes and CDI ignition systems. Take a couple of big capacitors, fill 'em up over a few milliseconds with a 
+lot of amps at low volts, and then trigger them to release a high voltage pulse in microseconds. Send that to the coil primary winding, 
+and the transformer effect of the coil (that's all it is really, a transformer) gives you 38,000 volts to the plugs in lieu of about 
+20,000 which you get from the stock VW ignition system.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,21 @@
+Fuel Components
+Fuel System Components
+~~~
+Leading up to the carburetor, the various components in the VW fuel system are the
+Fuel Tank
+, the
+Fuel Lines
+, the
+Fuel Filter(s)
+, and the
+Fuel Pump.
+~~~
+These components are discussed individually in the following articles -
+Fuel Tank
+Fuel Line
+Fuel Filter
+Fuel Pump
+* 
+                    * * * *
+Design by
+Erin

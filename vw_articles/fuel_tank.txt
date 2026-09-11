@@ -1,0 +1,78 @@
+Fuel Tank
+Fuel Tank Removal
+and Refurbishment
+Note:
+Water is heavier than gasoline, so condensation or water from contaminated fuel will collect in the bottom of the tank where it may cause rusting -- thus necessitating this very enjoyable job! :-)
+~~~
+WARNING:
+Gasoline is extremely flammable, so take extra precautions when you work on any part of the fuel system.  Don't smoke or allow open flames or bare light bulbs near the work area, and don't work in a garage where a natural gas-type appliance (such as a water heater or clothes dryer) with a pilot light is present.  If you spill any fuel on your skin, rinse it off immediately with soap and water.  When you perform any kind of work on the fuel tank, wear safety glasses and have a Class B type fire extinguisher on hand.
+~~~
+Note:
+The following procedure is much easier to perform if the fuel tank is empty.  Try to schedule fuel tank removal when the tank is nearly empty.
+It's helps to have the following materials close at hand -
+A one-gallon (4-5 litre) container of gasoline.
+A length of tubing with ID the same as the OD of the fuel line.
+A flat three-gallon (10 litre) oil drain container.
+A large, flat metal pan.
+A jack and two jack stands.
+Plenty of rags.
+This procedure relates directly to the superbug, but is almost the same for the standard bug.  The main difference is that the standard bug tank is exposed on the underside and easier to get at.
+Before proceeding with the work, run the tank to complete dryness.  Add about half gallon of gasoline back into the tank so you can start the car and move it to your repair area.
+Disconnect the battery ground strap and attach the frame of the car to a good electrical ground.
+Remove the fuel tank filler cap to relieve any fuel tank pressure (there should not be any).
+Raise the front of the car and support it securely on jackstands.
+Lay the three-gallon oil drain container under the car with the larger hose running into it.
+Disconnect the fuel filter from the fuel line that descends from the fuel tank. Quickly run the fuel line into the larger hose leading back to the oil-drain container to drain any residual gasoline from the tank.
+Allow the other end of the fuel line to drain through the fuel filter onto the metal pan (there won't be much, as the fuel pump is now downstream).
+Remove the strut tower support bar (if your Super Beetle is so equipped).
+Remove the luggage compartment liner (if you have one).
+Disconnect the wires from the fuel gauge sending unit on the top of the tank, noting which wire goes to which terminal.
+Loosen the large hose clamps on the fuel filler neck hose, then remove the hose.
+Remove the fuel filler neck and the fuel tank filler hose.
+Remove all of the vent lines from the tank. Note where they attach so you can put them back exactly the same.
+Remove the bolts from the four fuel tank retaining plates (two on each side of the tank).  Remove the retaining plates and lift the fuel tank out of the car.
+Note:
+Be careful not to damage the rubber sealing strip between the tank and the body.  If this strip is damaged during tank removal, it will need to be replaced when the tank is reinstalled.  (Damage is likely, so plan on replacing the rubber sealing strip.)
+Carefully turn the circular plate on the top of the tank counter-clockwise (older tank senders are bolted on rather than screwed on) and remove the fuel gauge sending unit from inside the tank.  Lay the unit aside in a protected place, making sure that the components don't get tangled together.
+Obtain about a quart of sharp-pointed gravel from a roadside, wash it thoroughly, and allow it to dry. You can also use large nuts or chain links etc for this part.
+Pour the gravel into the fuel tank and shake the tank vigorously for several minutes to loosen any rust and scale that may have built up in the tank. When your arms get tired, take a break then shake it again!
+Empty the gravel from the tank and wash it out thoroughly with water.  Let it dry in the sun.
+Note:
+The tank must be completely dry for the next step, or the sealer will not work properly.
+Tape off all of the openings in the fuel tank to prevent spillage of cleaning solutions and sealer.
+Note:
+See our discussion of
+Chemicals
+for more information and safety precautions regarding the use of the chemicals used in the fuel tank refurbishment.
+Mix a
+hot
+solution of an appropriate cleaner (e.g., POR-15 Marine Clean) -- one part cleaner with one part water.  Slosh the cleaner around inside the tank and then discard.  Repeat this step until the cleaner is coming out clean.
+Rinse the tank two or three times with water.
+Etch the metal inside the tank and remove any remaining rust using a strong rust remover and pre-primer such as POR-15 Metal Ready.  Keep all interior surfaces of the tank wet with this stuff for 30 minutes or more so it can do it's job.
+Note:
+The metal etching solution should be used at a temperature of 70F (21C) or above.  Be careful not to get it on painted or chromed surfaces, as it will discolor the metal.  This solution can be reused.
+Rinse the tank immediately several times with a soluble oil mixture (one part machine coolant to 20 parts water) and let it dry thoroughly.
+Note:
+Re-formation of rust is prevented using a fuel tank sealer such as POR-15 Fuel Tank Sealer.  This sealer is resistant to all fuels, alcohols, and additives, and it stops rust, corrosion and leaks permanently.
+Pour about one quart of fuel tank sealer into the tank and slosh it around.  Be sure to coat the entire inside of the tank.  After you are certain you have covered the entire inside of the tank, drain the sealer -- allow it to drain for at least 30 minutes.  You want to make sure that sealer hasn't "puddled" in the tank.
+Allow the sealer to dry/set for 72-96 hours in a well-ventilated area.  Before the sealer is completely dry (after about 48 hours), clear all of the vents and the fuel outlet with a straightened clothes hanger wire.
+Note:
+We found that clothes hanger wire didn't work very well, as some of the vent lines run deeply into the tank and have sharp bends.  We found that a piece of spiral-wound cable (like accelerator cable) did the job very well when placed in a portable drill run at a slow speed.
+Clean (sand/wire brush if necessary) and paint the exterior of the tank and the area underneath where the tank rests in the car.
+Reinstall the fuel gauge sending unit into the tank, making sure that the various wires and floats are not tangled.
+Note:
+If you have the older style tank with bolt-on tank sender, one bolt is offset slightly so the sender fits only one way.
+Reinstallation of the fuel tank into the car is the reverse of removal.  Make sure that the fuel hose at the bottom of the tank runs properly through the rubber sleeve to the underside of the car and doesn't get kinked between the tank and the body during tank reinstallation. (On standard bugs the underside of the tank is exposed under the car).
+Reinstall the four retaining plates and bolts that hold the fuel tank in place.
+Inspect the fuel neck seal and replace if necessary.
+Replace the fuel filler neck hose and reinstall the filler neck, then tighten the large hose clamps. You might need the tank clamps a little loose for this job, to get a little extra movement to get the large filler neck rubber hose on.
+Replace all vent lines and rubber seals with new, including the tank/body seal that runs around the tank.  Don't forget the rubber seal between the tank and the fuel gauge sender assembly.
+Note:
+It is important that the connections leading to the tank are reinstalled correctly and in their original locations. Errors can lead to fuel starvation, or to the improper venting of fumes.
+Reconnect the wire(s) from the fuel gauge sending unit.
+Reattach the fuel filter to the fuel hose at the bottom of the tank and the continuing fuel hose to the metal fuel line running to the rear of the car. (Again, it would be wise to replace these rubber fuel hoses with new.)
+Replace the luggage compartment liner and the strut tower support bar where fitted.
+* 
+                    * * * *
+Design by
+Erin

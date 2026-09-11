@@ -1,0 +1,129 @@
+Brake Shoe Replacement
+Brake Shoe Replacement Procedure
+(Not applicable to disc brakes.)
+~~~
+The following links will take you directly to where you want to go -
+Front Brakes
+Rear Brakes
+~~~
+When inspection of the brake shoes shows that the linings have worn excessively, it is time to replace the brake shoes.  Linings that are attached to the shoes by rivets should be replaced when worn to within 1/32 in. of the rivet heads.  Bonded linings may wear down to 1/16 in. thick.  In order to maintain equal braking action on both sides of the car, the brakes must be serviced in pairs; that is, you must replace the brake shoes and linings on both rear wheels or both front wheels at the same time, even if you find that only one wheel of either set needs new linings.
+Caution:
+Older brake linings contain asbestos, which is a health hazard if inhaled.  Wear a face mask when working on drum brakes to avoid inhaling asbestos particles.  Keep dust levels down; do not blow or vigorously brush accumulated material from brake parts.
+~~~
+Front Brake Shoe Replacement
+Block the rear wheels to prevent movement and apply the parking brake.
+With the wheels still on the ground, loosen the wheel lug bolts/nuts, then raise the front of the car and place it securely on jack stands.
+Remove the lug bolts/nuts the rest of the way and stow them in a safe place.  Remove the front wheels.
+On the driver's side front wheel -- with a small flat-blade screwdriver (or circlip pliers if you're lucky enough to have them), remove the small circlip which holds the speedometer cable in the dust cap.
+Using a large screwdriver, pry off the dust caps that protect the wheel bearings (both wheels).
+Note:
+We found it a lot easier to remove the dust cap with a small crowbar.  Saves on the skinned knuckles, too!
+Loosen the spindle nut lockbolt with a 6mm Allen wrench.
+Using a crescent wrench, remove the spindle nut and thrust washer from the end of the spindle.
+Note:
+The left-side spindle has left-hand threads.
+Pull the hub assembly out slightly, then push it back into its original position.  This should force the outer bearing off the spindle enough so it can be removed.  The outer race remains in the hub.
+Remove the outer wheel bearing.
+Note:
+Group the various axle parts and stow them in plastic bags for cleaning later.
+Pull the brake drum and hub assembly off the spindle.
+Note:
+If the brake drum is binding on the brake shoes, insert a brake adjusting tool through each of the two adjustment holes in the backing plate and turn the adjusters until the shoes are no longer binding (see our
+Brake Adjustment Procedure
+).
+Note:
+Remove the brake drum without using excessive force to avoid damage to the wheel bearings, etc.  Gentle tapping around the rim with a rubber or copper-faced hammer, together with pulling by hand, will usually get the job done.
+Pull off the brake drum and wipe dust from the inside of the drum with a cloth soaked in a water/detergent solution. Follow up with an alcohol wipe to avoid rust.  Avoid inhaling the dust.
+Inspect the braking surface inside the drum.  If it is excessively scored, have it turned.  If there is insufficient metal for turning, the drum will have to be replaced.  See our
+Brake Drum Replacement Procedure
+.
+Cover the spindles with plastic bags and seal tightly to keep grit off of the threads.  Slosh detergent/water solution over the exposed brake assemble to remove dust.
+Note:
+Before removing any parts:  If you do not have a good diagram of the braking assembly, it would be a good idea to sketch or photograph the brake shoe assembly so that you can reinstall the components correctly.  Or, simply work on one wheel at a time so you have the other one for reference.
+Remove all of the return springs (one upper, two lower) using brake pliers or locking pliers (vice grips).  Wear goggles while doing this to protect your eyes from flying springs!
+On each brake shoe there is a spring that holds the shoe against the backing plate.  The spring is held in place by a pin that goes through the backing plate, through the center of the spring, then connects to a small hold-down cup on the outer end of the spring.
+Remove the hold-down cups and springs as follows:
+Grasp the cup at its edges with a pair of needle-nose pliers;
+Push the cup inward to compress the spring while keeping the pin in place by holding it on the backside of the backing plate with your finger (yeah, right!);
+Rotate the cup with the pliers 90 degrees until the flattened top of the hold-down pin lines up with the slot in the cup;
+Release the tension on the spring and remove the cup, spring and pin.  Stow them in a plastic bag.
+Remove the lower end of the brake shoes from the slots on either end of the adjusters, then remove the upper end of the shoes from the slots on either side of the wheel cylinder.  Remove the brake shoes from the assembly.
+Inspect the brake linings for cracks, excessive wear, uneven wear patterns, etc.  If the linings are defective in any way, replace them.
+Clean all of the brake parts with parts-cleaning solvent or isopropyl alcohol.  Get all of the brake dust and grime build-up off of everything.
+Tighten the backing plate bolts if necessary (15mm).  (We have never found these bolts to be loose.)
+Inspect the wheel cylinder.  If it is old or leaking, remove it per the our
+Replacing Wheel Cylinders
+procedure.  Disassemble the wheel cylinder and inspect the pistons and seals (even if the cylinder doesn't appear to be leaking).  If any of the components are rusted, pitted or scored, replace or rebuild the wheel cylinder.
+Note:
+If you remove the wheel cylinders, it will be necessary to bleed the brakes when you're finished.  See the
+Brake System Bleeding Procedure
+.
+Using a wire brush and emery cloth, remove rust from the brake shoe contact points on the backing plate.  Spread a light film of high-melting point grease on the contact points.
+Note:
+"Dry Lube" works well for this -- a stick of hard grease that looks like a candle.  (I'm not sure it's available in the U.S.)
+Remove, disassemble and inspect the adjuster screws.  If they are rusted or pitted, or the adjusting star will not turn freely, replace the adjusters.  Lubricate the adjuster screws with penetrating oil, wiping them "dry" afterwards.  The remaining trace of oil will be enough for lubrication requirements.
+Screw the adjusting screws all the way in (brakes completely loosened) for now.
+Reverse the procedure to install the new brake shoes.
+Line up the slots in the adjusting screws to match the angle of the tab on the brake shoes, and slip the brake shoes into the slots.  Attach the two springs at the bottom.  Be careful not to damage or distort the springs.  Again,
+wear goggles!
+Slip the tabs at the top of the brake shoes into the slots on either side of the wheel cylinder and attach the return spring by grasping the straight part with locking pliers (vice grips) and stretching the spring to the appropriate hole in the brake shoe.
+Note:
+If these or any other brake springs are nicked, discolored by heat, or weak, replace them with new ones.
+Install the new hold-down pins, springs and cups in both shoes to secure them to the backing plate, as follows 
+Note:
+Reinstalling the hold-down springs is more difficult that removing them.
+Make sure the cup is firmly seated in the end of the spring.
+Install the hold-down pin by pushing it through the hole in the backing plate that lines up with the hole in the shoe.
+Note:
+It helps to have an assistant here to hold the brake shoe, and it wants to flip forward away from the backing plate.  If youre doing this alone, tie a cord around the brake assembly to hold the brake shoes in place while you install the hold-down spring.
+Grasp the hold-down cup, with the spring attached, at the edges with the needle-nosed pliers.
+With the hold-down pin protruding through the hole in the brake shoe, place the spring over the pin.
+With the pliers, turn the cup/spring assembly until the slot in the cup lines up with the flattened end of the hold-down pin.
+Compress the spring until the flat end of the pin protrudes through the cup, then turn the cup 90 degrees to secure the pin inside of it.
+While installing the brake drum, carefully inspect the wheel bearings (cleaned per the
+Front Wheel Bearings Procedure
+for cracks, heat discoloration, worn rollers, etc.  If any defects are found, replace the wheel bearings.
+Install the brake drum and repack the wheel bearings in accordance with the above procedure.
+Adjust the brakes according to the
+Brake Adjustment Procedure
+.
+If necessary, bleed the brakes in accordance with the
+Brake System Bleeding Procedure
+.
+Replace the front wheels and lower the car to the ground.  Fully tighten the lug bolts/nuts.
+Test drive the car and make several low-speed stops to make sure the brakes are operating properly.
+Brake linings must "wear-in," try to avoid sudden stops for the next 100 miles.
+~~~
+Rear Brake Shoe Replacement
+Block the front wheels to prevent movement.
+Fully release the parking brake.
+Back off the brake adjusters slightly.
+Remove the cotter pin from the castle nut on the rear wheel shaft. Mark both the nut and the end of the axle where the cotter pin went thru so you can torque the nut to the same place when replacing it.  Break the rear axle nut loose with a 36mm (1-7/16" socket) on a 3/4-inch drive breaker bar and "cheater" -- a length of pipe about four feet long to slip over the braker bar to give more torque. Remove the nut, then raise the car.
+WARNING
+-- Loosen the castle nuts while the car is on the ground.  The castle nut should have at least 217 ft-lbs of torque on it -- the leverage needed to remove it is enough to topple a car off the jackstands.
+Note:
+If you car is equipped with spinners (like ours is), the castle nuts will not be accessible with the wheels on the car.  After removing the rear wheels, we had success with lowering the brake drums down onto large blocks of wood and firmly appling the parking brake.  This plus the weight of the car on the wooden block held the brake drums in place while we removed and later replaced the castle nuts.
+Loosen the wheel lug nuts and raise the rear of the car and place it securely on jack stands.
+Remove the rear wheels.
+Remove the brake drum from the splines in the rear wheel shaft.
+Inspect the braking surface.  If it is excessively scored, have it turned.  If there is insufficient metal for turning, the drum will have to be replaced.  See the
+Brake Drum Replacement Procedure
+.
+Disconnect the parking brake cable from the lever.
+Disconnect the bolt that attaches the parking brake cable to the backing plate, on the rear of the backing plate.
+Pull the parking brake cable guide and cable through the backing plate and detach the cable from the guide.
+Disconnect the lower return spring with a pair of pliers (wear goggles!)
+Remove the brake shoe hold-down cups and springs (see Step #14 for the front brakes).
+Remove the brake shoes, connecting link and upper return spring.
+Note:
+See the instructions regarding the wheel cylinders above.
+Pry apart the ends of the retaining clip and transfer the parking brake lever to the new rear brake shoe.
+To install the new brake shoes, reverse the above steps.
+Reinstall the brake drums and adjust the brakes according to the
+Brake Adjustment Procedure
+.
+Test drive the car as above.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,99 @@
+Body
+The VW Body
+~~~
+Discussion of the following topics is an expansion of our
+Body-Related Procedures
+.
+Body Work
+Body-Off Restoration?
+Bodyworking Tools
+Body Putty ("Bondo")
+Sanding
+Rust
+Fenders
+Doors
+Hood
+Front Hood Latch
+Engine Lid
+Front Apron Replacement
+Rear Apron Replacement
+Windows
+Surface Prep and Paint
+Bumpers, Brackets and Bolts
+Running Boards
+Weatherstripping
+Windshield Wipers
+Windshield Washer
+Paint Shop Work
+~~~
+Body Work
+General Discussion of the VW Body from the Haynes Manual
+The VW body is made of many individual parts welded into a single structure, which is bolted onto a platform frame.  This platform frame is an assembly of welded sheet metal stampings consisting of a central backbone tunnel, a floorpan, cross bracing at the front and rear ends and a frame fork which supports the engine.  The floorpan and central tunnel of the platform provide the majority of the load-carrying structure.  Torsion bar axle beams -- or, on Super Beetle models, a MacPherson strut front end -- are bolted to a frame head at the front of the platform.  At the rear, another torsion bar beam is welded to the frame fork.  The platform itself is quite strong, but gains even further rigidity when the body is bolted onto it.
+Some body parts -- such as the bumpers, the front and rear hoods, the doors, the fenders and the running boards -- can be removed for repair or replacement.
+~~~
+Removing the Body for Restoration
+Early in his rebuild process, Dave wrote -- I can see the advantages of having the body off to do some things.  You'll have to tell me how a shade-tree mechanic like me would go about removing the body from the floor pan.  Do you install a block-and-tackle to the ceiling of your garage or something?
+Rob responded - John Henry says a stripped 57 body weighs just 240 lbs, so mine will be just a bit heavier than that.  Four people can lift it off the pan easily -- two big boys can just manage it.  It's not that complicated really.  Remove the engine wiring connections, disconnect the steering column, unbolt it under the front, rear and heater channels, and off it comes (well -- it's
+nearly
+that easy!  :-).
+Dave wrote -- I keep saying that I'm going to do a complete 'body-off' restoration, but I wonder if I really need to remove the body.  I want to remove all the windows and the rubber and all the chrome.  Then completely strip the inside and replace body parts that need it (like the front apron so I can make the hood latch parts mate up again), sand it all down and take it in for a GOOD paint job (metallic black, with several coats of clear lacquer on the top).  Then of course put all the windows back in with new rubber, replace the entire interior (dashboard, headliner, door trim, carpeting, seat covers, etc.).  Probably replace the bumpers, too, and as I've said before, install new disk brakes on the front and put in a new master cylinder.
+Rob responded -- You will probably not have to do a complete 'body-off' restoration, unless the heater channels under the door are severely corroded.  The only reason I'm considering 'body-off' is that I want to completely change the colour -- inside and out.  But I'll be looking at it carefully to see if I can change the interior colour without taking the body off -- just stripped bare.  I can see it saving me at least a week's full time work if I can do it that way.
+If you do decide to remove the body -- under the car there are four large bolts at the front of the pan under the front door jamb (two each side).  They compress the seal there, and hold the front of the pan in place.  When replacing the body I found that two bolts wouldn't catch on the threads (seal not compressed enough) and I had to get a slightly longer bolt to start the threads, then use the correct-length bolt next to it (they are close together).  Once I got one correct-length bolt in place, I replaced the long bolt with the correct length.  These bolts tighten a lot and compress the floor pan seal.
+Dave wrote -- My heater channels are in good shape.  I really want to replace the left defroster tube with an intact tube all the way from the 'snout' on the heater channel up through the 'black hole' to the defroster plenum.  This may not require removal of the body, but just lifting it up a few inches.
+Im not a welder, but Ive made friends with the guy across the street who restores old cars.  Im sure I could finagle his assistance if need be.  Im more interested in just the jive ordinary work like sanding and grinding and priming and all of that.  I hope to be able to strip the car completely -- windows and rubber all out, interior gutted -- probably should remove the engine, do you think?  Then do most of the prep work myself.  We will probably tow the car to the paint shop.
+We didnt look the car over as closely as we should have before we bought it.  I did check for rust under the battery, as I understand this is often the first place to go, but I didnt check the heater channels.  They looked real good when I replaced the running boards, thank goodness!  Given all of the problems this car had, it's amazing how rust-free it is.
+~~~
+Bodyworking Tools
+Dave wrote - My Reader's Digest auto mechanics book (which is really quite good) shows a 'sliding hammer' (not exactly sure that's what it's called).
+Rob responded -- We call them "slap hammers".  Using it means you end up with a lot of holes which need to be filled, but the tool is useful if there is no way to get at the back of the panel.
+Other bodyworking tools include -
+Dent puller or suction cup;
+Finishing hammers and dollies;
+Body putty ('Bondo' -- see discussion below.)
+Spreaders;
+Electric or pneumatic sander;
+Sanding blocks;
+Sandpaper of varying grits -- coarse to very fine -- LOTS of it!
+Paint remover (e.g., methylene chloride).
+A 'bendy' plastic ruler.
+Protect your eyes! Always wear eye protection when doing auto body work, particularly when welding or grinding. Whenever you weld, keep a spray bottle of water at hand in case a spark ignites.  Protect the rest of yourself, too!  Wear gloves, especially when working with harsh paint removers like methylene chloride.
+~~~
+Body Putty ("Bondo")
+Please see our article on
+Body Putty
+,
+which includes instructions for use.
+Note:
+Bondo is a trade name for body filler in both the UK and the United States.  It's generally  referred to as "bog" in Australia.  It is a proprietary brand of Chemi-bond or Plasti-bond or something like that.
+You can get body putty at almost any automotive shop or large hardware store (in 1-lb or 5-lb tins as I recall).  1-lb will do quite a large area.  If it's a bit oily looking on top make sure it's really well mixed in the tin before using it.
+Body putty is epoxy resin based, so you put some on the mixing tray, add a few drops (or a "thread" depending on the type) of hardener.  The hardener is usually a different colour (e.g., red), so you can see when it's fully mixed.  Never use a mixing stick to dig more out of the tin - you'll get hard lumps in the tin!
+I find that plastic ice cream bucket lids or similar are great as mixing trays.  When the left-over putty hardens you can bend the plastic and it will flake off so you can reuse the tray. A supply of Popsicle sticks for mixing is useful, and a flexible plastic shop ruler or similar as a bendy straight edge to use as a screed to level the surface.
+Mix just enough body putty for about 15 minutes of work --it sets quickly, so don't mix too much at once.  It's best to apply the body putty in thinish layers rather than one thick layer, as it sometimes cracks as it hardens.  1/8th inch or so is fine.
+Dave wrote while preparing his Super Beetle to be painted-- I've run into some body putty ("Bondo") under the paint, and I know I will find more.  Do I need to dig/sand all of this out and start over, or can I just sand it down and apply a finish coat of body putty and then sand it nice and smooth?  Also, there's a thick chunk of body putty that came out above the left fender that I know I'll have to refill.  Can you give me some advice?  This is my first experience using body putty.
+Rob responded --  If the body putty is in good condition (no cracking and no lifting), just leave it and resurface/sand as necessary.  If you need to resurface with a skin of new bondo, use a coarser grade sandpaper to score the old surface for good adhesion.  When applying body putty to bare metal, sand the surface to clean metal and paint it with spray-on auto undercoat first to seal the metal.  This also provides good adhesion for the putty.
+~~~
+Sanding Work
+When sanding the finished fill, use wet/dry sandpaper used wet.  A soft sanding sponge is good for slightly curved areas.  Use the bendy ruler to check the curve against a nearby unbent section (looking for peaks/troughs under the ruler) and carefully feather the edges so it blends to the metal without creating a valley where the filler starts.  Then wet-wipe it off thouroughly to get rid of all dust.  When dry, use the spray undercoat again (helps if it's a slightly different colour to the putty), making sure that the feathers edges/bare metal get coated.  Some undercoats are classed as "fillers" too -- they go on thicker than most, and can be lightly sanded to adjust the fit - sand off high points, etc.  Once the undercoat is on you can see if there are any bumps/dips you missed, and if so sand that area back and use the putty and sand it again.  The effort is worth it to have an undetectable mend under the new paint.
+"VW Trends" magazine ran an article on "Final Bodywork & Paint."  The following is a quote from the magazine -
+(We) had gotten the car close to being ready, by block sanding the car numerous times, and we had finished with 400  grit sandpaper.  Never try to sand a large area with sandpaper in your hand - you'll always get poor results.  Always use a suitable block to support the sand paper.  (We) use a piece of balsa wood, available at any Art Supply store, to wrap the 400-grit sandpaper around to begin the block sanding process.  (We) use balsa wood strips of varying widths to wrap the sandpaper in for block sanding.  The smaller parts like the tail light housings are sanded by hand, as they have too many small curves to be able to block sand them properly...  We wipe the car down with some wax and grease remover, to remove any trace of contaminants.  There is a certain feeling you get when your car rolls out of the paint booth, with all the primer sealed, and painted, that is indescribable.
+Wiping the car down to remove wax and grease must be done BEFORE you start sanding.  Acetone makes a good grease remover, but I suppose an engine degreaser would work too.  Wear disposable rubber gloves so there is no chance any oils from (your) skin can get on the surface of the car.
+Rob wrote - My favourite type of sanding block is a hard rectangluar sponge which comes covered in wet/dry grit.  The grit doesn't last, but the sponge then gets used to wrap the wet/dry paper around.  The sponge is a nice size for the hand, and holds 1/3 of a standard sandpaper sheet wrapped round it, so there is little waste.
+You can get rubber blocks too (some of them have slots in the ends to hold the paper), and I've heard of using balsa wood as well.  You need something which gives you a flat surface, but soft enough to conform to slight curves, etc.  Using a block makes for good feathered edges when sanding back filler, too.  The balsa would have a problem when it's been bruised though  it won't bounce back to flat as well as rubber or sponge.
+Using wet/dry sandpaper is important -- it allows the paper to be dipped every minute or so to remove the 'dust.'  This prevents scoring the body, which happens with clogged dry paper.  Frequent wetting means the paper lasts a long time too -- no clogging -- and so long as you don't touch bare metal too often it just keeps on cutting.
+400 grit sandpaper is more a finishing grade.  I'd start with about 180-220 myself, and then go to 400, and them maybe a last rub with 600 or 800.
+I'd still be using the block on the flatter surfaces, but in all sanding a few small areas will need the paper wrapped round a finger etc to get into corners (the rain gutters for example).
+Using a rubber mat is good, but you have to be careful with a fully flexible mat like that that you don't end up with it cutting more directly under your fingers where the pressure is - would be OK if you can use the flat of your hand and work around and through each area rather than back and forth in the same place.
+Dave wrote - I bought a sanding block -- about 2" wide and 8" long, with a handle and mechanism for holding the sand paper -- ideal for 'block sanding' -- and a smaller block for smaller areas.  I also bought a ream of emery paper of assorted grits (120 is the finest -- I'll have to get some finer stuff for the final sanding.
+I haven't done a lot of body work before, so you can be sure that I'm going to take this REAL slow.  My plan is to take the black paint off, down to the original VW paint/primer, then block sand it from there with increasingly finer wet/dry paper.
+Rob responded - You may be better off just wet sanding and forget the grinder.  Start with 140 or 180 grit to get most of the color coat off.  I use a thick sheet of stiff rubber the size of a full sheet as a backing.  It will produce an absolutely smooth surface on almost any contour.
+Of course, the body shops have fancy air sanders, etc. that make ridiculously fast work of it.
+If the original top coat is in reasonable condition (might just be faded) there's no real need to remove it all back to metal (so long as the new stuff is compatible with the old enamel and will cling to it).  You'll have to take your paint guys recommendations here I think -- since the final product will be in his hands.
+~~~
+Paint Shop Work
+Dave wrote, regarding the holes in the top of the fenders where the turn signal assemblies used to be - The paint shop is also going to remove the bondo from the holes that were left when the PO took the turn signals off the fenders and weld little circles in the top of the fenders to fill those holes.  They will smooth all of the welds out so when it's painted it will look really good.
+When I went over there they had one of the doors laid out on a table and a guy was working it over real good with a power (compressed air) sander.  They are really doing a good job -- very professional.  The car is going to look so very good!  Definitely show quality.
+Dave wrote, once the painting was finished - I just returned from fetching all of the finished parts from the paint shop and stowing them in my friend's garage, setting on and covered with blankets.  It took two trips in my little truck.  Downside -- they charged me $500 over the estimate for the body work, which I guess I can't begrudge them.  They really did a lot.
+* 
+                    * * * *
+Design by
+Erin

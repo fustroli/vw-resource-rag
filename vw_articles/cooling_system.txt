@@ -1,0 +1,82 @@
+Cooling System
+The VW Cooling Air System
+See our
+Procedures
+related to the VW cooling system.
+~~~
+Subtopics related to the VW Cooling Air System are addressed in the following -
+A Good Lead-In Question
+Description of the VW Cooling Air System
+Cooling Vanes and Thermostat
+Cooling Air System Removal/Installation
+Solving Overheating Problems
+Fan/Fan Belt/Fan Housing
+Engine Tin
+Engine Compartment Seals
+Early Morning Warmup
+The VW Cooling System -- Miscellanous Topics
+~~~
+A Good Lead-In Question
+Which way does the cooling air travel through the shroud?  Am I right in thinking that the air is sucked by the fan through the opening on the other side of the shroud by the firewall area?  And then it is pushed by the fan down and over the heads and cylinder fins and exits under the back of the car?
+And in that case what is the purpose of the hoses that attach to the nozzles on either side of the shroud?  Is the cooling air actually picked up from under the car by where the transmission is and goes up between the shroud and firewall into the fan opening?
+If that is the case isn't that rather ineffective? Wouldn't it be better to have actual ducting pick up the cold air from the outside and feed it directly into the shroud opening instead of relying on the air somehow squeezing it's way up between the shroud and firewall and into the fan opening?
+Also, where does the air that feeds the carburetor come from?  I've read that the engine compartment must be sealed properly so no hot air gets in.
+Does the carburetor air come through the row of louvers just above the decklid?  But if the engine compartment is sealed, then after feeding the carburetor how does that air get out?
+And finally like I mentioned above I've read that you should keep your seals in good shape (sparkplug boots and all other rubber seals) so the hot air doesn't recirculate into the engine compartment.  How does this apply to say full-bodied kitcars like a Porsche spyder replica without inner fenders under the fiberglass body portion or a baja Bug with 1/2 of engine exposed?
+~~~
+Description of the VW Cooling Air System
+By Rob Boardman, in response to the foregoing.
+The fan draws air in through the slots under the back window, and in later cars from the slots in the engine lid too (it's a bigger fan in those engines - more later on that).
+The fan inlet itself is the circular hole in the front of the fan shroud - facing the firewall.
+The shroud guides the air down over the cylinders and heads, and also through the oil cooler on the left side of the engine.  On the earlier engines, the oil cooler is inside the shroud, so the left side cylinders and heads get warm air from the oil cooler instead of cool air, so that side (especially #3 - left front cylinder) runs a little hotter than the right side.  This was okay for engines up to about 60hp (1200cc, 1300cc, 1500cc and the very first 1600cc were all less than 60hp), but with more power than that, the left side overheats badly, so the later engines had the oil cooler moved forward into a "doghouse" (a box on the front of the fan shroud) so all cylinders got nice cool air for cooling. The used doghouse oil cooler air is dumped overboard through a special duct and a hole in the front tinware - near the top of the gearbox (on the left side of the engine).  The doghouse fan is a little wider than the earlier fans, so it can provide a separate airflow to the oil cooler (extra ducting inside the shroud) and also provides extra cooling  air to the cylinders and heads.
+The Beetle engine fan is called a centrifugal fan, since it sends the air from the center outwards - like a centrifuge.  Inside the shroud are metal guides which turn the air downwards towards the cylinders on each side of the engine. (The other type of fan is called an axial fan, and works like a room fan or propellor. Aircooled Porsche cars use this type of cooling fan).
+Getting back to the cooling airflow -- it travels down over the cylinders and heads, and then turns backwards under the engine by the metal ducting under there, and exits out under the back of the car.
+There are movable cooling flaps just above the cylinders/heads (see our discussion of the
+Cooling Vanes and Thermostat
+).  These cooling flaps almost close when the engine is cold so it gets only a small amount of cooling air until the engine heats up, then the thermostat opens the flaps for full cooling.  When fully open, the cooling flaps also help direct more of the air at the very hot heads, and less to the slightly cooler cylinders, so the engine has more even temperatures.  Some people remove these flaps thinking that "VWs don't need them".  Well, the engine will run OK without them, but the heads are then undercooled, and the cylinders overcooled, so the engine wears out faster.  It takes longer for the engine to warm up too, so in cold climates no movable flaps also means less heat inside the car!
+"Sealing the engine" refers to keeping the top of the engine separate from the bottom, so that hot used cooling air underneath cannot mix with fresh cool air above the engine (inside the engine bay).
+The two outlets in the sides of the cooling shroud provide air for the cabin heating - this air is forced down through paper tubes, under the engine and then forward, through heat exchangers which surround the exhaust headers for the front cylinders - it then travels further forward to the cabin through flexible pipes to fittings under the rear seat, and from theor it flows forwards through heater channels under the doors to the front footwell and up to the windscreen.
+The carburetor takes it's air from the engine bay, so it gets it's air from the slots under the rear window too - just like the cooling fan.  After the carburetor air has been through the engine, it comes out the exhaust pipes of course.
+You mention open-engine designs like Beach Buggies, and the fact that they aren't "sealed".  This is quite true, and those engines seem to cope OK, but then the very open design has less restrictions for the fresh cooling air, so there might be some mixing of used and fresh air, but since the design IS so open it's easier for the fan to pull in fresh air anyway.  The total cooling airflow may be a little higher for these engines, because they dont have to pull the air in only from the rear of the car.  The way the engines are used would account for some of it too -- an engine at constant speed will make continuous heat, but beach buggies are usually on and off the throttle, and this makes for less total heat.  They are often set to run a little rich too (for maximum power), and rich mixtures mean more cooling from the evapourating gasoline inside the engine.
+The spark plug boots which you speak of are a slightly different thing - their main job is to stop the cooling air from leaking out BEFORE it goes through the cylinder heads - in other words they keep all the cooling air contained inside the tinware so it's forced through from top to bottom through the head fins.  If the engine does not have spark plug boots, it will run a lot hotter at the cylinder heads. This was measured many years ago by Bob Hoover and the engine ran at up to 25f hotter with the spark plug seals missing.
+I hope this description has helped.  The VW cooling system is certainly different to the usual water cooled cars, but it's VERY successful, since over 22,000,000 Beetles have been made, plus all the Type2s (Kombi etc) and Type3s (Squareback etc), Things, Kharmann Ghias and so on.
+The one absolutely essential spare part you should always carry in a VW (as well as the spare wheel of course) is a fan belt, and the tools to change it.  If your generator/alternator light comes on whilst you are driving, you have to stop immediately and see if the fan belt has broken - the engine will overheat VERY quickly without the fan working.
+~~~
+Point-by-Point Response -
+Which way does the cooling air travel through the shroud?  Am I right to think that the air is sucked by the fan through the opening on the other side of the shroud by the firewall area?
+Yes.  The fan sucks air in through the large opening at the front of the shroud - near the firewall.
+And then it is pushed by the fan down and over the heads and cylinder fins and exits under the back of the car?
+Yes.  Later models use a "dog house" style fan shroud, which has a bulging extension at the front for the oil cooler (hence the name "dog house") this extension gets it's share of cooling air from the fan and uses it to cool the oil cooler. The used air exits through a small channel, and is routed under the car next to the transmission.
+Earlier shrouds had the oil cooler mounted inside the shroud, but it was found to cause overheating when the factory stepped up the size of the engine to 1600cc. The warmed-up air from the oil cooler on those shrouds was used to cool cylinders #3 and #4 on the left side, but it was no longer "cool" because of the heat from the oil cooler. So especially the #3 cylinder had a tendency to overheat in extreme conditions.
+And in that case what is the purpose of the hoses that attach to the nozzles on either side of the shroud?
+Those provide fresh air for the cabin heater heat exchangers (aluminum casting around the exhaust pipes, wrapped in sheetmetal). The air heats up inside the heat exchangers and is then pushed inside the car by the pressure created by the fan in the fan shroud.
+To maximise engine cooling in the summer, many people block off these hose outlets in the shroud. If you remove the hoses, you must block the outlets AND the respective holes down in the engine tin, otherwise the fan will suck in very hot air from the exhaust pipe area under the tin through the open cabin heater inlet pipes.
+Sealing off the heater pipe outlets in the fan shroud will increase the air pressure inside the fan shroud a little and would result in slight increase in airflow to the cylinders (see our article on
+Solving Overheating Problems
+for better ways to increase cooling). There's not much in it though - the heater outlets have separate air paths inside the fan shroud, which reduces the mixing of cooling air to different areas.
+BUT - VW designed the heat exchangers to have a small continuous flow of air through them (which is spilled out through small slots at the front (front is front of car) of the heat exchangers when the cabin heaters are turned off) - for several reasons.
+It results in less heat-soak from the very hot exhaust headers which run past the rocker covers on the way to the muffler.  This  radiant heat from the exhaust headers would increase the temp of the oil in the rockers covers a little but the flow of cooling air around the header pipes reduce the temp the rocker covers nearby "see", and
+When there is any moisture in the air it can get trapped between the header pipe and the heat exchanger outer cover and increase the likelihood of rust.  Running a continous small stream of air through the heat exchangers prevents a build-up of moisture inside the heat exchangers.
+If the heat exchangers are left open (paper tubes disconnected) and no fan air is flowing through them, they can slowly accumulate oily residue and dirt from under/around the engine, which you will discover when you connect them up and use the cabin heater next winter.
+Is the cooling air actually picked up from under the car by where the transmission is and goes up between the shroud and firewall into the fan opening?
+No.  It is drawn in through the vents below the back window, as long as the engine bay seals are in good shape.  Cool air in the top of the engine, hot used air out the bottom.
+That's where you got a bit off track. The engine bay is sealed to prevent air from under the engine reaching the fan, because the air exiting under the engine is very HOT. The fan gets it's air through the vent holes in the engine lid, and under the rear window. Fresh air comes in from there, and hot air exits from under the car.
+*Some* warm air is sucked in to the air filter via a pre-heated air hose, identical to the heater hoses that connect to both sides of the fan shroud. The air filter has a thermostat controlled flap that allows warm air to be sucked into the carburator from under the right side cylinders, when it's cold enough outside for the engine to need warm air for the carburettor. This helps prevent carb and intake icing.
+If that is the case isn't that rather ineffective? Wouldn't it be better to have actual ducting pick up the cold air from the outside and feed it directly into the shroud opening instead of relying on the air somehow squeezing it's way up between the shroud and firewall and into the fan opening?
+That's what it does.  There is actually a small high pressure vortex that forms over/behind the back window at speed.  Getting sufficient cool air in the vents is no problem.  Also note that the rear engine tin prevents any air from being drawn up from underneath/in front of the engine.
+Also where does the air that feeds the carburetor come from?  The few magazine articles that I've read tell you to make sure your engine compartment is sealed properly so no hot air gets in.
+Again, the UPPER engine compartment is sealed from the BOTTOM side. The upper side is open to the atmosphere via the under-window slots, and engine lid slots on 1970+ cars. The carburettor gets its air intake from the upper engine area, via the under-window slots. When the carburettor needs warm air to stop carb icing, it gets that air from the #2 cylinder head finning via the paper tube running up to the caburettor inlet snout.
+Does the carburetor air come through the row of louvers just above the decklid?
+Yes -- the same louvers that feed the fan. Later models had louvers in the decklid too, when the engine size grew to 1500 and 1600cc. (Forget about using a non-louvered decklid with a souped-up street engine unless you provide more fresh air to the carbs and fan from someplace else.)
+But if the engine compartment is sealed, then after feeding the carburetor how does that air get out?
+Like I said, the engine compartment is not fully sealed from everything else, it's just that the upper engine area is sealed by the horizontal breast plate from the underside of the engine so the hot air from under the engine doesn't get drawn upwards into the upper engine area and into the cooling fan. The carburettor is in the upper engine area so it gets nice fresh air too.  It mixes fuel with the air, which then travels via the horizontal inlet manifold to the two cylinder heads where it's burnt and the burnt gases are expelled out the exhaust pipe.
+And finally, I've read that you should keep your seals in good shape (sparkplug boots and all other rubber seals) so the hot air doesn't recirculate into the engine compartment.
+Exactly. Especially the large rubber seal that goes between the engine tin and car body, it surrounds the entire engine. That seal is critical for engine cooling. But even those small spark plug lead seals are important - they prevent cooling air escaping before its forced down over the cylinder head fins. Other open holes like unused cabin heater holes or the warm air carburettor intake being disconnected can leave open holes in the horizontal breast plate and this results in a lot of hot air from under the car being sucked up into the fan, so your engine is trying to cool itself with hot air!
+How does this apply to say full-bodied kitcars like a Porsche spyder replica without inner fenders under the fiberglass body portion?
+On these it is a known place for improvement. You MUST make sure that no hot air finds it's way into the fan. You can fit a huge tube to the fan opening and bend it upwards, so that it can only suck fresh air from the top of the car or from someplace else that has enough cool air.
+... or a baja Bug with 1/2 of engine exposed?
+On a baja, most of the engine is exposed, so there's no tinwork to "capture" the hot air. The hot air has a lot of room to be blown away by wind etc.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,146 @@
+Automatic Choke
+Automatic Choke
+See also our
+Automatic Choke Adjustment Procedure
+.
+~~~
+The following topics are discussed in this article -
+Function of the Automatic Choke
+Design/Operation
+The Choke Vacuum Mechanism
+Automatic Choke Adjustment
+Automatic Choke Wiring
+Troubleshooting
+Automatic Choke Replacement
+Questions and Answers
+Automatic Choke Adjustment Article by Ron Van Ness
+~~~
+Function of the Automatic Choke
+The function of the automatic choke is to regulate the air/fuel mixture during engine startup.  It produces a higher concentration of fuel (a "richer" fuel/air mixture) when the engine is cold, then gradually increases the concentration of air (gradually bringing the fuel mixture back to a normal strength called Stoichiometry) as the engine warms up.  This is accomplished by a butterfly valve in the throat of the carburetor, at the very top. When this valve is closed the flow of air is very much reduced and the fuel/air mixture is "rich."  When the valve is open (i.e., the butterfly is standing straight up), the flow of air is maximized and the fuel/air mixture is balanced - stoichometric.  The position of the choke butterfly valve (and thus the fuel/air ratio) is controlled by the round canister device on the upper right side of the carburetor with a wire attached to it.  This is the automatic choke.
+The black wire on the choke, as well as the black wire on the idle fuel cutoff valve (solenoid) in the side of the carburetor and the backup lights, all connect directly to the + side of the coil, which receives power from the ignition switch.  This terminal on the coil is simply a convenient point to provide power to these components when the ignition is on.
+Note:
+It is very important to note that in VW wiring, black insulation means "has power with the ignition turned on."
+The way the choke works is this:  When the engine is cold the choke wants to close up so it's ready for a cold start (i.e., "rich" fuel/air mixture). When you press the throttle, the stepped cam on the left side of the carburetor (left is left side of the car) will rotate, allowing the choke butterfly to close and will hold the throttle slightoy open - at high-idle, which is needed to keep a cold engine running. When you turn the ignition on, power flows to the coil for the ignition system; it also opens the idle fuel cutoff valve (solenoid) so the car will idle, and it also starts opening the choke.  A heating element (the round thing on the right side at the top of the carburetor) expands as the electrical current to it warms it up.  This starts to slowly open the choke and rotate the stepped cam so that the high-idle gradually drops back to normal.
+It takes about a minute for the choke to open completely (depending on how cold the weather is to start with).  When the choke is fully open, the butterfly valve in the throat of the carburetor will be standing straight up. whenever you start a VW engine, you should drive straight off - don't let it idle first to warm up the engine.  Driving gets heat into the engine at about the same speed as the choke opens up, so the car will run smoothly (with choke) on a cold morning, and also run smoothly as the engine warms up.  On a really hot day, the choke will not close up much at all with the engine off, as the engine is already somewhat warm (per the ambient temperature).
+~~~
+Design/Operation
+On a cold morning before you start the engine, take the air cleaner off and look down the carburetor throat.  Just under the accelerator pump delivery tube is the choke butterfly. Pull the throttle arm back gently and rotate the stepped cam rearward.  As you do this, the choke should close across the throat of the carburetor. If it doesn't close almost right up, it can be adjusted.
+As indicated, the guts of the automatic choke are located on the right side of the carburetor at the top. The mechanism consists of a bi-metallic coiled spring inside of the round outer cover.  The cover is held in place by a metal retaining ring with three screws. The bi-metallic spring is warmed by a connection to the (+) terminal on the coil (black wire).  The spring unwinds at the same rate as the engine warms (hopefully). There is a hook on the end of the bi-metallic spring that controls the choke shaft running into the carburetor, which rotates the choke butterfly valve.
+It is the unwinding of the bimetallic spring that gradually opens the butterfly valve in the throat of the carburetor, controlling the richness of the fuel/air mixture.  As the bi-metallic spring warms up it slowly opens the butterfly valve in the throat of the carburetor, progressively reducing the rich  fuel mixture.  At the same time the high-idle gradually drops back to normal.  Once the engine is fully warm, the choke butterfly will be fully open (i.e., standing straight up), producing the proper fuel/air mixture for the fully warmed engine.
+The automatic choke is a 'timed' device.  It opens at a set rate as soon as the ignition is turned on (receiving power by way of a black wire connected to the (+) side of the coil).  The warm-up of the choke is designed to match the rate at which the engine warms up, provided you drive off as soon as you start up (VW recommends this) rather than 'warming it up' first; and provided you still have the cooling flaps in the fan shroud (these close off a lot of the cooling air when the engine is cold, speeding up engine warming).
+If you have no movable cooling flaps, and 'warm it up' by idling for a few minutes, the choke will open up assuming the engine to be warm, when it isn't!  So it dies at idle for some time until the engine does get up to running temperature.  In essence, the engine runs 'lean' in this condition, which is why you can restart it easily with a few pumps on the throttle (squirts more fuel in).  Same story with 'catching' it before it dies, a hard pump on the throttle gives it a squirt of fuel which replaces the missing rich mix it was expecting from the (now open) choke.
+Just to keep the wiring sorted -- the (+) terminal on the coil also provides power to the idle shut-off solenoid in the left side of the carburetor (prevents "running on" after you turn the engine off) and to the back-up lights.
+~~~
+The Choke Vacuum Mechanism
+Dave wrote to Rob - There seems to be something wrong in my automatic choke mechanism that prevents the butterfly valve from closing completely, also preventing the stepped cam from rotating all the way down to its highest idle point.  No amount of adjustment will force the butterfly to close all the way.  This results in what my sons mechanic in Provo referred to as cold bloodedness (theres a good technical diagnosis for you!) -- the choke warming up before the engine does, with attendant stuttering and snorting and dying.
+I took the automatic choke in my old carburetor partially apart last night to see if I could diagnose the problem.  There is a curved slot in the plastic insert inside the mechanism that the lever on the choke shaft runs through.  My first thought was that perhaps this plastic insert was installed incorrectly.  But on examination of the insert from my old carburetor, it is obvious that the insert goes in only one way.  A tongue-in-groove arrangement assures this.
+So then I turned my attention to the vacuum mechanism.  Im unclear as to how this device works.  There is a diaphragm inside with a notched rod attached (the vacuum diaphragm rod, the manual calls it) that runs into the automatic choke.  This diaphragm inside the vacuum mechanism is spring-loaded and actuated by vacuum from the base of the carburetor, below the throttle butterfly.  When vacuum is applied, the diaphragm is pulled in against the spring, pulling in the attached rod, closing the choke and enriching the mixture.  (Im not clear as to what causes the vacuum, but that is neither here nor there at this point.)
+If the vacuum mechanism failed (that is, if the diaphragm failed), the spring would keep the vacuum diaphragm rod pushed into the choke all the way all the time.  In this event only the bi-metallic spring would be controlling the choke -- when cold, the bi-metallic spring would be pushing the lever down as far as it could, limited by the OTHER (rearward) end of the notch in the vacuum diaphragm rod!
+So -- I think Ive talked my way through the problem.  I think the diaphragm in the vacuum mechanism has failed, and the rearward end of the notch in the vacuum rod is preventing the choke butterfly from closing all the way.  Supporting this conclusion is the fact that I CAN push the butterfly valve all the way closed, but as soon as I release pressure it returns to about 4-5mm open.  Obviously there is a spring somewhere that is causing this, and the only spring it could be is the one inside the vacuum mechanism.
+Bottom line!  If my reasoning is correct, the diaphragm inside the choke vacuum mechanism has failed.
+Dave purchased a carburetor overhaul kit from the local auto parts store and replaced the diaphragm in the choke vacuum mechanism.  This done, the choke butterfly now closes all the way.  It is unclear, however, what actually caused this problem.  The workings inside the automatic choke remain a candidate.  Input from anyone reading this would be most welcome.
+~~~
+Automatic Choke Adjustment
+Adjustment of the automatic choke is very important.  The automatic choke is adjusted by loosening (but not removing) the three screws in the metal ring that holds it in place.  The choke canister can then be rotated underneath the ring.  Turning it counter-clockwise (viewed from the right side) increases the amount of choke.  For detailed instructions see our
+Automatic Choke Adjustment Procedure
+.
+~~~
+Automatic Choke Wiring
+The automatic choke receives power from the positive (+) terminal on the coil (#15) -- see the
+schematic
+which shows this wiring arrangement.  "N" on the schematic is the coil.  You will see a black wire coming into the positive terminal on the coil from fuse #12, which receives power from the ignition switch, so the choke receives power whenever the ignition is on, allowing the the coil inside of it to warm up and expand.
+Note
+the three black wires (or a single wire with three connectors) leading from the positive terminal on the coil -- go the backup lights, the automatic choke, and to the idle cut-off solenoid.  That terminal on the coil is just a convenient place to obtain power to these components.  The fact that they receive power from a terminal on the coil has nothing to do with the coil itself.  The three wires could each go up to fuse #12 individually, but that would be very inconvenient.  So VW chose this configuration.
+You may have to get creative about how you attach so many wires to the single terminal on the coil.  Any auto supply store can sell you a little T-shaped adaptor that will fit on the terminal, with three "wings" (if you will) to which the three black wires can be attached. or your might find that a orevious owner has already modified the wiring to a single wire with three connectors along it.  Either method works well.
+Please be sure to use black wire for this purpose -- black means "power when the ignition switch is on" in the VW world.
+The other side of the coil has a single (usually green) wire going to the distributor - there is only that one wire connected to that connector on the coil.
+~~~
+Troubleshooting
+First check to make sure that the wire from the coil is connected to the heater element on the choke.
+If the wire is connected, make sure power is actually being received at the terminal on the choke. You can do this using a
+VOM (Multimeter)
+(a test lamp with a low wattage 12-volt light bulb will do).  With the ignition switch on (engine not running) connect one lead to the terminal on the automatic choke, the other to ground.  You should read about 12 volts on the VOM (or the test lamp should be shining brightly).
+To test the bi-metallic element itself, first remove the power lead from the coil.  Then set the scale on the VOM to about 10 ohms (not critical but a low figure and it must be ohms) and touch the probes to the element connector and the metal body of the carburetor.  If you get any reading the element is intact; if you get no reading it's broken.
+If you have power to the choke and the bi-metallic element checks out okay, work through the
+Automatic Choke Adjustment Procedure
+.
+If the choke has power, the element is good, and the choke is properly adjusted, then it SHOULD be opening the choke as the engine warms up.  If not, the choke must be replaced.
+Other troubleshooting tips -
+If your spark plugs become very black and sooty very quickly, this may be an indication that the choke is not working (the butterfly valve remains closed producing an over-rich fuel/air mixture).
+A "sticking" choke could be a physical problem with the butterfly itself, a broken choke element, or a ruptured vacuum diaphragm.  The choke element and the vacuum diaphragm are both replacable separately. The vacuum diaphragm is included in the standard carburetor overhaul kit (see our
+Carburetor Overhaul Procedure
+).
+Another test, before you decide to replace the choke element or the whole carburetor -- wire the choke butterfly open (using the stepped cam and the little hook on it which is connected directly to the choke butterfly), and drive the car around.  It will be hard to start without the choke but once warmed up it should drive smoothly.  If it doesn't, then the whole carburetor MIGHT be ready for replacement, or it may just need a tuneup.  See our
+Carburetor Tuneup Procedure
+.
+If it still runs badly after doing the tuneup, then the carburetor is almost certainly toast.  New carburetors can be purchased complete from
+Aircooled.Net
+,
+California Import Parts, Inc.
+, etc. 
+One VW carburettor rebuilder we are aware of is Tim@volkzbitz.com . He rebuilds them better than new - with quality fittings.
+In summary -
+The choke element is defective, it can be replaced separately (by anyone who can use a screw driver).
+If the choke butterfly valve will not close all the way, a ruptured vacuum diaphragm may be the problem.
+If the choke is getting power and the element is not broken, the choke is adjusted properly, and the vacuum diaphragm is okay, the carburetor itself may be the problem.  A full replacement might not be necessary -- do an
+Overhaul
+first.
+~~~
+Automatic Choke Replacement
+New choke spring assemblies (with heating coil behind) are available --
+Aircooled.Net
+has them (stock number FSK0013) for about $28 US.  Most other big VW places should have them, too.  (For example,
+California Import Parts, Ltd.
+,
+Mid-America Motorworks
+, etc.)
+If the carburetor cannot be tuned,
+Air In-leakage
+may be a possibility.  You may find it worth spending a few dollars ($160 US) for a complete 34 PICT/3 carburetor at
+Aircooled.Net)
+.
+~~~
+Questions and Answers
+Someone wrote - Not long after purchasing our '72 SB we started to experience cold starting troubles and observed that the upper butterfly in the carburetor did not operate. We removed the automatic choke and then reinstalled it, and everything was fine for a few months. Then the cycle started again.  Any insight as to why this would continue to happen?
+Rob responded - That's an unusual problem - I presume you are saying that the pin which operates the choke inside the choke canister is slipping off all the time.  I haven't heard of this happening before, and I don't have any immediate answers for you.
+Let's see if I can work through this -
+The choke butterfly has a pin which sticks through the choke canister, through a curved slot in a circular plastic "dish" (for want of a better word.)
+The choke coil spring has a hook on the end of it which wraps round the projecting pin, and pushes the pin around to move the butterfly.  Does your choke coil spring have a full U turn in the hook at the end?  If it's damaged it could slip off the pin.  The pin itself projects nearly, but not quite to the outer rim of the choke canister - maybe 3 mm short of the canister rim.  I don't know if it's possible to maybe bend the arm under the plastic dish a little to extend the pin out towards the canister rim.
+The plastic "dish" has to sit well down inside the canister.  Its rim sits about 4-5mm down inside the rim of the choke canister (a mm or two lower than the outer end of the pin).  If it's not sitting that far in, it would stop the choke coil spring from sitting inside the canister far enough to make good contact with the pin.  In other words, is there something stopping the plastic "dish" from seating properly inside the canister?
+Someone wrote - I just purchased a '69 Bug ... a mechanic is telling me I need a new carburetor since the choke is stuck; is there anyway to fix or replace the choke without buying an entire new carburetor?  The engine number is AH0395260.
+Rob responded - Since it's an AH engine (a '72 or '73 1600 engine), it should have a 34PICT/3 carburettor.  The actual choke butterfly is part of the carburettor and isn't sold separately but the heater element (the "automatic" bit) is replacable separately.
+Someone wrote - I recently purchased a '66 Beetle. Now that we are heading into winter and the mornings are colder, I am noticing that when I fire up the old girl, she literally revs her head off until the choke turns off.  I am  guessing around 2000rpm with choke on. She literally screams...!  She idles and runs OK (with a slight flat spot when accelerating) once warmed up.  Is there an adjustment I can make to slow down the revs when choked?
+The choke is set to the lower of the three marks.
+Rob responded - When the engine is revving it's head off is the fast idle arm sitting at the top of the stepped cam or only half way up?
+If it's at the top you'll have to see if you can turn the choke barrel some more (loosen but don't remove the three screws around the hold-down collar). Look down the carburetor throat and set the choke (cold choke and cold engine) so it JUST closes. It sounds like the choke is set further "on" than it needs to be, so it's forcing the throttle further up the stepped cam.  Each carburetor varies a bit, but most throttle arms will sit on the stepped cam a few steps down from the top when the
+choke is on (cold).
+When warm does it idle OK or tend to stall sometimes even with the idle
+rpms turned up a bit?  (you mentioned a slight flat spot).
+If it has trouble idling smoothly when warm then you might also have a worn throttle shaft bearing which makes the carburetor run lean (which is always worse when idling than at speed) and so when cold the choke NEEDS to be set more "on" to keep it running.
+You can't reduce the choked rpms without affecting the "warm" idle speed - the only real adjustment for the choke itself is by rotating the choke barrel.
+If you have a 34PICT3, H30/31 or a 31PICT3 carburettor (any of the carburettors with two adjusting screws in the left side), be aware that you can NOT use the Fast Idle screw on the rear side of the carburettor to adjust the normal idle speed - that is done with the larger Volume screw on the left side of the carburettor.  The Fast Idle screw is set by screwing it inwards until it just touches the bottom of the stepped cam, then screwed another 1/4 turn inwards. it is not touched again.  That ensures that the throttle butterfly is opened 4 thousandths of an inch which provides an good venturi effect right next to the idle port in the throat of the carburettor - you cant mess with that setting. Then when the choke is operating, that screw opens the throttle (via the stepped cam) in conjunction with the choke.
+~~~
+Automatic Choke Adjustment
+The following article was written by Ron Van Ness (rvanness@neuron.uchc.edu) in response to a question
+about how to adjust an automatic choke.
+With the weather changing in most places, this info should be beneficial to a few auto choke-carbureted folks out there who only have the Muir manual to go by...
+I don't have a manual in front of me, so I can't reference an exact page number for the official procedure, but I can tell you how to check/adjust your choke. First, disconnect the wire to the choke and remove the throttle return spring that goes from the throttle lever to the arm atop the carburetor. Loosen the three screws around the plate that holds the choke down so that they no longer screw into the carburetor body--they will still be held loosely by those white nylon washers. When you have loosened all three you can gently pull the plate back with all the screws/washers attached and put it somewhere safe, being careful not to drop those washers and screws. The element should look just like an old clock spring to you and there should be no distortion in the spring (i.e. the element should wind around itself with smooth curves and evenly--if it appears bent/mangled or if it falls out of its housing, you know you'll need a new choke).
+Now to adjust the choke (do this with the engine cold). You'll notice when you look at the element it terminates in a little hook. That hook grabs the lever that moves the shaft/butterfly valve on top of the carburetor. Loosen the clamp holding the rubber tube from the aircleaner to the top of the carburetor, pull the rubber end off the carburetor throat and push it back out of your way. For a visual aid, put a hand held mirror over the carburetor throat so you can see the valve and move the lever that the choke controls. You'll see that when you move the lever down (assuming you properly engaged the element hook on the lever) the butterfly valve closes all the way. With the choke removed move the lever back and forth--the shaft should open and close the valve smoothly. If it does not, you have a bent shaft or worn bore on the carburetor and that could be the cause of your problem--getting a good top half off a used carburetor (it's the bottom end throttle bushing that tends to wear out more than the top) will quickly solve the problem.
+Now put your choke back in place on the carburetor (forget about the plate/screws for now) and place it on so that the element hook will engage the lever when you push it in place. Watch the mirror and move the choke slightly forward and backward. You'll notice that the valve opens (choke rotated back - anticlockwise) and closes (choke rotated forward - clockwise). You want to set the choke so that the valve just barely closes for cold weather. To achieve this, gently turn the choke so that the valve just closes and then back it off just a hair so the valve is open a sliver. You'll have to tweak this initial setting a bit to get it just right--I'll describe that later--but this will get you in the ballpark initially.
+You'll notice that there is a dot stamped on the choke disk that lines up between 3-4 ridges on the carburetor body. Lining up this dot with the lower ridge (choke more closed) is a good setting for cold winter days that require longer warmups. Lining the dot up with the upper ridges will open the valve which is better for warmer days when you don't need full choke. The element does not expand/retract based on engine heat (though engine heat affects it somewhat), but primarily on the duration of the electrical current heating it from the coil wire, so even on a warm day, you'll have to wait almost as long for the choke to spring open the same amount. That's why you have to manually adjust its position when the climate changes.
+If you find when you turn the choke element so that it just closes the valve that the dot does not line up at all with the ridges on the carburetor body (i.e. it's way below them) you have a distorted element and you'll have to replace your choke (you probably noticed this in your visual inspection--could've been the result of someone overturning the choke in the past or the element has simply worn itself out of shape).
+If the choke looks good and you position it so that the valve is just cracked open, you can put the plate/screw assembly back over the choke and tighten the screws, being careful not to disturb your setting. DO NOT put a lot of pressure on those screws. Just enough to snug them down to hold the choke in place--the nylon will compress a little giving good fit. It's tempting to give them an extra turn, but you will strip the housing if you are too zealous. If you strip the threaded housing the quick solution is easy: just find a slightly bigger screw at a hardware store and thread it in. But you don't want the hassle of potentially damaging the threads on the carburetor body so go easy on them and you won't have a problem. Reinstall the spring on the throttle arm and reconnect the choke wire.
+You'll probably have to make adjustments to your choke setting to zero it in after observing a few cold start warmups. Before starting the engine, pump the pedal once--this will pull the throttle arm back and the choke element will act as a spring to snap the valve closed and set the step cam. For your first warmup, you might notice that your engine rpm is high a little longer than it should be, or it idles too low and stalls when cold. In this case, your choke setting needs some tweaking. This is because the choke not only closes the butterfly valve, it also controls the stepped cam on the left side of the carburetor that will affect your idle speed. When your engine is cold, notice on which step the throttle arm screw rests. The higher the step, the higher the idle, the longer the warmup time before the choke disengages. If your engine idles high for a little too long, just remove the throttle return spring and loosen the three choke screws a bit and gently slide back your choke a hair--now the idle screw should rest on a step lower. Tighten the screws and reinstall the spring. Reverse this procedure if your choke does not hold the step cam at a high enough rpm (your engine will stall when warming up at idle because the choke element will disengage the lever too soon). You will eventually get it just right.
+Use both the step cam and the dot on the choke relative to the ridges on the carburetor body as your guides for positioning the choke and if you get really good at it, you can tweak the adjustment a tad even when the choke is warm so that for the next cold startup, your choke will be set perfectly.
+Another thought: Look at the step cam and you'll see a little slot cut into it--a roll pin should be visible. This pin limits the rotational travel of the cam and is secured in the carburetor body. If the roll pin has vibrated itself out and is no longer there, your step cam could fall back and make idling cold difficult. If it's missing you just have to tap a new rollpin in place.
+Also, make sure the wire going from the coil to the choke is actually connected on both ends--that might be your only problem if your choke is set properly.
+You have to tweak the choke a few times a year if you live in a region that gets seasonal changes (most places) so that your morning warmup is hassle-free. Don't disable your choke as Muir advocates, just keep it properly adjusted.
+Good luck,
+- Ron Van Ness
+rvanness@neuron.uchc.edu
+'71 Westy
+Rob's note:  This is quite a good description and should get your choke workiing well.
+* 
+                    * * * *
+Design by
+Erin

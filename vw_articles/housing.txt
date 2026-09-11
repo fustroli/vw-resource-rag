@@ -1,0 +1,33 @@
+Fan Housing Removal
+Fan Housing Removal
+(Engine IN the car.)
+~~~
+Note:
+The fan housing CAN be removed from the car without removing the engine -- to replace the cooling vanes, for instance.  The procedure for removing the fan housing with the engine in the car is as follows:
+Remove the fan/alternator belt as follows -
+The front half of the alternator pulley has two cut-out slots in it.  Inserting a thin screw driver in either slot locks the pulley so you can loosen/tighten the 19mm retaining nut. Remove the retaining nut on the alternator shaft with the 19mm wrench, then slip off the washer, any spare shims, and the outer pulley half. Take note of how many shims are between the pulley halves so you can easily re-tension the pulley on reassembly.
+Rob's note:
+If the reason for this process includes replacing your alternator or working on the cooling fan for any reason, You can use the process above to loosen the large 36mm fan nut whilst the alternator is still locked into the car.  BEFORE you remove the alternator pulley nut, with that thin screw driver inserted into the front pulley slot and locking the shaft, the fan nut inside the fan opening can be accessed with a 36mm socket and short extension bar.  It's torqued to 40 ft-lbs so not hard to loosen.  Doing this now means you don't have to try to hold the alternator shaft from rotating later whilst trying to remove the fan from its shaft. Of course it then becomes the last job when replacing the fan shroud assembly so DON'T forget it!
+Slip the belt off the crankshaft pulley and remove it. On some cars there is a piece of tinware which wraps around the engine pulley - if you have one, remove that before removing the fan belt from the egnine pulley.
+Remove the inner pulley half, being careful to remove the Woodruff key and stow it and the shims and nut in a baggie in a safe place.
+Remove the air cleaner.
+Detach the accelerator cable from the throttle lever and remove the fuel line from the fuel pump to the carburetor.
+Remove the carburetor.
+Pull out the accelerator cable guide tube and pull the accelerator cable forward, out of the fan housing, so it's hanging loose near the gearbox.
+Remove the cable from the negative terminal of the battery.
+Label and then detach the electrical connectors from the alternator. Move that wiring out of the way - over to the left side of the engine bay.
+Loosen the strap that holds the alternator to the support stand and slide it off the stand so it's just hanging on the alternator.
+Disconnect the ignition cable from the coil and the fresh air tubes on either side of the fan housing.  Disconnect the spark plug wires from the supporting brackets across the fan housing (three places).
+Remove the hood and the hood hinge brackets. You must remove the brackets to get enough clearance to lift the fan shroud.
+On the left side of the car, reach down in front (front) of the fan housing with a 10mm box-end wrench (ring spanner) and remove the bolt for the oil cooler cover and the bolt that holds the fan housing to the oil cooler flange. This is awkward and you'll be working largely by feel.
+Note:
+If these two connectors are cheese-head screws, replace them with 10-mm hex-head bolts.  This will save you lots of trouble reinstalling them and removing them next time (10-mm open-end wrench (spanner) instead of an offset screwdriver.
+Remove the oil cooler cover and the air duct.
+Under the car on the right side, unbolt the thermostat bracket from the engine case, and unscrew the thermostat from its rod. The rod will rise with the fan shroud when we get to that point.
+Disconnect and remove the connecting link between the cooling flaps in front of the fan housing, near the fan opening (don't lose the spring).
+Remove the single bolt on each side of the base of the fan housing, near the spark plugs. The one on the left also supports the metal fuel line, and you may need to disconnect this line from the fuel pump to move it out of the way.
+Carefully raise the fan housing with the alternator attached and remove it from the car. It must be lifted as high as it can go inside the engine bay to clear the oil coolers. once out of the car you can remove the four mounting bolts from the outer fan cover on the rear of the shroud; this will allow the alternator/fan assembly to be removed from the shroud.
+* 
+                    * * * *
+Design by
+Erin

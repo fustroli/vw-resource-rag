@@ -1,0 +1,38 @@
+Ignition Links
+Ignition Procedures
+Please see our discussion of
+The VW Interior
+for more information.
+~~~
+The VW Ignition System
+A fairly exhaustive treatise on the VW ignition system is given at this link.
+The VW Distributor
+An introduction to the VW distributor, with links to related material.
+Distributor Installation
+You have the distributor out - now how do you get it back in properly?
+Installing the Distributor Drive Pinion
+You can do this yourself, but it's a bit tricky.
+Distributor Tuning
+Links to pertinent topics related to the tuning of the distributor are provided here.
+Ignition Wires and Plugs
+Pertinent discussion of ignition components.
+Misfiring
+A treatise from Rob Boardman on the subject of misfiring.
+Capacitor Test
+A snippet from an Aussie manual.
+Capacitive Discharge Ignition System (CDI) Installation
+For a hotter spark.
+Electronic Ignition
+General Discussion and a Bob Hoover Sermon.
+Compu-Fire Electronic Ignition Installation
+Procedure for installation of the system in an SVDA distributor.
+Ignition Switch Replacement
+If you short the black wire from the ignition switch, you'll be doing this!
+Hesitation
+Does your Bug stumble and hesitate when you press on the accelerator?  Exasperating, but it can be fixed!
+Note:
+Since this problem involves both the ignition system and the carburetion system, we have put this material in both places.
+* 
+                    * * * *
+Design by
+Erin

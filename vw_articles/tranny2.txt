@@ -1,0 +1,97 @@
+Transaxle Removal/Replacement
+Transaxle Removal/Replacement
+~~~
+Topics discussed in this procedure -
+Transaxle Removal
+Transaxle Replacement
+~~~
+Transaxle Removal
+Remove the engine from the car per the
+Engine Removal
+procedure.  Cover the engine and store it in a safe place.
+Note:
+This procedure assumes that you have just removed the engine and that the car is still supported on blocks at the height necessary to have removed the engine.
+Note:
+This is a good time to check the constant velocity joints (see our article on
+Constant Velocity Joints
+).
+Reposition the pedestal of wood under the transaxle and place a drain pan on top of it.  Using a 17mm hex wrench, remove the drain plug and allow the lubricant to drain completely.  Reinstall the drain plug and tighten it securely.
+Place the shift lever in neutral (the transmission will be in neutral when it is returned from being rebuilt).
+Remove the rear seat and disconnect the negative cable from the battery (if you have not already done so).
+Underneath the seat in the center there is an inspection cover that is held in place with a single screw.  Remove this inspection cover; under it you will find the back end of the shift rod and the coupling that connects the shift rod to the transmission shaft.
+Remove the little hex-head bolt (10mm) that secures the shift rod coupling (located at the back part of the coupling).
+While holding the tube that runs through the coupling with pliers on the other side, remove the self-tapping screw that goes through the coupling and the shifter rod.  Turn the coupler as necessary to gain access.
+Now crawl under the car and squirt some penetrating oil on the threads at the end of the clutch cable.  Clamp a pair of vice grips on the solid part of the cable and turn the wing nut all the way off with your thumb and forefinger.  Remove the Bowden tube that the clutch cable runs through from it's bracket on the transmission, and pull it off of the clutch cable.  Stow it in a safe place.  Stow the clutch cable up out of the way.
+Remove the grounding strap from the top left of the transaxle.
+Pull back the rubber caps and disconnect the back-up light wires from the transaxle.
+The starter motor is the heavy black cylinder located on the top right side of the transaxle.  Use a 13mm wrench to remove the nuts holding the heavy wire to the starter solenoid.  Pull the wires off and replace the nut and washer on the starter post.  There are either one or two more small wires on the solenoid, so get them off.
+Remove the starter motor/solenoid assembly from the transaxle by removing the lower nut (15mm).
+Remove the 8mm twelve-point socket head screws from the transmission end of the driveshafts.  (Caution:  Use the proper twelve-point driver for this job -- do not use a hex-head drive, as it may ruin the screws.)
+Note:
+The inner CV joint covers remain attached to the transaxle and WILL NOT clear the two transmission support channels that run down either side.  The transmission must be pulled back far enough to clear them.
+If they have not been removed, cover the CV joints with plastic bags to keep out dirt and moisture and to keep the bearings from falling out.  Put the bolts and other hardware in a plastic bag.
+Wire the driveshafts to the frame of the car to maintain them in place and out of the way while the transmission is removed from the car.
+Position a suitable floor jack under the transaxle (on a pedestal if necessary) with a crosspiece of 2" nominal wood on the jack head perpendicular to the transaxle.  This crosspiece must be long enough to rest on the two pedestals described in Step #20  below and must have an additional piece of 2" nominal wood on top of it that is short enough to fit between the two transmission support channels that run down either side of the transmission.
+Note:
+The jacking point must be at the longitudinal center of gravity of the transaxle, which is NOT directly under the drain plug but a bit forward of it.  You may find it helpful to lash the transaxle to the wooden crosspiece to keep it from flopping around.
+Raise the jack until it supports the transaxle.
+The front of the transmission is attached to the frame of the car by two studs which slide into the two slots in the front mount.  Remove the two 17mm nuts and washers from the mount.  Put the nuts and washers in a marked baggie.
+Just as in the engine removal procedure, make platforms of blocks with nominal 2-inch wood on either side of the pedestal that the jack is resting on, underneath the cross-piece of wood that is supporting the transaxle.  Total height of these platforms will need to be a couple of inches higher than the low point of the jack after the transaxle is off of it so that the jack and pedestal can be removed, leaving the transaxle resting on the two block/wood platforms.
+Note:
+These platforms should be a several inches to the rear of the cross piece so that they will be positioned directly under the cross piece when the transaxle is pulled to the rear and free of the mounts.
+The only thing holding the transaxle in now are the rear carrier bolts.  The carrier is that U-shaped bracket supporting the rear of the transaxle.  Remove the bolts with a (21mm or 13/16") socket and breaker bar.  Counter clockwise to loosen. This will also remove the lower rear cross piece and the left and right rear rubber transmission mounts.  Put the bolts and washers in a marked baggie.
+CAUTION:
+These bolts are under 167 ft-lb of torque.  Use an 18" breaker bar and a "cheater" if necessary, and make sure that the initial stroke is downward to keep from knocking the car off of its supports.
+(See
+Transmission (Transaxle) Mounts
+for pictures.)
+Make a final check that all wires and hoses have been disconnected from the transaxle.  Then  carefully pull the transaxle and jack to the rear until the CV joint covers clear the transaxle carrier and lower the jack to rest the transaxle on the two wooden pedestals on either side.
+Note:
+Pull the transaxle and the jack back as a unit, as it is possible to pull the jack out from under the transaxle.
+Note also:
+It is prudent to build a pedestal of blocks for the front mount to rest on as well; it is difficult to place the jack directly under the longitudinal center of gravity, and the front of the transaxle may fall as it is being lowered.
+Raise the jack until the crosspiece supporting the transaxle just clears the pedestals on either side, then remove the first layer of the pedestal and lower the transaxle to that level.  Remove the top layer from the jack pedestal and continue this process until the jack is resting on the floor.  Remove the remaining layers from the support pedestals, one at a time, until the transaxle is resting on the floor on the crosspiece.
+Using the crosspiece, pull the transaxle from under the car so it can be worked on.  A reasonably strong person can now life the transaxle by grasping both ends, using appropriate lifting technique.  The transaxle weighs approximately 75 lbs.
+Remove the back-up switch.
+Remove the rear mount points on the transmission (two 13mm nuts on either side of the transmission bell).
+Inspect the front and rear transaxle mounts.  If they are dried, cracked or damaged, replace them.
+Note:
+The nosecone mount changed in about 1973, so have your chassis number handy when ordering replacements.
+Prepare the transaxle for shipment to be rebuilt.
+~~~
+Transaxle Replacement
+Re-installation of the transaxle is basically the reverse of removal.
+Replace the rear mount points.
+Replace the back-up switch.
+Replace the starter motor.
+Note:
+You may want to wait and install the starter motor after the transaxle has been replaced.  The weight of the starter motor on the one side makes the transaxle very unwieldy as it is being raised into position.
+Install the new front transmission mount.
+Lash the transaxle to the wooden crosspiece that was used to lower it.
+Using the floor jack under the wooder crosspiece, slowly raise the transaxle into position above the transmission cradle, supporting it on the wooden pedestals and adding risers to the jack pedestal as necessary.
+Push the transaxle forward and into the frame cross tube, positioning it properly in the front transmission mount.
+Attach the front mounting washers and nuts and torque the nuts to 14 ft-lbs.
+Put some wheel bearing grease on the threads of the 21mm bolts, slip the big spring washers onto them,  and start them into their holes in the carrier.  You'll probably have to pull the transaxle up a bit to get them started.  Torque these bolts to 167 ft-lbs, again pushing the "cheater" downward as much as possible.
+Repack and/or replace the CV joints as necessary.
+Get the two CV plates, lock washers and 8mm 12-point socket-heat screws out of the baggie.  Unwire the axle from the frame and swing it into position on the transmission end.  Put all the bolts in and tighten them around in a circle as tight as you can with a 3/8" drive ratchet.  Torque them around in a circle to 25 ft-lbs.
+Put the heavy wire back on the big starter solenoid terminal and replace the washers and nuts.  Push the small wire onto its connection.
+Reconnect the back-up light wires from the transaxle and replace the rubber caps.
+Replace the grounding strap between the transaxle carrier and the top left of the transmission.
+Grease the clutch cable and slide it first through the Bowden tube and then through the clutch lever.  Position the forward end of the Bowden tube into the hole in the body that the clutch cable runs through, then replace the Bowden tube in the bracket on the side of the transaxle.
+Brush the threads on the cable end with a wire brush and squirt some penetrating oil on them. Replace the wing nut and crank it down about half way for now, holding the end of the cable with a locking plier to prevent it from twisting.
+Note:
+The clutch cable will be adjusted later after the engine is installed.
+Move back inside the car and make sure the shift lever is still in neutral.
+Under the rear seat, hold the tube that runs through the coupling with pliers on the other side and replace the self-tapping screw that goes through the coupling and the shifter rod.  Turn the coupler as necessary to gain access.
+Replace the little hex-head bolt (10mm) that secures the shift rod coupling (located at the back part of the coupling).
+Replace the inspection cover and the screw that holds it in place.
+Reconnect the negative cable to the battery and replace the rear seat.
+Make sure the gearoil drain plug is installed and tightened securely.
+Using the 17mm hex wrench, remove the filler plug on the left side of the transaxle ahead of the drive axle.
+Using a lubricant pump (or gravity, with a funnel attached to the end of a long hose), slowly add SAE 80W90W hypoid gear oil until it begins to run out of the filler hole. Stop filling the transaxle when the lubricant begins to run out the hole.
+Install the plug and tighten it securely.
+Replace the engine and lower the car to the floor.
+* 
+                    * * * *
+Design by
+Erin

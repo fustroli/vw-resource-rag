@@ -1,0 +1,27 @@
+Stop Plate Adjustment
+Shifter Stop Plate Adjustment
+(Reverse Lock-Out Plate Adjustment)
+~~~
+If you remove the shifter lever for any reason (e.g., to replace the shift rod bushing), you will need to readjust the stop plate.  This adjustment is quite sensitive -- the slightest amount of maladjustment can throw things out of whack and cause difficulty when shifting gears.
+Note:
+There are two styles of stop plate -- the older style has square turned-up ends which cup the base plate; the later style has round ends which are flat.  With the later type, the stop place can move uder the baseplace more than the earlier type.  Regardless of the design of the stop plate, the important thing to remember is that the stop plate must be reinstalled with the tabs oriented exactly the same way they were before removal.  If the stop plate is put on backwards when you reassemble things, you will not be able to get the car into reverse.
+Before removing the shift lever, put the transmission in neutral and mark the position of the stop plate in relation to the shifter flange to ensure proper alignment during reinstallation.
+When removing the gearshift assembly, note how the shift stop plate underneath the main cover is oriented  the tabs are pointing upwards and the ramped section is positioned forward and to the right.  It is important that it not be put in backwarads when you reassemble things or you will not be able to get the car into reverse.
+During reassembly, position the stop plate just as it was before you took it out.  Before tightening the shifter bolts, make sure the assembly is positioned so that the shift lever is vertical in neutral.  Tap the stop plate to align with the marks you made before you removed the stop plate.  Then tighten the shifter bolts.
+If you failed to mark the position of the stop plate before you took it out, or if you have shifting problems after it's reassembled, then you will need to adjust the stop plate.  Do this as follows:
+Partially unbolt the shifter flange.  Just get the bolts loose enough that the stop plate will move if you tap it at the base.
+Put the shifter in reverse.
+Tap the stop plate to the right and forward as far as it will go while maintaining reverse.
+Tighten bolts such that it is now difficult, but not impossible, to move the stop plate by tapping it.
+Try all 5 gears.  You will probably be well adjusted now.  If not, tap the stop plate to the rear and left slightly until all five gears shift smoothly.  Be patient  it's well worth the effort.
+Once you are satisfied with the shift pattern, tighten down the shifter bolts as per the torque specs in the manual.
+Another method
+:
+With the later type of stop plate (flat rounded ends) you may be able to simply position the gearshift in neutral and vertical, then use a screwdriver blade (or similar) on the edge of the stop plate to push it to the left and forward while the base plate stays stationary.  Tighten the bolts and check all gears.  If you can't get reverse, tap the stop plate a little to the rear and try again.
+And yet another
+:
+You can keep messing with the base plate position, loosen the bolts, put it firmly in 1st gear so that the base plate follows, then put it in 2nd all the way, again allowing the base plate to follow. Then one more time on 1st, as far as it will go, then pull back the base plate just a tiny nudge, and bolt it down there. See what happens.
+* 
+                    * * * *
+Design by
+Erin

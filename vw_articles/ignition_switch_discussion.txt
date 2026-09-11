@@ -1,0 +1,23 @@
+Ignition Switch Discussion
+Ignition Switch Discussion
+Someone wrote - I recently purchased a '68 bay window Bus, and although it didnt have an ignition switch in it the guy showed me how to put a needle nose pliers in and just turn, well that worked a few times but now its stripped or something wont turn and cant get it even to go back to the off position
+had to disconnect the battery.
+Any help would be appreciated even if you tell which wires to put together to hot wire it until I get a new switch, I just hope I can find one.
+Rob responded -
+The ignition switch is in two parts - the upper key section and the lower electrical section, so they can be changed independently. I guess the upper key part is missing and the screw driver is working the lower electrical part.
+Replacement ignition switches (both sections) are available.  Go to
+Mid-America Motorworks
+, choose "Aircooled VW" and search for part number SKU 186007 for the electrical section. Although it does not say so, SKU 302711 key section should fit for the bus (it fits the other part for bugs so should fit for buses too).  Or
+Aircooled.Net
+part number LSW0001 for the electrical section and LSW0010 for the key section.  Choose 68-70 Beetle/Bus from the pull down list.
+The pictures shown on the Aircooled.Net site are "generic" so the switch when it arrives should look the same as the one you have now.
+The lock section comes out first, then the electrical section.  If the upper lock section is missing it makes for an easier job for you - if it was still there it would require a working key inserted to withdraw a retaining pin inside the barrel. Same goes for putting a new key section in.
+Regarding the hot-wiring - if you can see the back of the electrical section, there should be three wires - one red wire connected to terminal 30, one red/black wire connected to terminal 50 and a black wire connected to terminal 15 on the electrical section of the switch (I note that the replacement switches seem to have different colored wiring though).
+Connect 30 to 15 (red wire to black wire) and you should get the dash lights - that's the on position for the switch.  Then touch terminal 50 (red/black wire) to the other two and the starter should turn - that's the start position for the switch. Remember that VWs have a "one start" feature - you have to turn the ignition off to to retry the starter. I can't remember if that's the case for hotwiring or just a feature of the switch itself, so you might have to find that out yourself.
+If the colors have been messed up by a PO, put the car in neutral with the hand brake on, and touch any two wires together until you get the dash lights on, and then touch the third wire to get the starter.  If you get it wrong, all it will do is spin the starter with no ignition...no problem.
+There is a good wiring diagram on
+VintageBus.Com
+for your vehicle.
+* * * * *
+Design by
+Erin

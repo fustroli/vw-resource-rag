@@ -1,0 +1,18 @@
+Heads/Valves
+Head Bolt Torque
+(as Related to Valve Adjustment)
+~~~
+If the cylinder heads are not torqued correctly, incorrect valve clearances can result.  Dave experienced this on one occasion -- he found that ALL of his valves on all four cylinders were EXTREMELY tight.  He couldn't even get a 0.002" feeler gauge between them when it was their turn.
+THAT would certainly make the lifter/valves rattle, Rob said. And with the valves that tight they would not have been sealing properly, and you'd have been getting a lot of mixture/exhaust leaking in all the wrong places.
+WHY the valves were tight is the big question.  It's most likely something which will affect ALL valves equally -- like the head torquing.  Rob said that tightening the heads might make a slight difference, but he couldn't see why it would move the heads inwards up to six thouandths of an inch!
+Along with the very tight valves, Dave found that his heads were also way too tight.  Once the head nuts were torqued properly he was able to adjust the valves to spec.  So tightening the heads DOES affect (tighten) the valve clearance.  The heads must be torqued properly; then and only then can the valves be adjusted properly.  But -- its impossible to torque all of the head nuts with the engine in the in the car.  The lower head nuts are accessable inside the rocker covers but the upper head nuts are hidden under the engine tin and are impossible to get to with the engine in the car.  Thus it is vitally important that the head nuts be torqued properly each time the engine is removed from the car, so that the valves can be adjusted correctly once the engine is back in the car.
+Please see our discussion on
+Torquing the Heads
+.
+If you find yourself in this situation, it is hopefully when the engine is out of the car.  At that point we suggest loosening the valves, properly torquing the head nuts per the procedure above, and then adjusting the valves. It is imperative that you get those valves properly adjusted before running the engine!  See our
+Valve Adjustment Procedure
+.
+* 
+                    * * * *
+Design by
+Erin

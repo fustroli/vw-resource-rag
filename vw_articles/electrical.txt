@@ -1,0 +1,48 @@
+Electrical
+The VW Electrical System
+~~~
+This article on the VW Electrical System includes the following subtopics -
+The Charging System.
+Electrical Accessories.
+Electrical Troubleshooting.
+~~~
+The following description of the VW electrical system is paraphrased from John Muir* -
+The three major parts of the VW electrical system are the battery, voltage regulator, and generator or alternator.  The electrical accessories like lights, horn, etc. will be discussed in following sections.  The
+Battery
+is a big box with two posts sticking out of the top and either three (6-volt) or six (12-volt) little filler caps on top so you can put water in (
+Rob's comment:
+Muir was writing in the 1970s - these days there are many no-maintenance battery types which don't have the filler caps on top).  The battery is located underneath the rear seat on the right side of the car.
+The
+Voltage Regulator
+is a metal box about three inches on a side, with places to attach wires around the bottom edge.  The
+Generator
+is a large round silver cylinder with a pulley on the rear end to drive it and a belt from the crankshaft pulley.  It has a slot close to the rear through which you can see a brush, and deeper, a commutator which is part of the spinning core.
+In mid-year 1973 the generator was replaced by an
+Alternator
+. The alternator is also a round silver cylinder with a pulley to drive it, but there are no brushes or slots to see them through. Inside the alternator are several diodes to convert the alternating current to direct current. In cars with alternators there is no external voltage regulator; the voltage regulator is an integral part of the alternator.
+(
+Rob's comment:
+This is incorrect - the first Motorola alternators used a vaoltage regulator under the back seat in the same location as the older generator regulator, but it is a special regulator that works only with that alternator. This alternator has three connectors on top of it. The later sytle of Alternator is from Bosch, it has an internal voltage regulator (nothing under the back seat) and has only 2 connectors on top.)
+Both the alternators and the generator do the same thing -- they make the electricity that charges the battery and provides power to the coil, distributor, spark plugs, and all of the electrical accessories in the car.
+*John Muir, "How to Keep Your Volkswagen Alive --
+A Manual of Step-by-Step Procedures for the
+Compleat Idiot,"1976 Edition, page 40.
+The battery is the initial source of power for the starter and ignition systems. The starter is turned by power from the battery when the ignition switch is turned to the START position. Power is also supplied, through the ignition switch, to the coil. From the coil, power is supplied to the distributor and finally to the spark plugs for ignition.
+Note:
+Wiring is also a significant component of the VW electrical system.  It is very important to note that in VW wiring, red insulation means "has power all the time", and black insulation means "has power with the ignition turned on."
+Once the engine is running, the starter is no longer required. The running engine acts spins the generator/alternator. (This is accomplished through a belt and pulley system attached to the engine's crankshaft.) The alternator now takes over as the power supplier for the ignition system. It supplies power through the ignition switch to the coil, from the coil to the distributor, and finally from the distributor to the spark plugs. At the same time, the alternator supplies power back through the voltage regulator (either external or internal) to the battery for charging purposes. This completes the cycle until the engine is shut down and started again.
+In the above links we discuss each of the major components of the VW
+Electrical Charging System
+, with "learning experience" comments; then a discussion of the various
+Electrical Accessories
+, and finally some hints on
+Electrical Troubleshooting
+.
+Note:
+A man who has forgotten more about the VW electrical system than most of us think we know is "Speedy Jim".  Jim has graciously given us permission to link to his Web site,
+"Speedy Jim's Home Page"
+, on which you will find many electrical schematics and other great electrical information.
+* 
+                    * * * *
+Design by
+Erin

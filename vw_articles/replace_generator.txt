@@ -1,0 +1,51 @@
+Generator Replacement
+Replacement of a Generator
+with an Alternator
+Please also see our
+Alternator Replacement Discussion
+.
+Also, please see our discussion below
+regarding 
+                things your should check
+on your generator before replacing 
+                it
+with an alternator.
+~~~
+A previous owner installed a rebuilt '71 engine in Dave's '73 Super Beetle.  Everything we've have read indicates that the '71 engine is equipped with a generator, yet Dave's '71 Bug has an alternator.  Dave has an interesting combination -- definitely a '71 block, but a later fan shroud, and it has an alternator rather than a generator.  Quite a hodgepodge.
+Dave wondered - Is there a good reason why someone would have replaced the generator with an alternator?  Does it improve the electrical system somehow? I guess the extra amps can's hurt.  I don't know the history of the car well enough to know what motivated the PO to install an alternator.  I guess it's okay, but such a switch probably isn't very easy.
+Responses -
+The reason for the conversion is to increase the amperage output; generator = 30 amps, alternator = 55 amps. If you're going to use fog lights plus a killer stereo, you'll need the extra juice!
+An alternator is able to put out higher amounts of amps at lower RPM.... a generator has to speed up to create more/same amount of amps.
+An alternator has a lot of advantages over a generator. The main one is that it eliminates the voltage regulator.  The alternator is a lot easier to hook up and cleans up the engine compartment.
+And from Rob -- There is certainly no harm in having a bigger unit than needed.  The regulator only allows as much as the electrical system needs. I think the '73s came with the alternator, since they added the booster fan in than year. The generator has only about 120 watts to spare with all the lights etc. on.  When you add about 100 watts for the fan (I'm guessing, but this is what most car fans run at), your battery charge current from a generator would be minimal with the boost fan running. The alternator has plenty of reserve.
+Retro-fitting an alternator is very common -- the only other modification needed is the regulator, and this wiring depends on whether the alternator has an internal or external regulator. Either one is easy to alter, and both give you 600 watts in lieu of the 360 watts of the generator.
+It's actually a very easy change to make to the engine.  It would need the later fan shroud for the alternator, as the alternator is a different length and needs a different mounting plate where it meets the shroud.  You'll also need a new shorter alternator/oil filler stand, and that's about it.
+If you are changing to a 75amp alternator, it might be worth upgrading the thick red wire from the alternator to the battery.  Both the normal 6-volt and 12-volt wires were designed for about 30 amps (180 watts on the 6-volt system and 360 watts on the 12-volt system) and might run hot if you try to run 75 amps through the wire to the battery.  It seems to cope okay with the VW 50amp alternator (VW were generous with their wire sizes), but I'd be reluctant to rely on it for 75 amps.
+Regarding the alternator in Dave's car, Rob said - I imagine the reason it was done on your car is that it originally had an alternator (original '73 engine), so does not have the underseat regulator like mine (it's built into your alternator), therefore fitting the appropriate alternator to the '71 engine is easier than rewiring the car with a regulator and using the '71 generator. Also gives you more amps of course, and this is useful because you have more electrical gear than the earlier Bugs (fresh air fan for example).
+Dave later learned that his alternator DID have the external voltage regulator under the rear seat.  He replaced the alternator with one having an internal voltage regulator.  Again, please also see our
+Alternator Replacement Discussion
+.
+* * * * *
+Someone wrote -
+> I'm thinking of changing my dynamo/reg to an alternator.
+> I'm fed up with putting the battery on charge.  Can you
+> tell me the problems in doing this and how to go about it?
+Rob responded -
+Before going to the expense of changing to an alternator - have you found the problem with the generator?  They do work well and should have no problem charging the battery in normal use.   Even with everything switched on the generator still has about 15-20 amps left for battery charging.
+Things to check
+-
+Condition of commutator - the copper segments the brushes touch - if scored/worn they can be machined by any auto
+ electrician.
+Brushes - if they have worn so the backs are lower than the rectangular housing they sit in then they need replacing.  Very cheap and easy to do.  If the lights get brighter when you push down on the top of the brushes with your finger (be careful of the spinning pulley right near there!) then the brushes are definitely toast.
+Check the voltage with the engine running higher than idle speed - it should be 14-14.5 over the battery terminals.
+The regulator - is it clicking, or do the lights get brighter as you rev the engine above idle?  If so the regulator could be on the way out.  The new versions are electronic - no moving parts.  They look about the same but the metal can is now a heat sink for the power transistors under that lid.  I have one and they work very well and should last forever.
+If you do decide to change to an alternator, get the 2-wire type ('74+ version) which has an internal regulator (the Motorola '73 version has three wire connections on top and uses a special external regulator under the back seat).  You need an alternator oil stand, might need a new squat round style fuel pump to fit under it, together with the shorter push rod it needs (the older upright rectangular shaped fuel pump will interfere with the alternator).
+And you will need a 912mm x 11.3mm fan belt (the generator uses a 905mm x 10mm belt).  Both belts run in the same pulleys but the longer-wider belt runs a little higher in the grooves - you'll need to adjust the number of shims between the alternator pulley halves.  It WILL work with the shorter thinner belt but that belt won't last - VW found they needed a stronger belt with the alternator equipped cars. To make it stronger it became wider and that means it rides higher in the grooves so it has to be longer too.
+The swap is quite straightforward and the connections are simple.  With the two-wire alternator, the large red wire attaches direct to the battery and the red wire running up front to power the car (splice the red wire connections under the back seat where the regulator used to be - use heavy gauge connectors as they must carry 50 amps).  The thin blue wire goes to the dash indicator light and this MUST glow when you turn the ignition on.  If this light blows the alternator will NOT charge the battery... it uses the tiny current in that circuit to excite the alternator into life when you start the engine.  The VW wiring will cope with the 50amp alternator without any changes.
+Speedy Jim, a VW electrical guru, has a lot of good information on his
+"The Little Engine That Could..."
+Web site.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,126 @@
+Wires and Plugs
+Ignition Wires and Spark Plugs
+Regarding the "reading" of spark plugs,
+please see our
+Spark Plug
+article.
+~~~
+The following topics are addressed in this article -
+Misfiring
+Ignition Wires
+Spark Plugs
+Spark Plugs in CDI Systems
+Stripped Spark Plug Holes
+Questions and Answers
+~~~
+Misfiring
+A question is often asked about why the engine shakes at idle.
+Rob gives several possible reason for the shakes -- those pertinent to wires and plugs are as follows -
+A wobbling engine usually means one cylinder is not firing properly.
+Here are some things you can check -
+Spark Plugs
+-- Sometimes a spark plug will not work well as idle but will work OK when the engine is running faster.  Electronic ignition (e.g., Pertronix or Compufire) may help, as electronic ignition usually makes better sparks at low speeds than the standard ignition.
+Spark Plug Wires
+-- Make sure the spark plug wires are not shorting out. You may be able to see this arcing on a dark night with the engine running.  If you have electronic ignition, a hotter spark is produced that will jump through old spark plug wires.
+Low Compression
+-- (See our discussion of
+engine diagnostics
+for a compression test procedure.)
+Carburetor Shut-Off Solenoid
+-- (See our discussion of
+engine wobble
+for a check of the shut-off solenoid.)
+Air Leakage Into the Intake Manifold
+-- (See our
+air inleakage
+discussion.)
+---
+Test for Cylinder Misfiring
+-
+(Sometimes called a power balance test.)  This test is quick and easy and provides a good indication of how much each cylinder contributes to the overall power output of the engine.  In addition, it also isolates which cylinders contribute little to manifold vacuum.
+You can perform this test at home on any VW engine except those with electronic ignition.  If you have electronic ignition (e.g., CompuFire or Pertronix), there is a good chance that performing a power balance test will damage the electronics.  If you have electronic ignition, substitute another distributor with points before performing the power balance test.
+If it is suspected that there is a burned valve or other major problem, the power balance test will indicate which cylinder has the problem.  Because VWs have only four cylinders, a faulty one will show up relatively quickly.
+To perform a cylinder mis-firing test -
+Remove all the spark plug leads from the spark plugs.
+Set the leads lightly back on the tops of the spark plugs.  This will enable the lifting of each lead off its plug without using too much force.
+Pull the lead away from the plug one cylinder at a time, and ground the lead against the cylinder head.  This will prevent that cylinder from firing.  The engine will be running on only three cylinders as you test each cylinder sequentially.
+As you disable each cylinder, listen to the change in engine rpm and performance.
+If a cylinder is faulty, when it is disabled it will have little or no effect on the engines speed or performance, as it will not be contributing fully to the overall engine power.
+A dwell-tachometer will give a more accurate indication of changes in engine rpm as you conduct the test.
+~~~
+Ignition Wires
+From someone on the RAMVA Newsgroup wrote - I would stick with the stock type ignition wires as they often have a  lower resistance than silicone wires with graphite leads.
+Rob reported that his original set of spark plug wires stayed in the car 18 years till they became hardened and brittle.  Dave, being obsessive and ultra-conservative, replaced his after only two years.
+Dave wrote to John Connolly
+(Aircooled.Net)
+- I'm not clear about the plug wires for use with the CDI system.   Some say the sturdier wires (i.e., Jacob's or Megavolt) are necessary; others say the stock wires are just fine (mine are almost new -- I'm loath to replace them already).
+John responded - If they are almost new, don't change them.  However, give them a check once in a while, because the additional spark energy can break them down quicker than with the weaker stock ignition.
+Rob wrote - There is a possibility that the STANDARD plug leads will occasionally arc.
+~~~
+Spark Plugs
+See our article on
+Reading Spark Plugs
+.
+Someone on the RAMVA Newsgroup reported good success with NGK spark plugs.
+Dave wrote to Rob - My Bug is starting to run rough.  I think its those cheap Champion plugs I put in a few months ago, just because they were hanging around my work bench.  I'm going to try to find a set of the NGK plugs -- B5HS for the 12mm ones, if memory serves.  Rob responded - B5HS is the standard electrode plug.  These are the ones I'm using, and they are working.
+Rob responded - I have the NGK Spark Plug Guide in front of me...
+The NGK letters and numbers mean -
+B - The thread size -- 14mm plug (A-18mm, C-10mm etc.).
+5 - heat range - 2 is very hot, 13 is very cold.
+H - thread length 12.7mm (E for 19mm).
+S - "standard" electrode type (Y for grooved, P for platinum, V for precious metals, etc.
+You might come across an additional letter for the plug gap -- 9 for .9mm, 10 for 1mm, 11 for 1.1mm, and 13 for 1.3mm (but not on the plugs suitable for VW).
+The 6 heat rating should be OK - it's just a fraction "colder" than the 5, and should be OK in your hotter climate.  "Colder" for a spark plug means that it gets rid of heat faster than a "hot" plug.
+But you said B6SS - the character after the number should only be an H or E indicating the length of the threads.  There is no S length - only H and E.  If you really meant B6HS, then yes - that should be fine.
+Black and oily usually means that the engine is starting to burn a little oil (starting to get worn).  If you use a colder plug (the B6HS) there is a possibility that they will oil up more, but there's no way of telling untill you try them and see if they oil up too fast and stop working.
+Rob responded to another query - Just to check, are your old plugs the 1/2 thread, or the longer 3/4 inch thread?  If your car has the newer style replacement heads (they are interchangeable), they will need the 3/4" plugs -- B5ES ("E" for "extended" thread).
+With the engine out, it might be possible to shine a torch down a plug hole and check.  If the heads are the newer 3/4 inch type, and you have 1/2 inch plugs in them, you'd see a blackened section of unused thread at the bottom of the hole.  The short plugs will fire in the newer heads, but less efficiently, as they will be "buried" inside the heads.
+Regarding grooved electrodes, Rob wrote - B5HY is the equivalent grooved electrode version.  The multiple electrodes tend to shield the spark from the mixture a little, which is okay in a slow revving aircraft engine, but not so good in a higher revving auto engine.  Then they developed a "surface electrode" type, which had the cavity filled with bakelite or similar, and the spark jumped from inward facing 'bumps' on the rim to the inner electrode, all of which were flush with the bakelite filling the cavity.  Supposed to be harder to clog, because there was no cavity to hold the gunk.  Not even used in cars to my knowledge.  NGK do make a grooved electrode plug though, and this is supposed to make the spark on the outer edge of the side electrode, instead of jumping to the center electrode right in the middle.  Supposed to eliminate any possible shielding of the spark -- more exposure to the fuel/air mix.
+In response to a query, Rob wrote - The VW engine works best with Bosch WA8C or NGK B5HS plugs.  (Champion L87Ys are the right heat range too, but they have cut threads -- not rolled -- and tend to strip out the aluminium heads.) You can do a plug test by running down the road at a good speed (with the engine properly warmed up), and shutting off/declutching/turn engine off in the middle of the run, and coasting to a stop.  This is necessary so the reading is not contaminated by any idling.
+The plugs should have a grey/black thin coating on the rim of the threaded section. The center porcelain insulator should be off white, turning darker deeper into the plug (about 1/2 way down the insulator) and the tips of the outer electrodes should be grey/white, turning darker on the bend, to blend into the dark grey of the rim of the plug.  Black/oily is a good indicator of a worn engine.  Black/sooty means it's running too rich.  Brown /whitish insulator and a 'white all over' outer electrode usually indicates lean running, often accompanied by a light coloured rim on the plug.  If the rim has a speckled "pizza" appearance, the engine is detonating (even if you can't hear it), and you try a different brand of fuel of go to the next higher octane fuel.  And of course if the centre electrode has rounded edges instead of a 'squared off' end, and the outer electrodes are looking thin and burned, the plugs are past their best and should be replaced.
+If you can avoid using oxygenated (MTBE) fuels, do so -- your engine will run smoother.  Oxygenates result in less "fuel" in the fuel, and make old carburetted cars like the beetle run lean, which means running hotter, and they don't like running hotter since they are a hot running engine anyway.  If you don't have a choice, try switching brands, and DO use a "pump octane" of at least 87 -- maybe higher if it needs it to avoid detonation.
+~~~
+Stripped Spark Plug Holes
+Our friend Leo in Venezuela wrote - My Bug spit away a spark plug, so I had the thread repaired... the fourth one already had this job  -- it spit the spark plug and the copper threaded insert, so I think it was a rebuilt head.
+Rob responded - That's unfortunate, but it can happen with old heads.   The thread is only aluminium, so rough handling in the past could have damaged the threads.  I always use Bosch or NGK spark plugs because of this - they have smooth threads.  Some other brands have sharp threads which damage the heads more easily.
+Someone wrote - I replaced one plug with no problem.  The second one would not budge.  I tried a little harder and thought I had it, only to find out the spark plug snapped. The threaded part is still in the engine and my socket came out with the rest.  What are my options? What can I do?
+Rob responded - The engine has to come out and you'll probably have to remove the head and take it to a cylinder head specialist to get the broken remains removed.  It's possible that the threads will get damaged in the removal process but that can be repaired either with a helicoil insert or a Time-Sert bushing -- and then a new plug can be installed.
+Helicoil inserts can sometimes be a problem -- they occasionally wind out of the head.  Have a look at the
+Time-Sert®
+alternative.  Time-Sert is a threaded bushing insert that comes in both American and metric sizes.  It is used for the refurbishing of stripped and damaged threads. Advantages of the Time-Sert bushing insert include -
+It is a solid bushing insert. This guarantees easy installation and allows for full load use of tapped hole, ensuring protection against stress and vibration.
+It is thin-walled due to synchronized internal external threads. Thin cross sectional area allows for installation in areas of limited space and clearance material.
+It is self-positioning. Having a flange on the top of the insert insures that the insert will have positive placement and cannot wind down into the newly-repaired hole.
+It is self locking. On installation the bottom internal threads of the insert are cold rolled to expand the mating external threads into the base material locking the insert in place.
+There might be other versions but this one apparently works well.  We haven't used it (or a helicoil for that matter) so can't comment on them personally.
+~~~
+Spark Plugs in CDI Systems
+In response to a query regarding spark plugs in CDI systems, Rob wrote - The regular plugs should be okay.  The NGK B5HS plug is the correct one.  Widen the gap a little from the normal, and there is a possibility that the standard plug leads will occasionally arch, since they are running at 38,000 volts in lieu of the normal 20,000.
+As a start, make sure the distributor cap is clean and dust free, but before you clean it, have a look at it at night with the engine running.  It's a common arching point (between the rubber caps) - you can see any arching at night.  If it's arching there, it may just need the thicker (insulated) leads, and an occasional wipe of the distributor cap.
+Regarding plug "heat," Dave asked - I wonder if I shouldn't be running hotter plugs, since the CDI system almost doubles the voltage across them.  Rob responded - The plug "heat" is actually a function of the cylinder head temperature more than anything.  A "hot" plug retains heat in the centre electrode longer than a "cold" plug.  A hot plug has a long centre electrode - the join to the shell of the plug it deep inside the plug.  VWs need a coldish plug to counter the fact that they are shedding heat into a hotter than normal head.  The NGK B5HS a "coldish" plug.
+Dave asked of John Connolly
+(Aircooled.Net)
+- I'm running NGK plugs that are less than six months and 1000 miles old -- can I clean them up, gap them to 0.040", and reuse them with a CDI system?  John's short response - "Yes."
+The bottom line on the spark plugs, then, is NGK B5HS with a 0.040" gap.
+If the misfire continues, suspect the leads and a dirty cap first (doesn't have to be much).  Clean the inside of the cap too, if it doesn't look shiny clean.
+~~~
+Miscellaneous Questions and Answers
+Question - When I couldn't start the car the other day, I had to leave the car at the wash. I disconnected the spark plug wires to deter thieves. When I got there the next morning I put them on the wrong cylinders!  So, I pushed the car 1/2 miles to my house over mixed up wires!
+Rob responded - I'm not laughing -- it's easy enough to do, and a hell of a good lesson in the school of hard knocks.
+One trick I found useful for this was to put a twist of copper wire around the spark plug leads near the plug ends.  One turn for #1 cylinder, twice around for #2, and so on.  Then you can't mix them up, unless you remove the wires from the distributor too.  To keep that from happening, we've found it helpful to paint the cylinder numbers on the distributor cap.
+Question - My plugs appear to be black/oily.  What does that indicate?
+Rob responded - If the deposits were black-sooty I would say that it's just running a little rich, but black-oily usually means it's burning a little oil, so you might keep a check on the oil level too, just to make sure it's not using too much between oil changes.  Please see our article on
+Reading Spark Plugs
+.
+Rob commented - I changed the spark plugs on the weekend.  The old ones are Bosch W8AC and all were in quite good condition for 12000+ miles.  Nice to see that all plugs looked the same - that means all of the cylinders have been performing about the same.
+Question - After I had picked my Bug up from the shop I noticed it pinging under acceleration.  My mechanic said to bring it back and he will try a different set of spark plugs.
+Rob responded - Changing spark plugs will not cure pinging/detonation.  Only timing and choice of fuel would have any effect there, since we are not talking about altering the compression ratio (the only other consideration in eliminating detonation).
+You can get a lot of other useful information about Type 2 VWs at
+VintageBus.Com
+and
+Type 2.com
+.
+* 
+                    * * * *
+Design by
+Erin

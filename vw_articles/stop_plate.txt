@@ -1,0 +1,76 @@
+Stop Plate
+Shifter Stop Plate
+See also our
+Stop Plate Adjustment Procedure
+.
+~~~
+This article includes the following topics -
+Problems With the Stop plate.
+Tips Regarding Installation/Replacement of the Stop Plate
+Stop Plate Adjustment
+Problems with Reverse
+Stop Plate Successes
+~~~
+We have found from experience that the position of the shifter stop plate is critical to proper operation of the shifter.  Following are some problems that we have been made aware of, as well as positioning and adjustment hints.
+~~~
+Problems with the Stop Plate
+The following problems related to the shifter stop plate have been reported to us -
+The shifter shifts into the forward gears very smoothly, and the shift lever no longer chatters as you zip down the highway at 65 mph or so.  But when you need to back up, shifting into reverse is difficult.
+The shift lever wasn't standing straight up in neutral, and it doesn't shift as smoothly as I'd like.
+The gears are strange, especially 3rd.  It's not a perfect H -- 1st and 2nd are okay, except that you have to reach quite a ways forward to get it into 1st. But when you slip over to the right through neutral and up to 3rd, and it seems to come back to the left.  Its obviously in 3rd gear, because the car runs just right, but it's strange.  And then when you go to shift down to 2nd you really don't notice neutral -- it just seems to come straight down.
+Every once in a while it's hard to get into 1st, and I have to go through the gears to finally get it in.
+After having my transaxle rebuilt and the shifter bushing and the coupler replaced, the shifter still tries to go into reverse instead of 2nd occasionally, accompanied by much graunching.  And when engaging 2nd as it wants to pop into reverse on occasion.
+Occasionally when changing down to 2nd it appears that I somehow manage to get 1st up to 2nd is fine, going down from 3rd to 2nd is the problem.
+My Beetle is hard to down shift into 2nd gear and pops out of 4th gear.
+The shifter doesn't need much down push to find reverse, and there's an occasional graunch of reverse when changing to 2nd if I try to rush it.
+None of the stop plate adjustment suggestions Ive received have solved our shifting problem.  That's why I think it may be the wrong stop plate.
+I can see the stop plate sticking out from under the shifter plate on the left, which tells me that it isn't centered properly on the spring.
+All of these problems may be related to the stop plate in one way or another.  Hopefully the following material will help to answer some of these questions.
+~~~
+Tips Regarding Installation/Replacement
+of the Stop Plate
+After discovering that he had put the stop plate in the wrong way (!) Dave did a little research project on the stop plate.  He pulled the shifter off and then centered the stop plate PRECISELY over the two holes and painted a white line around it.  Then he turned the shifter around and bolted it all back together with the stop plate exactly in the lines (Colouring 101 :-) and the shifter plate centered right on the stop plate.  And off he went!  "It's amazing what you can do when you stop and think things through," Dave said.
+Dave wrote - Interesting "aside" - the
+Mid-America Motorworks
+catalogue shows two stop plate versions -- squared, turned up ends, and the round-end like I just bought.  The round-end version appears to go with a round-end base plate for Type 2s 66-74.  The round-end stop plate works fine, even with the squared end base plate.  I suspect that the round-end one will fit all Bugs, since it's "loose" under the base plate -- less restricted than the square-end ones.
+The spring that sits on top of the stop plate is tapered and has the large end down, and it goes around both tabs.  If it gets skewed it could cause shifting problems.  You should NOT be able to see the left rounded edge of the stop plate poking out from under the shifter base (as Dave did on one occasion) if the spring is properly seated around both tabs.
+~~~
+Stop Plate Adjustment
+Someone wrote regarding operation of the shifter - In 1st and 2nd gears, the ring slides forward and back on the tab on the left, and in 3rd and 4th gears the ring slides forward and back on the ramp on the right.  Position of the stop plate truly is critical, then, as it guides the ball on the shift lever.
+Rob responded - Yes - that's it.  It's the position of the ramped side which is critical, since this is what allows/disallows reverse. The ball moves to the right as you move the stick to the left, so ramp-on-right is where the reverse "stop" occurs.  But with the stick pushed down and left, the "ring" goes under the ramp, and the shape of the ramp then lets you move the stick far enough to the rear (ball to the front) to select reverse.
+If the stop plate is too far right, the stick moves right so when you push it left and down the stick is actually vertical instead of to the left.  This means the ball and the ring aren't under up against the ramp - they are still in the middle of the hole in the stop plate, so it's possible to get reverse when trying for 2nd.  The plate has to be to the left so the the stick moved down/left forces the ball and ring to the right - against the ramp for guidance for reverse.
+You can try loosening the bolts and moving the plate around (mark it's position first so you can reset it if you need to), but if you can't find a position which works, then the plate is probably worn.  With it removed you can look at the inner side of the ramped tab (the left tab is taller, the right tab is ramped, and THIS is what allows reverse gear selection.) if the inner edge looks rubbed and maybe has sharpish edges, it's warn for sure.
+A new stop plate is quite cheap - about $6 here in Australia.  There are two types.  The original Beetle style has squared, turned up ends which "cup" the gear stick base plate, and the later type which has flat, rounded ends (no turned-up ends).  Either sort works, thought the flat type (which I'm using) is a little more difficult to adjust as the base plate won't follow the stop plate when you move it, like the "cupped" variety does.  Hope that doesn't confuse you, but when you look at the stop plate you'll see what I mean.
+You sometimes have to play about with the position of the stop plate a few time before you get the changes all working smoothly.
+The 2nd gear problem sounds like it might be the stop plate under the gearstick base plate, but the 4th gear popping out is typical of a problem with the assembly inside the nosecone of the gearbox (the selector mechanism) or wear on the 4th gear assembly itself.  Some guys cope with the 4th gear issue by using an oki-strap (rubber strap with hooks on the end) to "spring load" the gear stick to stay in 4th, but this only delays the inevitable gearbox rebuild.
+Re the stop plate.  These are easy to adjust, and if that doesn't work, cheap to replace.  There are two styles of stop plate - the original style with squared ends which are turned up to "cup" the base plate so the two move together when you are adjusting the stop plate position.  The newer sort has rounded ends and has no turned up lips at the end, so this is a little harder to adjust under the base plate, but both work the same.  When you look at it, you'll notice that the hole has tabs on each side - a longer tab on one side and a ramped tab on the other.  "Ramp to the right" or "long tab left" is the way to remember the orientation.  Have a look at the side of the ramped tab on the old one.  If the side looks rubbed and has sharpish edges, then it's worn and needs replacing.  It's this ramp which prevents reverse gear until you push down-left on the gearstick (that's why it's called a stop plate - stops accidental reverse gear).
+Following are notes from our
+Stop Plate Adjustment Procedure
+-
+When removing the gearshift assembly, note how the shift gate plate (stop plate) underneath the main cover is oriented (tabs up and the narrow tab towards the left side).  It is important that it not be put on backwards when you reassemble things or you will not be able to get the car into reverse.
+Put the shift lever in neutral.  Mark the position of the stop plate in relation to the ball housing flange to ensure proper alignment during installation.  Incorrect alignment of the stop plate in the shift lever assembly can cause shifting problems.
+Before removing the stop plate, note the orientation of the raised tabs on the stop plate.  Regardless of the design of the stop plate, the important thing to remember is that the stop plate must be reinstalled with the tab(s) oriented exactly the same way they were before removal.  If the stop plate is put on backwards when you reassemble things, you will not be able to get the car into reverse.
+Apply a coat of grease to the ball on the bottom of the shifter.  When reinstalling, be sure to place the stop plate (shift gate plate) with the tabs up and the narrow tab (ramp?) towards the left side  just like it was when you removed it.
+Before tightening the shifter bolts, make sure the assembly is positioned so that the shift lever is vertical in neutral.  Then tighten the shifter bolts.  Replace the tunnel mat, carpeting, and seat, along with the access panels in the spare tire well and between the front beam.
+Install the shift lever assembly.  Make sure the shift lever locating pin (if there is one) engages the slot in the ball socket and the stop plate seats in the hollow central part of the ball housing.  If the shift lever is installed and seated properly, it will be vertical when it is in neutral.
+Another medthod of adjustment was provided by someone from the RAMVA Newsgroup -
+Partially unbolt the shifter.  Just get them loose enough that the shifter will move if you tap it at the base.
+Put the shifter in reverse.
+Tap the shifter to the right and up as far as it will go while maintaining reverse.
+Tighten bolts such that it is now difficult, but not impossible, to move the shifter by tapping it.
+Try all 5 gears.  You will probably be well adjusted now.
+If not, repeat, only change the direction of the tapping to get all 5 gears to shift smoothly.
+Once you are satisfied with the shift pattern, tighten down the bolts as per the torque specs in the manual.
+Someone wrote in a response - Most likely, you installed the plate wrong. The ramped section must be positioned foward and to the right (opposite of the shift knob when its in reverse).
+~~~
+Problems with Reverse
+As you move the lever down and to the left the "ball" on the end moves left and forward, so that "ring" slides along the ramp - it's the ramp which therefore allows reverse, but only AFTER the gear stick is pressed down.  To go into reverse that ring passes down THROUGH the stop plate as the shifter (and thus the shift rod) is pushed down.
+Inside the gearbox the side-side action of the gear stick results in the hockey stick sliding sideways between the three selectors, and then the push-pull on the gear stick results in push up/down to move the correct selector (or combination of selectors).
+~~~
+Stop Plate Successes
+I fiddled with the relative positions of the stop plate and the shifter plate moved the stop plate about 1/8" to the right.  Drove it around the block -- perfect!  I need to make a note in the procedure about how sensitive that is.  Just the slightest amount of maladjustment can really throw things out of whack.
+Of his new stop plate installation, Dave wrote - My stop plate installation has been a resounding success.  The plate supplied does not have the turned up ends to "cup" the hifter base plate like the original, so it moves around under there more, but I found that using a screw driver blade to push just the stop plate hard left (so not moving the base plate), with the gearstick vertical in neutral, gives perfect results.  Smooth shifting, and it's now impossible to select reverse accidentally.  I don't have to think about shifting as I did before.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,57 @@
+Buying
+Buying a Volkswagen
+~~~
+Someone wrote - We are looking at buying a VW.  Could you give us some suggestions as to what to look for?
+Rob responded - John Henry has some "things to check" on his extensive web site, "The Bug Shop." The title of his article is
+"What To Look For When Buying."
+Here are a few pointers that John gives -
+Rust -
+Look for rust on the bottom of the doors, and just behind the doors (where the rear doors would be).  Take a flexible fridge magnet with you and stick it on the metal -- if it sticks, it's metal, if it falls off there's bondo (body filler) there.
+Look at the lower door hinge area.  Dropping doors (look at the bottom hinge for movement of the support area) as you open the door or visible deep rust around the hinge area or just inside the door jamb near the edge of the side carpet -- this is expensive to fix if it's rusty.
+Look under the front wheel arches on the bodywork (just above the floor level) close to where your feet would be inside the car -- if the paint is bubbling outwards then there's rust under there.  That's the bottom of the "black hole" in the corners of the luggage area and can collect moisture.  It's also where the "snout" for the cabin heaters turns upward to the windscreen, so bad rust there can reduce you demisting.
+Surface rust behind the bumpers is no biggy -- the inside was painted, not chromed, and can easily be fixed, but deep rust needs expensive bumper replacement.
+Look under the back seat -- it just pulls straight up from the front edge.  This is the lowest part of the floor, so any leaks will accumulate water here and cause rust.  Under the battery is the most likely place.  If badly rusted there are both 1/2 and full floor pans (inserts) available so replacement is not hard (you could do it yourself), but you can negotiate the price more if there is deep rust there.
+Look under the spare wheel in the front -- another possible rust area.  Surface rust is easily fixed, but replacing the front clip (the bodywork) is difficult and expensive.
+Rubbers -
+Check the condition of window rubbers.  Extensive powdering indicates the car has lived outside most of the time.  Faded paint can indicate this too. Also look carefully at the window rubber edges for evidence of repainting (almost all repaints are done with the windows in, and you can see it at the rubber edge.  A good repaint has the window rubbers removed -- very hard to spot.)
+Check the engine seals, rubber boots on front and rear suspension components.  If the rubber is powdery or cracked it will need replacing soon.  The window rubbers you can do and they aren't to difficult or expensive to replace, but suspension boots cracked often means that the ball joint etc. needs replacing (workshop job unless you have the right press).  The big flexible boots on the rear axle tube of standard bugs are easy enough to replace, and these do normally crack with age as they flex -- so a minor leak/crack there is no biggy.
+Have a close look at the loops of rubber tube under the mud guards (fenders) for the front parkers and rear lights.  Cracking here can result in mud/water into the light fittings.
+Electrics
+-
+Make sure everything works.  The VW was built to a price, and so they do use cheap spade connectors.  Very reliable but with age they can loose conductivity.  Have a look at the back of the fuse panel (from inside the luggage area) for signs of corrosion on the terminals.  Sometimes a quick slide off-on or a wiggle of a fuse can fix simple problems, but any real corrosion of the terminals should be taken with suspicion.
+Turn all the lights on and try starting the car -- looking at the headlights on the road (or a wall etc).  If they go dim or the starter struggles, the battery is tired.
+Have a close look at the condition of the headlight reflectors.  If they are just a little dull with age, that's expected, but if they are pitted/rusty, replacements are over $80 each in Aus (German variety - the cheap Mex ones are rubbish).  With our bulb/reflector lights (the US got sealed beams with 12v beetles), replacing the standard 40/45w VW globes with 55/60w H4 Halogen globes is a direct swap -- gives you great lights even if the reflectors have dulled a little, with no other changes necessary (not even the fuses need changing).
+Interior -
+After 30 years or so the rubber floor mats are usually falling apart, and it's almost impossible to buy replacements, so carpet is the way to go.  There are companies like TMI in the US making very good carpet kits for VWs.  Seat rebuilds are fairly easy -- the frame in the low-back seats tends to crack with age but is easy to reweld and then re-cover.
+6 or 12v -
+The earlier (67 and earlier in NZ) Bugs are 6v, and this is fine but 6v parts are a little harder to get.  Many earlier bugs have been converted to 12v so have a look at the battery -- 3 cells means 6v and 6 cells means 12v.  Many 6-12v conversions leave the 6v starter in place, and this is fine -- the 6v starter copes with 12v just fine so long as it's not held "on" for prolonged cranking - very fast crank too. :-)
+Another way of checking for 6-12v is to look at the generator in the engine bay.  If it has the regulator sitting right on top, it's almost certainly still 6v.  If the regulator has been moved to the fan shroud nearby, then it's almost certainly been converted to 12v, since the 12v generator has no provision for bolting the regulator directly on top.  If the regulator is under the back seat opposite to the battery, then it's a 12v beetle.
+From 73 upwards the Bugs were equipped with alternators.  These are fatter at the pulley end, where the generator is the same diameter right along it's length -- so they are easy to tell apart.  The first alternators had an external regulator under the back seat, and then in 74 (or thereabouts) they got an internal regulator.
+Engine -
+Have a look at our Web site for the
+Changes Through the Years
+article.  Print it off and take it with you so you can compare engine numbers.  That way you have a better idea of what engine it has in it now, since they are almost completely interchangeable.
+The 1300s (look at the list) could also be 1500 or 1600s now as the cylinders are interchangeable, but you can't tell that without removing the heads, so you'd just have to take the word of the seller on that.
+Look for missing tinware/rubber seals etc.  If the engine has open holes in the tinware, missing pieces, then the engine will probably be running hotter than it should -- VW took great pains to seal the upper side from the lower for good cooling.  A rough looking engine will tell you a little about how the car has been cared for.
+Driving -
+The clutch should be smooth and operate in the first half of pedal travel, not near the floor.  Same with the brakes.  Poor adjustment can be easily fixed but indicates that the car has/has not been maintained well.
+Brakes should not pull to one side.
+Kangaroo hops with the clutch indicate that the Bowden tube (between body and gearbox under the rear) has insufficient bend in it, or maybe the two rear gearbox mounts are cracked, allowing the engine/gearbox to rotate too much.
+Crunchy gear changes (especially 2nd and 3rd) indicate that the synchros are tired.  Popping out of 4th is an internal repair problem.  Internal gearbox repairs are expensive.
+Sloppy gear stick and minor difficulty in selecting gears is usually just the rear shift rod coupling, the plastic bush inside the tunnel (just behind the gear stick) or the stop-plate under the gear stick base, all of which as easy to fix, but great for negotiating price on.
+Play in the steering wheel should be less than one inch (25mm) (one finger on top of wheel).  Up to that much can be improved with steering box adjustments, but beyond that indicates a worn steering box or suspension and expensive repairs.
+Listen for clunks/rattles from the suspension.  A little can be expected, but excessive noise indicates worn suspension components.
+Superbug Shimmies -- many Super Bugs (first came out in 71) suffer shimmies through the steering wheel at middle speeds (from about 30mph to 50mph).  This is usually a sign of worn front suspensions.  Supers are also very susceptible to out-of-round tyres, unbalanced tyres and worn steering dampers.  But if all is working well they handle a little better than standard beetles.
+Push down hard once at each corner of the car.  It should bounce 1 and 1/2 times and then stop.  More than that and the shockers are worn.  Cheap enough to replace but a good bargaining chip.
+~~~
+Rob writes - I don't want to influence you in what you buy, but I personally like the 68-72 standard Bugs (non-Supers). They have 12v (better electrics) and disc brakes in Aus and NZ.  From 73 onwards they got plastic dashes (earlier than that in the US) and got heavier, so a little less nimble and more problems of plastic cracking.
+All models of Beetle are good though -- it really depends on what you want, and whats available.
+Someone wrote to ask  We've found a beautiful little yellow 1970 Beetle for sale.  The owner claims to have only 54,000 miles on it.  It has a "3-matic" transmission  have you had any experience with this type of transmission?  They're asking $3500 OBO for it.
+Rob responded  1970 is a good year (big smile).  Standard Beetle of course -- not Super, though you did have the IRS in that year (mine is a swing axle).  The stick-shift semi-automatic transmission is actually the same as the four-speed gearbox, but without 1st gear (the other ratios are exactly the same), and with a torque converter as well as the clutch.  Usually very reliable, but like all torque converters, it uses a little power so they don't perform quite as well (though not a 'slug-bug' either).
+If it's only got 54,000 original miles it will have a B... series single port 1600 engine with a 30PICT/3 carby.  There is a switch under the gear stick on these which operates the clutch (no clutch pedal), so to change gears you just lift off the throttle, move the stick to the next gear, and hit the throttle again.  The gears are marked Low (the old 'second' gear) for stump-pulling; Drive 1 (the old 3rd gear) for normal starting and low/medium speeds, and Drive 2 (the old 4th gear) for highway driving.  So normally you start in Drive1 and shift once to Drive2.  For hill climbing or pulling a load you start in Low.  But if you are not bothered by slower acceleration, you start in Drive2 and leave it there.
+$3500 is probably a reasonable price if it's in good condition.  Look for the usual rust in the heater channels and under the battery (I know you knew that!), and for evidence of leaky rubbers around windows and such.  If it's been left out in the weather the rubbers will have started to crack at the
+edges, or give you a black finger when you rub it.  Also -- the top of the back seat will harden/crack with a lot of sun exposure.  With that low mileage, the pedal rubbers should show only slight wearing (helps to determine the 'genuine' miles).
+* 
+                    * * * *
+Design by
+Erin

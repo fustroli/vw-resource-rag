@@ -1,0 +1,63 @@
+Electronic Ignition
+Electronic Ignition
+Material gleaned from various correspondence.
+~~~
+Sub-topics addressed in this article -
+Advice from John Connolly
+Wisdom of Bob Hoover Regarding Electronic Ignition
+Questions and Answers
+Dave's Compufire Installation
+Bob Hoover Continued
+~~~
+Advice from John Connolly
+(Aircooled.Net)
+Replace your points and condenser with electronic ignition (e.g., Pertronix or Compufire)  Takes only 20 minutes to install.  Contrary to popular "wisdom", you are not going to get a huge power increase with this part.  You WILL get a no-maintenance item (unless you love adjusting points and timing), which gives rock-steady ignition timing under all conditions.  In my opinion, this is a must-do modification even for stock cars! Getting the rubber grommet into the hole properly is the hardest part of the job (I'm not kidding).
+~~~
+The Wisdom Bob Hoover
+Regarding Electronic Ignition
+By Robert S. Hoover(Used with permission.)
+If you want to make it last forever, or at least longer than the 70,000 or so it normally lasts, get rid of the points.  Opening the points represents as asymmetric load on the distributor.  Opening the points is the major cause for wear on the shaft and bushings.  So get rid of them.  Use a Pertronix unit.  No load on the distributor shaft.  Runs concentrically.  Vastly reduces the wear-rate which is already pretty low because the distributor only turns at one-half engine speed.  (Don't use an optically triggered unit.  The Pertronix is magnetic.)
+Buy a Pertronix 'Ignitor' that fits your distributor.  Pull the distributor and install the 'Ignitor'.  Be careful of the wiring.  One lead is +12v, the other is the signal lead... it goes to the coil's negative terminal.  The ground is internal through the body of the distributor.
+Be sure to set the proper air gap and make sure the Hall effect sensor (the black epoxy cube on the aluminum plate) is standing square to the plate.  I've installed several of these and most were bent right out of the box due to improper riveting.   Easy enough to straighten but if you don't notice it the thing can actually rub against  the magnet ring... not a good idea.  (And yes, it's 'magnet' not 'magnetic'.  There are  four high-strength magnets cast into the nylon (?) ring that fits down over the cam lobes of the distributor shaft.)
+Make sure the magnet ring is pressed FULLY down onto the cam lobes.  There are  instructions with the Ignitor but the illustrations don't look much like the real thing.
+Put the rotor back on.  (You can expect to wear out a rotor about every two years due to the higher spark voltage.  Just carry a spare so it won't leave you stranded.   Ditto for the cap.)  Make sure the ROTOR seats fully.  On some distributors, you  can't use the 'Ignitor' because the magnet ring prevents the rotor from seating full depth.  (But you can machine a bit off the lower edge of the rotor, if you're careful doing it.)
+Fire it up.  Hey!  Now THAT's a difference.  Reason is,you've just eliminated a lot of  mechanical jitter that is present in most old distributors.  The jitter is still there but the triggering method used by the 'Ignitor' masks it. No more points bounce.  In fact,  no more points, period.  Your plugs are now being fired in response to an electronic signal that is far, far more precise than any mechanical switching arrangement.
+Slap a strobe on that puppy.  And plug a sniffer up the tail pipe -- you can lean that thing down by quite a bit, now that you've got a higher spark voltage.  Static timing okay?  Then go ahead and kick it up to where the advance is all in and check the max.  Dial it back down to thirty degrees or less.  (I run 28.  Yeah, I know.  But I'm  more concerned with getting there than how fast I can get there.)  Hot weather, bad gas, heavy load, crank it back a bit more.  And tweak your idle down    better  ignition has caused your idle rpm to increase.  Keep them between 800 and 900 rpm.   Any slower and the engine won't cool properly when you come off the freeway, etc.
+Now here's what's gonna happen.  Your mileage is going to take a nice jump. Most folks report an improvement of 8 to 15 percent.  Depending on how much you drive, that alone will pay for the mods in about two years.  But the driving!  Damn!  The  thing really DOES run better!  That's because you've gotten rid of points-bounce and shaft-jitter and incomplete combustion at higher rpms.  And that means your engine will last a little longer because your oil is going to stay a little cleaner because there won't be so many unburned hydrocarbons in the blow-by that gets  into the crankcase.
+Plus it's going to start better.  A LOT better.  And no more cross firing during damp weather.  And your engine is running cooler, too!  Those Corvair-type air seals  really make a difference.
+I've been using such an ignition system for nearly thirty years -- it's been available that long.  I first wrote about it on the internet more than five years ago... and  immediately got a blizzard of flamers and hate mail --  lots of kiddies shouting 'If it's  really that good and really that easy, then why haven't we seen anything about it in the magazines?'
+(See continuation of
+Bob Hoover's comments
+below.)
+~~~
+Questions and Answers
+Questions we have received regarding electronic ignition -
+A friend suggested installing electronic ignition.  Might it be a good thing to do?
+The next investment that I'm considering is an electronic ignition system.  I hear Bob Hoover and others talking about how this will save you from having to fuss with the points, but is there a clear advantage performance-wise?
+While my car runs very well I would prefer it was stock.  Do you have any experience or knowledge about this subject and also do you have any experience with the Petronix Ignitor pointless system?
+I was wondering what models people had luck with.  I stray away from Pertronix because they have had so many warranty claims.
+And some responses -
+"Speedy Jim" says:  Electronic ignition is nice ... but ... it's not a panacea.  The stock ignition should make that engine run just fine.  First find out why it doesn't run right.
+Electronic ignition ... only removes tuning up the points/condenser.  Otherwise the performance is the same.
+With the electronic ignition system you replace the points with a sensor (and you usually need a new resistor-less rotor arm too) and the  the sensor provides the trigger for the normal coil. So you get normal spark voltages, but no wearing of points and usually less "shake" in the timing, since it's only distributor driveshaft wear which could now cause "shake" and not the points cam and jumping points too. Since there are no points to wear, the timing doesn't alter and you have less tuning to do.
+A
+Capacitive Discharge Ignition (CDI)
+system gives a hotter spark and therefore better performance, but the electronic ignition simply replaces the points with an electronic trigger for the CDI.  So it will stay timed longer -- it needs almost no adjustment, as it has no rubbing/wearing parts.
+The only performance advantage would be staying in tune.  I guess that if the engine was running at high revs a lot you'd also have the advantage of no "points float" which tends to upset the timing a little, but since most Bugs are "daily drivers" and not racers I doubt you'd notice ANY difference in performance.  I'm certainly not knocking them, I'd be quite happy to try it out -- just don't see the need if you are happy to check the timing regularly.
+I've had great luck with the Pertronix.  I think the warranty claims were mostly because the unit was a bit too big for the 009 distributors, and didn't fit right.  It wasn't possible to create a gap, it rubbed.  They've fixed that, and now it fits fine.  The unit itself works fine.  I have one in my '70 Ghia, and I've driven it for six months that way, with zero problems.  I also talked to a lot of people before buying it, particularly shops that sold both units (Compufire and Pertronix).  The  unanimous opinion was Pertronix.
+---
+And finally more wisdom from Bob Hoover -
+The points represent an asymmetric load on the distributor shaft.  With mechanical points that asymmetry leads to some degree of "hunting" at low speeds.
+At higher speeds the inertia of the system tends to damp-out the hunting, but, depending on the age of your points and the amount of wear in the system, you begin to experience some degree of points-bounce.
+The Pertronix units I've bought and tested eliminated both of these problems.  The net effect is a more stable, more uniform ignition at all engine speeds and some small improvement in fuel economy because of it.
+---
+Dave's Compufire Installation -
+On the advice of John Connolly
+(Aircooled.Net)
+, Dave installed the Compufire Electronic Ignition System in his '73 Super Beetle, as the Compufire unit is more compatible with the SVDA distributor that Dave has.  See Dave's
+Compufire Installation Procedure
+.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,176 @@
+Clutch
+The VW Clutch
+~~~
+Subtopics related to operation of the clutch are addressed in the following -
+Clutch Discussion
+Why Do We Need a Clutch?
+The VW Clutch
+What Can Go Wrong?
+Throwout Bearing
+Clutch Cable
+Bowden Tube
+Clutch Adjustment
+Clutch Removal and Installation
+Questions and Answers
+Clutch Replacement
+Pressure Plate Removal/Replacement
+Throwout Bearing, etc.
+Pedal Cluster
+Clutch Pedal Return
+Cable Replacement
+Cable Adjustment
+Tunnel Weld
+Slipping Clutch
+Competition Clutch
+Hydraulic Clutch
+Stiff Clutch
+~~~
+The Clutch
+Why Do We Need a Clutch?
+Clutches are useful in devices with two rotating shafts.  The clutch connects the two shafts so that they can either be locked together and spin at the same speed, or be decoupled and spin at different speeds.
+The VW Clutch
+In a VW, the flywheel is attached to the rear end of the engine crankshaft engine, and the clutch plate is connected to the transmission by way of the splined shaft that protrudes from the rear end of the transmission.
+From the Haynes Manual ?
+All Volkswagens with a manual transaxle use a single dry-plate, coil spring clutch (1972 and earlier models) or a diaphragm spring clutch (1973 and later models.  The clutch disc has a splined hub which allows it to slide along the splines of the transaxle input shaft.  The clutch and pressure plate are held in contact by spring pressure exerted by the coil springs of the diaphragm spring in the pressure plate.
+The clutch release system is cable operated.  The release system includes the clutch pedal, the clutch cable, the clutch release lever, the clutch release shaft and the clutch release bearing.
+When your foot is off the clutch pedal, the springs in the pressure plate push it against the clutch disc, which in turn presses against the flywheel.  This locks the engine to the transmission input shaft, causing them to spin at the same speed.
+When the clutch pedal is depressed, its movement is transmitted by the cable to the clutch release lever.  As the lever pivots, the forks on the release shaft push against the release (throwout) bearing, which slides along the input shaft toward the flywheel.  On earlier clutches, the release bearing pushes against the release ring, which pushes on the inner ends of the three release levers, which releases the pressure place from the clutch disc, allowing the clutch disc to disengage from the flywheel.  On later clutches, the release bearing pushes against the fingers of the diaphragm spring of the pressure plate assembly, lifting the pressure plate off the clutch disc and allowing it to disengage from the flywheel.  This releases the clutch from the spinning engine.
+Terminology can be a problem when discussing the clutch components because common names are in some cases different from those used by the manufacturer.  For example, the driven plate is also called the clutch plate or disc, the clutch release bearing is sometimes called a throwout bearing, etc.
+What Can Go Wrong?
+The most common problem with clutches is that the friction material on the disc wears out.  After a while, the friction material wears away.  When most or all of the friction material is gone, the clutch will start to slip, and eventually it won't transmit any power from the engine to the wheels.
+The clutch only wears while the clutch disc and the flywheel are spinning at different speeds. When they are locked together, the friction material is held tightly against the flywheel, and they spin in sync. It is only when the clutch disc is slipping against the flywheel that wearing occurs. So if you are the type of driver who slips the clutch a lot, you will wear out your clutch a lot faster.
+Another problem sometimes associated with clutches is a worn throwout bearing.  This problem is often characterized by a rumbling noise whenever the clutch engages.  See our article on the
+Throwout Bearing
+.
+Unless you?re planning to replace obviously damaged components, always perform the following preliminary checks to pinpoint the source of clutch problems:
+Check clutch ?spin down time.?  Run the engine at normal idle speed with the transaxle in Neutral and the clutch pedal up.  Disengage the clutch (depress the clutch pedal), wait several seconds and shift the transaxle into Reverse.  You shouldn?t hear any gears grinding.  A grinding noise indicates a problem in the pressure plate or the clutch disc.
+Verify that the clutch releases completely.  Run the engine (with the parking brake applied to prevent the vehicle from moving) and hold the clutch pedal about 1/2-inch from the floor.  Shift the transaxle between 1st gear and Reverse several time.  If the shift is hard or the transaxle grinds, something in the clutch release mechanism is broken.
+Inspect the pivot bushing between the clutch pedal and the pedal shaft for binding or excessive play.
+If the clutch pedal is difficult to operate, the most likely cause is a faulty clutch cable.  Remove the cable and check it for kinks, frayed wires, rust and other signs of deterioration.  It it?s in bad shape, replace it; if it looks like it?s in good condition, lubricate it with penetrating oil and try again.
+~~~
+Questions and Answers
+Clutch Replacement -
+Someone wrote - My clutch has gone...  I want to learn to do the job myself?  Is this a hard job to do?
+Rob responded - No - it's a very straightforward job (See our
+Clutch Removal and Installation
+procedure).
+You remove the engine (see our
+Engine Removal Procedure
+), replace the clutch plate on the flywheel, plus the release (throw-out) bearing which sits in the bell housing, and put it back together again.
+That's the short version :-)
+The clutch is held in the flywheel by six bolts.  Remove these progressively so the plate doesn't distort (working across the bolts -- opposite sides -- is a good idea, rather than just working round and round the flywheel).
+A clutch kit normally consists of the pressure plate and clutch disk.  It makes sense to change the throw-out bearing at the same time - it MIGHT last the life of another pressure plate, but why take the chance.
+Staying with the stock clutch is best for a stock engine.  I haven't used any other type of parts, but I would imagine that the "racing" pressure plate might have a heavier pedal and be less "user friendly".
+Check the surface of the flywheel - if it's mirror smooth it should be machined slightly so it has tiny ridges in it for better grip.
+Also check for leaks from the main gland seal behind the flywheel -- it's a good idea to have a new seal available before you start the job, just-in-case.  See our
+Flywheel and Main Seal Procedure
+.
+You should also replace the clutch throwout bearing in the bell housing if this hasn't been done for a few years.  See our
+Throwout Bearing
+procedure.
+When putting the engine back in, try to have it level as you approach the lower stud holes.  Once these are started you should be able to wiggle the engine in easy enough. Sometimes you'll have to turn the crank a little so the clutch plate splines line up with the gearbox shaft splines -- the engine will eventually "pop" into place - feels real good at that point :-)
+Once you have the engine back in, adjust the clutch cable so that the clutch pedal has only a small movement before the clutch starts to release - it should fully disengage in the first half of pedal travel, not down near the floor.  Some clutch cables have a double (locking) nut on the end, and others have a wingnut.  Either works well. The wing nut style has indents on the front side (front of car) to hold against the clutch arm - so you may have to work at turning it until it clicks into the next indent.  You may have to grab the cable to stop it turning as you turn the nut. There are small flats on the cable-end for this -- don't grab the cable itself with vice-grips, etc. -- only the hard cable-end.
+Also check the Bowden tube, between body and gearbox - this MUST have a downward bend of 0.8 to 1 inch, so the gearbox can rock on it's mounts without pulling the clutch cable (can you say "kangaroo hops"?). To adjust this bend, C-shaped washers are inserted between the bowden tube and the gearbox mounting - you'll see what I mean if you look hard at it. You can make C-washers by cutting a small slice out of a washer so it will slip over the cable but still sit on the ledge in the end of the Bowden tube.
+Connect the fuel, accelerator cable and electrics (and heater cables if you are using them) and away you go. Expect to readjust the clutch after 100 miles or so -- it takes a little while to bed down.
+Pressure Plate Removal/Replacement -
+Regarding removal of the clutch pressure plate, Dave wrote - To get to the main seal, the flywheel must be removed.  And before the flywheel can be removed, the clutch pressure plate has to be taken off.  Any part that has "pressure" as part of its name is intimidating to me!  :-)
+Rob responded - The clutch plate comes off and goes on very easily.  As the bolts pull it tight, they load the clutch springs -- all those fingers pointing to the middle if you have the later-type diaphragm clutch, or all the little coil springs if you have the earlier type clutch.  You just take the bolts out a few turns at a time, moving to the next bolt.  They won't just crack loose and spin off, because they are under tension from the clutch springs.  When reassembling, I like to do them up just snug, and then slightly torque them (about 10 ft-lbs) 'crosswise'.  One bolt, then the one opposite, then back to one next the first, then opposite etc.  Then I do it again, for the final torquing (to 18 ft-lbs) to ensure that the plate tightens without distortion (which might give you a shuddery clutch).  Probably never going to be a problem -- just me being cautious for little extra effort.
+The only tricky bit in the whole operation is getting the clutch friction plate lined up with the needle bearing in the gland nut as you tighten the clutch bolts.  The friction plate 'floats' on the gearbox drive shaft when it is operating, so it can move about a bit as you tighten the bolts, as it the engine is not yet attached to the gearbox.  I simply got down to flywheel height, and 'eyeballed' it as best I could.  This is probably why the last inch of engine installation took a bit of shoving.  If the friction plate is not exactly in line with the needle bearing, the gearbox shaft has a bit of a hard time entering that needle bearing.  There is a special VW tool for lining this up, but I've never bothered, cause I think it's rather expensive (if you can even get one).
+I've tried using a metal rod, and it can help give you a bit of an idea, but for it to be really useful you need to find someway of ensuring it's at right angles to the flywheel face, then you can 'eyeball' the gap between the inside of the clutch driven plate (friction plate) and the rod with reasonable accuracy.
+If getting it lined up proves to be really difficult (engine just won't go in the last inch or so), you could try your old 'install the clutch while in the car' trick, tightening the clutch bolts with the engine almost mated up, and hopefully the clutch driven plate would then be sitting on the splines of the gearbox drive shaft and 'centered' with respect to the pinion bearing in the gland nut.
+Hopefully this won't be necessary.  The end of the gearbox shaft has a small champhered edge (a 'rounded' end), and this will allow the shaft to 'start' inside the pinion bearing even if the clutch plate is a mm or two out of line.
+Throwout Bearing -
+Someone wrote - So, you're going to take the plunge and remove the engine -- good for you.  As Muir might say "trust yourself, it's the only way to live".  Sounds like you have it planned out well.  My only suggestion is to replace the clutch release bearing (throwout bearing) even if it looks okay.  It's relatively inexpensive compared to the trouble of having to get to it later.  Also, it's highly recommended to replace the transaxle rear driveshaft oil seal behind that release bearing since you're already there.  I also resurfaced the flywheel along with replacing the clutch disk and spring plate.  Remember to mark the position of the flywheel in relation to the crank before you remove it -- I don't know why, but it's mentioned in some books and not in others.
+Pedal Cluster -
+Someone wrote - If you ever have to take the pedal cluster out, you can really save yourself a lot of future problems by spending a little time there before you put it back in and reattach the cables.
+The hook that the clutch cable catches on in the tunnel wears with time and use, and it WILL peel back or snap off if it gets worn too thin.  If the pedal cluster is out, pull off the circlip holding it all together and slide the central shaft (with the hook attached) out of the rest of the parts.  Then, take it somewhere and have them beef up that hook with a little welding job.  It is a lot better than having it pop off on you in some godforsaken situation, and it's cheap insurance.
+John Connolly
+(Aircooled.Net)
+wrote - It is also VERY common for the hook on the end of the pedal assembly to break off, which does NOT require engine removal to repair; but, it does have to be welded!
+Someone wrote - There is no inspection plate under the center tunnel (at the front of the car) and I am steadily going insane trying to figure out how to get at the front end of the clutch cable.
+Rob responded - The front end of the clutch cable is attached to the pedal cluster.  On right-hand drive models (e.g., in Australia and the UK) there should be a cover plate on the opposite side of the tunnel from the pedal cluster, held in place by two bolts.
+The new clutch cable is fed in through this hole, and it's quite awkward to do -- you have to make sure you get it started through the cable guide (tube) which is inside the tunnel, so it comes out the back above the gearbox.  Attaching the front of the cable to the pedal cluster is a fiddly job too, but do-able.  Some less scrupulous mechanics simply cut a large chunk out of the top of the tunnel with an angle grinder to make it easier for themselves, but this is just laziness -- the cable WILL go in.  VW designed their cars very well for replacing things, and most maintenance can be handled by any owner with a basic mechanical knowledge.
+You might find it easier to remove the front seats to give you room to move without putting a kink in your back.  :-)
+Just for information to avoid confusion -- there IS a cover plate right at the front of the car which is used for withdrawing the gear shift rod from the tunnel.  On the standard Beetles it's between the front torsion bar tubes on the frame head, and on the Super Beetle it consists of a "crash plate" that is bolted to the frame under the front of the car with eight bolts.  Neither of these cover plates has anything to do with the clutch.
+Clutch Pedal Return -
+Someone wrote with a problem - My clutch pedal has no return -- when you press it, it stays down instead of coming back up.  When you depress the clutch you are pulling the cable forward, which turns the operating bar to which the release (throwout) bearing is attached forward, and pushes the bearing backward and into contact with the clutch plate.  But what pulls the cable back toward the front of the car when you take your foot off of the clutch pedal, and at the same time, of course, returns the pedal to its normal upright position?  In my mind's eye I'm seeing a spring hooked around the base of the clutch pedal -- is this what pulls the cable back forward and returns the pedal to the upright position?
+Rob responded - The return spring for the throwout bearing is actually wrapped around the operating arm which sticks out of the bell housing (the arm with the cable attached).  This pulls the clutch cable back to the rest position, and pulls the pedal upright with it.  Then there is another smaller spring around the pedal mechanism to hold the pedal in the upright position.  I've just gone out and looked at my car -- the visible coil spring around the nested shaft (for the clutch/brake/accelerator) is for the brake pedal, so I think the clutch return spring must be under the cover plate on the left side of the tunnel.
+Note:
+The pedal clusters in left-hand and right-hand drive cars are in opposite sides of the car, and the springs are in different places.  In RHD cars, the accelerator shaft goes through the middle of the whole cluster, from the pedal on the right to the cable on the left of the tunnel.  In LHD cars, the accelerator is the shortest connection, since the accelerator ends up right next to the accelerator cable.  Interesting how VW arranged it so that only the pedal cluster changes for L/RHD -- everything else stays the same.
+Has the clutch cable become detached from the hook on the pedal mechanism (just inside the tunnel)?  With the right hand drive cars you should be able to take the cover plate off the left side of the tunnel (opposite the pedal cluster) and with a small mirror and torch you should be able to see the rectangular loop on the end of the clutch cable and it should be over the hook which the clutch pedal moves.
+If the cable is off the hook, or if the hook has worn through and broken (yes, that can happen after 30+ years, but it can be re-welded), then the pedal will be flopping about, not pulling on the cable at all.  And if it's own return spring is broken or not connected, then the pedal would flop straight to the floor.
+Don't try to operate the clutch or brake with any force with that cover plate off -- it helps hold the mechanism in place and it will move about if you work the pedals hard with the bolts loose.
+And don't mistake the accelerator cable for the clutch cable!  The accelerator cable hook is on the OUTSIDE of the tunnel under that cover plate, and it's just a bent-wire on the cable end.  The clutch cable is inside the tunnel, and is much thicker with a large rectangular loop.
+One other thing to check.  Lift the cover plate on the tunnel under the back seat and look at the clutch cable tube on the right side of that opening.  The tube should be welded to the side of the opening -- that's the rearmost of three welds holding the clutch tube steady in the tunnel, and if any of the welds break, the clutch pedal will feel very spongey (like the brake pedal with air in the lines).  I've had the rearmost weld break.  Fortunately that one is easy to see and repair -- the other two welds are a LOT harder :-(
+I don't know if any of this is helping, but you can check out the whole clutch cable system anyway :-)
+The question continued - I've checked the hook on the pedal and its fine, as is the cable.  The big spring on the operating arm (on bell housing) is in good nick too, when I press that with a screwdriver it has a strong return to it.
+Rob responded - The
+Illustrated Parts Catalogue
+is quite useful -- I should have looked at it myself before I wrote my last.
+Pedal Assembly - LHD
+~~~
+Pedal Assembly - RHD
+~~~
+I had thought there was an extra spring in the pedal cluster for the clutch, but that illustration does not show one (and I've now had a look at the "original" pic at the oldbeetle site too), so I have to assume that the spring on the bell housing does it all for the clutch mechanism.
+I?m glad to hear that the hook for the cable is fine.  They can wear through to the back of the hook if there is no lubrication on the cable eye when it's inserted (a dab of wheel grease works fine).
+So -- with the cable eye hooked properly over the pedal hook, and the butterfly adjuster correctly tightened at the rear end of the clutch cable, you should end up with just a small amount of movement in the clutch pedal before the cable starts to pull.  Certainly if the pedal has been working the clutch down near the floor (loose cable adjustment) the eye could pop off the pedal hook.  That would release the pedal to flop to the floor.
+It's also possible that the U-shaped bushing has worn through and is creating more movement of the whole cluster than it should have.  The cluster is in fact held in place by a bolt at the right side (near the accelerator pedal), the two bolts the left side of the tunnel, and the U-shaped bushing.
+If any of these components were loose it would encourage cluster movement which might upset the clutch pedal movement (plus the brake and accelerator of course).
+Clutch Cable Replacement -
+Someone wrote - Almost home today, as I was letting  the clutch out, I hear a nasty snap, and the sinking feeling of no resistance in the clutch pedal.  Any tips before I leap under 'er?
+Rob responded - Hopefully it is just your clutch cable that broke.  If it turns out the cable is not broken, you will have to pull the engine out and replace the throwout bearing fork.  While you're in there, you might as well replace the rest of the clutch and throwout bearing too.
+If it's just the cable, it's easy to replace.  Just feed it through from front to back.  It helps to lube it with some grease first.  See our
+Clutch Cable Replacement Procedure
+.
+Clutch Adjustment -
+Note:
+See our
+Clutch Adjustment Procedure
+.
+Someone wrote to ask - Can you adjust the cable (i.e., pedal travel) without the actual clutch mechanism being in the car?  Probably a dumb question, revealing how little I know about how the clutch actually operates.
+Rob responded - No, you can't.  The clutch release mechanism is in the gearbox bell housing, and the clutch is on the flywheel, so you have to have the engine and gearbox mated before you can set the freeplay between release bearing and clutch plate   which is what you are doing when adjusting the cable.  When properly adjusted, the release bearing will be just free of the clutch plate when the clutch pedal it up, so it is not spinning all the time, and only starts to spin when the clutch pedal is pushed down a small amount and forces the release bearing into contact with the clutch plate.
+Someone wrote - I have the clutch cable snugged up a bit too tight, I think.  When I start the car with the clutch pedal depressed, then release the pedal, there is definite partial clutch engagement, just as if someone were riding the clutch.  I'm sure that's what the problem is.
+Rob responded - Sounds like the cable is too tight.  Try to move the clutch pedal down with your hand -- there should be just a bit of free play.
+Tunnel Weld -
+Rob wrote - When you have occasion to look at the shifter coupling under the back seat, have a hard look at the clutch cable tube which should be firmly welded to the side/top of the tunnel at that point.  It's one of three welds in this tube, and all three have been known to break away and cause slop in the clutch travel.  Mine broke here twice (my first re-weld was not good enough).  Look for cracks across the weld and around the tube at the edges of the weld.  If you see cracking, a re-weld has to be done with minimum heat on the tube, as the cable is still inside.  My own efforts didn't damage the cable, so it's not a real problem, just something to be aware of.  Hopefully yours will be okay, but it's worth checking while your head is 'under the back seat'. (The other two welds are VERY difficult to get at -- the center one requires cutting a hole in the side of the tunnel -- and I dread either of these breaking loose.)
+Slipping Clutch -
+Dave wrote regarding his slipping clutch - The engine revs at the high end of the gear range -- power isn't being transmitted to the drive shafts.
+Rob responded - It sounds like a slipping clutch or something.  If so it needs a clutch cable adjustment, or maybe it has oil on the clutch plate, possibly due to a bad main oil seal.  This is puzzling -- it shouldn't be happening with so few miles on it.  I thought you had a new clutch plate in it -- they last for years usually.  Are you sure it's not a tight cable?  Is there a little free play in the pedal?  I'd be doing the simple stuff first, like backing the clutch cable off a few clicks, just to test it.
+Dave continued - I don't think it's a tight cable.  In fact, the cable is a bit loose.  I could loosen it a bit more, I suppose ? In any event, the clutch is slipping seriously under load (e.g., going up a hill), although it's not very noticeable under normal conditions.
+Rob responded - If there's already plenty of clutch pedal movement before the clutch moves then loosening it further won't do anything -- that?s NOT the problem, unfortunately.  Since a tight cable is definitely not the problem, it sounds like it might be time for a new clutch plate -- a drop-the-engine job.
+The clutch plate may be worn out even though there appears to be plenty of "meat" on the friction plate -- the diaphragm clutches does not have quite as much travel as the older style coil-spring VW clutch plates, and so looses some of it's pressure as the friction plate wears.  Also, did you notice if the flywheel clutch surface was mirror shiny or still slightly "machined" in appearance?  A shiny surface has less grip, in which case the flywheel surface may need machining.  Commercial shops rarely mention this when changing a clutch -- they just rely on the replacement pressure plate (with IT's machined surface) to give enough grip.
+Run your finger nail from the center to the outside of the flywheel -- you should feel tiny ridges from the original machining. It shouldn't be mirror-shiny smooth, though it will work okay if it is -- just more prone to a little slip under hard launches perhaps.  Like the brake drums, the best grip comes from just a slight roughness (machine grooves, like a vinyl record).
+Any chance you have oil contamination of the friction plate?  Could your engine removal have moved something?  Two common leak points are the main seal behind the flywheel, and the gearbox main seal.  These are either side of the clutch of course, so leaks from either can get on the friction plate.
+Note:
+The situation described above was indeed due to a slipping clutch, caused by oil on the clutch plate.  The source of this oil was a damaged main seal, which in turn was caused by excessive end-play in the crankshaft, caused by a spun main bearing.  Dave ended up having to have the engine case replaced.  See our article on the
+Main Seal
+for more information.
+Competition Clutch -
+Dave wrote - I bought "Who's Yer Daddy" competition clutch components from
+Aircooled.Net
+.  These aren't stock, but are supposed to be improvements (see the picture below.)
+Rob responded - Interesting -- I haven't seen this type of disc before.  I guess it has a reduced amount of pressure contact area, but the pressure would end up being greater.  Fine so long as the reduced contact area doesn't make it wear faster, or wear the flywheel and pressure plate faster.  I wouldn't be surprised if it's a fraction more "grabby" than the standard disc, but I would think that a slight change to driving style would overcome that (a few more rpm on take-off, with a little more slip using the clutch pedal perhaps).
+Dave wrote - I installed the new clutch components, replaced the engine, lowered the car and timed it statically -- then started it up!  Around the block we went -- that racing clutch is something else!  Reminds me of the Beach Boys song - "I've got a competition clutch and a four on the floor!"  The clutch grabs much more positively and decisively.  If you let it out too quickly you're off, right now!  I actually laid rubber when I drove the car for the first time yesterday!  Never done that in a Volkswagen before!
+"Who's Yer Daddy!" Clutch Disc from
+Aircooled.Net
+~~~
+Rob responded - Big smile.  I managed to spin my wheels this morning, but that was in heavy rain - not the same thing, but it's fun to PRETEND the VW has power.
+Hydraulic Clutch
+Someone wrote - I have a trike and use a VW engine and tranny.  I had the trike built and have been riding it since September of this year.  I have adjusted the clutch but I still have slipping at top end speed.  If I adjust it the other way, I have trouble getting it in gear, so I have a problem.  I have no problem shifting, but there is slippage at full 
+throttle.  I am using a hydraulic clutch and slave unit.
+Rob responded - Hydraulic clutches work with two principles in mind - the volume of fluid in the master cylinder must be same or greater than the volume of the slave cylinder so the master doesn't bottom out before the slave has moved the maximum distance.  The arms at both ends which provide leverage (pedal arm and clutch actuating arm) are set so when the clutch pedal is fully depressed the clutch arm moves through a large enough angle to completely free the pressure plate 
+from the friction plate.
+In your case it sounds to me like the master cylinder and slave cylinder have not been matched properly in size, so with the clutch adjusted "tight" it pushes the clutch pressure plate far enough to change gears but then slips at higher power (in other words it's not fully released when your foot is off the pedal).  If it is set so no slip occurs, the slave is not pushing the clutch pressure plate far enough to release completely so you get "sticking" gears.
+If I've described it right, then you might have to find a slightly larger master cylinder so it can be adjusted a little looser but still push the slave and clutch pressure plate far enough to release completely when changing gears.  Even a fractionally larger master cylinder (1 or 2mm larger [maybe 1/8" inch] in diameter) would probably do it.
+I don't know what the arrangement of arms, pedals, etc. is with your hydraulic clutch, but another possible answer would be to use a slightly shorter arm on the slave cylinder, so when the slave rod moves it rotates the clutch arm through a larger angle.  This might work but might also make the clutch pedal feel heavier.
+Or another variation on that last one - if the master cylinder was working off a longer arm (moving the pushrod hole up the clutch pedal arm a little more) that might do it too, although you'd have to be sure that the master cylinder rod is not already bottoming out inside the master cylinder. If it is then this suggestion won't work as it will just bottom out with the pedal a little higher off the floor - no improvement in clutch actuation.
+Stiff Clutch
+Someone wrote -
+I have a 1600 vw trike that hasn't been used for two years, but the engine runs fine.  It has a very HARD clutch - it only moves two inches but engages perfectly. I disconnected the clutch cable and it moves freely.  How do I free the clutch lever movment?
+Rob responded -
+Did you test the pedal movement when you disconnected the cable?  There are only three moving components - the pedal, the cable, and the clutch throwout arm inside the bell housing.  You said it's not the cable.  The pedal COULD be sticking since it's a nested shaft arrangement on the pedal cluster - maybe some WD40 or similar blasted in there (using the little straw to get real close) might help. But if it's not the cable or the pedal, it must be the arm in the bell housing.  That has a bearing on each side and you can only get to the left side unless you remove the engine.  But you could try some WD40 or similar penetrating oil on the left side and see if that helps.  If it doesn't, you would have to remove the engine so you can remove the arm or at least check it for sticking and lubricate the right side.
+I presume that there is no noise (grinding/rumbling) when the clutch is used? I don't think a worn throwout bearing would cause your problem, but it's a faint possibility.  It sounds like the problem is related to two years of non-use, but I don't suppose the clutch plate had been replaced by a heavy duty version with a stiff action has it? There are "racing" clutches which do require more pedal pressure.
+* 
+                    * * * *
+Design by
+Erin

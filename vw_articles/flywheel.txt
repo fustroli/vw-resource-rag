@@ -1,0 +1,70 @@
+Flywheel Removal and Main Oil Seal Replacement
+Flywheel Removal and
+Main Oil Seal Replacement
+~~~
+See
+Further Discussion and Links
+related to the flywheel.
+See
+Further Discussion of the Main Seal
+.
+See
+Further Discussion of Endplay
+.
+~~~
+Remove the engine from the car (see
+Engine Removal and Installation
+procedure).
+Remove the clutch plate and disk (see
+Clutch Removal and Installation
+procedure).
+Make aligning marks on the flywheel and on the engine case so you can install it exactly in its original position.  This will assure proper balance.
+Make a "buddy bar" out of a piece of heavy angle iron about four feet long.  Drill two holes in the angle iron to mate with two adjacent  holes for the bolts that hold the clutch plate to the flywheel.  Bolt the "buddy bar" securely to the flywheel so that it rests on the floor to the left (as you are looking at the flywheel).
+Mark the flywheel and the gland nut with a fine line so that the nut can be retorqued to precisely the same point.  The finer the line, the more accurately you'll be able to retorque it.
+Note:
+This won't work, of course, if you are replacing the gland nut.  In that case, note the length of the "cheater" bar (see below) and the amount of force (in pounds) that you are applying, and do the math.  It is important that the torque on the gland nut be AT LEAST 254 ft-lbs but not a great deal more.
+Using a 36mm socket, 3/4" swing handle, and a length of galvanized pipe (for a "cheater") remove the gland nut from the center of the flywheel.
+Pull the flywheel off the dowel pins on the crankshaft. If your car is stock, there will be four dowel pins.  Modified engines may have eight.
+Inspect the oil seal lip and the contact surfact on the flywheel shoulder.  If the lip is worn or cracked, replace the seal.
+Note:
+If the flywheel shoulder contact surface is deeply grooved, you will have to replace the flywheel in order to obtain a good seal.
+Pry out the old oil seal, being careful not to scratch or gouge the magnesium alloy crankcase casting.
+Note:
+Make careful note of how far the old seal is inserted and the order in which the parts (shims, etc.) come out (if they do) so you can replace them in the same order and the same depth.
+If the outer edge of the crankcase is sharp, chamfer it with a scraper to prevent damage to the seal during installation.
+Clean the oil seal recess to remove dirt, old sealer, and traces of oil.  Then apply a thin film of sealing adhesive.
+Note:
+Others advise to install the seal dry.  The important thing is that it fit tightly into the recess so that it will not turn.
+Start the seal into the chamfered recess by hand.  Note that it has a spiral spring inside it.  The seal lip must point into the crankcase and the spring must face the engine.  Don't mix the shims if they came out--put them back in EXACTLY the way they came out.
+Press the new seal into position.  The oil seal must be seated squarely in the crankcase recess.
+Note:
+VW uses a special tool to press the mail seal in.  It is possible to do it using a smooth piece of wood placed flat across the seal, and then tapping it in with a hammer.  This should make it easy to see if it's going in straight--
+the wood won't be parallel with the engine case if it isn't--and it will prevent damage to the back of the seal.  You could also use a rubber mallet, tapping a bit at a time around the rim of the seal--a bit harder to get it even, but do-able.
+Using engine oil, lubricate the oil seal contact surface on the flywheel.
+If you are reusing the flywheel gland nut, clean the needle (pinion) bearings inside the nut with solvent.  Check to see that the needles are not flattened by wear.  Pack the bearings with 1 gram of multipurpose grease (just enough to coat all needles lightly--don't overdo it).
+Apply motor oil to the small felt ring near the outside of the gland nut.  Wipe away all excess lubricants.
+Inspect the starter gear teeth for wear and damage.
+Inspect the dowel holes in the crankshaft and flywheel for wear.  See that the dowels fit tightly.
+Install the dowel pins, and then install the flywheel on the crankshaft so that the reference marks made earlier line up.  Then install the gland nut, but do not torque it.
+Note:
+If your engine is prior to # F 0 741 385, VIN 116 796 901, there is a gasket between the flywheel and the crankshaft.  This should be replaced with a new one.  Beginning with the 1300cc models in '66, the gasket was dropped and an O-Ring was inserted in a groove in the flywheel hub.  This should likewise be replaced; apply a little silicone sealant to the O-Ring before inserting it.  Put the flywheel on before it cures.  If the spring-type lock washer under the gland nut is deformed, replace it.
+With the flywheel in place, the flywheel and shims are touching the bearing on one end and the lip on the crank is touching the bearing on the other end. It is important now to check the end-play; that is, the distance the crankshaft will move forward-to-back.  To do this precisely requires expensive gauges; I will describe the poor man's method.
+Note:
+The front bearing takes *all* the thrust on the crank, fore and aft.  The bearing should not move in the case(forward-to-back) AT ALL.  The most the crankshaft should move (forward-to-back) through the bearing is 0.006", which is a tiny amount.
+Use two screwdrivers between the flywheel and the case to pull the flywheel away from the case.  Now, do the same thing at the pulley end.  As you pull the pulley away, see how much the flywheel moves in.  Do this a few times till you have a good feel for what is happening.  Now, try to estimate the amount of front-to-back movement of the crankshaft.  0.006" is the MAXIMUM movement allowed for a worn out engine.  You can barely detect 0.006" of movement; check your feeler gauge to get a feel for how much this is.
+Note:
+A good place to check this is at the crankshaft pulley on the rear of the engine.  With the crankshaft pulled towards the rear (Step #21 above), look at the crankshaft down in front of the pulley with a flashlight.  The amount of end-play will appear as a shiny bright ring on the crankshaft.  Hopefully you will find this shiny bright ring very difficult to detect, meaning that the crankshaft movement forward-to-back is very small (less than 0.006").
+Now, if the movement looks to be over  0.006", take the flywheel off.  Take a blunt tool and try to push the bearing into the case.  Then, try to push the crankshaft pulley toward the case. Do this back and forth. See if you can detect any bearing movement AT ALL.  That's about as scientific as you can do without measuring gauges and/or taking the case apart.
+If you can detect more than the tiniest front-to-back motion of the bearing, it is likely that the bearing has "spun" in the crankcase.  To correct this you will have to split the crankcase, remove the crankshaft from the engine, and install an over-sized front bearing.
+Note:
+The engine will be ruined in very short order if you run it with excessive end-play.  Listen to the Voice of Experience -- bite the bullet and overhaul the engine!.  We found an eighth of an inch of endplay, and the rear of the engine case had a circular groove worn into it from the flywheel rubbing it.  Ours was so bad that the largest oversize bearing would not fit in the engine case, and we ended up replacing the engine case and the crankshaft.  An expensive lesson -- cost us 500 bucks!
+If you find that the end-play is not excessive, install the "buddy-bar" on the flywheel and torque the gland nut to 254 ft-lbs.
+Note:
+Again, torque the nut as best you can, always keeping in mind the length of the cheater bar and the amount of force being applied.  With a five-foot cheater, it is easy to over-torque the nut and break it (Voice of Experience again!), so be aware of what you are doing.  At least 254 ft-lb, but not a great deal more.  (The mechanic who overhauled our engine torqued the gland nut to 270 ft-lb.)
+Reinstall the clutch disk and pressure plate (see separate procedure).
+Lubricate the tip of the transmission's rear driveshaft with a very light coating of multipurpose grease and lubricate the splines on both the transmission's rear driveshaft and the clutch disk with graphite.
+Reinstall the engine in the car (see separate procedure).
+* 
+                    * * * *
+Design by
+Erin

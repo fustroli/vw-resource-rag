@@ -1,0 +1,57 @@
+Fuel Tank
+Fuel Tank Removal
+and Replacement
+(Super Beetle)
+Note:
+Water is heavier than gasoline, so condensation or water from contaminated fuel will collect in the bottom of the tank where it may cause rusting -- thus necessitating this very enjoyable job! :-)
+~~~
+WARNING:
+Gasoline is extremely flammable, so take extra precautions when you work on any part of the fuel system.  Don't smoke or allow open flames or bare light bulbs near the work area, and don't work in a garage where a natural gas-type appliance (such as a water heater or clothes dryer) with a pilot light is present.  If you spill any fuel on your skin, rinse it off immediately with soap and water.  When you perform any kind of work on the fuel tank, wear safety glasses and have a Class B type fire extinguisher on hand.
+~~~
+Fuel Tank Removal
+Note:
+The following procedure is much easier to perform if the fuel tank is empty.  Try to schedule fuel tank removal when the tank is nearly empty.
+It's helps to have the following materials close at hand -
+A one-gallon container of gasoline.
+A length of tubing with ID the same as the OD of the fuel line.
+A flat three-gallon oil drain container.
+A large, flat metal pan.
+A jack and two jack stands.
+Plenty of rags.
+Before proceeding with the work, run the tank to complete dryness.  Add about half gallon of gasoline back into the tank so you can start the car and move it to your repair area.
+Disconnect the battery ground strap and attach the frame of the car to a good electrical ground.
+Remove the fuel tank filler cap to relieve fuel tank pressure.
+Raise the front of the car and support it securely on jackstands.
+Lay the three-gallon oil drain container under the car with the larger hose running into it.
+Disconnect the fuel filter from the fuel line that descends from the fuel tank. Quickly run the fuel line into the larger hose leading back to the oil-drain container to drain any residual gasoline from the tank.
+Allow the other end of the fuel line to drain through the fuel filter onto the metal pan (there won't be much, as the fuel pump is now downstream).
+Remove the strut tower support bar (if your car is so equipped).
+Remove the luggage compartment liner (if you have one).
+Disconnect the wires from the fuel gauge sending unit on the top of the tank, noting which wire goes to which terminal.
+Loosen the large hose clamps and the breather line on the fuel filler neck hose and remove the hose.
+Remove the fuel filler neck and the fuel tank filler hose.
+Remove all of the vent lines from the tank.
+Remove the bolts from the four fuel tank retaining plates (two on each side of the tank).  Remove the retaining plates and lift the fuel tank out of the car.
+Carefully turn the circular plate on the top of the tank counter-clockwise and remove the fuel gauge sending unit from inside the tank.  Lay the unit aside in a protected place, making sure that the components don't get tangled together.
+Note:
+You don't need to remove the fuel gauge sending unit if you will not be refurishing the inside of the tank.
+Carefully remove the fuel tank from the car, taking care not to damage the rubber sealing strip between the tank and the body.
+Note:
+If this strip is damaged during tank removal, it will need to be replaced when the tank is reinstalled.  (Damage is likely, so plan on replacing the rubber sealing strip.)
+~~~
+Fuel Tank Replacement
+Reinstallation of the fuel tank into the car is the reverse of removal.  Make sure that the fuel hose at the bottom of the tank runs properly through the rubber sleeve to the underside of the car and doesn't get kinked between the tank and the body during tank reinstallation.
+If you removed the fuel gauge sending unit, reinstall it into the tank, making sure that the various wires and floats are not tangled.
+Reinstall the four retaining plates and bolts that hold the fuel tank in place.
+Inspect the fuel neck seal and replace if necessary.
+Replace the fuel filler neck hose and reinstall the filler neck, then tighten the large hose clamps.
+Replace all vent lines and rubber seals with new, including the tank/body seal that runs around the tank.  Don't forget the rubber seal between the tank and the fuel gauge sender assembly.
+Note:
+It is important that the connections leading to the tank are reinstalled correctly and in their original locations. Errors can lead to fuel starvation, or to the improper venting of fumes.
+Reconnect the wire(s) from the fuel gauge sending unit.
+Reattach the fuel filter to the fuel hose at the bottom of the tank and the continuing fuel hose to the metal fuel line running to the rear of the car. (Again, it would be wise to replace these rubber fuel hoses with new.)
+Replace the luggage compartment liner and the strut tower support bar.
+* 
+                    * * * *
+Design by
+Erin

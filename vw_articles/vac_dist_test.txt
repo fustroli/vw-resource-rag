@@ -1,0 +1,16 @@
+Vacuum Distributor Test
+Vacuum Distributor Test
+(For Dual-Vacuum Distributors)
+~~~
+To determine which vacuum line is working and which isn't -
+Put the timing light on and rev the engine up to a steady speed (1500-2000 rpm).  Then 'blip' the throttle open and let it go so that the revs don't change much but the load does.  If the advance vacuum line is working, you should see an immediate change in the advance, before the engine revs change much, and then a rapid change back again as the throttle is released.  If the advance vacuum line is NOT working, there will only be a steady change as the revs increase  the advance won't 'blip' with the throttle movement itself.
+To put it another way, if the engine revs alter by say 500 rpm as you 'blip' the throttle, you should see a timing change of maybe 2-3 degrees caused by the centrifugal advance.  But if the vacuum line is working, you should see it rapidly advance by maybe 8-10 degrees as the throttle arm is moved.
+Then run the engine at 3000-3500 rpm and check the timing.  If our theories are correct, it should be AT LEAST 30 degrees or more (30 degrees if only the centrifugal is working -- more if the vacuum advance is working too).
+If the maximum advance is less than 30 degrees, then disconnect both vacuum lines and plug them so air can't be sucked into the carburetor, then adjust the timing for 30 degrees at 3000 rpm (you will be setting the maximum advance using only the centrifugal advance), then reconnect both vacuum lines.
+Then drop the revs back to idle and look at the timing again.  It should be 5 degrees ATDC or thereabouts.  If so, the retard vacuum line is working OK.  But if it's somewhere from 0 to 10 degrees BTDC at idle, then I would guess is that it's the RETARD line which is not working.
+Having confirmed that the retard vacuum line is working, then gently open the throttle with the timing light still on  -- the timing should change rapidly from 5 degrees ATDC to some positive figure as the retard line stops working.
+Re-time the engine properly after doing the test (5 degrees ATDC at idle).
+* 
+                    * * * *
+Design by
+Erin

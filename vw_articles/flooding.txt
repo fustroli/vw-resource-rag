@@ -1,0 +1,31 @@
+Flooding
+Flooding
+(See also
+Dave's experience
+with flooding with
+the car parked on a slope, engine down.)
+~~~
+The Wisdom of Rob Boardman
+Difficulty starting the VW engine when it is hot is more commonly a result of carburetor flooding than anything else.
+First, try this hot-start technique -
+Try putting your foot SLOWLY down on the throttle and hold it steady while you crank the engine (DON'T pump the gas pedal).  You should put your foot down slowly because the accelerator pump doesn't work with a slow movement, and that, plus the wide open throttle and slow crank speed (low airspeed through carburetor) reduces any tendency to flood.
+If that helps the hot-start problem, then look for reasons why it might be flooding a little.
+Idle cut-off solenoid - if it doesn't shut off properly it allows fuel to flow for a moment after switch-off.  Check it by removing the wire to it and turning on the ignition (don't start the car).  Touch the wire back to the terminal -- does it "click" distinctly when you touch the wire on the connector?  If you do not hear a "click," the solenoid is defective and must be replaced.
+Check the needle valve in the top of the carburetor.  If it's sticking or worn a little it may allow the residual fuel pump pressure to overfill the float bowl (see
+Dave's experience
+below). Also examine the float itself where the needle valve rest on it.  If the float is worn there, replace it.
+Is your engine running a little hot? Do the dip-stick test - get the engine fully warmed up and pull the dipstick - can you just hold it without burning your fingers?  If so, the engine is not overheating (rough but useful test).  A hot engine floods more easily than an engine at normal temperature (overheated fuel vaporizes).
+Is the fuel inlet pipe prior to pump too close to the heat riser?  (Again, overheated fuel vaporizes - as per 3 above.)
+Hopefully that might help reduce the problem.  A lot of VWs have it to a small extent, but it shouldn't be so bad that the hot-start method doesn't fix it.
+~~~
+Dave's Experience With Flooding
+Dave was perplexed by a situation with his '73 Super Beetle (34 PICT/3 carburetor) related to flooding.  He found that when he parked the car on a slope (even the slightest slope, and often none at all) with the engine down (nose up), he would find the car hard to start when he returned to it.  Dave could smell gasoline, and the exhaust was black and sooty when the car finally started (it always did, finally), both indicative of a flooding problem.
+Dave had one of those "Ah Ha!" experiences upon reading Rob's suggestion #2 above regarding flooding.  Thinking that indeed a sticking needle valve might be the problem, Dave overhauled the carburetor and replaced the needle valve -- end of flooding problem.
+Dave has now had two opposite experiences with the float needle valve.  In his '65 Bug years ago he had a problem with the valve sticking "up," thus stopping the flow of fuel into the carburetor and stopping the car in its tracks.  When advised by a friend what the problem might be, Dave (until he could get the needle valve replaced) would pull out his trusty medium screwdriver and tap the top of the carburetor (over the needle valve) with the screwdriver handle.  This would unstick the valve temporarily (very annoying to have to stop every few miles, though!).
+And now, 36 years later, Dave has experienced a problem with the needle sticking "down," allowing excess fuel into the carburetor when the car was parked from residual pressure in the fuel line between the fuel pump and the carburetor.  Now we know why a new float needle valve is included in the carburetor overhaul kit!  And why it's important to overhaul the carburetor every couple of years or so.  (See our
+34 PICT/3 Carburetor Overhaul Procedure
+.)
+* 
+                    * * * *
+Design by
+Erin

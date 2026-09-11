@@ -1,0 +1,33 @@
+Vacuum Distributors
+Timing Vacuum Distributors
+~~~
+Both idle timing and static timing of 7.5 degrees BTDC is correct for the 009 centrifugal-advance distributor and most single-vacuum distributors (e.g., SVDA) on aircooled VW engines (vacuum hose disconnected and plugged on the single-vacuum distributor).  There is some variation depending on the model year and the country -- emissions considerations and such.
+Note:
+During timing with a strobe light, the vacuum hose on the SVDA distributor must be removed from the vacuum canister on the distributor and plugged to prevent air from being sucked into the carburetor during timing, which would create a too-lean fuel/air mixture and affecting the idle speed.  Alternately, of course, the vacuum port on the carburetor can be plugged, which accomplishes the same thing.
+If you are using the double vacuum distributor, the correct timing is five degrees ATDC (note AFTER), set with a stroboscopic timing light and the engine idling,  with BOTH vacuum hoses connected. NEITHER ov the vacuum hoses is to be removed and plugged.  You can't set this distributor with the engine not running, as you need the idle (front) vacuum line working to pull the distributor plate back to the idle setting.
+Note:
+The 34PICT/3 carburetor has two vacuum ports to accomodate the double-vacuum distributor -- one on the left side, and one on the rear.  The port on the left provides vacuum advance, and the port on the rear provides vacuum retard.  When using the single-vacuum distributor, the vacuum hose runs from the vacuum port on the left side of the carburetor to the vacuum canister on the distributor.  In that case, the vacuum port on the rear of the carburetor must be plugged.
+There is also a vacuum port on the intake manifold just below the carburetor.  This port is for a vacuum line up to the stock air cleaner.  See our
+Air Cleaner Discussion
+.  If you are using a tricked-out chrome air cleaner (which we do NOT recommend), this port on the intake manifold must be plugged to prevent entry of air into the system.
+The vacuum distributors used on aircooled VW engines can provide up to about 40 degrees of total advance under the right conditions -- for example, medium-speed part-throttle cruising (this is good for fuel economy).  But the change in vacuum when you floor it reduces the advance to around 30 degrees or so until the increasing engine rpm catches up with the "new" throttle position.
+It's actually an "airflow-through-the-carburetor vs amount-of-advance" thing, rather than actual rpm, but you get the idea. This ability of the vacuum distributors, called "load sensing," provides a shot of advance off idle to help the engine spin up.  The 009 distributor can't do this load sensing, so it must be limited to "worst case" of a little either side of 28-32 degrees maximum advanced.
+~~~
+Some Questions and Answers
+Someone asked - I'm confused. The specs say that the timing for the double-advance distributor should be set at five degrees ATDC at idle (850-900 rpm) with both vacuum hoses attached. Our engine absolutely refuses to run at this setting and demands 7.5 degrees BTDC, which is 12.5 degrees advanced beyond the specification. I don't understand.
+Rob responded - You are dealing now with both vacuum and centrifugal effects on the distributor.  At 1200 rpm the idle circuit of the carburetor would be shutting down and the low speed ciruit starting to operate, so the IDLE vacuum (the retard vacuum line) is probably inoperative at 1200 rpm, and setting the 5 degrees ADTC would not be possible, as this retard vacuum circuit is designed to work with the throttle shut idling at 900 rpm.
+And at 1200 rpm, the centrifugal advance would be just starting to work, so you can't set it with the engine running at 1200 rpm for 7.5 degrees BTDC either -- it probably needs to be higher than that. You could try either of the following -
+Set the timing at 7.5 degrees BTDC with the engine off (when both retard vacuum and centrifugal advance are inoperative). It's not supposed to be set this way, but you could then check the maximum advance, and if it is around 28-30 degrees BTDC, it HAS to be somewhere near right for the idle.
+Set timing at high revs (3000+ rpm) at 28-30 degrees BTDC, and hope that the idle will come in about right. Until you get the car to idle at about 900 rpm, you are going to find it difficult to set the timing the 'normal' way for that distibutor/carburetor set up.
+Question continued - I can tell you this: It doesn't come anywhere near the 30 degree BTDC mark on the pulley when I rev it up -- I would say on the order of 25-26 degrees BTDC. But if I advance it such that it approaches 30 degrees BTDC at 3000 rpm that's going to advance the timing at idle even more.  I'm missing something here!
+Rob responded - As I said above, you're 'missing' the fact that the centrifugal advance is starting to advance the timing at 1200 rpm, so the 'idle' timing at 1200 rpm SHOULD be higher than 7.5 degrees BTDC. I hope that makes sense.  The 009 distributor is set STATICALLY, and you're now setting the vacuum distributor DYNAMICALLY, with two variables vacuum and centrifugal advance.
+Someone asked - How can you tell that the retard circuit is not functioning properly?
+Rob responded - You probably won't be able to test this until you are able to get the idle at about 900 rpm. Then with the timing light connected you should see it jump from 5 degrees ATDC to 7-8 degrees BTDC as you crack the throttle open and the retard vacuum line 'disengages'.
+Note:
+We later learned that this system was suffering from air inleakage around the throttle shaft in the carburetor, making it necessary to set the idle high just to keep the car running, and rendering it impossible to correctly set the timing.  See our article on
+Air Inleakage
+.
+* 
+                    * * * *
+Design by
+Erin

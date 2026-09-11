@@ -1,0 +1,60 @@
+Distributor
+Introduction to the Distributor
+~~~
+Following are links to the sub-topics discussed under the general heading of "Distributor" -
+Note:
+All but the first are links to other pages on this or other Web sites.
+Introduction.
+Choosing the Right Distributor
+by John Connolly at
+Aircooled.Net.
+Wisdom of Bob Hoover re Distributors.
+(Used with permission.)
+Notes on the Centrifugal vs Vacuum Controversy.
+The 009 Centrifugal-Advance Distributor -- History and Notes.
+The Points.
+Operation of the Vacuum Lines.
+Vacuum Distributor Test.
+Distributor Q&A.
+~~~
+Introduction
+To paraphrase John Muir* -
+Recapping "Ignition" -  Look to a little left of the center of the engine and find a brown or black round plastic thing with five heavy wires sticking out of it.  That's the
+Distributor Cap.
+Under the distributor cap is the
+Distributor,
+and inside the distributor are the
+Rotor
+and the
+Ignition Points
+.  The
+Condenser,
+a small silver cylinder, is attached to the outside of the distributor (sometimes located inside the distributor).
+There may be a bright metal biscuit, about 3" in diameter, on the side of the distributor with one or two metal or rubber hoses leading out of it; this is the
+Vacuum Advance.
+If you don't have this biscuit, your distributor is a centrifugal advance type.  These two distributor types (and variations) are discussed in more detail in John Connolly's technical article on
+Choosing the Right Distributor
+.
+When the ignition key is turned on, electrical current goes from the battery to the
+Ignition Coil,
+usually mounted on fan housing.  Inside the coil are thousands of turns of wire, which increases the voltage to something like eigtheen thousand volts.  This high voltage is sent to the distributor from the center large outlet on the coil to the large connection in the center of the distributor cap.
+Note:
+The coil also has two side connections where smaller wires are either bolted or push-on connected.  On one side is a thin wire that goes from the coil to the distributor (usually green); on the other side are a wire that brings juice from the ignition switch, a wire that goes to the automatic choke, a wire to the carburetor cut-off jet, and a wire to the back-up lights.
+The function of the distributor is to send high voltage spark impulses to the spark plugs at exactly the right time so that they fire at the top of the compression stroke and ignite the compressed fuel/air mixture, drive the pistons, and provide power to the car.
+There are actually two separate electrical circuits inside the distributor.  The 12v circuit works through the points to cause a spike current to the low voltage windings inside the coil (this actually happnens as the points open, not when they close).  The coil boosts the voltage to eigtheen thousand volts or so and sends that back to the distributor which then sends it to the appropriate spark plug to fire the fuel/air mixture in that cylinder, at just the right time.
+The
+Distributor Shaft
+(has 4 cam lobes on it) is driven round and round by a gear on the crankshaft.  At each point of the lobes the distributor shaft opens the ignition points.
+In between the lobes on the distributor shaft, the points close.  When the points are closed, the twelve volt current (or six volt in older VWs) from the battery (via the ignition switch) is used to build up a magnetic field in the primary windings of the coil.  Then when the points open that magnetic field collapses and this induces a rapid magnetic field change in the secondary winding with it's many thousands of turns of wire. This creates the high voltage spike which travels to the centre post on the distributor cap, and out to the individual spark plug wires via a spinning rotor under the distributor cap, providing a hot spark to ignite the compressed fuel/air mixture in the cylinders.
+- How to Keep Your Volkswagen Alive -- A Manual of
+Step-by-Step Procedures for the Compleat Idiot,
+1976 Edition, page 14.
+Rob's note:
+I've altered the wording of Muir's description above just a little, to make the process a little easier to understand.
+~~~
+Again, please see the links above for more
+information about the distributor.
+* 
+                    * * * *
+Design by
+Erin

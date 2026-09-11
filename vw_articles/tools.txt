@@ -1,0 +1,130 @@
+Tools
+Tools
+~~~
+See also the following related topics -
+Emergency Road Kit
+Automotive Chemicals and Lubricants
+VOM Operation
+.
+~~~
+Treatise on "Tools" (by Dave)
+I bought my first VW Bug, a 1963 model, in 1968.  I knew that VWs like a lot of tender loving care, so even though I had (at that time) very little mechanical aptitude, I purchased a set of 1/2-inch drive metric sockets and metric open-end wrenches that I found at a garage sale.  My wife gave me a 1/2-inch drive ratchet for Christmas, and I bought a screwdriver at Sears -- I was all set!  :-)
+It was at that point that I enrolled (unknowingly) in what my father referred to as the School of Hard Knocks.  Over the next couple of years I owned three VW Bugs, finally inheriting a 65 Bug as about the only thing I came away with when my wife and I divorced in 1970.
+Why am I telling you this?  Simply to illustrate how your stock of tools may build up.  I found myself dashing headlong into VW places that I knew virtually nothing about (where angels fear to tread, for sure!).  Being the bookish type, I bought the manuals -- first John Muirs book
+How to Keep Your Volkswagen Alive -- A Manual Step-by-Step Procedures for the Compleat Idiot.
+I devoured that book -- my copy got so greasy that I later had to buy another one.  I also got both the Bentley and the Haynes VW Bug manuals, which I also read voraciously.  I most certainly did want to keep my Volkswagen alive, so when maintenance time came or a problem developed, I would read and read and read -- and then tear into it with fear and trepidation, thus gaining lots of "School-of-Hard-Knocks" experience.  :-/
+Slowly my experience increased and my fear dissipated -- and my store of tools expanded.  Every new job required a new tool, it seemed, and my tool box rapidly expanded beyond the little ammunition box my father had given me to a bigger box I bought at Sears.  Today my garage is filled with tools and other man toys.  :-)
+So -- what tools do you need?  That depends, of course, on how involved you want to get.  If you decide that just the simple maintenance is as far as you want to go, then your treasure trove of tools will be relatively small and uncomplicated.  However, if you want to drop the engine to replace the cooling vanes -- and while youre there replace the main seal and the clutch -- your stock of tools will be a bit larger.
+So I will venture to provide a list of tools you will need to keep your Volkswagen alive, based on my own experience.  Muir gives lists of Phase I, Phase II, and Phase III tools in his Compleat Idiot book -- the lists below will be something like that.
+~~~
+The Basic Tools You Should Carry In a Tool Box In Your Car
+A good jack.
+Muir calls the jack that came with your car a Bilstein jack.  It jacks up the car on one side, using the jacking points that are welded the the longitudinal center of gravity of both sides of the car.  Thats a good starting point; youll want something more as you get further into things.
+A "lug" wrench.
+This is the wrench that you use to remove the 4 or 5 lug bolts (or nuts, if you have custom wheels) that  attach the wheel to the brake drum.  Much of the work you will do on your Bug will require removal of the wheels, so the lug wrench will get a lot of use.  One of my very first acquisitions was an 18-inch 1/2-drive swing handle and a 13/16" (21 mm) deep-set socket.  I carry this swing handle and socket in my trunk at all times -- it has seen a LOT of use over the years.
+A set of sockets.
+Metric, 3/8-inch drive, 8mm to 19mm, and 3-inch and 6-inch extensions and a universal drive.  This socket set is an absolute must for your basic tool kit.  I started with a 1/2-inch drive set, but a 3/8-inch drive set is really better for most purposes, being smaller.
+A spark plug socket.
+21mm (13/16), 3/8-inch drive.  I list the spark plug socket separately because it can give you a lot of grief when you replace the spark plugs.  Get one with a rubber insert that will hold the spark plug (without the cap that screws on the top) vertically without the plug falling out.  But not TOO tight, or you'll have a difficult time getting the socket off of the plug once the plug is installed.  Also, be wary of the shoulder around the outside of the socket.  Get one with a tapered shoulder, not squared off.  It's easy to get the socket hung up on the engine tin if the shoulder is square, and your wife may not take kindly to the language you may use trying to get it unstuck!  :-)
+A ratchet wrench.
+Start with a 3/8-inch drive ratchet to match your socket set.  Later you may want to move up to a 1/2-inch drive ratchet and matching sockets.
+A set of combination wrenches.
+Box-end/open-end (ring spanners) -- 8mm, 10mm, 11mm, 13mm, 14mm, 15mm, 16mm, 19mm, 21mm.  If you cant afford to get them all at once, get at least the 10mm and the 13mm (youll probably use these the most).  The 19mm (or 21mm) box-end wrench (ring spanner) is very useful for turning the engine over at valve adjustment time.
+Screwdrivers.
+The tool I use the very most, by far, is my medium standard screwdriver.  You should get a set with a large one (12 or so) and several ranging in size down to very small.  In addition to the standard screwdrivers you will also need a couple of Phillips -- medium and small.  Get a couple of medium stubbies in both standard and Phillips (though I've used these rarely).  Very tiny screwdrivers (like the kind you use to fix your glasses) will come in handy occasionally.
+Pliers.
+You'll need several types -- regular pliers, needle-nose pliers, side-cutters, and water-pump pliers especially; snap-ring (internal and external) are nice to have (when you need them you REALLY need them!).
+Vise grip.
+6 or 8 with a narrow jaw.  Used to round off bolt heads. :-)  Kidding of course; this is an essential tool.  (I went for many years without a needle-nose vise grip -- sure wish I'd gotten one sooner!)
+Brake adjusting tool.
+A screwdriver is difficult to use, especially on Supers, because it impinges on the lower strut support.  A good brake adjusting tool makes the job much easier.  Be sure to get one with a blade narrow enough to fit through the adjusting star hole.
+Crescent wrench, 10-inch.
+Handy to have, especially when adjusting the wheel bearings.  Otherwise I don't use mine very much.
+Swiss Army knife or Leatherman.
+Youll be surprised at how often youll use this tool.  I have my little Executive Swiss Army knife out of my pocket at least once a day, usually oftener.
+Allen wrenches, metric.
+4 mm to 10 mm.  Keep them in a plastic envelope so they dont get scattered around.  They will get a lot of use.  Make sure to get a big one, 17mm, for checking and changing the transmission oil.
+Files.
+Flat, half round and a rat tail files, and a small point file if you can find one.
+Static timing light.
+This simple device will get a lot of use if you have a centrifugal-advance (009) or single-vacuum dual-advance (SVDA) distributor.  Its a wire with an alligator clip on one end and a pointy thing on the other end.  The pointy-thing end has a light in so you can tell when the points open.  Very handy for checking various wires for power, too.
+Feeler gauge set.
+Youll use the 0.006 (six thousandths) and 0.016 (sixteen thousandths) the most (valve adjustment and point gap).  And get one of those round wire type gauges for the spark plugs (0.028).
+WD-40.
+John Henry says he buys this stuff by the three-pack and sprays it like holy water -- puts it on every thing he re-assembles. But remember -- WD-40 is a TEMPORARY lubricant. You use it to make things go back together easy, today. It is only moderately effective as a penetrating oil. You don't use it for anything that you expect to be lubricated for a long time. Use a good grease or oil for that.
+(These are John Henry's words -- see
+The Bug Shop
+.)
+Tire gauge.
+To check air pressure in the tires, of course.  Be sure to do this regularly -- at least every other fuel fill-up.
+Emery cloth.
+About two feet of 2 fine emery cloth.
+A roll of soft tie wire (bailing wire).
+Yes, we still hold our Bugs together with bailing wire and chewing gum!  :-)  Seriously, when you need wire, you really need it!  (My Bug is held together with hose clamps and cable ties!  :-)
+Flashlight (D-cell), and spare batteries.
+The flashlight should always be in your trunk as part of the emergency kit in your car.
+Pair of coveralls.
+Your wife will have your head if you get grease on that nice new shirt she got for you (voice of experience!  :-/ )
+Rags.
+Lots
+of rags, and paper towels as well.
+Now you're equipped to handle most any contingency!
+~~~
+Your Workbench/Garage Will Gradually Come To Include the Following Tools
+A good heavy vise.
+Absolutely indispensable.  I use it on almost every job I do.
+A bench grinder.
+The kind with a grinding wheel on one side and a wire brush wheel on the other.  I use mine VERY often.  A Christmas present from my father-in-law, who understands a man's love of tools (our women just don't get it!  :-)
+A floor jack.
+Just a small one, like 2-1/2 ton.  Ive dropped my engine four times with just this little jack (with the help of a lot of wooden pedestals and miscellaneous other blocks of wood!).
+Jack stands.
+One pair to begin with; you'll probably need another pair later on.  This is an essential acquisition early on.
+A "trouble" light.
+Get a heavy-duty trouble light with a hook on the top, either incandescent or fluorescent (I have -- and use -- both).  Even on your sunny driveway, you'll need a trouble light when you're working under the car.
+A cleaning pan, parts brush and solvent.
+A large coffee can works well for cleaning parts.  The solvent you need is called "mineral spirits" at the hardware store.  DO NOT be tempted to use gasoline as a solvent!  It works great, but given its volatility and flammability, its just not worth the risk.  (See the
+Sermon From a Safety-Minded Chemist
+!)
+A container to hold used oil.
+Obey local and state regulations when disposing of used oil.  Most landfills have "household hazardous waste" disposal areas.  DON'T dump it illegally (I'm also an environmental scientist!  :-)
+A low stool to sit on while you work.
+Saves your back!
+An electric drill.
+3/8 drive -- and bits.  An absolutely essential tool -- talk to Santa Claus!  :-)
+A torque wrench.
+"Beam" type, 1/2 drive, 0 to 150 ft-lb capacity is standard.  A smaller "clicker" type (up to 80 ft-lbs) is also handy.  (See our article on
+Cylinder Heads
+for a short primer on torque wrench use.
+Flare-nut wrench, 11mm.
+Sometimes called a "line wrench."  You will need this to loosen brake line fittings.  Don't be tempted to used a regular open-end wrench for this, as you may round off the fitting.
+A hammer -- light ball peen.
+(According to John Henry, used as a kind of divining rod to locate expensive car parts not far from the object you are trying to hit. :-)  Seriously, a hammer (sometimes referred to as a "persuader"  :-) is an essential tool.
+An impact driver.
+A very useful tool. Use with your hammer to loosen rusty or frozen screws and bolts. This tool is a must for removing VW door hinges.  Usually has a standard 1/2 socket drive, to which you attach the screwdriver tips or standard socket wrench.  A good one will work in both clockwise and counterclockwise directions.
+A magnet.
+Inspectors type with a cylindrical magnet, about 3/8-inch in diameter, with an extendable handle.  Keeps the air from turning blue!  :-)
+A hack saw and blades.
+John Henry gives this definition of a hack saw - "One of a family of cutting tools built on the Ouija board principle. It transforms human energy into crooked, unpredictable motion, and the more you attempt to influence its course, the more dismal your future becomes."  :-)  But, what can I say...
+Penetrating oil.
+NOT WD-40. Real "penetrating", stuck-bolt type oil. Liquid Wrench, Kroil, Duroil are some brands that are on the market. I have had particularly good success with
+Kroil
+, available from Kano Laboratories in Nashville, Tennessee.
+Wire brushes.
+The large standard one and several small ones, like a tooth brush, with different kinds of bristles.  When it comes time to strip the paint off of your car, you'll go through DOZENS of these.
+An inductive timing light.
+A must for timing dual-vacuum distributors, for more precise timing, and for checking timing advance.
+A dwell-tachometer.
+You will use this tool mostly to check/set the idle RPM.  It is also used to determine the dwell angle, a measure of the points gap.  Not an absolute must (I went for years without one) but sure nice if you can afford it.
+A compression tester.
+Muir includes this in his Phase I set; Im not sure that I would.  It was a ways down the line before I had a compression tester.  Good to have if you want to know the condition of your engine, though, or to check the engine of a car you're thinking about buying.
+A multi-meter.
+Also volt-ohm meter (VOM).  Also measures amperage.  When you start getting into electrical things, a VOM is indispensible. You can get a good one with minimal outlay.  See our instructions on
+How to Operate a VOM
+.
+Remember Tim the Tool-Man Taylor's philosophy -
+"If it ain't broke, you can probably still fix it!"
+:-)  :-)
+* 
+                    * * * *
+Design by
+Erin

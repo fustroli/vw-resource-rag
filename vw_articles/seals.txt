@@ -1,0 +1,39 @@
+Seals
+Engine Compartment Seals
+See our article below on an
+Alternate Engine Compartment Seal
+for an excellent alternative to the standard rubber engine compartment seal.
+~~~
+The engine compartment in a VW, including the tinware surrounding the engine, is a closed system designed to keep air flowing around the oil cooler and cylinder and head fins. Anything that defeats this system will make the engine run hot. Air-cooled VW engines run quite close to their heat limits to begin with, so the margin of safety is small.
+Keep ALL the tin in place, and ensure that the seal around the engine is in place and well secured. This seal keeps out road dirt and prevents hot exhaust air from entering the engine compartment. If the engine cooling fan is sucking in hot exhaust air, it can't do a good job of cooling your engine.  This seal is critical for long engine life.
+Note:
+See Dave's unique situation involving a fiberglass rear apron that necessitated the use of an
+Alternate Engine Compartment Seal
+.
+The condition and fit of all the cooling tinware is important. Sealing strips and grommets must all be properly positioned. If hot "road air" leaks into the engine compartment, the cooling capacity will be reduced and you are likely to get smelly air in the cabin. Always hunt for air leaks:  Keep all the air hoses on the engine in place and in good condition, ensure the rubber cups on the spark plug leads that seal the spark plug holes in the tin work are in place.
+History/Dave's Experience -
+While he had the engine Dave planned to replace the firewall insulation and the rubber around the engine compartment, hoping to get all the rubber in properly.  Rob suggested that he lay the rubber parts (bits :-) in the sun, or a bucket of warm water, if the job is done on a cool day.  This will keep them flexible.  Use VERY soapy water as a lubricant when pushing the new seal into the grooves.
+Since Dave did the work on a hot July day, he had no trouble with stiffness due to cold!  Rather than soapy water Dave used silicone spray, which he used liberally when replacing the rubber around the front and rear bonnets.
+The old rubber over the transmission was what turned out to be about the most frustrating part of the job.  Dave ripped out all of this old rubber, as it was all chewed up.  Dave then straightened out the channel and put the new piece in.  He couldn't slide it, like the procedure says, for love nor dish soap nor silicone spray nor money.  He had to stuff it in all along with a screwdriver.  Same with the engine rubber all around the engine bay.
+In the process Dave discovered why the PO (or whoever) left the engine rubber off when he installed this '71 engine in Dave's '73 chassis.  The tin (the piece that fits around the spark plugs and up over the cylinders on either side) has a corner that sticks out on either side on the rear, which made it virtually impossible to get the engine back in without totally mangling the rubber.
+Rob thought that a bit odd, as both years had 1600 dual port engines with doghouse oil coolers -- but obviously they saw a need to alter the tinware for some reason.
+Dave's son took a candid picture of Dave
+doing this
+-- and then of course after all that (took Dave over an hour) they had to tear it all back out to get the engine in.
+Dave ordered a new seal, then just stuffed it in as best as he could.  Dave found that it is impossible to get the rubber in it's channel with the engine in the car.
+Dave talked with his VW mechanic about his experience with the engine removal and replacement.  Dave told the mechanic about the serious interference problem they had between the engine tin and the engine bay; the mechanic said that the reason they had that problem was because of the '71/'73 mismatch.  Apparently VW changed the relative shapes of the tin and engine bay somewhere between those two years, because the '71 engine definitely does not fit in the '73 engine bay without a lot of fussing and fighting, and then it is impossible to properly install the engine seal around the back.
+Rob provided some clarification:  When you look back there with all of the tinware back together, it should fit together very nicely.  It's when you have the rear most stuff out and the engine pulled back, disconnected from the tranny, that there is the interference problem.
+Dave forgot to check the torque on the head bolts, so he took a look at the tin around the spark plugs and discovered that it's impossible to get it off without removing the fan shroud.  And of course without removing the tin it is impossible to get to the upper head bolts.
+Rob wrote:  Of course -- I should have thought to mention that.  As I've said before, you can do anything on a VW once you know how.  But unfortunately there IS a sequence to all these things, and so the manifold and alternator come off before the shroud can be removed (in car anyway) and THEN the head tinware can be removed.
+~~~
+Alternate Engine Compartment Seal
+Dave installed a fiberglass rear apron on his '73 SB (see
+Rear Apron
+).  This apron does not have the slot for the stock rubber engine compartment seal, so the stock seal would not stay in place but kept falling down onto the muffler.  Dave discussed this situation with John Connolly of
+Aircooled.Net
+and decided to go with an alternate seal that John recommended (given the circumstances).  This seal is used in the 1972 and newer Type 2's and the Type 4 VW.  It is H-shaped in cross section, with the H rotated 90 degrees.  The seal is pressed down into the space between the engine tin and the body of the car such that one side of the H is underneath the tin, and the other side runs around the top.  Below is a picture of the seal that Dave installed in his car.  The installation was a bit fiddly, and Dave found it necessary to use some weatherstripping adhesive around the back, where the gap is fairly wide, to keep the seal from falling down onto the muffler.
+Alternate Engine Seal
+* 
+                    * * * *
+Design by
+Erin

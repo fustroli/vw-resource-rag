@@ -1,0 +1,39 @@
+Toe-In Adjustment
+Check and Adjust the Toe-In
+Following are toe-in procedures from Jon Chabot
+(Top-Line Parts)
+and from John Muir's "Compleat Idiot" book, with notes from Rob providing a better understanding how the procedure works.
+~~~
+From Jon Chabot -
+Note the centerline of the tire tread, or spin the wheel and make a chalk line in the center.
+Measure across the front of the tire from the centerline, just under pan, and note the measurement.  Then measure across the rear of the tire and note the measurement.  The front should measure 1/8" less than the rear -- this is the toe-in.  Loosen the clamp nuts on the tie rods and twist to adjust.
+Rob -
+Mine is 1/8" too, so that sounds right.  With the older type bias tyres it used to be 1/4", but today's radials need less toe-in.  I suggest that you use some
+Kroil
+on the threads first -- sometimes they can be very tight.
+Check right/left centering (tire to fender well).  Adjust tie rods equal amounts until centered.
+Re-check toe-in and adjust.
+Once all is okay, remove the steering wheel and center it.
+Rob -
+Hopefully the wheel will still be centred, but if it's previously been badly adjusted (one tie rod more than the other), setting the toe in right might result in the wheel being tilted, in which case you remove it and turn it a spline or two.
+Overall Jon's procedure looks good to me.  You could probably measure it at the inner or out edge of the tread too -- just so long as it's the same place front and rear.  And the fiddling would be right too -- if you do all the adjustment on one tie rod, you'll get a steering wheel that's crooked, so it takes a bit on each side to get it right.
+From John Muir -
+Checking:  You need a special site like a supermarket parking lot, a church driveway, or any level piece of pavement thats flat and smooth for at least twenty feet.  Head into your chosen spot slowly and, with the cross spoke of the steering wheel at center, run the car absolutely straight without touching the steering wheel.  Use the hand brake to stop the car at the end of the run.  Now the wheels are straight, so dont bounce the car around.  Taking your two flat sticks and a pencil, lie under the cars front wheels.  Youre on your back with the two sticks held together so you can measure the distance between the two front wheels, first at 3 oclock, then at 9 oclock.
+Hold the ends of the sticks extended to reach both tire rims.  Hold them together while you make a pencil mark where the sticks meet.  Scrooch under the car a little further to measure between the backs of the tire rims (at 9 oclock).  Make your mark for the back.  The back mark should be 1/8" further than the front mark.  In other words, the wheels should be 1/8" pigeon-toed.  Turn the sticks over, measure again and make different marks to check yourself for accuracy.  If the back marks are 1/8" further apart than the front marks, your toe-in is adjusted correctly.
+Adjusting:  To adjust the toe-in you change the length of the tie rod.  Either unclamp the tie rod clamps or bend up the tabs and loosen the locknuts, so the tie rod can turn on the tie rod end.  Use the vice grip on the tie rod and turn it so it either increases the pigeion-toe or lessens it.  A turn or two will show you how it goes.  Adjust the toe-in so it checks out right with the sticks:  1/8" longer in back.  Then lock up the tie rods so they cant turn, by either tightening the clamps or locking the lock nuts and bending the lock tabs down onto the nuts.  Youre through.
+- John Muir, "How to Keep Your Volkswagen Alive -- A Manual of Step-by-Step Procedures for the Compleat Idiot, 1976 Edition.
+Rob -
+Interesting difference in the methods - not in the tape vs two sticks, but in the fact that Muir is measuring the tyre rim, and Cabot is measuring further out -- at the tyre tread.  1/8" at the rim will be fractionally more at the tread, and vice-versa.  4/32" vs 5/32" if my math and estimate of rim diameter vs tread diameter is correct.
+The rim (Muir) is the absolutely correct place to measure it, but if you use Cabot's method and err a tiny bit on the generous side of 1/8" (just a tad more than 1/8"), it would be the same as Muir.  The reason the rim is the correct place is that tyres vary in total diameter, and may not be perfectly smooth/even.  Aligning machines are always clamped to the rim, not the tyre.
+I rather like the two sticks method -- very simple, and you don't have to remember any actual distance.  Muir assumes your steering wheel and tie rod lengths are about even though -- no mention of reset.
+~~~
+Discussion
+Dave wrote -- In reading Bentley and Muir, it is obvious that the toe-in is checked with the car on the ground so that normal weight is on the wheels -- thus, my measurement with the car in the air are not valid.  Also, Bentley says to mark the rims on the rear, take the measurement, then spin the wheels forward (i.e., roll the car forward) until the marks are at the front and make the front measurement.
+Rob responded -- More accurate that keeping the wheels still and measuring at front and rear, and it will ensure that any tiny distortions in the steel rim are accounted for.  And since we are only talking 1/8-1/4 inch, it could make a difference.  If the inner rim edges and in good condition (no curb damage, etc.) then leaving the wheels still would probably be okay.
+Dave wrote -- I'm a little confused still, basically I'm sure because I don't fully understand the system.  If you find that the toe-in is something different than 1/8", how do you know which tie-rod to adjust, since there are two of them?
+Rob responded -- There are tie rod adjusters both sides so you can set the steering wheel level whilst adjusting the toe in.  So if the wheel it already level, I'd suggest turning each end the same amount -- the steering wheel should then stay level.  But if it's been badly done before (one rod adjuster is screwed right in or out, and the other therefore out or in -- in compensation) then you need to set each with roughly equal thread lengths, then adjust the toe in, then reset the steering wheel on it's spline to get it near level, then go back to the tie rods and lengthen-one-shorten-one to get a final leveling of the steering wheel. That's the "fiddling" Jon Cabot was talking about.
+Since the tie rods are behind the road wheels, lengthening the rods will create more toe-in, shortening the rods will create less toe in.  You'll have to look at the threads to check which way, and I can't remember whether you turn each side in opposite directions, or the same direction -- it depends on which way they cut the threads on each end of the adjuster sections.
+* 
+                    * * * *
+Design by
+Erin

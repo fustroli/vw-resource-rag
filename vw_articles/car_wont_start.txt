@@ -1,0 +1,157 @@
+Car Won't Start!
+Starting Problems
+~~~
+See also our article on
+My Car Won't Run Right!
+.
+Also Speedy Jim's excellent discussion of this subject
+on his Web page -
+Why Won't My Engine Start?
+~~~
+The following non-starting conditions are discussed herein -
+The Starter Motor Doesn't Run and the Engine Will Not Rotate
+.
+Fixing the "Big Click"
+The Starter Motor Barely Turns Over and the Engine Starts With Difficulty
+The Engine Rotates But Will Not Start
+.
+The Engine Is Hard to Start When Cold
+.
+The Engine Is Hard to Start When Hot
+.
+~~~
+One of the most common laments we hear is, "My Bug won't start!  What's the matter!?"  We have found that in most cases the problem with a non-starting VW Bug (and most any car, for that matter) boils down to "fuel and spark" -
+Is sufficient fuel getting from the fuel tank, through the filters, through the fuel pump, past the float needle valve, through the carburetor, and through the intake manifold to the cylinders at the correct fuel-to-air ratio? and
+Is a good hot spark getting from the battery to the coil and on to the distributor, through the points, rotor, ignition wires and spark plugs, and into the cylinders at the right time?
+Problems in any of the above areas related to "fuel and spark" can result in an engine that won't start.
+Condition #1 -- The Starter Motor Doesnt Run and the Engine Will Not Rotate.
+Following are some possible causes of a starting problem, with references to procedures and/or discussion that may help resolve the problem(s) (yes, problem(s) -- rarely is it only one).  (This list is probably not all inclusive.)
+~~~
+Possible causes -
+The battery may be dead.  This is the single most likely cause of the starter motor not running and therefore the engine not running.  If you have a Volt-Ohm meter, place the leads across the battery terminals with the meter set to volts.  A fully-charged battery should read about 12.5V; at any reading lower than about 10V the starter motor will not turn over or will do so very weakly -- and the plugs will probably not fire.
+The battery terminal connections may be loose or corroded.
+The grounding straps (including the tranny-to-body strap near the nose of the transaxle) may be corroded/loose/broken.
+The starter solenoid may be faulty.  If the starter clicks but doesn't turn (especially in hot weather), and if it can be freed up with by tapping the solenoid with a hammer and then trying the starter successfully, the solenoid is sticking.
+The starter motor may be faulty (see below).
+The ignition switch may faulty.  The electrical path for the starter runs from the battery up to the ignition switch and them back to the starter. Any fault in the ignition switch may prevent the solenoid from getting power to operate the starter.  If the starter turns fine when the thin wire on the solenoid is shorted to the thick red wire, then you can suspect the ignition switch.  See our article on
+Ignition Switch Replacement
+.
+~~~
+"Fixing the Big Click"
+(Adapted from a "Sermon" by Bob Hoover.  Also includes
+input from "Speedy" Jim.  Both used with permission.)
+Condition:
+Upon turning the key, you get a "click-clunk" from the starter solenoid, and that's all.  No starter motor rotation, no engine rotation, nothing.
+The CLICK itself is your main clue.  It tells you power is getting to the solenoid.  At that point the decision tree branches.  Either the contact bar in the solenoid is worn or corroded or otherwise damaged so that it is not capable of doing its job (which is to connect the battery to the starter) or the solenoid isn't getting enough power to press the contact bar closed.  There are some variations on this theme but they have different signatures.  For example, CLICK! Whirrrr
+ means the pinion isn't engaging the flywheel whereas CLICK! Groannn
+ means the pinion is binding or the engine is seized or one of half a dozen other things.
+The Big Click sez the problem is either in the solenoid or that insufficient power is getting to the solenoid.  We can test for the latter by using a jumper cable from the battery lead to the spade lug on the solenoid, thereby eliminating about twenty feet of wiring and the possibility of a bad ignition switch.  But let me tell you right now this is a very dangerous test.  It should only be done when the vehicle is supported on jackstands.  Why?  Because the engine is liable to start.  And if it does, it's liable to run over your ass.
+So leave the key OFF.  That will prevent power from going to the ignition circuit.  Better yet, pull the HV lead out of the coil.  Then do the test.  If you don't know which lead goes to the battery, use your manual to figure it out.  And if your solenoid is the later model with the two spade lugs, figure out which one goes to the ignition switch.
+Note:
+On closer examination of my solenoid (on the workbench) I found that there are THREE spade connectors on the solenoid.  Two of them are really on; with of them is connected to the ignition switch.  The third spade connector seems to be an extension of the large bolt to which the wire from the battery connects.  Of course this is the connector that's looking at you with the starter installed, which would lead you to believe that it's the connector for the ignition wire - it's not.
+The starter test can be done by placing a screwdriver between the battery and ignition wire connections on the solenoid.  This is very awkward to do - the car has to be raised and the right rear wheel removed to provide access, and you have to crawl under the car to get to the solenoid terminals.  We do NOT recommend this method.  Bob Hoover says, "DON'T use that ohsokewl trick of shorting the terminals with a screwdriver.  Yeah, it works.  It also damages the terminals as well as the screwdriver."
+There are two safer ways to do this.  One is to detach the starter-switch lead from the solenoid and replace it with a jumper having a female spade-lug connector on one end and an alligator clip on the other.  To complete the circuit, TOUCH (do NOT clip) the alligator clip to the battery cable connector.  Do NOT touch the copper stud nor the nut.  The arc is enough to damage the threads of the stud and will bugger the nut when you try to remove it.
+The easiest (and safest) way to conduct this test is the "under-the-seat" method (recommended by
+).  This method is as follows -
+Lift up (or remove) the rear seat.
+Locate the two-way splice with the Red/Blk wire coming out of the main harness by the door post, connecting to the Red wire that goes over to a grommet by the battery on its way to the starter.
+Remove the plastic insulation from this splice.
+Make a jumper with an alligator clip on one end and any kind of fitting on the other.
+Connect the alligator clip to the two-wire splice, then touch the other end to the (+) terminal on the battery.
+If all you get is a "click-clunk," put a test light on the big stud on the starter solenoid - the stud where the battery cable attaches.   Put the tester right on the stud, not the cable end.  Ground the other lead of the test light.
+Have someone "click-clunk" it.
+If the light stays lit during the test, then the starter or the solenoid is no good.
+If the light goes OUT during the test or never comes on at all, the cable is bad.
+If the jumper test causes the starter to engage and to crank the engine then the problem is in the wiring or the ignition switch, with the higher probability for the latter.  If the jumper test didn't help then you've narrowed the problem down to the solenoid.  Fortunately, the fix is pretty simple.  Start by removing the battery from the vehicle, then remove the starter, dismantle the solenoid and file the contactor and contacts smooth.  You'll need to unsolder a couple of leads to dismantle the solenoid.  Use a bit of Solder Wick to get the solder out of the holes.  When you reassemble the solenoid be VERY SURE to use RTV or other WATERPROOF sealant.
+The usual reason for a solenoid to stick is due to rust on the plunger.  The proper fix is to remove the starter, dismantle the solenoid and DEAL WITH THE RUST.  DON'T go pounding on the solenoid with a hammer!  Yeah, this also works.  And damages the solenoid in the process.  If you just pound on the thing you might jar the plunger loose
+ and you might not.  The odds are about 50-50.  And of course, you'll only hear about the successful tries.
+"Speedy" Jim says that if you hear the starter motor running during the jumper test, it is good. Otherwise it will have to be replaced.
+Condition #2 -- The Starter Motor Barely Turns Over and the Engine Starts With difficulty.
+Possible causes -
+May be any of possible causes #1 - 3 above.
+The starter motor may be faulty.  See the
+Starter Motor Test
+.
+~~~
+Condition #3 -- The Engine Rotates But Will Not Start.
+This condition may be the result of either no fuel or no spark -- or both.  A rotating engine that will not start is mostly likely not receiving fuel and or spark at the point of ignition -- in the cylinders.  Possible causes of this are --
+No Fuel At the Point of Ignition -
+The fuel tank may be empty.
+Fuel may not be reaching the carburetor -
+Faulty fuel pump.  Perform the
+"Poor Mans Fuel Pump Test"
+.
+Clogged fuel filter.  See our
+Fuel Filter Service Procedure.
+Kinked or blocked sections of rubber fuel line.
+Rust in the tank blocking the outlet.
+Sticking float needle valve in the carburetor.  See discussion of
+Our Experience
+with this subject.
+No Spark At the Point of Ignition -
+Note:
+More detail regarding testing for spark is given at
+Electrical Troubleshooting
+.
+The spark plugs may be worn, faulty or incorrectly gapped.
+The ignition points may be gapped incorrectly.
+The timing may be incorrect.
+The coil may be faulty.
+The ignition wiring may be faulty.
+Following are a few quick checks to fault-find the electrical system and find the cause of no spark at the point of ignition.  First some system description -
+There should be a thickish red wire from the generator (D+ terminal) to the rear side of the voltage regulator under the rear seat (also the D+ terminal).
+There should be a similar thick red wire running from the battery to the front of the voltage regulator (B+) terminal.  That's the wire that supplies power to the car. Another red wire is joined to this one (on the front of the regulator) and runs forward to the light switch (which is used by VW as a junction box).  Have a look at the light switch from inside the luggage area - the red wire from the voltage regulator comes in from the left side of the car.  It then splits into two red wires on the light switch, one runs directly to the fuse panel (for "ignition off" power for interior light, etc.) and another runs to the steering column, then back up to the fuse panel (for "ignition on" power).
+Some simple tests to see where you have power -
+Note:
+A very useful tool here is a 12-volt test globe.  This is just a 12-volt bulb in a 18" long (or so) wire with an alligator clip on end and any kind of a metal attachment -- a pointy thing -- on the other.  It doubles as both a static timer and a 12-volt tester.  The tool is available commercially or you can make your own.  It's a tool you will use often.
+Turn on the ignition but do not start the car.
+With a volt meter (or the 12-volt tester described above) test between the positive (+) post on the battery and ground (body of the car).  A positive test here verifies that the battery strap has a good connection with the body.
+Now test between the joined red wire at the front of the regulator and ground (the body).  If you do not have power at this point, check the battery terminal and red lead attached to that.
+Now that you know you have power at the voltage regulator, go to the luggage compartment and test between the OTHER end of the red wire on the light switch (the one from the left side of the car), and ground.
+Now test between the other two red leads on the switch, and ground.  If you have power all the way up to this point, you should be able to turn on lights, horn, interior light, brake lights, etc. provided the fuses are OK.
+Now you need to make sure you have 12 volts to the ignition system, so grab your tester and perform the following tests -
+With the ignition switched on, connect connect the clip on the tester to any convenient engine case component or the tinware and touch the tip of the tester on the black wire terminal on the coil.  The bulb in the tester should be glowing.  If so, the coil is getting power like it should.  If not, you'll have to find out why not before you can go any further.
+Note:
+Black wires in VW-speak means "has power with the ignition switch on").
+If you have power to the coil, then check that the points open as you rotate the crankshaft (by hand -- with a 19mm wrench (spanner) on the generator nut).  If the points don't open you'll never get a spark (it's the points opening which creates the voltage spike through the coil to produce the spark.)
+If the points are opening, then the next test is to pull the heavy wire that goes from the coil to the center of the distributor off of the distributor, leaving the other end on the coil.  Grasp the the wire with with insulated pliers (an 18000 volt shock is no fun!) and point the loose end close to the engine case or other handy bare metal around the engine.  Now get someone to crank the engine using the key - you should see a series of sparks jump the gap between the end of the wire and the ground.  If you see good, hot, bright sparks, then the coil is good; if not, you'll have to replace the coil.
+Now check the plug wires. Reconnect the center wire into the distributor and pull each plug wire off the plug in turn and try the spark test as above.  You'll get fewer sparks (one forth as many for each cylinder compared to the distributor center wire) but should still get them.  You can use a spare spark plug for this test if you like -- rest the outer side on the engine metal and connect the plug wire to the top of the plug.
+If you have sparks at the plugs, then you know you have no problem there.  If you have sparks from the coil, and if the points are operating properly, then either the plugs or the plug wires that are at fault.
+If you have fuel at the point of ignition (as determined above), power to the coil, to the distributor, through the points and through the wires to the spark plugs, and if the plugs are firing as they should, the engine should be ready to start.
+Run the
+Tune-Up Procedures
+to further track down the problem.
+~~~
+Condition #4 -- The Engine Is Hard to Start When Cold.
+Possible causes:
+The battery may be low.  A faulty battery shows its colors when the weather is cold.
+The automatic choke may be defective or incorrectly adjusted.  If you can sometimes get the engine started after pumping the throttle a number of times (using the accelerator pump to add fuel to the carby throat), then the choke is suspect.  See our
+Automatic Choke Adjustment Procedure
+.
+Either the fuel system or the ignition system may be faulty (see above).
+~~~
+Condition #5 -- The Engine Is Hard to Start When Hot.
+Some hot starting techniques:
+If the carburetor is flooding, the hot-start technique is to SLOWLY put your foot to the floor (so the accelerator pump in the carby doesn't flood it with more fuel - it only works when you floor the throttle quickly), and then hold the throttle open (no pumping) while you crank it - it should catch easily.
+You should also check that the choke is standing completely upright when the engine has been running for a while - if it's leaning over at all then it will cause flooding.
+If the engine is running lean when hot, it could be a too-small idle jet (in the right side of the carby - it should be a 55 sized jet), or a partial blockage somewhere.
+Some possible causes of hot starting problems:
+The air filter clogged.
+Fuel may not not reaching the fuel pump or carburetor.
+The battery ground connection may be corroded.
+The starter motor or solenoid may be worn.
+The automatic choke may be defective or incorrectly adjusted.
+Your system may be suffering from vapor lock -
+Cause: The engine overheats, causing the fuel line, fuel pump and carburetor to heat up.  This results in excess vaporization of fuel in the carburetor and/or actual vapor lock in the fuel line or fuel pump.
+Cure:
+Wrap the fuel lines on both sides of the pump with aluminum foil.
+Note:
+This is a precaution if your car is prone to vapor lock. It won't help much once the problem has already occurred.
+Pour a little water over the fuel pump to cool and re-condense the fuel, being careful not to splash the distributor.  
+If no water is readily available, hopefully there is some in the windshield washer bottle. It doesn't take much.
+Hold the throttle open just a bit with the accelerator pedal while you crank. Don't move the throttle at all while cranking, or the accelerator pump with flood the carburetor. The reason for cracking the throttle open it to avoid using the idle jet alone, as this runs the car richer than the main jet, and a rich-hot mixture makes the car flood easily.
+When the engine catches, hold the throttle still until it clears the excess fuel (revs up smoothly).
+* 
+                    * * * *
+Design by
+Erin

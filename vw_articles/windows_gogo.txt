@@ -1,0 +1,46 @@
+Window Rebuild
+Door Window Rebuild
+~~~
+Someone posed the following question to the Newsgroup - I am putting the doors back together after painting on my '65 Bug, but am not sure in what order to reinstall things as I did not take the door apart.
+Does the following order sound correct?
+Inside scraper
+Outside scraper
+Felt guide channel (I have all new clips)
+Vent wing
+Response - The felt channels are most easily installed before the scrapers, and the inside scraper goes on easiest after the vent wing. I would suggest the following order -
+Felt channel
+Outside scraper
+Vent wing
+Inside scraper
+Mike Morehouse wrote -- I replaced the vent's on my '75 Bug and had trouble getting them back in with the inner scraper in. It also helps to put a couple of the guide clips at the top of the door near the vent wing to keep it out of your way while installing the wings. As you are installing the wings, make sure that the very end of the outer scraper is behind the wing, it is very annoying when you have to take it all out again to get the outer one in right ;-).
+Here is the text of an article I've kept by Bob Couse-Baker that was a great help in rebuilding the windows on my '72 Bug.  I hope it helps you as much as it helped me.
+~~~
+Window Rebuild-a-Go-Go
+I just did this with my 1973 Super Beetle, and the experience was best described by words not suitable for polite company. Be that as it may, here is a overview of the most terrifying job in the VW universe: window rebuilds.
+All doors from sedans and hardtop Super Beetles from 1965 to 1977 are similar. Not counting numerous changes to the outer skin, strikers and door handles, there are internal changes in '67 (door handles and window cranks);  in mid '68 (regulator and inside scraper), the 1973 model year (door pulls) and finally in '75 (regulator again, and side-impact beams added).
+Essential tools include: a medium sized chisel-blade screwdriver; a large phillips-head screw driver; a 10 mm socket and wrench, some weatherstrip adhesive, a something that will cleanup weatherstrip adhesive, a drill, a rivet gun, a carpet knife, a first aid kit (I'm not kidding), an ample supply of beverages, and a peaceful mental attitude. If you know how to keep the last item intact while working on a VW, let me know.
+Precautions
+: The parts you are dealing with, especially the aluminum ones, are razor sharp and fragile. Read the label of the weatherstrip adhesive -- it's nasty stuff. Be prepared to give yourself a rest when you get so frustrated you just want to stomp the car to little, tiny bits.
+Clean everything, especially old adhesive. Since my car has had two color changes in its life, the prep step also included a little painting. Make sure all clips have been removed from inside the window opening. The scrapers have little aluminum clips, the felt guides have black steel clips. Also, if you're going to add any sound suppression material (available from any car stereo shop), this is the time to do it.
+Install outer door handles and door handle seals.  If you removed it, also reinstall the inside door handle lever and control rod.
+Door seals. Test fit first, starting in the top-rear corner. To get the weather strip on the door, you will need to disconnect the door check rod. The door seals should be affixed with a modest amount of weatherstrip adhesive. That's the thing attached to the door jam that limits how far your door opens.  Warning: do not stretch the door seal as you push it into the channel, or else you'll end up with "extra."  And that's a bad thing.
+Install window lift regulator. The trick to this is to make sure it all fits into the inner half of the door. Imagine the door is a cheese sandwich, and the cheese is where the glass goes. The regulator lives in the piece of bread that's closest to the passenger compartment. Check it twice. It is possible to incorrectly install the regulator so it blocks the path of the window. Leave the bottom unbolted, so you can get the glass in later.
+Install the outer scraper. Be very careful. It's sharp and really easy to ruin. Gently position the scraper in the window. Snap the clips along the inside of the slot with window will reside in when rolled up. At the forward top of the door, you'll find a little screw hole in the door channel. There is no corresponding hole in the aluminum trim of the scraper, so you'll have to drill one. Then install the small sheet metal screw you saved from the disassembly. If you lost the screw during disassembly, you'll need to find another one.
+Take a break. Consume beverages as required.
+Assemble the vent windows. If you have not already done so, drill out the rivet in the top hinge. Unbolt the bottom hinge and the glass should come out. I've never taken the glass out of the frame. Remove both vent wing seal (front part) and the vent wing flap seal (rear part). Install the flap seal, then the larger vent window seal. Trim as required. Reinstall the glass and put a rivet in the top hinge. Affix the the "short" felt channel with weatherstrip adhesive.  It's okay if the felt channel is a few centimeters couple of inches longer than the window frame.
+Take another break, it's about to get ugly. Consume beverages as required.
+Install vent window in door. This is hard to do.  You're going to have to "spread" the window opening slightly to get the vent frame past the outer scraper.  Be extra careful you don't destroy the outer scraper in the process, or cut yourself. Both are possible.  Don't install the bolts yet.
+Install the inner scraper. This is the worst part of the process. You're going to have to slide the front part of the inner scraper past the window frame.  Then snap the inner scraper into place. Now bolt in the vent window.
+Break time! Whoo hoo! If you haven't stomped the car to death by now, it's easy from here on out.
+Install the long felt. The felt is held in place by five or six steel clips, all the way down into the door. Be careful, the clips draw blood if handled improperly. Position the clips in the little holes in the window channel, with the little "hook' on the top facing the back of the car (or facing the ground, for the clips in the vertical part of the channel). Start with the felt butted up against the vent window frame, then feed it down the rest of the way. Pound it snug with the heal of your hand.
+Reinstall the window. Slide the window past the regulator and into the channel. Once you feel good about the window's position, bring it down and bolt it to the regulator. Bolt the bottom of the regulator to the door.
+Test operation of the window.
+Reinstall vapor barrier, door panel, armrest (73+ Bugs), handle trim parts and window crank. If you don't have a vapor barrier, you can make one by cutting up a plastic garbage bag, and gluing it in place. Don't forget the tension spring for the window crank -- position the small part of the spring against the door, the large part against the door panel.
+Done! Not the most fun four hours of your life.  But at least now you can be happy it's over. Anyone who has done this -- and read this far -- is invited to clarify items I have left imprecise, and correct things I have said wrong. Meanwhile, I'm tired and I'm going to bed.
+- Bob Couse-Baker
+~~~
+Thanks, Bob!  We have our first-aid kit close at hand!  :-)  We agree with you -- installing the one-piece ("Cal-look") door windows in our '73 Super Beetle has given us the desire many times to stomp the car into little tiny bits!
+* 
+                    * * * *
+Design by
+Erin

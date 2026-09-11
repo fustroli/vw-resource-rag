@@ -1,0 +1,86 @@
+Engine Reinstallation
+Engine Reinstallation
+~~~
+Reinstallation of the engine is essentially the reverse of the removal, with the following tips:
+Take your time getting the engine back in!  Care and patience are lots more important than muscle!
+If you can avoid it, don't rotate the engine or gearbox while the engine is out of the car.  This will assure that the gearbox drive shaft will line up with the splines and pinion bearing (in the center of the flywheel) when it goes back in.
+Note:
+If you are changing the clutch or the flywheel main seal, relative movement of the of these joining parts will be unavoidable--this will just mean careful alignment of the clutch plate with the pinion bearing, and extra shoving to get them to go back together.
+~~~
+General Engine Reinstallation Steps
+Wipe off the mating surfaces of the engine and transmission.  Lightly lubricate the manual transmission rear drive shaft splines with molybdenum disulfide powder.  On engines equipped with Bosch starters, lubricate the starter drive bushing in the transmission case with multipurpose grease.
+Note:
+We got a blank stare at the auto parts store when we asked for molybdenum disulfide powder.  We just put a light coating of molybdenum disulfide grease on the shaft splines.
+Position the engine under the rear of the car.
+Note:
+We initially lowered the engine onto a standard creeper, which we found very useful for maneuvering it around, then positioning it under the rear of the car for reinstallation.
+Position pedestal blocks under the heater boxes on either side.  With a helper, lift one side of the engine and place another block under it, then the other side.  Raise the engine high enough to operate the floor jack under it.
+Carefully raise the engine, placing one block at a time on each of the two pedestals on either side and adding layers to the jack pedestal as needed.  Hold the engine with your hand on the top of the fan housing to keep it from flopping around while.
+Note:
+Take care to assure that the vacuum canister on the distributor, the alternator pulley, and the corners of the engine tin clear the rear apron and the engine rubber.  That's easier said than done -- we found it almost impossible to get the engine up through the rubber and back into place.  That seal is very important, but almost impossible to install with the engine in place.  See our description of an excellent
+Alternative Engine Seal
+that is very easy to remove and reinstall once you have the engine back in place.
+Position the two bottom studs in the engine in the holes at the bottom of the bell housing.  Continue to slowly raise the engine until it is level (on the same plane as the transaxle).  Look carefully at the jack height to make sure that the engine is "lined up" with the gearbox shaft.
+Engage first gear, set the parking brake, then hand-turn the crankshaft until the splines mesh.
+Push and wiggle, push and wiggle -- turn the crankshaft a bit if necessary.  It may resist a little at first, then "pop" into place.
+Note:
+It's easy enough to get the bottom two studs roughly into position in the bellhousing, then it takes some real shoving to push the engine forward.
+Make sure that the engine and the car and the transaxle are on the same plane
+(i.e., level).
+Note:
+Before pushing the engine all the way in, make sure the alternator and backup light wires are routed properly through the firewall tin.
+Note:
+You may find it useful to put your feet on the back of the engine case (just in front of the muffler) and push forward while pulling back on the bumper with your hands.  You can get some good leverage that way.  It also helps to look carefully at the jack height so you get the engine 'lined up' with the gearbox shaft before the final push.  Check that the gap around the bell housing is the same top and bottom.
+If the rubber engine seal between the engine tine and the body is intact, check to make sure that it is aligned properly and securely positioned within the groove provided for it around the perimeter of the engine compartment.
+Note:
+This is VERY difficult to do, but it is very important that this seal be in place to prevent dirty road air from being sucked into the engine compartment.  Save yourself some grief and get ahold of the seal that is used in the 1972 and newer Type 2's and the Type 4 VW. It is H-shaped in cross section, with the H rotated 90 degrees. The seal is pressed down into the space between the engine tin and the body of the car such that one side of the H is underneath the tin, and the other side runs around the top.
+Aircooled.Net
+carries this seal.  See our article on this
+Alternate Engine Seal
+for a picture.
+With the engine still supported by the jack, replace the four nuts/bolts that connect the engine to the transaxle.  Each of these connections is different; they are described as follows -
+Upper right:  This is a free bolt which also serves as the starter motor upper bolt.  Push it through the starter motor flange and the bell housing.  The end will protrude into the engine bay, in front of the fan shroud on the right-hand side.  Attach a washer and nut to the end of the bolt and tighten with a 17mm box-end wrench (ring spanner).
+Upper left:  This is also a free bolt located just inboard of the clutch lever at the top of the transaxle.  The nut in the engine bay is captive; the bolt must be removed from the front.  Turn the bolt into the captive nut, then tighten with a 17mm socket on a 1/2-inch ratchet with a 6-inch extention.  Approach the bolt with the long extension above the clutch cable.  A good light up under there is a great help.
+Lower right and left:  These two connection points are studs in the engine block.  The studs protrude through the bell housing near the ends of the rear transmission bracket on the lower side of the transaxle.  Place a washer and nut on each stud and tighten with a 17mm box-end wrench (ring spanner).
+Torque all four mounting fasteners to 22 ft-lb.
+Clear away the two side pedestals that were used to support the engine as it was raised.  Leave the jack pedestal in place, as it will be used to lower the car.
+Run the fuel line forward through the grommet in the firewall tin on the left side.  Attach the fuel line to the fuel pump.
+Make sure that the accelerator cable guide tube is properly positioned through the fan housing and the hole in the top of the firewall tin.  Run the accelerator cable into the guide tube and attach it to the carburetor (see the
+Accelerator Cable Replacement
+procedure).
+Attach the heater cables to the lever arm assemblies on the heater boxes.
+Attach the flexible couplings to the heater boxes and secure with hose clamps on both ends.
+Reconnect the wire harness in the engine bay -
+Black wire from the ignition switch to the (+) terminal on the coil;
+Black wires from the (+) terminal on the coil idle to the idle cut-off switch, automatic choke, and backup (reversing) lights;
+Separate wire from the "oil" light in the instrument cluster to the oil pressure switch.
+Reconnect the alternator wires -
+Heavy red wire from the B+ terminal on the alternator through the firewall to the battery;
+Green wire from the D+ terminal on the alternator to be spliced with the blue wire that runs forward to the "Alt" light in the instrument cluster.
+Reinstall the muffler as follows:
+Place gaskets over the four bolts (two on each side) where the muffler attaches to the rear cylinder heads.
+Note:
+Use two gaskets on each side to assure a tight seal.
+Place tightening ring and donut gasket on the heat exchanger outlet pipes.
+Position the muffler in place on the rear cylinder heads and the heat exchanger outlet pipes.
+LOOSELY attach the nuts on the rear cylinder heads.
+Bolt the pre-heater pipes to the muffler using new gaskets, then tighten the rear cylinder head nuts as tightly as possible.
+Note:
+This is a point from which significant exhaust leaks can occur.  Make sure the gaskets are thoroughly compressed and the nuts are tight.
+Attach the heat exchanger outlet pipes to the flanges pipes on the muffler with the clamps, bolts and nuts.  Make sure the donut gasket is properly positioned before tightening the nuts completely.
+Install the cover plates over the intake manifold pre-heater pipe connections.
+Reinstall the rear engine tinware.
+Reinstall the fresh air hoses.
+Reinstall the air cleaner and the crankcase breather tube.
+Reconnect the grounding strap on the battery.
+Adjust the clutch.
+Add engine oil.
+Adjust the valves.
+Replace the wheels.
+Lower the car.
+Tune the engine.
+Finally, you're done!  Wash your hands, stand back, and smile!  :-)
+* 
+                    * * * *
+Design by
+Erin

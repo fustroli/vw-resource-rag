@@ -1,0 +1,73 @@
+Idles Too Fast
+Idles Too Fast/Dies at Idle/
+Can't Tune Carburetor
+Note:
+This article should be studied
+in conjunction with
+Air In-Leakage
+.
+See also Bob Hoover's excellent "Sermon" below
+on
+Cutting Out at Idle
+.
+And see our articles on
+Hesitation
+and
+Stumbling on Acceleration
+.
+~~~
+An all too common problem is the necessity to maintain the idle speed at an abnormally high level just so the car will idle in the driveway without dying, and being forced to  constantly keep you foot on the gas pedal, even in neutral, just to keep the car running.
+Dave experienced a situation in which his 1600cc dual-port engine (with a two-hose vacuum distributor) wouldn't idle at less than 1200 rpm.  And every now and then the engine would die when it coasts to a stop. The two-hose vacuum distributor didn't want to time at 5 degrees ATDC (the correct timing for the two-hose distributor)  Dave found that if he retarded it much below top dead center it would start to run real rough and then die.  When set at about 3 degrees ATDC it would purr beautifully.
+Rob gave the following suggestions -
+Try setting the idle speed to 900 rpm and then look at the maximum advance at 3500 rpm.  If the maximum advance is more than 30 degrees BTDC, it is likely that the retard vacuum line had not been overcoming the main vacuum correctly at the 900rpm idle speed.
+If there is no change in the 30 degree maximum advance, then you can assume that the idle speed in the range of 800-900rpm is not critical to the retard line doing it's job, and you can set it where it feels right to you (idles smoothly -- does not stall when you lift your foot).
+Then experiment a bit with the maximum advance.  Try 28 degrees, then 32 degrees advanced (but don't go outside this range -- 28-32 degrees is about the best range for Beetles).  See if this makes any difference in the car's performance (i.e., hesitation).  And see how this pans out at the idle speeds.  For example, if the 28 degree maximum advance gives an idle setting of anywhere between 5 degrees ATDC and TDC (hopefully closer to 5 degrees ATDC), and the car performs well at this setting, I think that's the one to use.  If you find the car performing better at 30 or 32 degrees advance, and the idle is still just 5 degrees ATDC or TDC, then use that.  But if the idle setting is coming out BTDC with the 30 or 32 degrees maximum advance, then I'd use a slightly lower maximum setting, to make sure that the idle is not any more than TDC -- for emission control.  What this is doing is playing with the advance/rev curve of the distributor whilst making sure it remains slightly retarded at idle for emissions control.
+To summarize -
+Make sure the throttle lever is returning firmly to the cam and that the throttle screw is adjusted properly.
+Check to make sure the timing is about 30 degrees BTDC at 3500 rpm.
+Then try to set the idle speed to spec at 850-900rpm.
+Look at the max advance at 3500 rpm again.
+If the timing advance is now MORE than 30 degrees, the retard vacuum has not been overcoming the main vacuum at 900 rpm.
+If no change in the 30 degree maximum advance, the idle speed of 800-900 is not critical to the retard line doing its job, so set it where it feels right.
+Experiment with the maximum advance (3500rpm):
+First try 28 degrees, then 32 degrees.  See how this affects timing at idle.
+Use the maximum advance setting that gives timing in the range of 5 degrees ATDC-TDC at idle.  If the car performs well at this setting, use it.
+If the idle setting is coming out BTDC with the 30 or 32 max, use a slightly lower max setting (idle setting no more than TDC) for emission control.
+Dave applied Rob's most "timely" advice.  He slapped on the dwell/tach and the timing light, then went back and forth -- max advance, back to idle, back and forth.  He finally settled on 32 degrees BDTC at 3500 rpm, which gives 5 degrees ADTC at 800rpm.  (Purr, purr!)  There certainly is a close relationship between timing and smooth running!
+But -- things went south for Dave again -- he absolutely could not time his Bug to spec.  When he tried it simply would not run.  He ended up setting it at about 5 degrees BTDC (10 degrees advanced from spec!), and it ran wonderfully, with no hesitation and lots of pep. After fiddling and fussing with the timing, Dave finally gave up and just timed it where it ran the best.
+Rob wondered if the retard vacuum line was failing to do it's job, because if it was and you were setting it 10 degrees BTDC, the maximum advance would be about 45 degrees!  No VW would run well with that.  But with the retard vacuum line inoperative, 10 degrees BTDC would be about 32 degrees maximum, which is at the top end of OK for the Beetle (28-32 degrees is the usual range quoted).
+Six months later, Dave noticed, while following his son as he drove the Bug home from college, that the car backfired a number of times, a sign of lean fuel/air mixture.  So -- Dave feared the he was right back where he was six months previously -- the car seemed to want to run 7.5 degrees advanced (BTDC) at idle.
+Rob summed up the situation -- The idle speed and the spark advance are closely tied together, obviously.  Playing too much with idle speeds ruins the idle airflow and spoils the timing adjustments too.  There seems to be little real progress there.  It will all come down to ONE faulty part you know --
+probably
+the carburetor, from all the other things you've tried.  Sometimes, Beetles being able to run when everything is wrong is a pain -- makes it harder to find the problem than if it didn't work at all.
+At last, Dave found that the carburetor was sucking air around the throttle shaft at the base of the carburetor, which had "ovaled" over time.  Air leakage of this kind makes the fuel/air mixture way to lean (thus the backfiring), the carburetor impossible to tune properly.  Without being able to tune the carburetor (i.e., properly set the idle speed), it is also impossible to properly set the timing.
+Regarding the necessity of running at high idle just to keep the engine running, Rob wrote -
+A likely cause is air leakage into the inlet manifold.  This is very common with the 34PICT/3 carburettor throttle shaft (read our article about
+air inleakage).  If you have this problem, the carburettor must be either rebushed (e-mail keifernet@hotmail.com - he does this for a very reasonable price) or replaced (Edit: Keith - Keifernet, may not be doing this job any more.  Another great person who currently rebuilds VW carbs better than new is tim@volkzbitz.com ).  This problem also results in difficult hot starts, and lots of stumbles on acceleration.
+Please see also our article on
+Air Inleakage
+, as well as the following article by Bob Hoover on the subject of "Cutting Out at Idle."
+~~~
+Cutting Out at Idle
+A "Sermon" by Bob Hoover
+(Used with permission.)
+Before spending any money on carburetors, let's take another look at the problem.  Your carburetor is a fuel METERING device. (Many think its only function is to MIX fuel and air, a task largely accomplished in the manifold.)  Barring damage due to corrosion or excessive wear of the throttle-shaft bearing, the typical symptom associated with advanced age is for the carburetor to run TOO RICH rather than too lean.
+Assuming no sooty exhaust or other symptoms of rich-running, and since I know you've already checked your timing, plugs and so forth...  (you HAVE, haven't you? :-) -- failure to idle is usually the result of improper timing or too lean a mixture -- let's take a look at what might produce a lean burn.
+If you mention 'lean,' the first thing people think of is that the carburetor must be providing too little fuel -- especially when the problem goes away when you hold the throttle open a bit wider.  But the other half of the equation is air.  Rather than too LITTLE fuel, you may be getting to MUCH air.  Indeed, this is the common cause of this complaint and for a very simple reason.  At idle-speeds the throttle-plate is almost fully closed.  This reduces the flow of air thru the carburetor (and activates the low-speed fuel-delivery circuit) but it also increases the vacuum in the intake manifold, a far lower pressure than when the engine is running at maximum rpm.  Under those condition it is quite common for the engine to draw in an excess amount of air -- so-called 'vacuum leaks' -- at the gasketed flange under the carburetor, through leaky hoses, or where the ends of the manifold attach to the cylinder heads.
+AND around the shaft of the throttle plate, if the bore is excessively worn.  You can check for such vacuum leaks by squirting a bit of WD-40 (or starter fluid) on the suspect areas.
+(Rob adds: don't use carb cleaner, a lot of them have no "fuel" in the mix and so wont work for this test)
+.  If there are air leaks, the sound of the engine will change (i.e., increase) when it sucks in some of the WD-40 (which is mostly kerosene).  You'll get a bit of white smoke if the leak is very large.
+After 30+ years of service I would expect your carburetor's throttle-shaft bore to show considerable wear -- and to be sucking excess air at low rpm.  This should be the first thing to check.  To check for wear, hold the throttle full open (i.e., with the throttle-plate vertical) and see if there is any play where the shaft passes through the casting of the carburetor body.)
+If the throttle-shaft bore is worn, the proper repair is to install a 'bushing-kit', once standard stuff when there was a VW dealer in every town, now so rare most people have never even heard of such kits.  Re-bushing a carburetor isn't difficult -- nowadays they use metal-filled epoxies to hold the new bushings in place.  But if you've never done the job and can't find a bushing kit, you're facing quite a task. For a quick fix, build an external 'seal' around the leaky bore using RTV. When the rubber compound cures, you can still move the throttle (albeit stiffly) but the RTV will greatly reduce -- and often stop -- air being sucked in around the throttle- shaft bore (be sure to do both sides).
+(Rob adds: - 0ther readers recommend Tim@Volkzbitz.com who reportedly rebuilds carburettors better than new)
+.
+The other areas where an air leak might occur are easier to repair, the answer being the proper installation of a new gasket, replacement of a hose and so forth.
+But as to age effecting your carburetor, other than internal corrosion or ovaling out the throttle-shaft bore, carbs are relatively 'ageless'.  When metering gasoline, wear of a brass orifice is a function of pressure and flow-rate.  On a carburetor, both are quite low.  I think you'd need to run about 25,000 gallons of gasoline thru the main-jet before you'd begin to notice erosion of the orifice... and any erosion would tend to ENRICHEN the mixture rather than cause it to run lean (the low-speed circuit draws its fuel thru the main-jet).  But the truth is, when running at highway speeds, a good percentage of the fuel burned does not flow thru the main jet but is discharged directly into the carburetor's throat from the spray-bars in the high-power circuit... and from the accelerator-pump outlet.  Erosion in these areas would have no effect on low-speed operation.  In any case, the main-jet, pilot-jet (ie, low-speed jet) and emulsion tube are replaceable. IF you suspect erosion, replace them.  The cost of a set of jets is a pittance compared to a new carburetor.  But the odds are, they don't need to be replaced.
+Contaminants such as dust and rust could cause blockage of the smaller passages in the low-speed circuit and might give rise to a lean idle (usually, they block the circuit completely -- it does not run at all) but the cause of such problems is clearly evident on inspection (i.e., rust in the float-bowl -- which you can drain and inspect without dismounting or dismantling the carburetor), rust in the fuel-pump filter, or dust around the upper orifice of the emulsion tube) and responds to proper maintenance -- repair of the fuel tank in the case of rust and of the air-filter with regard to dust.  If the problem indeed had to do with rust or dust, and if you have not dealt with the root problem, you'll need to clean the carburetor again.  But this time, also take care of the root problem.
+The Solex carburetor is more robust than most realize, and more resistant to blockage.  By design, the mesh of the fuel-pump filter (older upright style rectangular fuel pumps) is smaller than any of the jets and orifices (pull it out, see for yourself).  But like any carburetor, the Solex requires its fair share of maintenance.  And carburetors do wear out, like any other part of your vehicle.  But when repairs were needed, Solex carburetors were meant to be overhauled, not thrown away.
+To sum up, the symptoms you describe (cutting out at idle, necessity for high idle) are most likely being caused by an excess of air rather than a lack of fuel.  Before spending any money on repairs, make sure you have accurately diagnosed the root problem.  With rare exception, age alone is not grounds for condemning a part, especially one designed to be repaired.
+- By Robert S. Hoover -- 4 November 1998
+* 
+                    * * * *
+Design by
+Erin

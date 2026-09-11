@@ -1,0 +1,185 @@
+Disc Brake Installation
+Disc Brake Installation -
+Super Beetle
+~~~
+Note:
+This is a long procedure with many notes.  We suggest reading completely through it before you begin so you have a feel for where you're going to be going next.  We're assuming that you have some experience with removing and reinstalling the front wheels, packing re-installing and adjusting the wheel bearings, and working on the brakes, including brake bleeding.  If you don't, you're in for a treat! :-)
+Rob's note:
+Bugs delivered to the USA only ever had drum brakes, and oinly ever saw the largest engine size available in any one model year.  In the rest of the world, where 1200 and 1300 bugs continued to be an engine option through the late 1960s, 1970s and 1980s, the smaller engined bugs retained the drum brakes, but the 1500 and 1600 models from 1968 onwards had front disc brakes, identical to (and interchangeable with) the disc brakes fitted to the "same year" Karmann Ghia models in the USA.  The first version had a single retaining pin holding the pads (Bendix BD23 or equivalent) in place, but from about 1972, VW changed to a larger pad design with two retaining pins. This later style is the basis for the aftermarket replacement kits.
+Parts included in the disc brake conversion kit:
+Two rotors with integral hubs
+Two calipers with pads installed
+Two sets of wheel bearings and races, inner and outer
+Two rear grease seals for the hubs
+Two machined mounting brackets
+Two flexible stainless steel lines to replace the stock rubber lines
+Bolts and lock washers
+Tools and materials required for the job:
+Ratchets, 1/2" and 3/8" drive
+Sockets, 1/2" drive -- 13mm and 15mm
+Torque wrench, 3/8" drive -- 10-80 ft-lbs
+Pliers -- side-cutters and needle-nose
+Hammer, ball-peen
+Chisel, small, blunt
+Crescent wrench, 12"
+Allen wrench, 6mm
+Allen wrench socket, 3/8" drive -- 6mm
+Allen wrench, 5/32" (if you have Empi-style wheels)
+Flare nut wrench, 12mm (sometimes called a line wrench)
+High-temperature wheel bearing grease
+Isopropyl or denatured ethyl alcohol
+Solvent (mineral spirits)
+LOTS of rags and paper towels!  This is a very messy job!
+Tools needed to bleed the brakes:
+An assistant
+A supply of new good quality brake fluid (never use old brake fluid)
+A clear container partially filled with brake fluid (this can be old)
+A length of clear 3/16" tubing (or a size that will fit snugly over your bleeder valve)
+A box-end wrench (7mm) to open and close the bleeder valve
+Procedure:
+With the wheels on ground, loosen the lug nuts on the front wheels (it will be more difficult once the front wheels are raised).
+Raise the front of the car and support it securely on jack stands.
+Remove both front wheels and stow the lug nuts (bolts) in a safe place.
+On the driver's side, remove the horseshoe clip which secures the end of the speedometer cable to the wheel bearing dust cap and put it away where you'll be able to find it.
+Working from the back side of the wheel, pull the cable out of the steering knuckle toward the center of the car and secure it back out of the way.
+On both sides, pry the dust caps off of the hubs with a large screwdriver and lay them aside for reuse.
+Note:
+I found that the easiest way to remove the dust caps is to use a small crow bar!  It sure saves a lot of fussing and fuming, to say nothing of wear and tear to your knuckles!
+Loosen the spindle nut lockbolt with a 6mm Allen wrench (allen key).
+Remove the spindle nut and thrust washer from the end of the spindle and lay them aside for cleaning and reuse.
+Note:
+The left side spindle has left hand threads.
+Pull the hub assembly (brake drum) out slightly, then push it back into its original position. This should force the outer bearing off the spindle enough so it can be removed. The outer race remains in the hub.
+Remove the bearing; if it appears to be re-usable, clean it and put it in your stash of spare parts.
+Pull the brake drum/hub assembly off the spindle.
+Note:
+You may need to back off the brake adjusting stars to get the drum off.
+Place a large drip pan under the wheel assembly.  Using the 12mm flare nut wrench, unscrew the fitting on the steel brake line that attaches the line to the wheel cylinder.
+Immediately plug the brake line to prevent fluid loss and contamination.  The rubber caps used to plug the vacuum lines on the carburetor work well for this.
+Important notes:
+Use only a brake line flare nut wrench (line wrench) for removal of the old steel brake lines.  An open-end wrench will fit but it will also round off the nut and you will never get the steel brake lines loose.  A flare nut wrench is 3/4 of a box-end wrench (ring spanner).  The center 1/4 is cut out so you can get it over the brake line and onto the fitting.  It goes further around the fitting and grasps it more securely than an open-end wrench.
+Be prepared for brake fluid leakage (e.g., rags, drip pan, etc.).
+Keep an eye on the brake fluid level in the reservoir.  If the reservoir runs dry, it will introduce air into the master cylinder and cause you no end of grief!  It shouldn't be a problem at this stage if you plug the open brake lines immediately.
+Keep the short steel lines (one on each side) that run between the old rubber brake hose and the wheel cylinder -- you will reuse them when you install the new braided stainless steel lines later.
+Dispose of any old brake fluid properly.  It is classified as "Household Hazardous Waste" and should be disposed of at your local household hazardous waste facility.  (Yes, Dave is an environmental scientist!  :-)
+Remove the entire front brake assembly -- all of the springs, the brake shoes, and the wheel cylinder, as follows -
+Remove all of the brake shoe return springs (one upper, two lower) using brake pliers or locking pliers (vice grips).  Wear goggles while doing this to protect your eyes from flying springs!
+On each brake shoe there is a spring and pin that holds the shoe against the backing plate.  The spring is held in place by a pin that goes through the backing plate, through the brake shoe support plate, through the center of the spring, then connects to a small hold-down cup on the outer end of the spring.
+Remove the hold-down cups and springs as follows:
+Grasp the cup at its edges with a pair of needle-nose pliers;
+Push the cup inward to compress the spring while keeping the pin in place by holding it on the backside of the backing plate with your finger;
+Rotate the cup with the pliers 90 degrees until the flattened top of the hold-down pin lines up with the slot in the cup;
+Release the tension on the spring and remove the cup, spring and pin.
+All easier said than done!
+Stow away all of these parts you have removed with your spare parts stash -- you will not use them again.
+Remove the lower end of the brake shoes from the slots on either end of the adjusters, then remove the upper end of the shoes from the slots on either side of the wheel cylinder.  Remove the brake shoes from the assembly.
+Remove the bolt (13mm) on the back side of the backing plate that secures the wheel cylinder to the backing plate.  Detach the wheel cylinder from the brake backing plate.
+Remove the four 15mm bolts that hold the brake backing plate in place and remove the backing plate.  There now should be nothing left but the spindle.
+Again, you will not use the brake shoes, wheel cylinder or backing plate again.
+Wash the old grease and brake grit off of the spindle with solvent and wipe the spindle absolutely clean. Check the threads and polished surfaces for signs of galling, heat discoloration, or cracking.  If the threads on the end of the spindle are damaged, clean them up with a thread-restoring file before greasing the spindle.
+Install the brake caliper adapter to the spindle using the supplied bolts, with the caliper mounting point facing you while you look at the brakes.  The bolts from the kit go through the smooth holes in the bracket into the threaded holes in the spindle.  Torque them to 30-35 ft-lbs.
+Note:
+The caliper bracket bolts on around the spindle, using the same threaded holes to which the backing plate was attached.  The brackets have two sets of holes:  four holes (in a square orientation) are smooth and counter-
+sunk; the two holes in the "ears" of the bracket are threaded.  The smooth countersunk holes match up with the four holes that held the backing plate.  The brake calipers will bolt to the threaded holes. There is a specific mounting plate for the left and right -- they are NOT interchangeable.  Make certain that the "ear" on the bracket sticks out toward the back of the car.
+Note:
+If you have alloy (Empi-style) wheels, it will be necessary to install 14mm x 1/2" studs into the lug bolt holes in the new hubs.  Coat the 14mm end of the stud with medium Locktite, then screw it into the hole and tighten firmly with a 5/32" Allen wrench.
+Pack the four new wheel bearings (two inner, the larger ones--and two outer, the smaller ones) with high-temperature wheel bearing grease.  If you're lucky enough to have a bearing packer, use it to repack both the inner and outer bearings.   The rest of us will repack the bearings as follows:
+First, make sure you have lots of rags on hand!  Your hands are going to get very messy.
+Take a clump of fresh high-temperature wheel bearing grease in the palm of your hand, about the size of large gumball. Take the wheel bearing that you want to pack grease into, and put it on your index finger like a ring, with the taper of the bearing going out away from you so that you will be working from the larger side of the bearing to the smaller. Make a fist with your hand, with the bearing between your two knuckles.
+Chomp away at the edge of the grease clump over and over again, making sure that you are bringing the bearing all the way to the palm of your hand. After a short time, you will see the grease pushing through the top of the bearing.
+Rotate the bearing, and continue all the way around the bearing until the entire bearing has grease pushed all the way through it, completely. It takes a little time to get good at it, and no matter how good you get at it, you will still get very messy.
+Note:
+When you're finished packing the two bearings (inner and outer), keep them in a plastic bag for protection until you're ready to install them in the rotor hub and install the rotor onto the spindle.
+Install the bearing races into both rotor hubs
+:
+Note:
+The larger race and bearing -- the "inner" bearings -- go into the back (inner part) of the rotor hub, while the smaller race and bearing -- the "outer" bearings -- go into the front or the outer part of the rotor hub.
+Place the hub upside down on a firm, hard surface.  Install the inner race in the backside of the rotor,
+thicker side inward
+, making sure it seats completely into the race lip.  Tap it into place with a hammer until it is flush with the hub, then, using a blunt chisel, gently tap it all the way around until it seats firmly.
+Turn the rotor over and install the outer bearing race in the same way.
+Remember, the thicker side of the race goes to the inside of the hub.
+Pack the hub completely full of high-temperature wheel bearing grease. It will take about 50 grams of grease, a small handful. Start jamming the wheel bearing grease into the outboard end of the drum hub. Covering the inboard hole in the hub with your hand, fill the whole hub completely. Push the grease in really well. "Think of the 30,000 miles and smile." John Muir says.
+Note from Rob Boardman:
+The bearings are not sealed themselves, so the hub needs to be packed with grease to act as a reservoir. This prevents grease in the bearings from leaking out if it gets hot, and so they last a long time. If the grease is renewed about every 30,000 miles (the grease seal too) the bearings will last forever.
+Turn the rotor upside down again onto a clean, flat surface and install the grease-packed inner bearing (taper inward) into the race in the rear of the rotor.  Put a little more grease outboard of the bearing.
+Rob's note:
+I like to add some extra grease around the outside of the rollers on the roller race just before I install it.  This fills the gaps between the rollers and the race once it's installed.  The idea is that the whole assembly becomes totally packed with grease.  If it oozes out from around the bearings as you assemble it - great, that means it's completely filled every void.
+Dave's Note:
+Next you will install the grease seal.  The seal is rubber coated, and has a spiral spring around a groove in the seal.  This spring keeps the inner sealing lip in contact with the axle as the wheel and seal rotate. This spring must face the inside of the bearing, so you only see the back of the seal when you install it. Adding a little grease to the inside of the seal before installation also helps fill the whole assembly with grease.
+Smear a thin coat of grease on the seal where is will slide into the rear of the hub. Place the seal on the hub over the inner bearing with the open side facing the bearing.
+Start the seal in its bore by thumb pressure.  Place a piece of smooth flat wood or a hockey puck over the back of the seal.
+Tap the wood or puck lightly with a mallet or hammer to spread the impact load and avoid deforming the seal. Work gently around the perimeter of the seal so it goes in a little at a time.  It doesn't take a lot of force, but must be done evenly around the seal so it doesn't end up distorted.
+Seat the seal flush with the outer surface of the hub.
+Note:
+In our '73 SB we found that the seal, when pressed all the way in, does NOT seat flush with the outer surface of the hub.  Just make sure it is pressed in as far as it will go without distorting it.
+Get ready to reinstall the rotor assembly on the spindle.  Apply a thin coat of wheel bearing grease to the spindle at the outer bearing seat, inner bearing seat, shoulder and seal seat. Do this just before reinstalling the bearings to keep out grit.
+Lubricate the lip of the seal by running a greasy finger around it and over the surface of the spindle where it contacts the seal.
+Wipe your greasy hands clean, then remove any grease or corrosion-preventive coating from the brake disc surfaces using isopropyl alcohol (brake cleaner).
+Install the rotor hub onto the spindle -- simply push it over the spindle with the bearings in place, seal side first.  Be careful not to pop the bearings out -- hold the outer bearing in place with your thumb and shove the rotor on.
+Note:
+Others have found that it takes a bit of pushing and thumping on the rotor to get it on, as the new seal is very tight.  We didn't have any trouble.
+As soon as the spindle appears through the outer side the rotor hub, push all the grease back into the hub that it will hold.
+Make sure the grease-packed outer bearing is in place over the spindle and is pushed completely into its race.  This will help hold the grease in.
+Install the thrust washer onto the end of the spindle, making sure its tab slides into the slot in the end of the spindle.  Then screw on the spindle nut.
+Note
+again:  The nut on the left axle has left-hand threads.
+Snug the spindle nut down with the 12-inch crescent wrench while rotating the rotor in the opposite direction.  You should feel the rotor start to bind. This tightening, together with the rotation of the rotor in the opposite direction, will seat the bearings and everything where it needs to be. Make certain that when touching the rotor, your hand is completely clean and free of grease - the slightest trace left on the rotor can reduce braking effectiveness by a big margin.
+Loosen the spindle nut until the binding is free, then HAND tighten it (or a very light hand on the wrench) until it is just touching against the washer (about 7 ft-lb) while you hand turn the drum in the opposite dirction.  This turning will take the slack out of the bearing.
+With the 12-inch crescent wrench, retighten the spindle nut very slowly until come to the point where you cannot move the thrust washer sideways under the nut with gentle presure of the big screwdriver blade.  Tighten the spindle nut a bit more, then loosen it until you can just move the washer.  When the thrust washer first moves upon prying it sideways, you have reached the point that gives the wheel about 0.001" of end play.
+Note:
+If you have to pry or twist the screwdriver blade to move the thrust washer, the bearing is too tight.
+Note:
+If the bearings are loose the wheel will wobble, even if you can't feel it, and wear the bearings out.  If they are too tight, there will be insufficient grease between each roller and the race and the bearings will run hot.  You ideally want between 0.001" and 0.005" of endplay.
+Tighten the spindle nut lock bolt with a 6mm Allen wrench to hold the spindle nut in place.
+Clean your hands and check the play in the disc by moving it in and out with your hands -- top and bottom, side to side. There should be almost no play. Using the feel of your hand there should be very little wiggling, if any.
+Install the dust cap on the right side, tapping it into place with a rubber mallet.
+Important note:
+We've experienced dust caps that are a little too large in diameter, which prevents them from being firmly attached to the hub.  If you find this problem, put your dust cap in a vice and make several dimples around the perimeter, at the edge, with a hammer and punch.  This is especially important on the left side -- since it is the dust cap that drives the speedometer cable, the cap must be seated firmly on the rotor.
+On the left side, before installing the dust cap, reach behind the spindle and push the speedometer cable through steering knuckle. Install the square end of the speedometer cable through the square hole in the dust cap, then install the dust cap.  Reinstall the horseshoe clip onto the protruding end of the speedometer cable to hold it in place.
+Note:
+It is very difficult to get the square end of the speedometer cable in the square hole in the dust cap if the dust cap is installed.  Secure the end of the cable in the square hole in the dust cap
+before
+installing the cap.  Also, you may find yourself without the horseshoe clip that goes onto the square end of the cable.  A piece of suitable wire, twisted into the groove in the end of the cable, will work just fine.
+Clean the rotors once again with alcohol.
+Mount the calipers.  The calipers slip over the rotors with the brake pads on either side of the rotors.  You might need to spread the pads apart a little to slip easily over the rotor - dont overdo that, or you will need several extra pumps of the brake pedal to get the pads snugged back up to the rotor. Bolt the calipers onto the brackets. Be careful when you slide the caliper onto the rotor that you do not score or scratch the rotor.
+Note:
+The bolts supplied in the kit go through the two holes in the calipers and screw into the ears in the spindle brackets.  Use both the large washer and split-ring washer that are supplied under the bolt head to prevent the end of the bolt from hitting the rotor.
+Hand-tighten the bolts through the caliper bracket into the caliper, then torque the bolts to 30 ft-lbs.
+Install the braided stainless steel brake lines.  Torque the ends to 11 ft-lbs.
+Install the steel brake line to the caliper using the 12mm flare nut wrench.  Torque the end to between 11-14 ft-lbs.
+Note:
+You'll have to torque the nut that attaches the brake line to the caliper by feel, as you can't put a torque wrench on it.  A firm tug on the flare nut wrench.
+Note from someone's experience:
+I found the old lines to be a tight fit, plus, you must re-bend the old lines, running the danger of crimping a steel line.  I went to my local parts store and got two 12-inch European style steel lines and installed them -- they are a bit longer than the original and are not as tight to fit. If you do this, be sure to buy only European style steel lines -- the flare on the end of the European style is different from the Japanese or American flare -- it's called a bubble flare and anything else will leave you with no brakes.
+Clean everything thoroughly with solvent (mineral spirits).  Using your flare wrench, make certain all brake line connections are tight (a firm tug).
+Bleed the brakes per the
+Brake System Bleeding
+procedure. Bleed the right side first (longest line from the master cylinder), then the left side (shortest line).
+Note:
+There are two 7mm bleed valves on the caliper.  Bleed the system from the upper one (air goes up).  Be sure to replace the rubber caps on the bleeder valves.
+Notes from Aircooled.Net
+(from whom we purchased our disc brake conversion kit) regarding bleeding the brakes -
+There are three different types of calipers used in front disc brake conversions.  Our's is the ATE style (pronounced "Ah-Tay" if you are interested), with two bleeder nipples, for model years 1972 to 1973.  The only reason for the second bleeder is to accelerate the bleeding process when flushing the system.
+Since the master cylinder on Super Beetles uses two pistons, you may start in the front.  Start on the right side, front, since this is the farthest away from the master cylinder on the front brake circuit/piston.  Slip a 4mm or 5/32" inner diameter hose over the bleeder nipple.  (You can get away with using the hoses used in fish tanks.)  Next loosen the bleeder and insert the hose into a clear jar with some brake fluid in it so you can see the bubbles.  Now have your helper push the brake pedal slowly, constantly exerting pressure on the pedal all the way down, then releasing pressure constantly and slowly on the way up.  (Ideally you have another person making sure the brake fluid does not get low; however, you can get away with making sure the reservoir is full after each wheel.)
+Note:
+Never let the reservoirs go empty or you will have to re-do the bleeding procedure all over from the beginning. The brake master cylinder has a small "fence" or "dam wall" between the front and rear circuit pipes so that if one circuit leaks all it's fluid, there will still be a small pool of fluid left to operate the remaining circuit, so don't let the level in the reservoir get below about 1/3 full. That keeps the fluid above this dam wall.
+Once you are convinced that the air is out of the lines and clean fluid is coming out, tighten the bleeder nipple for that wheel and move to the left wheel and repeat the procedure.  It would be a good idea to bleed the rear brakes as well in this order:  right rear, then left rear.
+This procedure is on Dave's LHD car, so on RHD models, the order of bleeding is swapped.  The idea is to bleed from the longest brake line to the shortest.
+Reinstall the wheels, tightening the lug nuts (wheel bolts) just enough hold the wheel in place where you put it, vertically.
+Spin the wheel to make sure that the wheels clears the caliper.
+Note:
+When you re-install the wheels you may encounter a clearance problem between the inner part of the wheel and the caliper.  To resolve this problem, you can use a grinder and grind down the inner part of the wheel, but we found it much easier to simply grind down the nub on the caliper.  You won't have to remove much metal.
+Run the
+"out-of-round" procedure
+to prevent the SB "wobble."  Make sure the wheel is perfectly round.
+Once you are sure the wheel is perfectly round, tighten all of the lug nuts as tight as you can on the rotating wheel.
+Carefully lower the front of the car to the floor and then tighten all of the lug nuts securely while the weight of the car holds the wheel in place.
+Test drive the car to assure firm braking action. You mkight need several pumps of the brake pedal so set the pads up close to the rotor. The pads retract only a few thousandths of an inch when you foot is off the brake pedal, and they are self adjusting so you never have to worry about that aspect again. Watching for traffic, apply the brakes slowly at first, then at higher speed. You might find it takes several hard braking attempts to "wear in" the pads against the rotors, but once it's all settled down, you should find the pedal pressure is a fraction higher than with 4 drum brakes, but the feel and stopping power is MUCH better than drum brakes alone.
+~~~
+After finishing the job, Dave wrote to Rob -I am delighted with the new brakes!  The pedal has never been so high, and the braking action is smooth, firm and even.  I went out on the highway last night; at 6o mph on a straight-away with no cars behind me I let go of the steering wheel and applied the brake -- not real hard, but firmly.  Came to a straight, even stop -- not a hint of pulling either to the right or to the left.  These new disc brakes are marvelous!  I wish I had done this job years ago!
+Rob smiled when reading this - his Australian 1970 bug which he bought brand new came with OEM disc brakes, so he already knew how good they were.
+* 
+                    * * * *
+Design by
+Erin

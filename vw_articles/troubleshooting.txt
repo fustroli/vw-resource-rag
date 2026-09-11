@@ -1,0 +1,466 @@
+Troubleshooting
+Troubleshooting
+~~~
+Much of the following information is taken from the Haynes Automotive Repair Manual, with expansion from our own experience.
+In each case, please consult our "Index" or "Step-By-Step Procedures" (under the Search button above) for specific procedures for use in correcting any problems that may be found while trooubleshooting.
+Note:
+Corrective actions marked with an asterisk (*), while necessary to remedy the symptoms described, are generally beyond the scope of the home mechanic.  However, the information provided should be helpful in isolating the cause of the condition so that the owner can communicate clearly with a professional mechanic.
+~~~
+Engine Troubleshooting
+Engine Electrical System
+Starter
+Fuel System
+Cooling System
+Heating System
+Clutch
+Manual Transaxle
+Driveaxles
+Brakes
+Suspension and Steering Systems
+~~~
+Engine and Performance
+Engine will not rotate when attempting to start.
+Battery terminal connections loose or corroded.
+Battery discharged or faulty.
+Broken, loose or disconnected wiring in the starting circuit.
+Starter motor pinion jammed in flywheel ring gear.
+Starter solenoid faulty.
+Starter motor faulty.
+Ignition switch faulty.
+Starter pinion or flywheel teeth worn or broken.
+Engine rotates but will not start
+Fuel tank empty.
+Battery discharged (engine rotates slowly.
+Battery terminal connections loose or corroded.
+Faulty fuel pump, pressure regulator, etc.
+Fuel not reaching carburetor.
+Ignition components damp or damaged.
+Worn, faulty, or incorrectly gapped spark plugs.
+Broken, loose or disconnected wiring in the starting circuit.
+Ignition points incorrectly gapped.
+Broken, loose or disconnected wires at the ignition coil 
+                    or faulty coil.
+Engine hard to start when cold
+Battery discharged or low.
+Choke defective on not adjusted properly.
+Malfunctioning fuel system.
+Faulty ignition system.
+Engine hard to start when hot
+Air filter clogged.
+Fuel not reaching the fuel pump or carburetor.
+Corroded battery connections, especially ground.
+Worn starter motor.
+Choke defective or not adjusted properly.
+Starter motor noisy or excessively rough in engagement
+Pinion or flywheel gear teeth worn or broken.
+Starter motor mounting bolts loose or missing.
+Engine starts but stops immediately
+Loose or faulty electrical connections at coil or distributor.
+Defective coil.
+Insufficent fuel reaching the carburetor.
+Vacuum leak at the gasket between the intake manifold and 
+                    throttle body.
+Defective pilot jet cutoff valve.
+Oil puddle under engine
+Oil strainer cover plate or drain bolt washer leaking.
+Oil pressure sending unit leaking.
+Valve cover leaking.
+Pushrod tubes leaking.
+Oil cooler or oil cooler seals leaking.
+Engine oil seals leaking.
+Engine lopes while idling or idles erratically
+Vacuum leakage.
+Air filter clogged.
+Fuel pump not delivering sufficient fuel.
+Timing gears worn.
+Camshaft lobes worn.
+Throttle body ports clogged.
+Carburetor misadjusted or worn.
+Engine misses at idle speed
+Spark plugs worn or not gapped properly.
+Faulty spark plug wires.
+Vacuum leaks.
+Incorrect ignition timing.
+Uneven or low compression.
+Incorrect air/fuel mixture.
+Engine misses through driving speed range
+Fuel filter or carburetor clogged and/or impurities in the 
+                    fuel system.
+Faulty or incorrectly gapped spark plugs.
+Incorrect ignition timing.
+Cracked distributor cap or rotor.
+Leaking spark plug wires.
+Low or uneven cylinder compression pressures.
+Weak or faulty ignition system.
+Vacuum leak in intake manifold or vacuum hoses.
+Engine stumbles of acceleration
+Spark plugs fouled.
+Carburetor needs adjustment or repair.
+Fuel filter clogged.
+Intake manifold vacuum leak.
+Engine surges while holding accelerator steady.
+Intake air leak.
+Fuel pump faulty.
+Engine stalls
+Idle speed incorrect.
+Fuel filter clogged and/or water and impurities in the fuel 
+                    system.
+Distributor components damp or damaged.
+Faulty or incorrectly gapped spark plugs.
+Faulty spark plug wires.
+Vacuum leak in intake manifold or vacuum hoses.
+Valve clearances incorrectly set.
+Defective pilot jet cutoff valve.
+Engine lacks power
+Incorrect ignition timing.
+Excessive play in distributor shaft.
+Worn rotor, distributor cap, points or wires.
+Faulty or incorrectly gapped spark plugs.
+Carburetor out of adjustment or excessively worn.
+Faulty coil.
+Brakes binding.
+Clutch slipping.
+Low or uneven cylinder compression pressures.
+Fuel filter clogged and/or impurities in the fuel system.
+Exhaust system plugged.
+Engine backfires
+Ignition timing incorrect.
+Faulty secondary ignition system (cracked spark plug insulator, 
+                    faulty plug wires, distributor cam and/or rotor).
+Carburetor in need of adjustment or worn excessively.
+Vacuum leak at intake manifold or vacuum hoses.
+Valve clearances incorrectly set and/or valves sticking.
+Pinging or knocking engine sounds during acceleration or 
+                  uphill
+Incorrect grade of fuel.
+Ignition timing incorrect.
+Carburetor in need of adjustment.
+Improper or damaged spark plugs or wires.
+Worn or damaged ignition components.
+Vacuum leak.
+Engine runs with oil pressure light on
+Low oil level.
+Idle rpm below specification.
+Short in wiring circuit.
+Faulty oil pressure sender.
+Worn engine bearings and/oil oil pump.
+Engine diesels (continues to run) after switching off
+Carbonization in the cylinder heads, creating hot spots to ignite fuel (especially prevelant in worn engines).
+Idle speed too high.
+Excessive engine operating temperature.
+Defective pilot jet cutoff valve.
+~~~
+Engine Electrical System
+Battery will not hold a charge.
+Alternator/generator drivebelt defective or not adjusted properly.
+Battery electrolyte level low.
+Battery terminals loose or corroded.
+Alternator/generator not charging properly.
+On alternator models only, the dash light is not working (it's part of the charging circuit).
+Loose, broken, or faulty wiring in the charging circuit.
+Short in vehicle wiring.
+Internally defective battery
+Alternator/generator light fails to go out.
+Faulty alternator/generator or charging circuit.
+Alternator/generator drivebelt defective or out of adjustent.
+Alternator/generator voltage regulator inoperative.
+Alternator/generator light fails to come on when key is turned on.
+Vehicle light bulb or circuit defective.
+~~~
+Fuel System
+Excessive Fuel Consumption.
+Dirty or clogged air filter element.
+Incorrectly set ignition timing.
+Carburetor internal parts excessively worn or damaged.
+Low tire pressure or incorrect tire size.
+Driving with your foot resting on the brake pedal.
+Binding brakes.
+Fuel leakage and/or fuel odor.
+Leaking fuel feed or return line.
+Tank overfilled.
+Evaporative canister filter clogged.
+Carburetor worn.
+Fuel venting line incorrectly positioned.
+Using a vented (incorrect) fuel cap.
+~~~
+Cooling System
+Overheating.
+Drivebelt slipping.
+Fan air intake behind shroud blocked or restricted.
+Thermostat faulty.
+Ignition timing incorrect.
+Air/fuel mixture incorrect.
+Missing pieces of engine tinware.
+Open holes in tinware or missing rubber engine seals.
+Overcooling.
+Faulty thermostat.
+~~~
+Heating System
+No heat in the cabin.
+Thermostat defective or missing.
+Engine compartment not sealed.
+Fan defective.
+Fresh air tubes leaking or missing.
+Heater boxes rusted out or otherwise defective.
+Heater cables broken.
+Lever arm assemblies defective.
+Corrugated heat ducts (heater box to body) leaking or missing.
+Fittings under the rear seat broken or missing.
+Heater channels rusted out or otherwise leaking.
+No warm defrost air on the windshield.
+Any or all of the above.
+Defrost tubes leaking or missing.
+~~~
+Clutch
+Pedal travels to floor - no pressure or very little resistance.
+Broken clutch cable.
+Broken release bearing or fork.
+Collapsed diaphragm spring in clutch pressure plate.
+High pedal effort.
+Clutch cable worn.
+Someone wrote - Driving the car all of a sudden I lost smooth clutch pedal movement and the clutch would not engage to shift. Limped it home and found that i'm not getting hardly any movement  (about 1/4" back and forth) in the clutch release lever on the transaxle. It feels like something is jammed up inside because there is minimal movement in the lever.
+Dave responded - The cable may be stretched (i.e., strands broken, leaving only one or two).  The problem also may be due to broken welds on clutch cable tube through chassis tunnel.
+Clutch release shaft/housing worn.
+Unable to select gears.
+Faulty transaxle.
+Faulty clutch disc.
+Faulty pressure plate.
+Pressure plate-to-flywheel bolts loose.
+Coupling pin on shift rod loose or missing.
+Clutch slips (engine speed increases with no increase in vehicle speed.
+Clutch plate worn.
+Clutch plate is oil soaked by leaking rear main seal or transaxle input shaft seal.
+Clutch plate not seated.  It make take 30 or 40 normal starts for a new one to seat.
+Warped pressure plate or flywheel.
+Weak clutch springs.
+Clutch plate overheated.  Allow to cool.
+Grabbing (chattering) as clutch is engaged.
+Oil on clutch plate lining, burned or glazed facings.
+Worn or loose engine or transmission mounts.
+Worn splines on clutch plate hub.
+Warped pressure plate or flywheel.
+Burned or smeared resin on flywheel or pressure plate.
+Insufficient bend in Bowden tube.
+Broken welds on clutch cable tube through chassis tunnel (also results in clutch pedal feeling spongy).
+Noise in clutch area.
+Release shaft improperly installed.
+Faulty bearing.
+Clutch plate damper spring failure.
+Clutch pedal stays on floor.
+Binding release cable.
+Broken release cable.
+Broken release bearing or fork.
+Someone wrote - I have a 1965 Standard Beetle ... when I start off in 1st gear the car shakes ... it seems there is something wrong with the clutch or flywheel, can you give me any suggestions on what I need to check?
+Rob responded - It's probably just the clutch (always look for the simple things first), but if COULD be the bowden tube or the engine mounts (or a combination).  If you replace the clutch, have a good look at the flywheel - if the rubbing surface looks mirror shiny, get it machined before you replace the clutch. It should have an even but matt appearance so it will grip that side of the friction plate.
+If the clutch is making scraping or other weird noises when you engage it, then it might just be worn out.  Always replace the throwout bearing when you replace the clutch plate.  Your (1965 model) car should use the clutch plate which has a metal ring in the middle of the fingers, and the throwout bearing should have round mounting ears.  On later model cars with the flat-eared throwout bearing, you need to use the clutch pressure plate which has bare fingers - no metal ring in the middle.
+The Bowden tube carries the clutch cable between the body and the gearbox and MUST have a bend in the middle to allow the engine to rock without pulling on the cable.  It uses washers with a piece cut out placed at the body end to attain a 1-inch bend.
+If the clutch feels rubbery/spongey when you use it there is just a chance than one of the three welds holding the clutch tube inside the tunnel has broken.  The rear one is easy to see - it's under the hatch under the back seat.  The front and centre ones are hard to repair but it can be done...but leave this possibility till last unless the pedal DOES feel very imprecise and spongey when you use it.  Let me know and I can tell you how to fix any broken welds inside the tunnel.
+The engine mounts can sometimes be broken and not apparent as the engine is still sitting on them - the rubber eventually gets old and weakens.  There are three mounts - two under the bell housing between the engine mounting yokes, and one as the gearbox nosecone.
+~~~
+Manual Transaxle
+Knocking noise at low speeds.
+Worn driveaxle constant velocity (CV) joint(s).
+Noise most pronounced when turning.
+Differential gear noise.*
+Clunk on acceleration or deceleration.
+Loose engine or transaxle mounts.
+Worn differential pinion shaft in case.*
+Worn or damaged driveaxle CV joints.
+Vibration.
+Rough wheel bearing.
+Damaged driveaxle.
+Out-of-round tires (especially pronounce in the Super Beetle).
+Tire out of balance (also especially noticeable in the SB).
+Worn CV joint.
+Noisy in neutral with engine running.
+Damaged input gear bearing.*
+Noisy in one particular gear.
+Damaged or worn constant mesh gears.*
+Damaged or worn synchronizers.*
+Bent reverse fork.
+Damaged fourth speed gear or output gear.*
+Worn or damaged reverse idler gear or idler bushing.*
+Noisy in all gears.
+Lubricant insufficient.
+Damaged or worn bearings.*
+Worn or damaged input gear shaft.*
+Slips out of gear.
+Worn or improperly adjusted linkage.
+Transaxle/engine mounts loose or worn.
+Shift linkage does not work properly, binds.
+Worn shift fork.*
+Leaks lubricant.
+Final drive flange seals worn.
+Excessive amount of lubricant in transaxle.
+Input gear shaft seal damaged.*
+Torn axle boot.
+Leaking axle tube retainer gasket.
+Locked in gear.
+Lock pin or interlock pin missing.*
+Coupling pin for shift rod loose or missing.
+~~~
+Driveaxles
+Shudder or vibration during acceleration.
+Excessive toe-in.
+Incorrect spring heights.
+Worn or damaged inboard or outboard CV joints.
+Sticking inboard CV joint assembly.
+Vibration at highway speeds.
+Out of balance front wheels and/or tires.
+Out of round front tires (especially pronounced in the Super Beetle).
+Worn CV joint(s).
+~~~
+Brakes
+See also
+Brakes Discussion
+for more information regarding troubleshooting brakes problems.
+And see our discussion regarding
+Bleeding
+of the brakes.
+~~~
+Note:
+Before assuming that a problem with the braking system exists, make sure that -
+The tires are in good condition and properly inflated.
+The front end alignment is correct.
+The vehicle is not loaded with weight in an unequal manner.
+Vehicle pulls to one side during braking.
+Incorrect tire pressures.
+Front end out of line (have the fromt end aligned).
+Front or rear tires not matched to one another.
+Restricted brake lines or hoses.
+Malfunctioning drum brake or caliper assembly.
+Loose suspension parts.
+Loose backing plates or calipers.
+Excessive wear of brake shoe or pad material of disc/drum on one side.
+Noise (high-pitched squeal when the brakes are applied).
+Brake pads or shoes worn out.  Replace pads/shoes with new ones immediately.  Be sure to check the disc/drums for damage as well.
+Brake roughness or chatter (pedal pulsates).
+Excessive disc lateral runout.
+Uneven pad wear.
+Defective disc.
+Drum out-of-round.
+Excessive brake pedal effort required to stop vehicle.
+Partial system failure.
+There is a very simple test for the brakes on one axle or other not working.  Find a patch of gravel and stomp on the brakes with someone outside the car looking on.  If only the rear or front lock up and the other axle continues to rotate, then that axle has a fault.  Since the dual circuit brakes on a Bug are front and rear (rather than diagonal as on many modern cars) this test is quite definitive.  Usually partial system failure like this is due to a faulty master cylinder.
+Excessively worn pads or shoes.
+Piston in caliper or wheel cylinder stuck or sluggish.
+Brake pads or shoes contaminated with oil or grease.
+New pads or shoes installed and not yet seated.  It will take a while for the new material to seal against the rotor or drum.
+Excessive brake pedal travel.
+Partial brake system failure.
+Insufficient fluid in master cylinder.
+Air trapped in system.
+Brakes in need of adjustment.
+Dragging brakes.
+Master cylinder pistons not returning correctly.
+Restricted brake lines or hoses.
+Incorrect parking brake adjustment.
+Grabbing or uneven braking action.
+Binding brake pedal mechanism.
+Brease or oil on brake lining.
+Brake pedal feels spongy when depressed.
+Air in hydraulic lines.
+Master cylinder mounting bolts loose.
+Master cylinder defective.
+Brake pedal travels to the floor with little resistance.
+Little or no fluid in the master cylinder reservoir caused by leaking caliper or wheel cylinder piston(s).
+Loose, damaged or disconnected brake lines.
+Parking brake does not hold.
+Parking brake improperly adjusted.
+~~~
+Suspension and Steering
+Note:
+Before attempting to diagnose the suspension and steering systems, perform the following preliminary checks:
+Tires for wrong pressure and uneven wear.
+Steering couplings from the column to the steering gear for loose connectors or wear.
+Front and rear suspension and the steering gear assembly for loose or damaged parts.
+Out-of-round or out-of-balance tires, bent rims and loose and/or rough wheel bearings.
+Vehicle pulls to one side.
+Mismatched or uneven tires.
+Broken or sagging torsion bars.
+Wheel alignment.
+Front brake dragging.
+Abnormal or excessive tire wear.
+Incorrect wheel alignment.
+Sagging or broken torsion bars.
+Tire out of balance.
+Worn shock absorber or strut damper.
+Overloaded vehicle.
+Tires not rotated regularly.
+Wheel makes a thumping noise.
+Blister or bump on tire.
+Improper shock absorber or strut damper action.
+Shimmy, shake or vibration.
+Tire or wheel out-of-balance or out-of-round.
+Loose or worn wheel bearings.
+Worn tie-rod ends.
+Worn balljoints.
+Excessive wheel runout.
+Blister or bump on tire.
+Hard steering.
+Lack of lubrication at balljoints, tie-rod ends and steering gear assembly.
+Incorrct front wheel alignment.
+Low tire pressure(s).
+Poor returnability of steering to center.
+Lack of lubrication at balljoints and tie-rod ends.
+Binding in balljoints.
+Binding in steering column.
+Lack of lubricant in steering gear.
+Incorrect front wheel alignment.
+Abnormal noise at the front end.
+Lack of lubrication at balljoints and tie-rod ends.
+Damaged shock absorber or strut.
+Worn control arm bushings or tie-rod ends.
+Loose stabilizer bar.
+Loose wheel lug bolts.
+Loose suspension bolts.
+Wander or poor steering stability.
+Mismatched or uneven tires.
+Lack of lubrication at balljoints and tie-rod ends.
+Worn shock absorbers or strut assemblies.
+Loose stabilizer bar.
+Broken or sagging torsion bars.
+Incorrect wheel alignment.
+Erratic steering when braking.
+Wheel bearings worn or out of adjustment.
+Broken or sagging torsion bars.
+Leaking wheel cylinder or caliper.
+Warped discs or drums.
+Excessive pitching and/or rolling around corners or during braking.
+Loose stabilizer bar.
+Worn shock absorbers or strut dampers.
+Broken or sagging torsion bars.
+Overloaded vehicle.
+Suspension bottoms.
+Overloaded vehicle.
+Worn shock absorbers or strut dampers.
+Incorrect, broken or sagging torsion bars.
+Cupped tires.
+Incorrect front wheel or rear wheel alignment.
+Worn strut dampers or shock absorbers.
+Wheel bearings worn.
+Excessive tire or wheel runout.
+Worn balljoints.
+Excessive tire wear on outside edge.
+Inflation pressures incorrect.
+Excessive speed in turns.
+Front end alignment incorrect.  Have professionally aligned.
+Excessive tire wear on inside edge.
+Inflation pressures incorrect.
+Front end alignment incorrect.  Have professionally aligned.
+Tire tread worn in one place.
+Tires out of balance.
+Damaged or buckled wheel.  Inspect and replace if necessary.
+Defective tire.
+Excessive play or looseness in steering system.
+Wheel bearing(s) worn or out of adjustment.
+Tie-rod end loose.
+Steering gear loose.
+Worn or loose steering intermediate shaft.
+Rattling or clicking noise in steering gear.
+Insufficient or improper lubricant in steering gear.
+Steering gear attachment loose.
+Internal steering gear problem.
+* * * * *
+Design by
+Erin

@@ -1,0 +1,66 @@
+Timing Discussion
+Timing Discussion
+~~~
+The following topics are discussed in this article -
+Why Timing?
+Distributor and Timing
+Timing and Cooling
+"Run, Stop, Adjust"
+~~~
+Why Timing?
+Timing is required to make the spark jump across the spark plug at the proper intensity, duration and at the strategic time to properly "burn" (not detonate) all the fuel, to assure that the burning is:
+Complete
+- to reduce exhaust emissions.
+Powerful
+- to get the most power to the rear wheels.
+Efficient
+- for economy and cooling, to prevent the engine "burning up".
+~~~
+Distributor and Timing
+If the best timing for power coincided with the same timing for minimum emission, or if the engine were going to run at some constant rpm, the timing problem would be simple. However, the distributor (timing device) must be able to apply the spark at the right time and for the right duration throughout the entire rpm range.
+The fuel-air mixture is compressed by the piston being pushed through the cylinder toward the head. This compression makes a hot, explosive mixture which must burn, not explode (detonate or "ping").
+With detonation comes excessive heat, a hard hammer thrust to the piston top and damage to the head and the rest of the engine.
+Detonation can happen if the spark plug fires too soon (i.e. The timing is too advanced - Pre-ignition) or if there is an additional ignition source within the combustion chamber.
+There is one best time to strike the match (timing) and one best length of time for the match to burn.
+If the spark plug fires too soon, the mixture pre-ignites or detonates.
+If the spark plug fires too late, the mixture doesn't all burn.
+In other words, the length of time the match is lit is constant throughout the rpm range. Remember - Top Dead Centre (TDC) is the point where the piston stops dead still, changing its direction from travelling towards the cylinder head back toward the crankshaft. At idle, the one best time for the spark plug to fire is somewhere around TDC or a little before, However, as the rpm increase, the timing must be advanced (the match lit sooner), in order that all the mixture can be burned in the relatively less time allowed. This means that the burning now starts before the piston reaches TDC and continues on past TDC. At 3600 rpm this is happening 1800 times a minute in each cylinder. If the match is not light faster (sooner), the mixture has no time to burn properly.
+As the engine's rpm increase, the spark is advanced degree by degree to about 20° Before Top Dead Centre (BTDC) somewhere around 2500 rpm. The relationship between the degrees of timing advance and rpm can be plotted on a graph, the resulting curve is called an Advance Curve.
+Due to the different spark timing requirements under certain engine conditions (of varying speed or load) the distributor has an automatic advance device (advancing the spark means that it comes earlier in relation to the piston position). The spark timing is altered by two methods.
+Centrifugal force - Engine speed governs the centrifugal advance.
+Vacuum Force - Throttle opening governs vacuum advance.
+~~~
+Timing and Cooling
+The Volkswagen and most air-cooled cars have very tight valve trains and water cooled engines have notoriously sloppy ones. This is one reason why water-cooled engines are timed in an rpm range where the spark timing is advanced and air cooled cars are timed either statically or at idle when the timing is retarded.
+If an air-cooled engine's timing is too advanced it will overheat and run too hot.
+~~~
+"Run, Stop, Adjust" Method
+Someone wrote to ask -
+My setup: Beetle 1971 (pre-August) 1600cc single port Engine, 009 distributor and Brosol H30/31 carburetor.  My question has to do with timing.  It says in the BugMe video series that timing with a 009 should be set at 7.5 degrees BTDC. However from another source in a popular Beetle forum maintains it should be at 5 degrees ATDC for my particular setup.  I followed the 7.5 degree BTDC setting and didn't find the running too good.
+I then took the car on a run and every now and then stopped to turn the dizzy just a bit one way and then the other way to find the "sweet spot." I got it positioned at a fairly okay position and also with the most minimum (hardly any) of 'gurgling' pre-ignition type sound when suddenly pushing down the pedal going uphill.
+Could you please tell me what actually is my correct timing mark? I have been to your Website to look but was not able to locate the specific information I need.
+Would you consider my "run, stop, adjust distributor' method described above an acceptable way to set the correct timing?
+Rob responded -
+With a 009 distributor the correct setting is 28-32 degrees total advance at 3000+rpm.  That usually comes to about 7.5 degrees BTDC (which the BugMe video mentions) at idle -- but not always.  Since the 009 distributors vary in build quality and the total advance is more important than the idle setting -- the idle setting could be anywhere from about 5 to 10 degrees BTDC after setting the total advance.  Once you know what THAT idle setting is for THAT 009, you can set it static in future if you wish.
+If you can identify the TDC mark on the pulley, 30 degrees is 46.5mm to the right of that around the rim, so 28-32 is 3mm either side of that.  If you aren't sure about the marks, describe them to me and I might be able to help.  VW used at least four different sets of pulley marks over the years.
+Use as much of the 28-32 degrees BTDC as you can without the engine detonating/pinging, as this helps reduce any acceleration stumbles a little (caused by the 009 distributor -- you will find that discussed on our Web site.  See our article on
+Timing the 009 Distributor
+).
+If the engine still detonates at 28 degrees BTDC maximum advance, try using a higher octane fuel. Never use less than 28 degrees BTDC maximum advance, as the 009 distributor produces a slight underadvance at higher speeds anyway (vacuum distibutors will allow up to 40 degrees under cruising/part throttle conditions for better fuel economy).
+Your description of a gurgling/pre-ignition sound is worrisome.  That sounds like detonation - I describe it as a harsh uneven clicking sound from the engine when you use heavy throttle at lowish engine rpm.  If it's happening in normal driving you probably need to use a higher octane fuel. The VW engine doesn't need a really high octane number, but the later Bugs (1500/1600cc engines) do have a slightly higher compression ratio than the early 1200/1300s and like at least 91 RON octane (about 87AKI in the USA). Using a higher than needed octane fuel doesn't give you more power and won't damage an engine, but using a too-low octane number WILL eventually damage your engine.
+The 5 degree ADTC setting some others have described to you is for the 1971-1973 1600 twin port engine (AD, AE series engine numbers) with the DOUBLE vacuum distributor (two vacuum lines to the carburetor).  NEVER use this setting with the 009 distributor or any single vacuum distributor or the car will be badly underadvanced at higher rpms, which will result in overheating and poor economy.  For your information, the double vacuum distibutor pulled in 5 degrees ATDC at idle as an emissions thing - when you crack the throttle open the retard drops out and the timing jumps to a normal 7.5BTDC and starts to advance from there.  The double vac distributor was used for only three model years, then VW used the single vacuum double advance (SVDA) distributor - from the '74 year onwards.  It's like a high quality 009 (up to 32 degrees) with added vacuum advance (an additional 8 degrees when needed) - the best of both worlds.
+Note:
+The SVDA distributor is essentially a centrifugal-advance (009) distributor with a vacuum advance assist to help prevent hesitation in all of those stop-n-go situations in city traffic.  The mechanical advance takes over out on the highway in the rpm range of 2000-2500+ (highway speeds in 3rd and 4th gear).  At the higher rpm the vacuum signal drops and the mechanical advance is (or should be) "all in".  The vacuum only pulls in/advances the timing plate right off idle and through the lower range (not neccesarily in the driveway but under load it does).  Once the higher rpms are reached, the vacum advance drops off and the mechanical advance takes over.
+Also check the jetting in your carburetor. The H30/31 carburetor is often delivered with lean jetting as an emissions thing (I've seen main jets as small as 112.5).  You should have a 55 idle, 127.5 main and about 125 or 130 air correction jet. (If you had a vacuum distributor the main jet in the carburetor should be a 125, but the 009 distributor needs a slightly richer mixture).  The brass idle jet is in the right side of the carburetor, and there is another one there too - the power jet which is normally a 65 (this only provides fuel at high speed high throttle).  The main jet is in the bottom of the float bowl.  The air correction is a vertical brass screw head with a hole in it between the float bowl and the main throat - you have to remove the carburetor top to see it.  Be careful removing this - it's about an inch long as it has a thin emulsion tube (mixes air and fuel before it enters the main throat) attached to it.
+If your fuel has MTBE or other oxygenates in it, these will cause the engine to run lean which will worsen any detonation/pinging.  This can be corrected by going up in jet sizes -- try 130 for the main jet and just possibly a 60 for the idle.  MBTE and other oxygenates enhance the octane number but have less "fuel" in the fuel, so you need to richen the mixture a little to get it back in balance (modern cars have engine computers which do this on the run, but our old carburetted cars have to be manually set with different jets to cope with oxygenated fuels).
+Always set the accelerator pump to give a good squirt - this reduces any acceleration stumbles caused by the 009 (single-vacuum distributors ARE better).  With the air cleaner off, look down the throat and give the throttle arm a firm tug (the accelerator pump does NOT work with slow throttle movements). You should see a nice long squirt of fuel straight down the carburetor throat past the opening throttle plate, not splashing on anything on the way.  If it splashes, twist the delivery tube a little - gently please. There should be an adjusting "bell" with an elongated hole and lock nut in the accelerator pump linkage (right side of  carburetor) to adjust the squirt.  (See our article on
+Accelerator Pump Adjustment
+for more information.)
+The "run, stop, adjust" method is not very good at setting the car up properly.
+Read our article on
+Basic Tuneup, and Adjustment of the Solex 34 PICT/3 Carburetor
+for a complete tune-up guide for your set-up (the 34 and H30/31 series carburetor use similar set-up techniques).
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,13 @@
+Flywheel Gaskets
+Flywheel Gaskets and O-Rings
+~~~
+When reinstalling his flywheel, Dave found that the gasket supplied in the kit was an 8-hole gasket, even though his car only has four dowel pins.  Rob indicated that it would be okay to use the 8-hole gasket.
+Dave read in the procedure -- "Always use a new sealing ring (gasket) between the flywheel and the crank-shaft."  There definitely wasn't one there when Dave first pulled the flywheel.  He installed a new O-ring (P/N 311 105 295A) in the flywheel.  However, the gasket (113 105 279B - his catalog doesn't show 279 or 279A) is for the '61-'66 Bug.
+Rob verified this -- he I took another look at his catalog, and it does indeed indicate that the gasket is for the '61-'66 Bug.  So maybe the later Bugs don't need the gasket.  A bit of confusion.
+Rob later spoke with his VW mechanic friend and found the answer -- earlier Bugs did not have an o-ring seal in the flywheel, and used the paper gasket instead.  And these are now available with 4 or 8 holes so the earlier engines can be 8-dowelled.
+Bottom line:
+For any engine which has an o-ring flywheel, you don't use the paper or metal gasket.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,94 @@
+Battery Q&A
+Battery Discussion
+See also our article on
+Fault Finding the VW Electrical Charging System
+.
+~~~
+This article includes discussion of -
+Battery Physical Strength
+Battery Drain
+Battery Charging
+Rust Associated With the Battery
+Future Batteries
+~~~
+Battery PhysicalStrength
+Lead-acid starter batteries are designed to provide big amps to crank the engine when starting, followed by a fast charge from the generator/alternator.  So the battery stays close to fully charged all the time.  This means  the design has a lot of thin plates facing each other in an acid bath - a large AREA of plate material gives provides big amps. The lead compounds inside a battery get soft as the battery goes flat (chemical change on the positive (+) side of the plates), and, being on thin plates, can 'slump' off the plates (which are shaped like a waffle to hold the lead in place).  So a car battery will suffer if allowed to remain flat for any length of time.  Car batteries need to be kept charged to near 100% to get their maximum life.
+~~~
+Battery Drain
+Someone wrote with a mystery -  The car's been sitting for about two weeks without being driven, and the battery's gone flat again.  The "Oil" light barely comes on; the "Alt" light not at all.  The interior light was set to be on when the door is open; perhaps the door isn't closing all the way, I don't know.  The light came on very dimly, but the ignition wouldn't turn over the starter motor at all.
+Not being an electrician, a dumb question:  Is it possible to run through the system with a VOM somehow to detect shorts?  Although I think if there were a direct short the battery would run down a lot faster, like within just a few hours (or less).  I've gone 3-4 days at a time between outings the last little while with no problem, but each time the car has sat idle for on the order of two weeks or more the battery as turned up flat.
+"Speedy Jim" responded - There is a relatively easy test for electrical drainage from a battery -
+Take the positive cable off the battery.
+Set the VOM meter on the DC volts scale (most meters will have a 20 volt setting or similar - anything above 12v will work).
+Connect the meter negative probe to the cable you took off of the battery.
+Connect the meter positive probe to the positive (+) battery post.
+If set to DC Volts, the meter will respond to the slightest drain.  If it shows a drain, switch to DC milliamps.  Any reading over about 50 milliamps is suspect.
+Note -
+If you have a modern radio with a memory (remembers channels and settings etc.) then you WILL have a  small power drain (some radios are hungrier than others).
+If you do have a drain then you can remove fuses one at a time to find which circuit has the problem.
+Thanks to
+"Speedy Jim"
+for the foregoing.  He's a great source for VW electrical information.
+Rob's comments - Make sure that you first test the door switches.  If they prove to be okay, remove the bulb from the interior light so you can test the other circuits without having to continually close that door to disable the interior light.
+If it's taking up to two weeks or so to drain the battery the current will not be large (maybe as little as 200 milliamps - 0.2 amps - or so).  So if it's a light bulb that's shorting out it may not even be enough to make it glow.
+The headlight switch on VWs is used as a junction box for the main power supply.  You could try pulling the thick red wires off the light switch one at a time (there should be three).  The one tracking in from the left side of the car (left is left side of car) is the one from the alternator (comes through the floor of the luggage area just under the left side hood hinge as part of the wiring loom there).  If removing that fixes it, the problem has to be in the alternator (that red wire brings all power to the front of the car - and then via the ignition switch back to the engine ignition, and via the headlight switch to the rear lights).
+Still draining?  Then put that first red wire (coming from the rear of the car) back on, and remove the next red wire which disappears down through a hole in the luggage area floor above the ignition switch - this one takes power to most of the operating circuits in the car which work with the ignition on (ignition, wipers, backup lights etc).
+Still draining?  Then put the second wire back and try the third wire, which leads off the switch to the fuse block.  This supplies power to the non ignition switch circuits like the horn, lights, interior lights and maybe radio.  If the radio is an after market job it may have it's own in-wire fuse behind the radio - pull that and check for current drain too. Please note that the normal VW ignition switch does NOT have an Accessory position like modern cars, so when a modern radio is wired in to the car, they usually have TWO connections to power - one is "always on" to hold the station setting memory, and the other is to actually power the radio.  These radios continuously use a small amount of power to remember the radio station settings, and if the main power wire is connected to the "always on" wiring rather than the "ignition on" wiring, then you HAVE to remember to switch the radio off separately when you turn the igntion off - otherwise the radio will remain switched on and continue using additional power.
+Note:
+if the radio is wired through the "ignition on" wiring then you should not listen to the radio when sitting in the car with the ignition switched on but the engine off - this can sometimes cause overheating of the ignition coil mounted on the engine - the coil is designed to operate rapidly on and off with the distributor rotating (engine running), not to remain continually ON with the engine still.
+Don't forget to pull the separate fuses for backup lights and rear window demister (where fitted) too.  This might help pin down the area if nothing else.
+Then remove one fuse at a time on the main fuse block and test check the multimeter - this might narrow it down further.  If not, remove each light in the instrument cluster one at a time and repeat the test (the current drain might be through a light but not enough to make it glow).
+-----
+Someone wrote - The battery has sat unused for almost eight months while the restoration work was going on!  Am I in trouble?  I'll get a charger on it right away!
+Rob responded - If it was a new battery it might be okay. All batteries self-discharge over time if not used.  When that happens the plates inside "sulphate", so an overnight charge will do it a world of good.  for cars stored over winter, the weather for many of those eight months should help - batteries last longer in cool weather - heat is bad for them.  That's why many modern cars have heat shields around the sides of batteries in the engine bay - trying to keep the engine heat from slowly cooking the battery.  VW batteries generally last a long time because they are NOT in the engine bay.
+Older simple battery chargers are often called Dumb or Linear chargers - they are single stage, just pushing out their set amps at around 14.4 volts (the maximum safe voltge for charging 12v batteries) so they should not be left on indefinitely but disconnected if they have a green "fully charged" light, or just left on for a few hours then switched off.
+Generators and alternators for 12v battery systems are "one step" chargers which work similar to Linear or Dumb chargers you plug into the wall socket, albeit the generator or alternator can supply more amps than most wall chargers. They usually work at about 14 - 14.2 volts. This is a compromise voltage.  14.4 volts or so (which most wall chargers use) will completely charge a 12v battery better, but can result in overcharging if maintained for too long.  13.8 volts will charge a 12v battery to about 80% charge but stuggle to get a full charge into the battery.  The 14-14.2v from a generator/alternator will get a battery to around 90% charge reasonably quickly but will take a long time to charge that last 10%...but once fully charged, that voltage will result in only a very slow overcharge, which flooded cell starter batteries can cope with without too much of a problem (just an occasional top up with water for the "maintenance" style batteries).
+Starter batteries are tolerant of some overcharging, but it will result in "gassing" (converting the water in the acid to oxygen and hydrogen) which can cause the water level to drop.  Lead acid batteries should only be topped up with distilled water - never with tap water or acid.
+Some modern vehicles have "smart alternators" which work to maintain the battery voltage slightly below a full charge (reducing the amount of engine power needed), and when accelerating will further reduce any charge to mimimise extraneous power useage, but when decelerating, it will supply a much higher charge to the battery, in an effort to assist braking, improve fuel consumption and reduce emmisions. VW Beetles do NOT use smart alternators.
+-----
+Someone wrote - In my experience my batteries have always given up the ghost in the winter, not in the summer.
+Rob responded - Yes - that's when the oil is thicker so current draw is higher to turn the engine over.  And although the battery lasts longer in cooler weather, it's performance drops off as the temp drops, which is why they are rated at COLD cranking amps (CCA), rather than warm cranking amps.
+The 12v Beetle starter motor for example, needs about 70 amps when it's spinning the engine, but to GET the engine spinning, the initial current requirement is about 2.5 - 3 times that, which is why a 220 CCA rating is the minimum for a VW - still quite a low figure as it's a comparatively easy engine to start (low compression and modest size). Most starter batteries of the size to fit under the beetle back seat will have a CCA rating of over 300, which will work just fine, but in Arctic conditions a higher CCA might be useful.
+It's an interesting thing about electric motors, the "stalled" current can be huge compared to the running current.
+-----
+Someone wrote - I left my lights on in the Beetle (it was dark when I left home but light when I parked the car), and so I had a flat battery.  There wasn't even enough juice to get the warning lights in the instrument cluster to flicker.  I had to wait for the Auto Club for nearly an hour for a 20-second job to get the engine started.  If I'd had any juice at all I could have clutch-started it easily, since a generator only need 3-4 volts to start self-exciting and generate current, whereas alternators need almost 12 volts and so don't help with a near flat battery).
+Rob's comment:
+Yes, the old
+generators
+have a soft iron core which will hold its residual magnetism for a few weeks when not used.  That means if you can get it spinning fast enough, it will start making power to power the spark plugs and that might be enough to clutch start (bump start) the engine. So a push start down a hill might get you going again.
+Alternators
+use a different metal in the spinning section which requires a small current (supplied through the Alt light on the dash) to excite it into action.  So if the voltage is too low for the Alt light to glow, spinning it up on a downhill clutch start might not work.  A jump start from a good battery is the best solution there (with the Alt light then glowing bright enough to excite the altenator into action), and once running, the alternator should then be providing a good charge to the battery.
+-----
+Someone else wrote - My morning with the Bug was a little disappointing.  It started the previous evening when I went out to back the car into the garage for work the next morning, only to find that the battery was dead!  I think one of the doors didnt get closed properly and the dome light was left on.
+Rob responded - Annoying for sure.  Though the dome light (usually 10w or less) SHOULD run on battery power for 40-50 hours before completely flattening a good battery. Try charging the battery for a few hours, then it should start.A  battery which is getting a bit tired will not cope well with a partial discharge - even a small current./P>
+-----
+Someone wrote - I got in the Bug this morning and discovered that the battery was (and still is!) dead AGAIN!  I'm beginning to think I've got a short somewhere that's draining the battery, even when the car is just sitting at the curb. I vaguely recall a test for such a thing -- do you remember?  But -- even when you've verified that you have a short, then you still have to FIND it!  :-/
+Rob responded - Not too hard - you have a multimeter with an amps setting?  Just set it to the highest amps setting and remove the positive battery lead.  Place the meter between the battery and the lead, so any current flows through the meter (if the needle moves backwards or the meter read Minus amps, reverse the meter leads).  If it just barely moves turn the meter to a lower amp setting (more sensitive).  Once you have an obvious current reading (with the ignition off and the interior bulb removed so the readings are not "contaminated"), start pulling fuses until you see a change in the meter (might even need to pull TWO fuses out if there are two circuits using power.  Once you have the offending fuse out, you can work out what's on that circuit and maybe find the culprit.  The radio is sure to be part of it, especially if it is a modern radio which has a "station memory"... usually that current is tiny and should take a long time  to flatten a battery, but some radios are "hungrier" than others.  Hopefully you'll find something pulling a bit more power and that will give you a better clue.  500 milliamps (0.5 amps) would flatten an unused battery in about 100 hours. 50 milliamps would take more like 1000 hours (40+ days).
+-----
+Dave wrote - There's got to be a reason why my battery keeps going flat.  It's not that old!  As a matter of fact, it looks brand new -- very pretty there under the back seat, which I cleaned, painted and insulated!  Also untangled the wire "spaghetti" and tied things up neatly with cable ties.
+I'll get the charger on it right away, then once the battery is charged I'll check for an extraneous electrical draw.
+Rob responded - Don't forget that car batteries don't like to be flat for too long - it causes sulfation and shortens the life of the battery.  And since you did get a quality battery it would be a shame to lose it.
+Generators are more tolerant of the sick/flat battery.  Generators self-excite up to full voltage very easily, even with just a few battery volts to start with (half dead battery); but with an alternator, a successful push start is less likely since it may not self-excite to start charging.  It will still jump start just fine (because it will then "see" 12v from the other battery so will self-excite just fine). If the Gen/Alt light extinguishes once the engine is started, the battery is getting charged.
+~~~
+Battery Charging
+Dave wrote to ask - I'm going to install the Capacitive Discharge Ignition (CDI) system this weekend, and before I try to start it the first time I'll put the charger on overnight.  Should I disconnect the battery cables first?  Seems like I recall that VW batteries must be charged with the cables off.
+"Speedy Jim"
+responded - There was some concern about charging batteries when there is an alternator connected or on fuel injection systems.  Take the cables off to be safe.
+Rob responded - I guess it's an additional safety thing -- removing the cables, but I've never bothered, and never had any trouble.  But I HAVE always left the car door open so any hydrogen can vent out easily.  That also means turning off the interior light, just so there's no possible ignition source.
+Follow on from Dave - I've had the battery on the trickle charger all day (with the cables removed, on the advice of "Speedy Jim").  It was only putting out nine volts when I checked it last night.  I took the charger off a few minutes ago, and it was at about 12.5 volts on my meter.
+Rob responded: Nine volts is a VERY flat battery.   A 12v starter battery, fully charged and rested, will show around 12.5-12.6v. when the voltage drops below 11 volts, the battery is considered to be completely flat - it might still power a few low-amp LED lights, but wont provide any decent current.
+An unused battery should be recharged every month or so -- 4-5 hours (or overnight) with a 4 amp charger is fine.  If a battery is left uncharged for too long the plates sulphate and the battery behaves like it's old. If you have a modern multistage battery charger which has a "maintenance/float/trickle" last stage, you can leave it permanently attached when the car is not in use - that will maintain the battery in a fully charged condition.
+~~~
+Rust Associated with the Battery
+Dave asked - Already I'm noticing rust forming under the battery on the new tray I put in there especially designed to hold the battery.  I think it's just surface rust - the tray is coated with a very thick coat of plastic-like material.
+Mid-America Motor Works
+and others sell a battery mat that is designed to absorb and neutralize acid -- impregnated with something like baking soda (sodium bicarbonate).  Does this sound like a good idea to you?
+Rob responded - It certainly wouldn't hurt.  I haven't heard of these mats (but then I haven't been looking either). The area under the battery certainly can rust - acid fumes under the seat (even just a trace) on bare metal will encourage any rust. a thick coat of rust preventative paint or one of those absorbent matts will reduce any problem there.
+~~~
+Future Batteries
+A comment regarding future batteries from Rob - I was reading some interesting stuff about car batteries a few years ago.  There was a proposal that cars should switch to using 36-volt batteries and 42-volt alternators.  This would enable thinner wiring (cheaper cars), and would allow manufacturers to move the battery to the boot/trunk for better life and not suffer voltage drop to the starter motor.  Aparently it's better for electronics to operate at these voltages too, I guess the loss of one volt has little effect on a 36 volt system, but quite an effect on a 12 volt system. It hasn't happened though - I guess the size of the "12 volt" industry is just too big.
+I find it interesting that they were proposing 36 volts instead of 24 volts, which the trucking industry has already established, and could be used in cars with little change to the current infrastucture.
+* 
+                    * * * *
+Design by
+Erin

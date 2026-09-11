@@ -1,0 +1,115 @@
+Stumbling
+Stumbling on Acceleration
+See also our article on
+Hesitation
+.
+~~~
+Stumbling on acceleration has been a problem with Dave's '73 Super Beetle ever since he bought the car.  From a number of different sources, Dave has learned that the engine stumbling on acceleration (especially when accelerating through a corner) may be due to one or more of the following (in order of ease of repair) -
+There may be water in the gas.  See our
+Water in the Gas Discussion
+.  Whether this is the reason or not, Dave's Super Beetle HATES to run with the fuel tank less than a quarter full.
+Insufficient "squirt" from the accelerator pump -- usually due to improper adjustment of the accelerator pump.  See our
+Acclerator Pump Adjustment
+procedure.
+The idle jet in the carburetor may be too small.  See our
+Idle Jet Discussion
+.  (
+However
+,) see the note below regarding the effect of jet sizes on acceleration.
+The fuel level in the carburetor bowl may be too low.  Please see the proper setting of the float needle valve in our article on
+Carburetor Float Needle Valve
+.
+The ignition timing may be incorrect.  See our
+Timing Procedure
+.
+The accelerator pump linkage may be hanging up on the alternator.  See our
+Discussion
+of this problem.
+The fuel filter may be clogged.  See our
+Fuel Filter Servicing Procedure
+.
+The automatic choke may be incorrectly adjusted.  See our
+Automatic Choke Adjusting Procedure
+.
+The spark plugs may be fouled.  See our procedure for
+Inspecting, Adjusting and Installing Spark Plugs
+.
+The carburetor (and accelerator pump) may need adjustment or repair.  See our
+Carburetor Adjustment Procedure
+and our
+Accelerator Pump Discussion
+.
+Leakage of air into the intake manifold, completely foiling the good work the carburetor has done in achieving the proper fuel-to-air mixture.  Get out a spray can of starter fluid (ether) or WD40 and do our
+Air Inleakage Test
+.
+Carburetor jet sizes may be incorrect.  Dave found that his stumbling problem occurred only when the engine was hot, but not when it was cold.  During a meeting with John Connolly
+(Aircooled.Net)
+Dave learned that a stumbling problem when the engine is hot but not when it is cold is indicative of a too rich mixture problem.  With the 34PICT/3 (Pierburg) carburetor he sold to Dave, John recommended running an X125 main jet and a size 50 idle jet.
+Blocked heat risers.  Dave bought a "basic street header" and "hideaway muffler" from
+Aircooled.Net
+.  Given a heads up from a reliable source, Dave removed the heat risers from the intake manifold (the came as separate pieces to the manifold) and found that the flanges on the header (to which the heat risers attach) were blocked; that is, they had not been drilled through into the header pipe. This of course prevented exhaust gases from going up through the heat risers to warm the intake manifold at the base of the carburetor.  This lack of heat to the intake manifold caused the extra fuel provided by the accelerator pump to just sit there under the carburetor as liquid, rather than being vaporized into the fuel/air mixture.  This caused the car to stumble every time acceleration was called for.
+Dave removed the heat risers (easy since they are separate pieces to the intake manifold), then drilled down through the flanges on the header so that exhaust gas could flow freely.
+Interesting side note
+ Dave was confused when his intake manifold arrived from
+Aircooled.Net
+to find the heat risers as completely separate pieces.  On the stock manifold they are welded in place.  Being separate makes the heat risers easier to attach to the muffler or header, since theres always a bit of mismatch.  Dave dont know if what he did was right, but when he reinstalled the heat risers (after drilling  through the header flanges) he slathered the ends that go into the intake manifold with JB Weld.  Theyll be harder to remove next time!
+Loss of vacuum to the distributor.  The vacuum advance distributors advance the timing when the throttle is opened as part of their operation. If vacuum is not provided to the distributor from the carburetor, a severe stumbling situation will result.  Such loss of vacuum may result from the vacuum port being plugged or the carburetor defective.
+The problem may be any combination of the foregoing.
+Dave went through the above list time after time and found the problem very difficult to track down.  Dave found problems in every single one of the areas above -- it was a discouraging process, as the stumbling continued even after each fix.  Obviously there were numerous problem areas; Dave found that one of the biggest problem was one or more intake anifold vacuum leaks.  The following documents Dave's experience.
+~~~
+Some History and Discussion
+Once the rebuild of his '73 Super Beetle was complete, Dave still had an exasperating problem with the car "stumbling" on acceleration -- whenever power was called for, like even after a shift change, the engine would stutter and sputter and sometimes die.  It initially seemed to Dave that the accelerator pump was not giving an adequate "squirt."  (See our
+Accelerator Pump
+article.)
+This is not the first time that Dave had trouble with the accelerator pump.  While his Super Beetle is a 1973 model, it has a 1971 1600cc dual-port engine.  A previous owner installed an alternator in place of the generator (used on VW engines up until the mid-1973 model year).  The alternator, of course, is "fatter" in diameter at the rear, whereas the generator is the same diameter over its entire length.  This increased size of the alternator caused an interference problem with the accelerator pump linkage.  Dave replaced the alternator, but the diameter of the new alternator was the same as the old one, so he had the same interference with the new setup -- the accelerator pump linkage on the right side of the carburetor was rubbing against and hanging up on the alternator body, causing the throttle to be abnormally open and the idle speed too high.  The situation made it impossible to tune the carburetor properly -- a big problem, and an odd one, according to Rob.
+Dave found that he had to grind the body of the alternator away a little bit to provide clearance for the accelerator pump linkage so the throttle lever would close all the way and the screw at the top of the lever would rest properly on the stepped throttle cam on the left side of the carburetor.  Dave finally resolved this interference problem once and for all with the installation of a Pierburg 34PICT/3 carburetor, which has a different accelerator pump linkage that doesn't hang up on the alternator body.
+Dave wrote to John Connolly
+(Aircooled.Net)
+about the problem -
+I'm reading your
+"How to Jet Your Carburetor"
+article, and I've come to the part that talks about stumbling at low rpm.  You state in the article that if such is the case, the size of idle jet should be increased.
+I have a Bocar 34PICT/3 carburetor with a size 55 idle jet, coupled with a Single-Vacuum Dual Advance (SVDA) distributor. I'm having a exasperating stumble problem when accelerating from low rpm (i.e., around town).  I'm going to increase the squirt from the accelerator pump, but I'd like to try increasing the size of the idle jet as well.
+John responded -
+Is your timing set to 28 degrees maximum advance total with the vacuum hose hose disconnected and plugged?
+The 55 idle jet is fine -- you do not need bigger then a 55 idle on a stock carburetor. Try a 130, 132, or 135 main jet.  Try increasing the timing 2 degrees.  Is the accelerator pump squirting when you hit the gas? Is it aiming at the throttle plate gap?
+~~~
+Here's what Dave did in an attempt to fix the stumbling-on-acceleration problem -
+Adjusted the accelerator pump for maximum squirt and made sure it was aimed properly (at the throttle plate gap).  (See our
+Accelerator Pump
+article.)  Helped a bit, but did not fully resolve the problem.
+Replaced the accelerator pump diaphragm.  The choke vacuum diaphragm had recently gone bad; Dave theorized that perhaps the accelerator pump diaphragm had gone bad as well.  But -- there was no change with the new diaphragm.
+Dave was surprised to discover the interference between the accelerator pump adjusting bolt and the alternator body.  There was also interference between the accelerator pump linkage and the fan housing!  It seems that the '71 intake manifold must be slightly different in size to the '73 manifold, placing the carburetor too near both the alternator and the fan housing.  Also, the alternator body is larger in diameter at the rear than a generator, which Dave's Super Beetle is supposed to have (alternator's came along in 1973).  Dave took care of both of these interference problems with his Dremel, grinding a bit off of the very front of the accelerator pump linkage (vertical surface), the fan housing, and the alternator body.  Finally -- no more interference between the acclerator pump linkage and the alternator, but the stumbling-on-acceleration problem persisted.
+On one occasion, after reattaching the accelerator cable, Dave found that he still couldnt pull the throttle lever all the way down.  He fussed and fumed around the accelerator pump linkage, and found no further interferences.  Finally he noticed that the accelerator cable was bent right at the point where the metal cylinder on the end of the cable attaches, and the front end of the cylinder was hitting the body of the carburetor when the throttle arm was pulled down, preventing the throttle lever from moving down all the way!  A simple fix, but one that is easily overlooked.  But -- no change in the stumbling problem.
+We've found that almost every problem has more than one cause.  With all of the above done the engine was running considerably better, but still not perfectly.  On a hunch Dave attached the timing light and set the maximum advance timing at 32 degrees at 3500 rpm (see our discussion of
+Timing Advance
+).  This helped considerably, but still the stumble.
+Finally, Dave got serious about the
+Starter Fluid Test
+.  Dave carefully listened for an increase in engine speed when he sprayed started fluid (essentially ether) on each interface point on the intake manifold.  Moving up onto the base of the carburetor, Dave noticed a significant increase in engine speed,indicating that the ether was being sucked into the intake manifold, causing the engine speed to increase momentarily.  Dave finally figured out that the throttle shaft at the base of the carburetor had worn the hole into an oval shape, allowing air into the fuel/air mixture after the carburetor had done all of its good work.  Replacement of the carburetor finally solved the stumbling-on-acceleration problem (for a time).
+Fast forward five years.  With the Bocar carburetor only five years old, the old stumbling-on-acceleration problem raised its ugly head once again.  Another carburetor change (this time to a Pierburg 34PICT/3 from
+Aircooled.Net
+) helped considerably, but a little nagging problem persisted.  Dave installed a size 55 idle jet to replace the size 50 that the Pierburg carburetor came with, but no change.  Also, Dave found an apparent air leak right at the carburetor/intake manifold interface.  Rob suggested sealing the gap between the intake manifold and the carburetor with RTV silicone.  Dave tried this, but it didn't help.
+As discussed above, Dave found that a major cause of stumbling on acceleration was the fact that the flanges on the exhaust header were not drilled out, making the heat risers non-functional, meaning no heat under the carburetor to vaporize the fuel provided by the accelerator pump.  Dave removed the heat risers and drilled through the flanges into the exhaust header, which helped considerably.
+Most recently, Dave discovered that the carburetor was not supplying vacuum to the distributor to provide the necessary spake advance.  Dave tested the vacuum port on the left side of the carburetor and found no vacuum at all.  Rob suggested running a thin wire through the vacuum port to remove the clog; this didn't work for Dave, and he ended up replacing his carburetor once again.
+At least part of Dave's stumbling-on-acceleration problem to was that he had the accelerator pump adjusted backwards.   See our
+Acclerator Pump Adjustment
+procedure to correct this.
+Recalling Rob's experience with a clogged fuel filter, Dave decided to replace his, even though the filter was only seven months old.  Dave found the filter to be very clogged (see the picture in the
+Servicing Fuel Filter
+procedure).  With the new filter, the car ran like a dream during the ensuing afternoon and evening; then, after sitting at the curb overnight, it stumbled horribly as Dave drove it to work (only about 5 miles, on a cool morning).  Very exasperating!  But -- Dave drove it out to lunch (the day was warm -- 80F (27C), and the car ran just fine!  What's up with that!?  Dave's son was told once by a so-called mechanic that the car is "cold-blooded."  I think I'm beginning to understand what he meant!
+We thought that the automatic choke was the final problem. Dave found his Bug stuttering and stumbling when cold, then running perfectly when warm.  With the engine cold, Dave removed the air cleaner and found the choke butterfly standing straight up!  Of course the reason was obvious  the last time Dave fussed with the choke he failed to make sure the hook on the bimetallic coil properly engaged the choke lever.  The engine doesnt run too well with the choke fully open when its cold!  Once more we have proven the Pogo axiom -
+"We has found the enemy, and they is us!"
+It only took Dave two minutes to resolve the automatic choke problem, after which the car ran very well ... for a little while.  At last Dave discovered that the car doesn't run at all well with the fuel tank less than about a quarter full.  Whether this is due to condensation (water) inside the tank isn't certain, but Dave added a can of "Heet" (water getter) and then filled the tank to the top with premium ($2.55 a gallon).  After that the car ran perfectly - whether it will stay running perfectly is anybody's guess!  :-/
+Of course it didn't.  The problem with the exhaust header discussed above seems to have eliminated the stumbling on acceleration problem, but Dave isn't holding his breath!
+Dave was pleased to become acquainted with "Keifernet" - Keith Doncaster (keifernet@hotmail.com), who overhauls carburetors and sells them for a very reasonable price.  Keith also replaces the throttle shaft bushings to correct air inleakage at this point.  Here's what Keith has to say -
+The problem can be cured by milling out the old aluminum bushings and inserting much better wearing brass bushings. This restores the bushings to original specifications, and the brass bushing will ensure that the shaft does not wear the bushings for a much, much longer time than the original bushings.
+Here's a picture of Dave's worn out bushings -
+Worn Out Throttle Shaft Bushings
+Keith replaced the throttle shaft bushings in Dave's Pierburg carburetor, but it didn't help much.  Dave replaced the Pierburg carburetor with a rebuilt German 427-1 model that he bought from Keith.  This carburetor virtually eliminated the stumbling-on-acceleration problem except for a slight "blip" on sharp acceleration.
+As we always say, "Ya gotta love 'em!"
+(Even though we sometimes hate 'em!  :-)
+* 
+                    * * * *
+Design by
+Erin

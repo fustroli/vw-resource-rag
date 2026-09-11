@@ -1,0 +1,15 @@
+Wheel Cylinders
+Wheel Cylinder Discussion
+Please note our
+Wheel Cylinder Replacement Procedure
+.
+~~~
+Dave wrote -- I'll be interested to note the condition of our wheel (slave) cylinders.  In that regard, I note that we have a very good procedure on our Web page for replacing both the brake shoes and the wheel cylinders, but we don't say anything about how to go about diagnosing the wheel cylinders.  I'm anxious to ascertain their condition, since one (or both) of them being bad could be the cause of our problem with the brakes seizing up.  Any cogent advice?  (I don't think they're leaking.)
+Rob responded -- If they are leaking at all it will show up as a lot of wet-looking black dust stuck to the rubber seals and around the cylinder area.  A tiny leak would still show up as wetness inside the rubber seals.
+Someone wrote -- When I was loosening the bleeder valve to bleed the brakes the valve broke off at the threads.  Any suggestions on how to fix this problem?
+Dave responded -- Your problem is fairly easy to resolve -- but youll have to pull the brake drums off again.  The bleeder valve is an integral part of the wheel (slave) cylinder.  Replacing the wheel cylinder will replace the bleeder valve.  Always replace the wheel cylinders in pairs (i.e., both rear cylinders, both front cylinders).
+New wheel cylinders are cheap, and often your local auto parts store will carry them.  You will have to thoroughly bleed the brakes once you have the new wheel cylinders in place, of course.
+* 
+                    * * * *
+Design by
+Erin

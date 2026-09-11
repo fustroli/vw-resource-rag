@@ -1,0 +1,21 @@
+Ignition Questions and Answers
+Miscellaneous Ignition
+Questions and Answers
+~~~
+Someone asked a question about "shorting out" the distributor (and a related question - power to the coil but not to the plugs).  Regarding this, Rob wrote - The only way of "shorting the distributor" is to put the wires incorrectly on the coil -- reversing the (+) and (-) connections so the current is flowing the wrong way through the points.  This can blow the condenser, and may cause pitting or burning of the points (obvious to look at).
+My guess is the coil will have survived.  If you have a multimeter, you can test the resistance in the primary 12-volt circuit (the (+) and (-) connections on the coil).  With the multimeter set to "ohms," and a small scale, place the leads onto the coil connections.  Zero resistance means it's blown -- any resistance (it should be between about 2 and 4 ohms) means the circuit is still intact.  The secondary (high voltage) circuit will be OK -- it's unlikely to be affected by a blown primary circuit, so you won't need to check this (if you want to, you check between the center electrode and ground -- you'll need to use a high resistance scale -- much higher than the primary.
+Also, see our
+Coil Checking Procedure
+.
+Have a look at the little (should be black) wire on the points inside the distributor -- this  might have melted.  Also check the fuses -- quite possibly one of those has blown as well.  Also check the wiring to the idle cut off and choke -- crossed wiring might have cooked these.
+So -- the condenser, the points wire in the distributor, and the fuse are the most likely damaged parts.
+John Connolly
+(Aircooled.Net)
+offered the following advice - Replace the ignition cap and rotor:  three minutes (give or take).  Bosch is the ONLY brand of these parts that I recommend you install.  Leave the clear distributor caps for the show cars (they run like crap).  Make sure you switch wires one at a time so you dont mix up the wiring!!
+~~~
+Someone with an old distributor with the single vacuum line and one wire coming out from the condenser was thinking about changing it out for a newer one.  Dave initially responded - This is a Single Vacuum Dual Advance (SVDA) distributor, the best match for the 30- and 34-PICT carburetors.  Don't let someone try to talk you into a 009 centrifugal advance distributor!
+Rob's calmer voice - You may be talking about some later VW distributors with a different condenser arrangement.  Some use the canister as one side of the circuit - so it's firmly attached to the distributor body.  Some use a "two wire" condenser and that has to have one wire attached to the condenser and the other to the coil (as normal).  Electrically, either will work.
+* 
+                    * * * *
+Design by
+Erin

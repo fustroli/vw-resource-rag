@@ -1,0 +1,11 @@
+Gunk
+"Gunk" Discharge from the Nozzle on the Oil Filler Tube
+~~~
+Dave wrote to Rob with a strange problem -
+With the aircleaner off I started the engine and discovered that a large quantity of brownish, watery, oily gunk had been spewed out of the nozzle on the oil filler pipe that the hose to the aircleaner attaches to!  I cleaned up the mess (clear out onto the right rear fender), which was water soluble, and started the engine again with the intent of getting a picture to send to you.  But this time, no brownish, watery oil gunk was spewed out  and there was none under the oil filler cap.  What gives!?
+Rob responded -
+I have heard of the brown (sometimes whitish) sludge problem before - usually from colder climates rather than here in warmer Australia.  It seems to come from cars which are driven shorter distances - the engine gets warm but not fully hot. Moist air is sucked into the sump which then condenses in the cooling sump when you switch off, and then gets mixed up and spewed out the breather when the engine is next started.  Cars which get completely hot on most runs don't seem to have the problem as much - I guess they cook off the condensation better.  I suspect it's a result of the VW design which pulls (unfiltered and sometimes moist) fresh ventilating air into the sump, and if it's not all cooked off properly, it shows up under the oil filler cap and in the breather lines. You'll note that the breather line into the air filter is INSIDE the filter paper, so the sludge does not block up the filter itself.  It's probably also the reason you sometimes see Bugs blowing some smoke when they are first started - burning off the gunk from the breather lines.
+Dave's Bug does indeed blow some smoke when first started, which gives creedance to Rob's explanation.
+* * * * *
+Design by
+Erin

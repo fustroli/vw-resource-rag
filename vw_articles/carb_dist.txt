@@ -1,0 +1,42 @@
+Carburetor/Distributor Matchup
+Carburetor/Distributor Matchup
+~~~
+Most road vehicles use vacuum spark advance, or a combination of vacuum and centrifugal (mechancial) spark advance, to get the best timing over a wide range of engine operations -- low throttle low rpm, low throttle high rpm, high throttle high rpm and every variation in between.
+The early Beetles (up to and including the 1970 model year) used the following carburetors -
+28PCI (25 hp 1100 engine),
+28PCI (36hp 1200cc engine),
+28PICT/1 (40hp 1200cc engine),
+30PICT/1 (1300cc engine -- '64-'66, or '67 depending on the country),
+30PICT/2 (1500cc engine -- '67, '68, and '69 -- and in some countries 1970),
+30PICT/3 (1600cc single-port engine USA 1970).
+All of these used the single vacuum with single advance (SVSA) distributor -- vacuum advance only.  These distributors all have the #3 cylinder timing running 3 degrees less advanced than the other cylinders due to the fact that oil cooler is located inside the fan shroud, resulting in warmer air being directed to the left side cylinders. The #3 cylinder got the worst of it and overheated/detonated a little at normal advance.  So if you have an engine with the older in-shroud oil cooler, you should really use the SVSA distributor with it's 3-degree retard on the #3 cam lobe
+Then in 1971 came the 1600cc dual-port and the 1300cc dual-port engines.  They used...
+31PICT/3 (1300 twin port - 1971 onwards),
+34PICT/3 (1600 twin port - 1971 onwards),
+The USA only got the largest engine available in any model year.  Other countries had engine options froom 1964 onwards.
+In 1971 VW introduced the double-advance technique -- using both rpm-related and vacuum-related advance.  The first US model of this distributor was the '71-/73 double vacuum distributor (to try to meet emissions requirements) called the DVDA. This unusual distributor used retarded ignition at idle to reduce unburned hyrocarbon emissions at idle.
+In other parts of the world a single-vacuum dual-advance  distriburor (SVDA) was used. From 1974 onwards the US also went to the SVDA.
+The 1600cc dual-port engine uses the 34PICT/3 carburetor -- at first (up until 1973) with the double-vacuum double-advance (DVDA) distributor.  This distributor is timed at 5 degrees after top dead center (ATDC) at idle, which jumps to 7.5 degrees before top dead center (BTDC) above idle, then normal advance after that. Other countries whent straight to the single vacuum double advance, as per 1974 and later in the USA.
+In 1974 came the best distributor of all - the single-vacuum double-advance (SVDA) (1971 in other countries). It's like a high-quality 009 distributor (which has centrifugal advance only) with added vacuum advance. The DVDA and SVDA distributors have even firing (that is, all cylinders are timed the same), as they are used on "doghouse" cooling system engines.  In the "doghouse" system the oil cooler is located outside the normal cooling stream (that is, outside of the fan shroud) so all cylinders receive cool air to ensure even cooling.  (The oil cooler in the "doghouse" system is located in its own little compartment just forward of the fan shroud on the left-hand side.  The compartment looks something like a doghouse, thus the name.) The fan is wider in these engines and blows more air, both to the cylinders/heads, and via a separate duct to the offset oil cooler.
+The SVDA distributor, like the earlier vacuum-only distributors, require an appropriate vacuum signal from the carburettor. The 34PICT/3, /4, 31PICT/3 and earlier 30 and 28 series carburettors all provide this vacuum signal from the vacuum port on the left side of the carburettor near the throttle arm. Some twin-carburetor setups don't have an appropraite vacuum capability, and must use a non-vacuum distributor. The modern H30/31 replacement carburetor provides a rather low vacuum signal, meaning that vacuum distributors can struggle to provide vacuum advance, and so the 009 is often used with this carburettor (creating it's own problems).
+In Europe and Australia and other countries the '71+ model cars came with an option of the 1300cc dual-port engine, which had a 31PICT/3 carburettor and the SVDA distributors. Many Eureopean countries also continued to have the 1200 engine as an option - in fact the very last German built beetles (in 1986) were all 1200s.
+These days, the best available distributor for any dual-port engine is the SVDA, teamed with the appropriately - sized carburetor, so long as the carburetor has a vacuum capability.  The SVDA distributors are more expensive to build in comparison with the Bosch 009 (the Bosch equivalent of the VW centrifugal distributor).  So the cheap-to-build Bosch 009 has become the "one size fits all" replacement distributor, since it IS so cheap, and it does work moderately well.  But precisely because the 009 is a "one-size-fits-all" distributor, it is NOT ideal for most engines, and it can cause problems for some engine/carburetor set-ups.
+To accelerate an engine smoothly, you need both extra fuel and a little extra advance.  The accelerator pump provides the extra fuel and the vacuum distributors provide the additional advance needed.  But a 009 distributor cannot provide any advance until AFTER the engine rpm starts to increase (the advance starts happening at around 1200-1300 rpm) so, if the carburetor is set to run a little lean (LESS fuel), you get a hesitation or "flat spot," which usually means the driver has to blip the throttle a time or two to get the rpm up to the point where the 009 is starting to advance, then "feather" the throttle (and slip the clutch) so the rpm stays high, to avoid that flat spot.
+The most common techniques to overcome the 009 flat spot have been to make modifications to the
+carburetor
+, even though it is the distributor that is at fault.  These carburetor modifications are intended to replace the "missing" advance with extra fuel -- they include -
+A larger main jet (X130 or X132.5),
+maximum stroke on the accelerator pump, and assuring that the squirt goes straight down the throat, not splashing on anything on the way down.  The delivery tube in the top of the carburetor  throat can be twisted a bit if necessary,
+Increasing the idle jet from 55 to 60,
+Setting the maximum distributor advance (3000+ rpm) to as 32 degrees BTDC if the engine can take it without any detonation/pinging - or 30 degrees as a minimum. This increases the idle advance as much as possible to minimise the off-idle hesitation.
+In some cases filling in the air-bleed hole in the throttle butterfly should only be tried if the above modifications don't eliminate the flat spot.  Doing so results in the carburetor running extra rich at low and middle speeds (butterfly closed or slightly open); filling the hole mean less air for the same fuel pulled through the jets.  It won't harm the engine any more than other run-rich methods needed to work with the 009 distributor, but if you expect the engine to last a long time then be aware that running rich (which you NEED to do with the 009), results in oil wash-down in the cylinders which will speed piston ring wear somewhat.
+By running the engine richer than normal throughout its operation, the 009 flat spot can be minimized, but usually not eliminated.  However, for best overall performance, we have found that the 34PICT carburetor/SVDA distributor is the combination of choice.  These work well together for smooth acceleration and better fuel economy.  For more information, please see John Connolly's article on
+Choosing the Right Distributor
+.
+(John Connolly is the owner/manager of
+Aircooled.Net
+.)
+* 
+                    * * * *
+Design by
+Erin

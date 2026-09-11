@@ -1,0 +1,69 @@
+Drums and Shoes
+Brake Drums and Shoes -- Discussion
+See discussion of
+Brake Drum Studs
+below.
+~~~
+Regarding the condition of the brake drums, Rob wrote - Look for a big lip on inner and outer edges of the rubbing area (either side of where the shoes rub).  If they are small -- machining should be OK, but if really big (a mm or more high), it might be worth replacing the drums.
+As examples, up to 1970 bug brake drum has an internal diameter of 230.1mm when new.  The wear limit is 231.5 (1.4mm wear allowance).  The 71+ car brake drums are 248.1mm inside diameter with a wear limit of 249.5mm (1.4mm wear allowance).  So if your drums are already worn to the point of the wear limit, the drums need replacing.
+You need to take the drums off for this one.  You would definitely NOT get to feel the inner lip (nearest the wheels) from the backing plate holes.  You MIGHT feel the outer lip (furthest from the road wheel), if you are able to turn your finger sharp enough through the hole.
+In fact, just taking the drums off might tell you the story.  If they slide off real easy, they are probably OK.  But if you have to back the adjusting stars off to get the drums off, and the shoes stick on the outer lip (the lip closest to the backing plate) and you have to jiggle the drum to free it, then they probably need machining/replacing.
+This usually indicates the drums have worn and left a ridge on the inner edge of the braking surface, and it's this which binds on the shoes as you pull the drum off.
+Dave wrote - I'm sure I need to get the drums machined, but it's SUCH a pain taking the wheels off of this car!  Especially the front ones -- they have to be perfectly centered and balanced or we get the notorious Super Beetle "wobble."
+Rob's note:
+Often called the "Super Shimmies".
+(Later) After raising the car onto jack stands, I pulled the drums off and found them to be very badly scored.  They were installed NEW about a year ago, just before we towed the car down the 700 miles where my son is attending college.  I took the drums to the brake shop and learned to my dismay that they are beyond machining and will have to be replaced!
+Rob responded - Now THAT is very strange!  Do you see anything inside the brake drums to indicate what causes the scoring?  I still have the ORIGINAL rear drums on my '70 Bug, and as you know he's done 248,000 miles -- so they CAN last a long time.  The drums on my '68 Bug are probably original too from the look of them -- he's done 125,000 miles I think - it could be 225,000 miles depending on how many times the odo has gone past zero).  There was a tiny score on one side which I've ignored and the brakes are still fine (though they need adjusting a click or two again).
+Dave wrote - I've got to buy two new drums, and possibly four!  The problem we had with
+pressurization of the braking system
+really did some damage when we towed the car that long distance, not realizing that the brakes were binding up.  I think the mechanic that my son took the car to solved the pressurization problem (it hasn't recurred since), but the drums were adjusted too tight and ruined as a result.
+In addition to the drums being ruined, all four of my front brake shoes are thin and cracked down the center.
+If the front brake drums are shot, I suppose it would be wise to check the wheel bearings, too - they might have been overheated.  If I have to replace them I will have to press (tap) out the old races and than press in new ones.  I don't know whether I have the equipment for that.
+Rob responded - That shouldn't be too hard -- just use a drift (metal rod) to tap them out from the other side - they are a slight interference fit.  If you have a brass drift you CAN'T damage the steel races, but I don't think a steel drift would harm them either.
+Dave wrote - Maybe you can advise me regarding which kind of brake drums to buy.  In the catalogs I've seen two kinds of drums -- regular (I assume Brazilian or Mexican) and German.  The German ones are twice as expensive.  I lean towards the more expensive German drums, as I think they would be better quality.  Do you think they are worth the extra cost?
+Rob responded - The German drums would probably be superior, but I'm not an expert, since my cars still have their originals!  (well maybe that DOES make me an expert, since they were German made and one car has 248,000 miles on it :-)  I would imagine the worst the cheaper drums can do is wear faster, but I would guess you would still be talking years of life from them.  I can't see them causing reduced braking capacity.
+Using good used shoes in new drums would not be a problem (though your cracked ones must be replaced).  If the old shoes have sufficient lining but  have a 'polished' shiny appearance, they can be roughed up with coarse steel wool.  Don't use sand paper as any remaining traces will cause increased wear.  Traces of steel wool are at least compatible with the drums and don't cause the same level of wear problem.
+Do you have bonded linings or the older style riveted linings?  The bonded type are safe to use down to about 1/16" thinkness.  I scour my linings every year of two anyway -- just to keep the linings clean and rough.
+Dave wrote to John Connolly
+(Aircooled.Net)
+- I need to replace the front brake drums (as well as all of the brake internals) on my Super Beetle.  I'm not sure how to order the drums -- I want the good German ones, but I'm not sure whether to order them with hubs or without.  Can you enlighten me?
+John Connolly wrote - It doesn't matter. The "centering ring" allows you to put the rim on the ring while you start the wheel bolts. This ring does NOT clear many non-stock rims. If in doubt, don't get the ring.
+Dave wrote to Rob - The procedure says you can pull the front drum off straight away after taking the wheel and the dust cover off.  I got news -- I couldn't get them off without pulling out the outer wheel bearings.
+Rob responded - Not having done this on a drum brake model, I probably wouldn't have guessed that, but it makes sense -- the bearings are tapered to provide sideways thrust when cornering, so if I understand you, you are saying the smaller outer bearing must come off to allow the drum to come off.
+Do you get salt on your roads? If so, a good washdown underneath with the hose would do it some good.
+Dave wrote - My spare front brake drum is sitting on my workbench right now with four new studs in it.  Would it be wisest for me to replace BOTH front brake drums and shoes at the same time, or can I get away with just replacing one of them (the one with the bolt in it instead of a stud)?
+Rob responded - It should be okay to replace just the one -- but if the other is rather worn it MIGHT cause uneven braking.  If the braking is even and sure, then don't bother with the other drum at present.
+Dave wrote - We took the rear braking system all apart.  I took the adjusting stars apart and cleaned then thoroughly inside and out using Kroil.  The system went back together (new shoes and drums) pretty much without a hitch (fiddly! - lots of pieces to hold together all at once!).  Compressing those hold-down springs so that the pin can be  turned and the cup removed is a real challenge!
+It works especially well with two people -- one person just doesn't  have enough hands!  I found that we needed a finger on the far end of the pin behind the backing plate, another hand on the blunt-nosed pliers compressing the spring, and a third hand reaching between the jaws of  the pliers with a pair of crook-nosed needle-nose pliers to turn the pin.
+Rob responded - I usually just slightly open the jaws of some pliers using the ends of the jaws, press on the cup rim with the pin able to spin inside the open jaws.  Not REAL easy, but I can do it in just a few seconds - after so long with the same car I've had practice!
+When you push down on the pliers (with a finger behind holding the pin steady) try turning the pliers/cup under the pin to line up the slot - usually the cup will turn under the pliers (might take two attempts to get it 90 degrees) and the cup will then pop off or on the pin.  Only two hands needed.
+Dave wrote - We lowered the newly-installed drums onto blocks of wood so that we could tighten the castle nuts (inaccessible with the wheels on due to the spinners).
+That's when I met with disappointment.  There is still WAY too much brake pedal travel.  The troubleshooting section of the Haynes Manual gives the following causes -
+Partial brake system failure.
+Then you'd find a lot of fluid leaking out someplace and eventually - when the reservoir level got low enough - you'd see which circuit was bad - the barrier inside the reservoir would keep some fluid over the "good" side.
+Insufficient fluid in the master cylinder.
+Obviously not a problem for you.
+Air trapped in the system.
+Air in the lines would cause a spongey feeling brake pedal.
+Brakes in need of adjustment.
+Or the brake pedal pushrod needs adjustment (be very careful with this -- see our
+Brake Pedal Freeplay Adjustment
+procedure).
+Dave wrote - According to James Lindsay at
+Sharkey's Garage
+, adjusting the pushrod and adjusting the pedal stop do exactly the same thing.
+Rob responded - He's right about the pushrod/cam doing the same thing to some extent, but there must be a reason for the cam.  On RHD models we don't have a cam - the outer end is fixed with a normal bolt/hole and the pushrod is the only adjustment.
+I think that's because the pivot for the whole cluster is on the right side of the tunnel, so moving the outer (right) end back/forwards would upset the clutch and accel cable settings on the left side of the tunnel - but with your left side cluster the clutch/accel cables are next to the cluster attachment point so wouldn't be affected much by the cam adjuster method.
+Dave wrote - There's a good pictorial procedure in the September 2003 issue of VW Trends about refurbishing the pedal cluster.
+~~~
+Brake Drum Studs
+When Daves son bought his 73 Super Beetle, is was equipped with EMPI-style alloy wheels.  These wheels are way "cool," but they require that the brake drums be fitted with 14mm x 1/2-inch studs to accomodate the wheels.  The wheels are then mounted on the four studs with nice chrome nuts.  Sounds good, but it caused Dave some real exasperation!
+Dave wrote - Let me ask you a question about the studs that are required for the mag-style wheels.  They screw into the four holes in brake drum, then are tightened with a hex wrench -- there is a hex fitting in the end of the stud.  I find that the studs come loose very easily, and I'm wondering if you might have some advice about tightening them.
+Rob responded - They should be tightened about the same as the normal lug bolts -- about 50ft-lbs if I remember right.  Since your wheels have wider hubs than normal, there is more sideways force on the studs you are using, so working loose is more of a problem.  You could try using some Locktite or similar on the threads.  This stuff usually comes in several varieties from "soft hold" to "it'll NEVER come off again".  Use a medium hold variety so they CAN be removed if it becomes necessary.  And check that it can take warm temperatures -- the drums don't get THAT hot, but do get quite warm in use.
+Dave wrote - I worry about tightening the lug nuts real tight for fear that I will strip the stud holes in the brake drum, as we have had happen twice already.
+Rob responded - They would have to be extremely tight to strip the threads -- the steel in the drums is strong stuff. I think your stripped threads are probably a result of them not being tight enough, and "working" on the threads as a result if the wider wheel hubs putting a bigger side load on them.  So I think they are wearing the threads out with unintended use, rather than stripping them from over-tightening.
+Rob was right.  Dave had to drill out one of the holes in two of the brake drums, countersink the holes on the inside of the drums, and pound in 1/2-inch splined bolts.  It was definitely a school of hard knocks experience!  Given the situation with the alloy wheels, Dave secured the 14mm x 1/2-inch studs in the new brake drums with Locktite, and hes had no trouble since.
+* 
+                    * * * *
+Design by
+Erin

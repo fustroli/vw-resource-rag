@@ -1,0 +1,16 @@
+Spin-up After Oil Change
+Engine Spin-up After Oil Change
+Someone wrote to ask -- There seems to be at least two opinions that after an oil change either, disable the ignition and crank the engine until the oil light goes out before starting it, or carefully start the engine but do not rev it up initial after the oil light goes out.
+Which of these methods is the best to do?
+Rob responded - Imagine a normal upright gasoline engine which has an oil filter.  When you stop the engine overnight the oil drains down into the oil pan - maybe 12-15 inches below the valves.  So when you start up the oil takes a little while to pump up to the top of the engine and so the oil light (low pressure) might stay on for a few seconds.
+And when you change the oil in this engine, the filter is then empty of oil and takes a few moments to refill, so in this situation the oil pressure remains low for a while.
+In this engine there MIGHT be a case for spinning the engine on the starter to get the oil pressure up before starting it, but the VW engine is FLAT  there is only about 6 inches between the top and the oil pan, and even less than that from the oil pan up to the valves.
+And there is no filter on most VW engines, so at oil changes there is no additional pumping needed to get the oil pressure back up to normal.
+And for ALL engines, the pump does not work very well at idle speeds or lower (typically 7psi for the idling VW engine and 30psi at higher rpms) and it's the PRESSURE which gets the oil flowing fast to the extremities.
+So I always drive off (on a gentle throttle) immediately after I start the engine, even after an oil change - that gets the rpms up so the oil gets to the extremities fastest.
+In fact VW actually recommends this (drive off immediately) in all their Owner's Manuals -- although that's mostly for the fact that driving off will get heat into the engine faster than idling and thereby reduce cold-engine wear, and it will also better match the choke opening up.  If you idle it the engine will not be warm when the choke has opened, since it's a timed process which starts when you turn the ignition on.
+The only time I would spin the engine on the starter to get the oil pressure up is with a brand new engine which has dry oil galleries and very little lubrication on the moving parts - then it's done with the plugs out so the cranking speed is higher than normal (for better oil pump performance).  You don't want this new engine loaded (so don't start it) but you want the oil up to pressure as soon as possible to get oil all through it quickly.
+* 
+                    * * * *
+Design by
+Erin

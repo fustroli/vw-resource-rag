@@ -1,0 +1,20 @@
+Speedometer
+Speedometer/Odometer Discussion
+Please see our
+Instrument Cluster Removal and
+Installation Procedure
+, which includes a diagram
+of the wiring on the back side of the cluster.
+~~~
+Early on, Dave wrote - The odometer in our '73 SB doesn't work, and apparently it hasn't for years.  One of the first things we did to the car was to replace the speedometer cable, and the speedometer works just fine.  Replacing the speedometer cable didn't have any effect on the odometer, however.  Does this mean the entire instrument cluster must be replaced?
+Someone responded - Take the speedo out and remove the back screws.  Take the innards out and you can see the gears that run the odometer.  It could just be a loose screw the hold a bracket in place.  If the gear is shot, find a donor speedo or replace the whole thing.
+Another response - No, you will not have to replace the entire instrument cluster, but you will have to completely disassemble the speedometer head and glue the drive gear for the odometer section back together. I did mine and have put 2500 miles on it since. I used super-glue.  I also had to drill the gear a little larger in the middle since it appears they dry out and shrink, then they split and proceed to slide off the end of the shaft and then you have no more odometer.
+Dave ultimately send his instrument cluster to
+Cape Coral Speedometer Repair
+in Ft. Myers, Florida, where the drive gear was replaced with a brass one and the instrument cluster was given a good overhaul.  The man's name there is John; you can contact him at
+John@CCSpeedometer.com
+.  He does very good work.
+* 
+                    * * * *
+Design by
+Erin

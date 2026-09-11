@@ -1,0 +1,104 @@
+Alternator/Accelerator Pump Interference
+Alternator/Accelerator 
+                    Pump Linkage Interference
+See 
+                    the end of the article for difference between the
+German and 
+                    Brazilian carburetors.
+~~~
+Dave's 
+                  '73 Super Beetle has a 1971 1600cc dual-port engine. However, 
+                  a previous owner (or perhaps the mechanic who rebuilt the engine) 
+                  installed an alternator in place of the generator (which were 
+                  used on VW engines up until the mid-1973 model year). The alternator, 
+                  of course, is "fatter" in diameter at the rear, whereas the 
+                  generator is the same diameter over its entire length. This 
+                  increased diameter at the rear alternator caused an interference 
+                  problem with the accelerator pump linkage in Dave's setup. Dave 
+                  replaced the alternator, but the diameter of the new alternator 
+                  was the same as the old one, so he had the same interference 
+                  with the new alternator.
+Specifically, 
+                  Dave found that the accelerator pump linkage on the right side 
+                  of the carburetor was rubbing against and hanging up on the 
+                  alternator body, causing the throttle to be abnormally open 
+                  and the idle speed too high. The situation made it impossible 
+                  to tune the carburetor properly -- a big problem, very common when an alternator 
+		has been installed on a car originally fitted with a generator, according to Rob.
+Dave 
+                  found that he had to grind the body of the alternator away a 
+                  little bit to provide clearance for the accelerator pump linkage 
+                  so the throttle lever would close all the way and the screw 
+                  at the top of the lever would rest properly on the stepped throttle 
+                  cam on the left side of the carburetor.
+Dave 
+                  found that a PO had left out the two bottom bolts where the 
+                  alternator attaches to the fan housing, probably to shift the 
+                  alternator over to the right a bit so it would clear the accelerator 
+                  pump linkage. When removing the fan shroud with the alternator 
+                  attached, Dave found that he had to take the top off of the 
+                  carburetor to provide the necessary clearance.
+A 
+                  number of "fixes" to this interference problem were suggested:
+"Speedy 
+                        Jim"
+wrote to say that "VW used a carburetor linkage 
+                        that was "flipped" up-side down to clear the alternator 
+                        body. You can also increase the height of the carburetor 
+                        using a spacer between the intake manifold and the carburetor."
+Rob 
+                        commented on this -
+Ive never come across this myself, but then I've dealt mostly with 
+			generator equiped bugs. Ater checking, it would appear that
+			there are two forms of linkage for the 34PICT3 carburettor. Your's 
+                        might have had the earlier form of link if that's the 
+                        case ('71 carburetor). Since you say that this new carburetor 
+                        (Bocar) is exactly identical to the old one in every respect 
+                        (except for the size of the main jet), it would appear that your
+			replacement also has the earlier form of carb linkage. Since I 
+			have not had this problem myself, I haven't ever turned the 
+			link upside down. "
+John 
+                        Connolly
+(Aircooled.Net)
+suggested -
+You have three choices:
+Flip the linkage over on the throttle shaft (you can do this 
+                          on some carburetors).
+Bend  the linkage (I have done this with no ill effects).
+Use a spacer under the carburetor as "Speedy Jim" suggests.
+Dave 
+                      wrote regarding "bending the linkage" - It's actually the 
+                      bolt head on the adjusting bell that impacts the alternator 
+                      body; I'm not sure how flipping or bending the linkage would 
+                      change that.
+John 
+                      responded - Because the bolt is then on the TOP of the alternator, 
+                      not hanging down. Late model carburetors did just this! 
+                      Just see if you can invert the linkage that actuates the 
+                      accelerator pump so it's on the top. Then, make sure it 
+                      works. :-)
+Dave 
+                      was unable to find a spacer to raise the carburetor -- Rocky 
+                      Mountain Motor Works (now
+Mid-America 
+                      Motor Works
+) had one for '61-'70 single-port Bugs, but this is actually a 30/34 adapter plate
+			so you can fit the ealier small-flange carbs on to the 1600 twin port manifold, 
+			but their catalog doesn't show one for the dual-port 
+                      carburetor/intake manifold interface.
+Someone wrote about his success putting a spacer under his 34PICT/3 carburetor.  He purchased some gasket material and cut out five gaskets using the regular one as a template.  Then he "pasted" the five gaskets together, coating them with Indian Head lacquer gasket sealant.  He also coated the outside of the bundle with the sealant and let it dry overnight.  This "spacer" raised the carburetor about 3/8 of an inch and solved the interference problem.  "HOLY COW!" he wrote.  "This thing is like a brand new car!  It accelerates like a rocket now ... well maybe not a rocket... But a whole lot faster than grandma with a baby buggy!"  :-)
+Dave resolved his interference problem (though not completely) with a little judicious 
+                      bending of the accelerator pump linkage and slight grinding 
+                      of the alternator body.  A more expensive resolution is replacement of the carburetor.
+Aircooled.Net
+sells three 34PICT/3 carburetors: a Brazilian Bocar ($179.95), 
+                      a Pierburg model ($185), and a German model ($250). The 
+                      latter two models clear the alternator; the Brazilian Bocar 
+                      carburetor will not. The Brazilian carburetor requires alternator 
+                      grinding, which Dave learned the hard way. Dave purchased 
+                      a Pierburg 34PICT/3 carburetor from Aircooled.Net, which resolved the interference problem.  Later Dave replaced the carburetor again with a rebuilt German 427-1 model from Keifernet (keifernet@hotmail.com).
+* 
+                      * * * *
+Design by
+Erin

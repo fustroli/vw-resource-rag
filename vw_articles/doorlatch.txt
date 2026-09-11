@@ -1,0 +1,53 @@
+Removing/Installing the Door Latch Mechanism
+Removing/Installing the
+Door Latch Mechanism
+~~~
+Introduction -
+The door latch mechanism may need removing for a number of reasons  too many broken outer door handles, the latch sticking and not releasing the door easily, The door lock button hard to operate.
+In Robs case, restoration of his 1970 Beetle involved moving the door locks from the old doors to the new doors in the donor body shell.
+In this procedure weve used "forward" and "rearward" to indicate front and rear of car respectively, as the door will be wide open as you work on it. "Inner" means the inside of the door, "outer" means the exterior of the door.
+~~~
+Procedure -
+Remove the outer door handle.  This is attached by one phillips head screw in the outer (rear) edge of the door.  Its the upper of the two screws visible just above the latching mechanism, and is partially hidden under the rubber door seal.
+Remove the screw.
+Push the outer handle forwards to release it.
+Pull it away from the door. Examine the two plastic seals and replace if necessary.
+Remove the inner door handle.
+Pry the cup shaped plastic cover out from under the door handle.  This component is separate to the plastic rim around the handle.  There is a gap in the forward edge of the cup shaped cover so you can insert a flat screwdriver.
+Underneath is a phillips head screw which must be removed.
+The plastic rim can then be removed from around the handle.
+Remove the window winder handle, but make sure the window is fully closed (fully up) first.
+Pry up the plastic cover on the handle (the handle is a metal arm with a plastic clip-on cover).
+Remove the phillips head screw holding the door handle to the shaft.
+Pull the handle off.  A large plastic washer will come off with the handle  note which way it sits against the door.
+Remove the panel on the inside of the door.
+Gently pry the panel away from the door all the way around.  A flat screw driver helps here  be gentle so you dont damage the painted door around the panel.
+Once all the clips are loose, grab the panel top and bottom and bend it slightly away from the door.
+Lift the whole panel straight up to lift it clear of the catch behind the door handle. As you do this a large coil spring will fall out.  This spring sits behind the window winder handle, and its somewhat fiddly to get back into place as you reinstall the liner.
+Pull the plastic sheeting away from the rear half of the door.  Do it gently and youll be able to re-seal the plastic.
+Note:
+This plastic is essential in forming a water barrier on the outside of the inner door panel  some water
+ALWAYS
+gets into the inside of the door during rain.  Whilst you are at it, check that the two drain holes in the bottom of the door are clear, and that there is no buildup of crud in the bottom of the door. Its a good time to check for rust inside the door too.
+Unscrew and remove the black locking knob in the window sill.
+Unscrew the three phillips head screws which hold the latch in place.
+Note:
+One of these screws is on the inside of the door, and two are in the edge of the door, above and below the latch.  The lower one is hidden under the rubber door seal and you will see a cut-out in the metal edge of the door which holds the rubber seal in place  this allows you to get a screw driver on to the screw after pulling the seal towards the inner side of the door.
+Now comes the first tricky part  releasing the inside door release pull-wire and handle.
+Remove the two 10mm bolts holding the inner door handle in place, and allow the handle to hang on the pull wire.
+Push the whole latching mechanism slightly forwards  towards the front of the car.
+As you do this youll note that the latch end of the pull wire is visible in a circular access hole in the inner door frame, just forward of the latch itself.
+Now you should be able to lift the end of the retaining clip off the pull wire.  Rotate the whole clip downwards  dont try to slide it forwards on the pull wire  leaving it in place and rotating it downwards will make it easier to reinstall later.
+Once the retaining clip is released, the pull wire and inner door handle can be removed from door.
+To remove the latch from the door youll probably need to remove the bolt from the bottom of the rear window runner, so the runner can be moved a little.
+The second tricky bit is forcing the latch forwards and down (its a firm fit in the space provided), and removing it from the door. I found it could be rotated slightly anticlockwise (viewed from above) which helped.  Its not easy, but it DOES come out.
+Note:
+If it hasnt been out of the car for many years it will probably be covered in grime, and since it relies on sliding and rotating components to work, the grime often makes it stiff to operate.  A good clean with kerosene (or mineral spirits) and an old tooth brush and small paint brush will do wonders in making it easy to use again. If you need to lubricate it, a squirt of grahite powder on the sliding surfaces should suffice  dont use WD40 or similar, it dries out quickly and forms a nice sticky base to attract more grime.
+Installation is the reverse of the above.
+Note:
+Youll have a hard time getting the vertical door locking wire into the black plastic grommet in the door sill, and will need 11 fingers at least :-l.  I found that I could get one hand up inside the door and just feel it as I pushed the latch up and to the rear, but it is difficult as the rear window runner gets in the way.  Your hand will be forward of this runner, but the rod will be to the rear.  You may be able to get a finger through the outer door handle hole to help too.  This is the most fiddly part of the whole job, but it CAN be done  it just takes a little patience.  Dont forget too to install the inner handle pull wire BEFORE you re fasten the latch  you need the latch pushed forwards to rotate the pull wire retaining clip over the end of the wire through the access hole.
+The reward is a door which opens with little effort from the door handle, and it shuts with a nice easy click from the latch. The locking button will also slide up and down easily.
+* 
+                    * * * *
+Design by
+Erin

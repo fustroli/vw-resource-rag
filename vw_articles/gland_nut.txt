@@ -1,0 +1,34 @@
+The Gland Nut
+The Gland Nut
+Please see our
+Flywheel Removal Procedure
+.
+~~~
+Holding the flywheel in place while removing the gland nut -
+To prevent flywheel rotation while removing the gland nut, can get a flywheel locking tool (see Fig. 14-5, p. 1-32 in the Bentley Manual); one of the VW shops may have them.  or, you can make a "buddy bar" out of a piece of heavy angle iron about four feet long.  Drill two holes in the angle iron to match two adjacent holes in the flywheel -- the holes for the bolts that hold the clutch plate to the flywheel.  Bolt the "buddy bar" securely to the flywheel so that it rests on the floor to the left (as you are looking at the flywheel).
+Also note the position of the flywheel as you take it off (a dab of white out or similar on the top side of it for example) so it goes on to the four retaining dowels the same way when reassembled -- this keeps the crankshaft/clutch plate in the same balance.  Its a good idea for the clutch pressure plate assembly too.  It is probably in reasonable balance anyway, but this ensures the balance wont change when you reassemble everything. The best engine balance is always done with the flywheel and clutch assembled on the bare crankshaft.  So its just a precaution really.
+Position the "buddy bar" so that the end of it is pressed against the ground (preferably concrete) as you apply the necessary force to remove the gland nut (this will be to the left as you are looking at the flywheel).  Using a 36mm socket, 3/4" swing handle, and a 4-ft length of galvanized pipe (for a "cheater") remove the gland nut from the center of the flywheel.
+~~~
+Torque on the gland nut -
+Regarding the mark on the flywheel and gland nut -- make the mark BEFORE removal of the gland nut, so you can re-torque it to this point -- not too many torque wrenches read to 254 ft-lbs.  The finer the line, the more accurately you can re-torque it.
+Note:
+This won't work, of course, if you are replacing the gland nut.  In that case, note the length of the "cheater" bar (see below) and the amount of force (in pounds) that you are applying, and do the math.  It is important that the torque on the gland nut be AT LEAST 254 ft-lbs but not a great deal more.
+The 254 ft-lbs doesnt have to be absolutely accurate, but a little over is better than a little under, and you can work it out using the length of the cheater bar and your own weight.  A little under on the torque risks minute rotation of the flywheel and wearing the dowel pins.
+Dave reported that, being unable to torque the gland nut exactly (it was a new nut), he overdid it with the cheater bar.  The brand-new gland nut broke!  Dave says he should have noticed that his son was putting his full weight (180 lb) on the end of a 5-foot cheater!  That's 900 ft-lbs!  It's no wonder the nut broke!  Rob had never heard of one breaking, even when they were deliberately over-torqued to about 500 ft-lbs for an 8 dowel racing engine.  Maybe the build quality of the replacement nuts is poor.
+Fortunately Dave was able to drive a chisel into the broken piece inside the crankshaft and turn it out.
+Dave reported on a new gland nut made by Scat that he ordered from Aircooled.Net -- it is said to be three times stronger than the original - good to 350 ft-lbs!  That doesn't compute - if the nut is to be torqued to 254 ft-lbs, three times that would be more than 750 ft-lbs!  Strange, said Rob.  The 500 ft-lbs he mentioned was on a normal nut as far as he knew.  Rob knew of a guy who had a souped up Beetle and had massive problems getting the gland nut off it was so tight.  He ended up welding a 6-foot pole to the socket!
+It bothered Dave a bit.  It probably isn't expected that too many back-yard mechanics will be doing this.  Who besides the pros has a torque wrench that will measure 254 ft-lbs?
+A question Rob's pondered too, he says.  The "Torquemiester" from Kymco measures it using about 30lbs and amplifying it, but neither Rob nor Dave has  seen a torque wrench higher than about 120-140 ft-lb, like the old one that Dave has.
+Rob's seen a picture of the Torquemeister (though hasn't seen one in the flesh); he says it looks like it's about 18 inches long, with  gearing so that turning the shaft at the outer end (which seems to have a torque meter on it) amplifies down the arm to the nut in the middle.  It looks like you spin the end shaft a lot to get the main arm to move a little.  Great for getting stuck axle nuts off too, but that only occurs when the car's been neglected for too long, so it wouldn't get a lot of use.
+~~~
+Experience -
+Dave asked for advice - What kind of advice to you think we should give people in this regard, Rob?  If my cheater is 5-ft long, then I need I obviously need to exert about 51 lbs.  It's one thing to blithely say "254 ft-lbs" and quite another to be able to measure it that precisely!
+Rob responded - I think that's all we can say - just work it out from the cheater bar length. If you are applying force 4 feet out from the nut, you need around 63.5 lb force. For 5 feet from the nut, use about 51 lb force.
+That's how I do it with the axle nuts at 217 ft lbs, though these are easily marked first so you know which hole you have to line up the castellations with.  Once you have the hole lined up you know it has to be enough.  For me that usually means standing on the 18-inch bar and giving a tiny jump or two.
+Marking the nut would work for the flywheel gland nut, too, if you make the little score on the nut and the flywheel that the procedure calls for.  The rub comes when you replace the gland nut and thus have no reference point.
+Dave wrote - The new super-duper gland nut arrived from Aircooled.Net yesterday.  It's black, "Chromaloy" material, whatever that means.  It's supposed to be three times as good as stock.  High tensile - very strong.  I wonder if it would REALLY take 700 ft-lbs without flinching!
+The washer that came with the new gland nut is flat; the one I took off the car and the one with the nut we broke were both wavy.  Suits that kind of nut, I guess.
+* 
+                    * * * *
+Design by
+Erin

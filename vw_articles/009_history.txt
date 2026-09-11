@@ -1,0 +1,211 @@
+Tuning the 009 Distributor - History
+The 009  
+                    Distributor
+History 
+                    and Notes
+~~~
+Someone 
+                  wrote -
+Ever 
+                  since I came onto the VW scene I've been hearing people going 
+                  on and on about the 009 centrifugal-advance distributor. Where 
+                  did this distributor come from? Was it a stock part for certain 
+                  VW's? What difference will it make on my 1969 1300sp engine? 
+                  And what's the "flat spot" all about?
+Rob 
+                  responded with a great treatise -
+                  -
+The 
+                    History of the 009
+Centrifugal-Advance Distributor
+VW 
+                  built a lot of industrial engines (called Type 122 for the 1200cc 
+                  and Type 126 for the 1600cc engines), as well as those engines built 
+                  for the Beetle itself. Industrial engines powering generators, 
+                  compressors and such run at near constant speed, so only a simple 
+                  distributor was needed. For this application, a centrifugal-advance 
+                  distributor was developed by VW and later by Bosch. This type 
+                  of distributor increases the amount of advance as the engine 
+                  speed rises, but can not sense the throttle position (engine 
+                  load). This is fine for engines operating at constant speeds like te industruial engines, 
+                  or at high power and high rpm (for VW racing engines for example).
+When 
+                  the first Type 2 (Kombi etc.) vehicles came out (about 1954), 
+                  they used the 1200cc VW engine and needed reduction hubs so 
+                  that the tiny engine could push a heavy vehicle (with a top 
+                  speed of about 85kmh since the reduction hubs meant it was revving 
+                  it's heart out!).
+Because 
+                  the engines in those ealry Type 2s were working at high rpm and high 
+                  throttle most of their life, the VW version of the centrifugal-advance 
+                  distributor was used on them too (but just try getting one off 
+                  the line - they needed a lot of revs and clutch slip to avoid 
+                  bogging down).
+Most 
+                  engines in road vehicles operate at various engine speeds and 
+                  load conditions, which require a lot of variation in the amount 
+                  of advance needed for optimum engine performance and economy. 
+                  Ideally, the amount of advance varies from about 7 degrees to 
+                  a maximum of about 42 degrees, depending on the engine model 
+                  and its intended use.
+So 
+                  most road vehicles use vacuum sensing, or a combination of vacuum 
+                  and centrifugal, to get the best timing over a wide range of 
+                  engine operations -- low throttle low rpm, low throttle high 
+                  rpm, high throttle high rpm and every variation in between.
+The 
+                  early Beetles used single-vacuum single-advance distributors (SVSA) 
+                 (no mechanical advance). This practice continued up to and including 1970. Then in 
+                  1971 VW introduced the double-advance distributor -- using both 
+                  rpm-related and vacuum-related advance. The first US model of 
+                  this distributor was the '71-'73 double vacuum distributor (produced 
+                  to meet emissions requirements) called the DVDA. In other parts 
+                  of the world a single-vacuum dual-advance (SVDA) was used. From 
+                  1974 onwards the U.S. also went to the SVDA. The SVDA distributor 
+                  works like a high quality 009 distributor (around 30 degrees max advance) 
+                  with added vacuum advance (another 10 degrees for a total of around 40 degerees).
+These 
+                  distributors are quite expensive to build in comparison with 
+                  the Bosch 009 distributors (the Bosch equivalent of the VW centrifugal 
+                  distributor). So the cheap-to-build Bosch 009 distributor became 
+                  the "one size fits all" replacement distributor, since it IS 
+                  cheap and it does work moderately well. But precisely because 
+                  the 009 is a "one-size-fits-all" distributor, it is NOT ideal 
+                  for most engines, and it can cause problems for some engine/carburettor 
+                  combinations.
+To 
+                  accelerate an engine smoothly, you need both extra fuel and 
+                  an extra advance. The accelerator pump provides the extra fuel 
+                  and the vacuum distributors provide the additional advance needed. 
+                  But an 009 distributor cannot provide any advance until AFTER 
+                  the engine rpm starts to increase (the advance starts happening 
+                  at around 1200-1300 rpm) so, if the carburettor is set to run 
+                  a little lean (LESS fuel), and you dont have any added advnace, 
+                  you get stumbling or hesitation (a 
+                  "flat spot") which usually means the driver has to goose the 
+                  throttle a time or two to get the rpm up to the point where 
+                  the 009 distributor is starting to advance, then "feather" the 
+                  throttle (and slip the clutch) so the rpm stays high, to avoid 
+                  that flat spot.
+The 
+                  most common technique to overcome the flat spot associated with 
+                  the 009 distributor is to replace that "missing" advance with 
+                  extra fuel - a larger main jet, maximum stroke on the accelerator 
+                  pump, and in some cases filling in the air-bleed hole in the 
+                  throttle butterfly. By running the engine richer than normal 
+                  throughtout its operation, the flat spot is minimised.
+The 
+                  earlier Solex carburettors (28PCI, 28PICT and 30PICT/1 and /2) 
+                  are set to run a little on the rich side (the VW engine actually 
+                  likes around 13.8:1 air/fuel ratio, where the ideal is 14.5:1). 
+                  Since these carburettors are set to run rich anyway, the 
+                  flat spot is often not noticable, or can be tuned out with minor 
+                  adjustments.
+But 
+                  in 1970/71 the emissions problem was becoming recognised, and 
+                  VW changed the jetting on the 30PICT/3 (1970 US cars only) and the 
+                  34PICT/3, and /4 to run the carburettor leaner - closer to the 
+                  ideal 14.5:1 air/fuel ratio (the California 34PICT/4 used especially 
+                  lean jetting and a throttle positioner to ensure that the throttle 
+                  closed slowly after you lifted your foot off the pedal). So 
+                  with this leaner running carburettor set-up, the 009 distributor 
+                  flat spot becomes a real issue.
+You'll 
+                  hear most complaints from folks who use the 34PICT/3, 34PICT/4 
+                  or the modern equivalent for the smaller carburettors - the 
+                  Brosol H30/31 (which is almost identical to the 1970 30PICT/3) 
+                  - all of which normally come with lean jetting.
+Another 
+                  issue with the 009 distributor is the limited maximum advance. 
+                  The vacuum distributors can run up to a maximum of about 40-42 
+                  degrees under the right conditions (light throttle and medium 
+                  speeds for example) and this helps fuel economy. But if you 
+                  maintained that much advance with a full throttle and low/medium 
+                  rpm, the engine would ping/detonate, a problem which can destroy 
+                  an engine if not corrected. The reason is rather technical, 
+                  but is mainly related to the amount of residual exhaust gases 
+                  which are left in the cylinder compared to the incoming charge. 
+                  There is always SOME residual gas, since there's a head space 
+                  above the piston. At part throttle there is a proportionally 
+                  larger amount of burned gases in comparison to the fresh stuff 
+                  (throttled fresh mixture but same head space of burned gasses). 
+                  At full throttle there's a lower proportion of burned gases 
+                  because you are letting in MORE fresh mixture for the fixed 
+                  volume of head space. This "contamination" of the fresh mixture 
+                  alters the flame speed (the time it takes for the fuel/air mixture 
+                  to burn) so open-throttle proportionally fresher mixture needs less advance
+                  because it burns faster, and part-throttle needs more advance because it burns slower,
+                  at any particular rpm.
+Incidentally, 
+                  this is part of the reason why the low compression 1200cc engines 
+                  need more advance - usually 10BTDC compared to 7.5 BTDC for 
+                  most 1500/1600cc engines. Low compression means proportionally more head space 
+                  compared to the cylinder volume, and so there is more contamination 
+                  of the fresh charge throughout the rpm range, and that means 
+                  a little more advance is needed so all the fuel is burned just 
+                  as the piston starts it's descent.
+There 
+                  is an rpm-related issue, too. As the engine rpm increases, the 
+                  spark needs to occur sooner (more advance) to make sure the 
+                  maximum pressure on the piston occurs just as it starts its 
+                  descent.
+The 
+                  vacuum distributor senses throttle position (load), so if you floor 
+                  the throttle at low-medium speeds, the vacuum distributor is able to 
+                  "back off" the advance until the engine speed catches up with 
+                  the new throttle position (slowly allowing the extra advance 
+                  back in as the rpm/airflow rises). The 009 distributor can't 
+                  do this, so it HAS to be set to "worst case," which is a maximum 
+                  advance of between 28 and 32 degrees at 2500-2600 rpm (which 
+                  is why we set the 009 distributor at 3000rpm - to make sure 
+                  that all the advance is present).
+Since 
+                  the 009 distributor has been limited to a maximum advance of 
+                  28-32 degrees compared to the vacuum distributor's maximum advance 
+                  of 40-42 degrees, it's actually
+under-advanced
+for a 
+                  lot of driving conditions, and this means worse fuel economy. 
+                  And because you need to set the carburettor to run rich to reduce 
+                  the flat spots, fuel economy suffers even more.
+Because 
+                  the 009 distributor is built very cheaply, the total amount 
+                  of advance varies from one distributor to the next. This means 
+                  that when setting the 009 distributor, it's important to set 
+                  it at maximum rpm, not idle, since the maximum advance is much 
+                  more important for most engine conditions. Always use as much 
+                  of the maximum advance of 28-32 degrees as the engine can take 
+                  without pining/detonating, as this will reduce any flat spots 
+                  just a little, and also help fuel economy just a little. If 
+                  it still pings at a maximum advance of 28 degrees, always use 
+                  a higher octane fuel. NEVER use less than a maximum advance 
+                  of 28 degrees because it means the engine is seriously under-advanced 
+                  at higher rpm and will run hotter than it needs to, and fuel 
+                  economy will suffer as well.
+In 
+                  the heavier-bodied Kombi/Bus and Karmann Ghia vehicles, you 
+                  might need to limit the maximum advance to the 28-30 degree 
+                  range. These engines are less likely to tolerate the 32 degree 
+                  maximum advance, as they are driven with more throttle to accelerate 
+                  the heavier body, so detonation is more likely at higher advance settings.
+Once 
+                  you have determined the maximum advance which works well for 
+                  your 009 distributor, you can then measure the idle advance 
+                  (which will probably be between 5 and 10 BTDC but might be outside 
+                  that range). If you want to, you can then use THAT timing setting 
+                  for THAT 009 distributor, set either at idle or statically.
+So 
+                  you can see that the 009 distributor is NOT ideal, but it will 
+                  work. For best performance under all engine operating conditions, 
+                  we recommend using a vacuum distributor.
+Hope 
+                  all that makes sense.
+There 
+                  are
+Comprehensive Tune-up Articles
+on our Web site 
+                  which include info on both vacuum and 009 distributor settings.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,89 @@
+The Rear Suspension
+The Rear Suspension
+For a more complete discussion of this subject, please see our article on
+Rear Suspension
+.  You'll find a good discussion of
+Constant Velocity (CV) Joints
+there, too.
+~~~
+VW rear suspensions sometimes sag as the car ages, especially if it has carried a few large loads.  Rob's 1970 1500cc Beetle has carried more than it's fair share of loads (perhaps even overloaded a few times!).  Rob reports that he has only had to adjust the rear suspension in this car twice in the 38 years he's owned it.
+This procedure is slightly different for the swing axle cars versus the IRS cars, and the relevant sections are marked "SWING AXLE ONLY" or "IRS ONLY".
+In this article, the word "rear" means rear-of-car.  "Front" means front-of-car.
+Description of Parts
+:
+Torsion bars -
+Round bars which twist under load providing the "spring" for your suspension.  Mounted crosswise and horizontal forward of the rear axles, just under the back seat area of the floor pan.
+Cover plates -
+These cover the outer ends of the torsion bars, and hold the torsion bars in place using large rubber bushings.
+Spring plates -
+These large flat spring steel plates connect the axles to the torsion bars.  On the newer IRS models, these plates simply move up and down, but on the older swing axle models, the swinging motion makes the spring plate twist as they work up and down.
+Axle assembly -
+This is where the spring plates bolt to the axle, and they also hold the brake assembly in place.
+You'll need a good trolley jack (this job can be done with a hydraulic bottle jack or screw jack, but it will take more time), axle stands (preferrably 4 of them for front and rear), box wrenches (ring spanners), a file or cold chisel, two extra large screw drivers or a set of tyre levers, and a lazy afternoon.
+Procedure
+:
+Raise the whole car off the ground - measurements are easier with the car level, and you need some working room under the rear.  Make sure it's well supported - you need to do some pushing and pulling at the back.  Axle stands under the front and rear torsion bar tubes work best.
+Remove the rear road wheels.
+IRS ONLY - remove the brake drums, brake internals, and brake backing plate.
+Examine the spring plate ends where they meet the fitting on the axle end.
+Note:
+The swing axle cars have only one spring plate.  The IRS cars have a double spring plate with the brake hub attachment sandwiched between the two plates. The IRS models also have a dog-leg shaped diagonal arm which is bolted to the brake hub assembly and rotates on a fitting on the torsion bar tube.  The spring plates have elongated holes so you can set the rear suspension toe-in (actually it should be 1/2 degree toe-out on the rear axle).  You might even find an alignment mark on top of the axle fitting (mine has one).
+Make a mark across the axle fitting and top of spring plate so you can line it all up again on re-assembly.  If you use a cold chisel or a file you'll have a permanent mark, for next time (in about 10 years) when you have to do it again!
+Check to see if your car has had adjustable spring plates (after-market item) fitted.
+Note:
+Adjustable spring plates have an adjusting bolt and an additional short plate at the torsion bar end of the spring plate - front of car end).  If you don't have these additional fittings, you have the original type, which must be rotated to adjust the car's ride height.  There's no guarantee the adjustable type would give you enough adjustment anyway, it's more of a 'trimming' device than providing full sdjustment.
+IRS ONLY - Remove the drive shaft at the outer end (six small bolts - you need an 8mm 12 point spline-drive tool - NOT a torx bit or allen key.  The spline drive looks like a 2-3"  shaft with a splined outer end, mounted in a socket which takes a 1/2" drive bar.  When retightening, use 25 ft-lbs torque).
+Note:
+IRS ONLY - It's a good idea to cover the exposed CV joint with a bag and tie it so you don't get any dirt in the bearing.
+Remove the lower shock absorber mounting bolt.  (Or for better access, remove the whole shocker unit.)
+IRS ONLY - Remove the brake drum and backing plate.
+IRS ONLY - Remove the bolt which attaches the diagonal arm to the torsion bar tube.
+Note:
+You will need a tube wrench (I think one end of the VW supplied tool-kit tube wrench fits it) or a huge allen key - it's socket-head bolt.
+Take careful note of the position of the spacers etc. here so you can replace them in the same sequence. It will be quite difficult to crack it loose as the outer lip of the diagonal arm is peened into a groove in the bolt head.
+Note:
+IRS ONLY - If you can't find the right sized tool to remove the socket-head bolt, find a high tensile metric bolt about 20-25mm long with a head which fits into the socket-head snugly, and get the shaft welded to a 2 foot long piece of steel flat bar about 1 1/2" x 1/4".  Now you have a special tool to use on your next VW project too. (Just for information, I have a tool similar to this for the gearbox filler and drain plugs - they use a 17mm bolt head.)
+Remove the three bolts holding the spring plate to the axle assembly.
+Note:
+These are large bolts and have a lot of torque on them, and not a lot of room around the bolt heads.  You need good box wrenches (ring spanners), rather than the open-end type, or you risk rounding the bolt heads.
+Note for SWING AXLE ONLY:
+The spring plate is 'twisted' as the suspension moves through an arc, so you'll see it 'untwist' as you undo these bolts.  This keeps the bolts under some tension - they don't just come loose and spin off.
+Note for IRS ONLY:
+The two spring plates move only in the vertical, they don't twist, so the three large attachment bolts are not under any twisting tension and they are a little easier to remove.
+There is probably a rubber bump-stop attached to one of these bolts, too. Take note of how it's mounted so it can be replaced the same way.  67-70 manual transmission swing axle models also have  "Z" bar extra torsion spring linkage attached across the car between the rear axles. Remove these mountings at the hub assembly but leave the actual torsion bar in place.  You should then be able to maneuver the whole axle towards the rear of the car, free of the spring plate, without loosening any of the brake lines, etc.
+Note:
+If the brake drum assembly won't move back far enough, you may have to loosen the hand-brake cables.  Do this from inside the car - pull up the rubber boot over the hand brake, and remove the horizontal balance bar between the two cables.  Now the axles can be pulled back and the cables will pull out of their sheaths slightly as they follow the axle.  The brake drum assembly may be hanging on the flexible brake line, so support it as best you can.
+Now look at the front of the spring plate.  There is a cover plate with four bolts.  Remove these, and pull off the cover.  There is a large rubber bushing underneath, and you should now be able to see the splined outer end of the torsion bar.
+Important Note:
+The spring plate(s) is under a considerable amount of tension. It will be sitting on a stop-lip - a lip just to the rear of the torsion bar. The spring plate CAN now be levered off the stop-lip with a large screw driver or a tyre lever, but it comes down with a huge bang which will break any finger or leg under it. I prefer to place a bottle jack or trolley jack under the outer end and lift it just clear of the stop-lip, then lever the plate outwards just away from the stop-lip before lowering it on the jack - it's then under control the whole time.
+&&&
+Leave that side and attack the other side now, so you get both spring plates hanging free on their torsion bars.
+Take time to then check the angle of the spring plate as it comes to rest, so you can compare the reset torsion bars with that angle.  If the car is completely level, the correct angle is between 20 degree 20 minutes and 21 degrees 10 minutes.
+If you don't have a suitable protractor, measure the distance between the ground and the axle ends of the spring plates, so you can judge the effect of the adjustments.  You can get the adjustment pretty good just by taking note of the height from the floor to the rear end of the spring plate. Each torsion bar has 40 splines on its inner end, and 44 on its outer end.  VW designed it this way so you can make fine adjustments to the angle of the spring plate (ride height of the rear end of the car).
+Now, working on one side or the car at a time, pull out the spring plate WITH the torsion bar, until it is free to rotate (about 1 inch or so).
+Note:
+This might be a bit fiddly, as the assembly might stick a bit on the inner rubber bushing around the torsion bar end.
+Rotate the whole spring plate AND torsion bar downwards by one (inner) spline, and push it back in.  This increases the spring plate angle by 9 degrees, which is too much, so you now pull the spring plate off again, but this time push the torsion bar in, so ONLY the spring plate comes loose.
+Rotate the spring plate alone upwards one (outer) spline.  This decreases the spring plate angle by 8.1 degrees, for a total angle increase of 0.9 degrees.  The axle end of the spring plate should now be a little closer to the ground, which will raise the car's ride height by roughly 1/2" (12cm).
+Do the other side similarly.  You'll have to judge how many times to do this "one up one down" rotation trick, but usually one rotation cylce is enough.  Two rotation cycles might be needed for a really sagging rear end. If your spring plates were hanging at similar heights before you started it is easier, as you simply match the rotations side for side.  If they were at different heights, you'll have to decide which setting you like on one side, and then match the other side to it.
+Note:
+It is ESSENTIAL to get the sides matched fairly closely in height, otherwise the car will 'squat' on one side. You will often find that the sides will be at fractionally different heights, and in that case try to get the curb side of the car at a fraction greater angle (outer end of the spring plate a fraction closer to the ground) rather than the other way round. This would counter the camber of the road just a little for a more level ride. (Adjustable spring plates are useful here, as it is then easy to fine-tune the angle of each side).  As stated above, the spring plate angle should be about 20 degree 20 minutes and 21 degrees 10 minutes, but this may vary from model to model.
+Make sure the large rubber bush has the word oben (top) facing upwards, and cover it with talcum powder (real talcum, NOT the corn-flour replacement stuff from the supermarket baby isle... read the label carefully).
+Note:
+Now you need to install the torsion bar cover plate.  You might need two slightly longer bolts for this (placed in diagonal holes), as the spring plate will be projecting out past the stop-lip and the normal bolts may not be long enough to grab the threads to pull the cover plate home.
+You then tighten the two bolts you've started, pulling the spring plate in so it's just snug against the stop-lip, then jack up the axle end until the plate is higher than the stop-lip, then tighten the cover plate fully so the spring plate will rest on the stop-lip when you release the jack.  DON'T try to jack the spring plate up before you start fastening the torsion bar cover plate - the plate must be partly secure with at least two bolts in diagonal holes BEFORE the spring plate is raised, or you'll never be able to start the cover plate bolts in their threads.
+Once you have tightened the cover as far as it will go with the two longer bolts, put two normal bolts into the other two holes and tighten them to 80 ft-lbs before removing the longer bolts and replacing them with the normal ones.  There is some tension on the cover plate, and this process will ensure you can get the threads started. This way the cover plate is held aligned to the threaded holes by at least two bolts at all times.
+Note:
+SWING AXLE ONLY - Don't forget that the spring plate will be 'twisted' again as you do the three axle hub bolts up - I found it easier to install one bolt (where the spring plate and axle assembly are closest first and tighten it up to start the 'twist' and you'll then be able to spin on the other bolts on a little easier.
+Note:
+IRS ONLY - when refitting the diagonal arm (87 ft-lbs torque), you need to peen the edge of the arm housing into one of the indents in the edge of the bolt head so it can't loosen.
+When remounting the axle with the three large bolts, be careful to line up the toe-in marks you made previously. Don't forget the bump-stop, and any other attachments at the axle end.
+Note:
+Lining up the toe-in marks might require some hefty wacks on the brake drum nut with a rubber mallet or block of wood (DON'T use a metal hammer please), especially with the swing axle models, as snugging the bolts up twists the spring plate and makes it quite a tight fit, even before you tighten the bolts completely.  Don't forget to reattach your hand brake fittings inside the car, and adjust the horizontal balance bar between the two cables so the hand brake pulls evenly up three to four clicks.
+Replace the brake backing plate, the brake internals, and brake drum. Sung the 36mm axle nut on to the axle and once you have the car back on the ground, pull the hand brake on hard and tighten the axle nut to 217 ft-lbs.
+Once the car is back on it's wheels, you have to roll it back and forwards (or drive it a few yards) for the axles/wheels to move into their 'natural' position, and you can then check the height of the rear end.  SWING AXLE ONLY - The axles should have a very slight down angle (about 2 degrees) from the gearbox to the wheels - positive wheel camber.  This is most important as the swing axle wheels bearings get their lubrication from a small pool of gearbox oil which dribbles down the axle tube to the back of the wheel hub assembly.  If you drive a swing axle bug with negative wheel camber, you are driving on dry wheel bearings.  If you get all this right, a spirit level placed on the lower door jamb should show the car is running level.  IRS ONLY - These cars have greased rear wheel bearings, and the wheel move straight up and down so the only check for an even ride height is to put a spirit level on the lower door frame with car on level ground.
+There is the possibility that you will need to do it all again if the ride height is still not right.
+* 
+                    * * * *
+Design by
+Erin

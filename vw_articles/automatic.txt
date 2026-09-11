@@ -1,0 +1,51 @@
+Autostick
+Automatic Stick Shift
+~~~
+From the manual -
+The VW automatic stick shift, optional on 1970 - 1979 models, sharply reduces the amount of gear changing required in ordinary driving and does away with the clutch pedal altogether.  A torque converter is used between the engine and the clutch.  The torque converter acts as a fluid coupling, making it unnecessary for the clutch to disengage when the car is stopped and the engine running.
+The clutch disengages only when the selector lever is in neutral or when a new drive range is being selected.  Clutch operation is triggered by an electrical signal from the selector lever.  Actual disengagement is carried out by a vacuum servo.  A vacuum tank installed between the engine's intake manifold and the servo ensures adequate vacuum for operation of the clutch.  Evacuation of the vacuum tank is regulated by an electromechanical control valve.  The same control valve meters vacuum to the servo for clutch operation.
+The transmission gears are similar to those of the four-speed manual transmission that is standard for 1970 - 1979 cars.  However, the automatic stick shift has only three forward gears.  The function of the manual transmission's low gear is taken over by the torque converter.  Many parts of the gear system of the automatic stick shift are identical, or of similar design, to corresponding parts of the manual transmission.
+The ring gear and differential for  the automatic stick shift are the same as those for the manual transmission.  However, the mounting and adjustment of the pinion are different.
+Many repairs of both the manual and automatic stick shift transmissions require special tools and skills that only a trained transmission specialist is likely to have.  If you lack the tools, experience, or a clean workshop suitable for transmission work, we recommend that you leave such repairs to a qualified shop.
+Someone wrote -
+I have a 73 Super Beetle with the automatic stick tranny. The other day I started it up and put it in gear and all was fine but could not get it into second. I found a broken wire coming out of the gear shift so I soldered it and it worked for a little while. My question regards the wire that runs into the gear shift - could the wire be broken at the contact?  If so, how do I get to these contacts?
+Rob	responded -
+The autostick gear shifter is in two parts with a contact mechanism
+between them which activates the manual clutch via an electro/vacuum
+system, so the clutch will disengage as you move the stick, and allow
+you to select another gear.
+The wire connects to an upwards looking contact just under the upper
+portion of the gear stick - there is a spring around it to keep the
+upper stick pointing straight up and the contacts separated when the
+stick not being moved.
+To adjust the contact (or to remove the upper stick to examine the
+contact) lift the rubber boot around the base of the lever and loosen
+the upper lock nut you find there.  Once it's loose you can unscrew the
+upper section of shift lever, exposing the contacts.  To reset the
+upper lever, screw it down until it just contacts to lower section then
+unscrew it 1/2 turn, making sure that the elongated hole in the sleeve
+is running fore/aft (the stick moves in this slot to activate the
+switch).  If you can't set the elongated slot fore/aft with the correct
+gap (1/2 turn out) then you need to loosen the other lock nut on the
+sleeve so you can rotate the complete unit to get it lined up, then
+retighten that locknut, and check the upper locknut/gap.
+Torque Converter
+Someone wrote to ask -
+The torque converter bolts on my '71 Beetle have come loose and we can't get them out or in. Should we drop the entire engine and tranny get them removed and put new ones in?  Also, should the nuts on the back of the flexplate are loose - were they welded on originally?
+Rob responded -
+Most work on the semi-auto gearbox and torque converter has to be done with the engine already out of the car.  If I remember right there is an access hatch under the gearbox near where the flywheel would be on a manual, so you can get at one of the four bolts at a time.  These bolts holds the torque converter to the engine drive plate and MUST be removed before the engine comes out.  From the picture in the Bentley Manual   I cant tell if these bolts have captive nuts, or they screw into a casting - the picture in the Bentley Manual (for Type 1 1970-79 Section 9) isn't very clear.
+The Bentley Manual describes the process as -
+Disconnect the Automatic Transmission Fluid (ATF) suction line at the connection where it is clamped to the muffler/exhaust header clamp (the manual shows a picture here).  Plug that line so you don't loose the ATF.
+Use a 12-point socket (in the picture the bolts are 12-point, not 6-point, so you CAN'T use a 6-sided socket) to remove the bolts that hold the torque converter to the engine's drive (flex) plate.  The bolts are accessible through holes in the bell housing (on fuel injected cars you must pry off a rectangular cap near the split in the engine case - the hole points to the ground).  Hand turn the engine to position each of the four bolts in the opening.
+Note:
+The Haynes manual describes the process in a similar way but there are no pictures and they don't point out that the bolts are 12-point.
+Then proceed normally to remove the engine.
+Once you have the engine out of the car you need to put a retaining strap across the face of the torque converter so it does not slide off the shaft unexpectantly.  The Bentley manual just shows a flat metal strip with a hole in one end - that hole is placed over one of the torque conveter housing studs and the strip runs to about the centre of the torque converter.
+Note:
+The manual doesn't show the other side of the engine drive plate at all, so I don't know if there are captive bolts there or not.  The manual does say that you have to be careful removing this drive plate whilst you loosen the gland nut (there is a special holding tool for removing the drive plate) or it can get distorted and then has to be replaced.  The gland nut must be fastened tighter than the manual car - 282 ft-lbs rather than 254 ft-lbs.
+If the bolts are loose but can not be removed then it would indicate that the threads on either bolt of nut (or both) are damaged.  I don't know if you can grab the bolt heads with vice grips or similar to tug on them as you turn them to try and grab some thread and then maybe use a socket on them normally.  Or perhaps you'll have to try drilling into the bolts to use an easy-out removal tool.  Failing that, the only thing I can think of is to cut the bolt heads off and that won't be easy as the picture I have shows them to have built-in washers under the bolt head, and access is VERY tight - it might be a long job with a dremel style grinding wheel to be able to get in there.
+Once you have it out you can determine whether it needs replacement captive nuts or whatever.
+A nasty problem for you.
+* 
+                    * * * *
+Design by Erin

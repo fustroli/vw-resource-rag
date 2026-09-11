@@ -1,0 +1,125 @@
+Valve Adjustment
+Valve Adjustment Procedure
+~~~
+This procedure needs to be done every 3000 miles
+without fail
+!  Keeping the valves adjusted will make your VW run forever (well, almost).  What you are doing when you "adjust the valves" is adjusting the clearance between the rocker arms and the valve stems.
+IMPORTANT NOTE:
+It is important to understand the four-stroke design of the aircooled Volkswagen engine (intake, compression, compustion and exhaust) when adjusting the valves.  Please note that you will turn the crankshaft pulley around TWICE during the process of adjusting the valves.  You must make absolutely sure when you start that it is Cylinder #1 at TDC and not Cylinder #3.  If you are at all unsure, please run our
+Find TDC
+procedure. When Cylinder #1 is at TDC, the rotor in the distributor will point to the notch in the rim of the distributor.
+From the TDC mark (Cylinder #1), you will turn the crankshaft counterclockwise to Cylinder #2 180 degrees around, Cylinder #3 at the TDC mark again, Cylinder #4 another 180 degrees around, and finally back to the TDC mark a second time - Cylinder #1.
+Note:
+We strongly recommend that you read this procedure through in its entirety before commencing to adjust your valves.  It is well to understand what you are doing as you go along.
+~~~
+Tools/Parts you will need:
+19mm socket and 18-inch swing handle; or 19mm box-end wrench (ring spanner)
+13mm box/open end wrench (ring spanner)
+Note:
+Dave found that the adjusting screw locknuts on his new cylinder heads (Mexican) are 15mm.  When you see reference to the 13mm locknut below, you may need a 15mm box/open end wrench instead of 13mm.  Also, you may need a 13mm/15mm socket (3/8" drive) and ratchet to break loose the adjusting screw lock nut.  You will use the 13mm box/open end wrench and 13mm socket/ratchet to remove the "hideaway" muffler.
+Screwdrivers, flat-blade -- medium and large
+Feeler gauge with a 0.006" blade
+Bottle of White-out or white paint
+Utility light or flash light
+New valve cover gaskets (2)
+Wheel bearing grease
+Fine grit sandpaper or steel wool
+A straight-edge, 12" long
+Procedure:
+Locate the car in your work area (garage, etc.) the night before, as the valves must be adjusted with the engine stone cold.  You cannot start the engine to move the car before you adjust the valves.
+Set the parking brake firmly and block the front wheels.  Put the transmission in neutral so that you will be able to turn the engine over by hand.
+Note:
+John Muir (the "Compleat Idiot" guy) says not to jack up the car, but he must be a lot smaller than me! I find that it gives me much more working room and makes the job much easier if I raise the rear of the car onto jack stands and remove the rear wheels.
+If your car is equipped with a basic street header and "hideaway" muffler, the muffler tucks up under the car next to the #1 and #2 valve cover. For this reason you must remove this muffler to adjust the #1 and #2 valves.
+To remove the "hideaway" muffler, first support it by placing wooden blocks underneath it.
+Loosen or remove the supporting clamp that attaches to the tab on the top of the muffler (forward end).
+Remove the three 13mm bolts, nuts and washers and triangular gasket that attach the muffler to the header.
+Lay the muffler and attachment bits aside in a safe place.
+There should be white paint marks on the backside of the crankshaft pulley (the side closest to you) at TDC (there is a notch in the pulley at TDC) and 180
+o
+opposite TDC.  If they are not there, paint them on with White-out or white paint.  Use the straight-edge to locate the point exactly 180
+o
+opposite TDC.
+Note:
+Top Dead Center is the point at which the piston is at it's highest point in the cylinder -- compression is the greatest, and firing of the spark plug takes place.  The cylinder must be at TDC when you adjust the intake and exhaust valves.
+Note:
+You should also paint white marks at your idle timing point and maximum advance timing point.  See the
+Tune-up Procedure
+to determine these timing points.
+Remove the distributor cap and stow it out of the way.  With your fingernail find the thin filed line on the distributor rim; this line marks the firing point to Cylinder #1.
+Note:
+It helps if you have previously placed identification markings on the spark plug wires and on the distributor.  Copper wire wrapped around the distributor end of the spark plug wires works well -- one wrap for Cylinder #1, two wraps for Cylinder #2, etc.
+Put the 19mm socket or box-end wrench (ring spanner) on the nut that holds the generator pulley and rotate the engine clockwise (forward, the way it runs) until the distributor rotor points to the line on the rim and the timing notch and paint mark line up with the crack in the crankcase.  This is Top Dead Center (TDC) for Cylinder #1, where the cylinder fires.  Rock the engine back and forth a little bit to make absolutely sure that Cylinder #1 is at Top Dead Center.
+Note:
+If turning the alternator pulley nut does not turn the engine but simply turns the alternator pulley, your drive belt is too loose. You tighten it by remove the pulley nut, the shims stored underneath it, and the rear pulley half, then add some of the shims between the two pulley halves until the tension is within specifications. See our
+Fan Belt Adjustment Procedure
+.
+Crawl under the right side of the car and locate the valve cover (oval piece of pressed steel held to the engine with a thick, loopy, springy wire).
+Before you take the valve cover off, look at its lower edge.  It may be cruddy but it should be dry.  If it looks like its been leaking, you should install  new valve cover gaskets.  (Even if only one needs to be replaced, replace both.  I always install new gaskets every time I adjust the valves.)
+Pry the wire clip off with the large screwdriver.  The clip must be pried off downwards, or you won't be able to remove the cover easily.
+Note:
+A reader provided an alternate method for prying off the wire clip.  He wrote - I Wrap a shop rag around the bail then pull downward.  My method does not (possibly) deform the bail, nor the cover itself. In addition, if there is crud under the bottom rim of the cover, it can't be pushed up into the rocker arm assembly. This method works flawlessly for me.
+Pull the valve cover off the cylinder head.  Hopefully the cork gasket will come off with it, all in one piece.
+Note:
+If someone has used some kind of gasket sealer on the valve cover gasket, you are going to have a really fun time with it!  More about that later.
+Once you have the valve cover off, observe the scene before you. You are peering into your cylinder head. You see the rocker arm assembly, with four rocker arms.  There are four pushrods that push on the lower half of the rocker arms, and four valves which the upper half of the rocker arms pushes, opening the valves. When the pushrods stop pushing on the rocker arms, the valve springs close the valves. What pushes on the pushrods is the camshaft, pushing on the solid valve lifters, which push on the pushrods, etc.
+Note:
+The two valves at the very front and very rear of the cylinder head are exhaust valves, and the two inner ones are intake valves.
+The two forward-most rocker arms control the intake and exhaust valves for Cylinder #1. With the cylinder at TDC, they should both be closed completely, and in the same position. If one is in a different position than the other, you are not at TDC for that cylinder, so go back over the above steps and find out where you messed up. Wiggle the rocker arms. You should feel a little bit of movement. You are going to be adjusting the clearance between the rocker arm and the valve stem to 0.006", which is a pretty small clearance.  (0.006" is the proper clearance for both the intake and exhaust valves.)
+Adjust the #1 exhaust valve first (it's the one closest to the front on the right).  Push the rocker arm in at the bottom to make sure the pushrod is fully seated in it.  Slip the 0.006" feeler gauge into the gap between the valve and the upper end of the rocker arm, underneath the adjusting bolt.
+Note:
+Make sure you slide the blade of the feeler gauge in straight, or you will get a false reading.  You should be able to feel it slide through the gap with just a slight bit of friction.
+If the 0.006" blade won't go into the gap, try the 0.004" blade.  If it's hard to push through or grabs, then the valve is  tight and requires adjustment.  If the 0.006" blade just falls through the gap with no friction at all, you have a loose valve, and it likewise requires adjustment.  If the blade slides through the gap with just a slight resistance (easy sliding), the valve is adjusted correctly.
+If the valve is either too tight or too loose, you've come to the fun part.  Observe the valve end of the rocker arm. You will see what looks like a screw surrounded with a 13mm (or 15mm) nut. The nut is a locknut, so what you do is get your 13mm (or 15mm) box-end wrench (ring spanner) on it and loosen the locknut.  Be careful--make sure the wrench is firmly on the nut; skinned knuckles abound at this point.  You only need to loosen the nut a quarter turn or so.
+Note:
+If you're having trouble loosening the valve locknuts with a box-end wrench (ring spanner), put a 13mm  (or 15mm) socket and ratchet wrench on it.  Hold the socket firmly in place to keep from rounding the nut.  If the lock nuts are rounded, then you have to do whatever it takes to get them off (e.g., vice grips, etc.), then replace them.
+With the locknut loosened, the screw in the middle is free to turn.  Put the screwdriver in the slot in the end of the adjusting bolt and screw it in or out to make the clearance exactly 0.006".
+While holding the adjusting bolt in place with the screwdriver, tighten the lock nut.  (The screwdriver is running
+through
+the box end (ring end) of the wrench (spanner) as you do this.)  This process is tricky, so take your time.  The bolt will sometimes try to tighten up as you tighten the locking nut, so it's best to hold it with the screwdriver while you tighten the nut.
+Note:
+The adjusting bolt (the one with the slot that you turn with the screwdriver) must turn freely and independently of the lock nut.  You'll have to play with it if the two are locked together.
+Re-check the clearance to make sure tightening it hasn't changed the adjustment. Repeat the process if necessary (time and patience are important here).
+Once you get the #1 exhaust valve adjusted to 0.006", adjust the #1 intake valve (the next one towards the rear) to 0.006" in exactly the same way.  Then crawl out from under the car and take a rest.
+With the 19mm wrench (spanner) on the generator pulley nut, turn the engine
+backwards
+(counterclockwise) 180
+o
+(1/2 circle on the crankshaft pulley) until the paint mark on the crankshaft pulley (directly opposite the TDC notch) is lined up with the crack in the crankcase.  Now Cylinder #2 (immediately to the rear of Cylinder #1) is in firing position, at Top Dead Center.
+Note:
+Why this is: The firing order for the cylinders is 1-4-3-2, and the engine normally rotates clockwise. So when you rotate the engine counterclockwise, you are essentially following the order 1-2-3-4.
+Crawl back under the right side of the car and proceed to adjust the exhaust and intake valves for Cylinder #2 (the two furthest to the rear on the right side) the same way you adjusted the exhaust and intake valves for Cylinder #1.
+Clean the old gasket out of the valve cover and clean the sealing surfaces thoroughly.
+Note:
+If someone used a gasket sealer your valve covers, especially on the cylinder head side, you will have a difficult time getting it off. But whatever you do, you must get all the gasket remnants off.
+Note:
+Please see
+John Connolly's Instructions
+for reinstallation or replacement of the valve covers.  (John Connolly is the owner/manager of
+Aircooled.Net)
+Run your finger over the gasket sealing surfaces on the heads. They should be very smooth and not rough with accumulations of crud. If they are rough, they need to be smoothed down or the new gaskets will leak. Use some steel wool to go over the sealing surfaces and smooth them down. Go around the sealing surfaces on both heads, and get them nice and smooth with no crud chunks remaining.
+Clean your hands to get any crud chunks off before handling the gaskets.  Apply a very light film of wheel bearing grease to one side of the gasket (just dip your finger in the grease a little and smooth it onto the gasket.  You don't need a lot, just enough to coat it with a light film.
+Lay the gasket in the valve cover, coated side down. Then coat the other side with wheel bearing grease the same way. Do not use any gasket sealer or adhesive, it's not needed if you cleaned the sealing surfaces properly.
+Once you have the gasket greased, put the valve cover back on the head, make sure it's seated correctly, and then use the large screwdriver to pry the bail back up to the notch in the middle of the valve cover. The wire clip should slide up without too much effort.  If it feels too tight, check to make sure you haven't got the cover cocked at an angle - slide it round a bit to make sure it's sitting flat on the head.  If it's too loose or crooked, check to make sure the ends of the bail are securely seated in the fittings at the front and rear of the cylinder head.  I tap the valve cover around a bit with a rubber hammer to make sure it's seated properly -- if it isn't, it will leak.
+Take a break.  You're now finished with Cylinders #1 and #2 the right side, and you're ready to do #3 and #4 on the left.
+Crank the engine with the wrench counterclockwise another 180
+o
+until the timing notch is again lined up with the crack in the crankcase.  This puts Cylinder #3 at top dead center, the point at which it fires.
+Remove the valve cover on the left side of the car and adjust the exhaust and intake valves on the #3 Cylinder (front, left) as above.
+Crank the engine counterclockwise another 180
+o
+until the paint mark directly opposite the timing notch on the crankshaft pulley is lined up with the crack in the engine case.  This puts Cylinder #4 at top dead center, the point at which it fires.
+Adjust the exhaust and intake valves on the #4 Cylinder (rear, left) as above.
+Reinstall the valve cover just like you did the other one.
+Note:
+Keep track of which valves (if any) were tight, meaning had a gap smaller than 0.006", where the feeler gauge wouldn't fit through. You want to see if the same valves are tight next time you do a valve adjustment. If they are, you may have valves that are stretching and getting ready to break, so it would be good to remove the cylinder heads and have the valve gear inspected. You must remove the engine before removing the cylinder heads, but preventive maintenance is better than having a valve stretch and then break on you, which will mandate a complete engine rebuild. Typically, the #3 exhaust valve first exhibits these symptoms, so keep a special eye on that one.
+Replace the distributor cap.
+Support the muffler in place with wooden blocks underneath it.
+Reattach the supporting clamp to the tab on the top of the muffler (forward end), then attach the muffler to the header with a new triangular gasket and three 13mm bolts, washers and nuts.
+Replace the rear wheels (if you removed them), remove the jack stands and lower the car.
+Tighten the lug nuts on the wheels securely.
+Remove the blocks from under the front wheels, and off you go.  Your baby will reward you with a wonderful ride!
+* 
+                    * * * *
+Design by
+Erin

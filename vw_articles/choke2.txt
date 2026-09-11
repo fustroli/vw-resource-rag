@@ -1,0 +1,64 @@
+Automatic Choke Adjustment
+Automatic Choke Adjustment
+See our
+Automatic Choke Discussion
+.
+See also the procedure provided by
+Ron Van Ness
+below.
+~~~
+Note:
+The purpose of the choke is to reduce the air intake into the carburetor, thus enriching the fuel mixture so that the engine will start and run when cold.  The automatic choke, located on the upper right side of the carburetor, consists of an electrically-heated bimetallic coil that warms up (hopefully) at the same rate that the engine warms up.  As it warms, the bimetallic coil inside the choke opens the butterfly valve in the throat of the carburetor, allowing more air into the carburetor and thus increasing the percentage of air in the fuel-to-air mixture.
+The choke can be adjusted in two ways.  Procedure #1 below is the quick and easy way, simply utilizing the markings on the body of the choke.  Procedure #2 is a bit longer but probably more accurate.
+~~~
+Procedure #1-
+Be sure the hook on the bimetallic spring contacts the choke shaft lever.
+Install the cover and retainer and lightly tighten the screws.
+Turn the ceramic element to align the mark on it with the middle mark on the housing.
+~~~
+Procedure #2-
+The engine must be
+cold
+to make this adjustment.
+Remove the air cleaner.
+Find the automatic choke.  The choke butterfly is the flap in the top of the carburettor throtle which opens and closes to reduce air intake (making the mixture richer) to assist in starting a cold engine.  The operating mechanicsm is in the round canister mlounted to the right (right is right of car) side of the carbirettor throat. There is a wire coming to it from the positive side of the coil.
+Note:
+The automatic choke is a round ceramic canister with the heating element wound inside of it.  (The ceramic part may be covered with metal so that it looks just like the rest of the carburetor.)  The choke canister is held in position by a triangular ring clamp and three screws so it can be loosened and rotated for adjustment.
+Pull the throttle arm on the left side of the carburetor down to free the little step arm (cam) that the screw at the top of the throttle lever rests on.
+Note:
+This stepped "cam" is connected to the butterfly valve inside the throat of the carburetor by a shaft that extends all the way into the automatic choke.  With the engine cold, the butterfly valve should be closed. As the engine warms up, the coil inside the automatic choke uncoils, opens the butterfly valve, and moves the stepped cam to reduce the idle speed back to the normal warm-idle engine speed.
+Release the throttle arm so that the return spring snaps it back.  The little screw at the top of the throttle arm (again, with the engine cold) should now rest on lone of the top steps of the stepped cam (the actual astep depends on the ambient temperature - in warm climates is probably wont be on the very top step.  This sets the hi-idle, which is needed together with the choke on a cold engine to provide sufficient idle speed to keep the engine running until it warms up fully.
+Loosen the three screws on the right side that hold the choke in place, but dont remove them.
+Keep your eye on the butterfly valve in the carburetor throat.
+Turn the choke element clockwise (viewed from the right) until the butterfly is standing straight up, then turn the choke counterclockwise (viewed from the right) until the choke butterfly just fully closes (barely -- not too tightly), then tighten the three screws that hold the choke in place.
+Note:
+This is important; the automatic choke may be assembled wrong and not catching the hook on the coil spring at all.
+Start the engine with the air cleaner off.  As the engine warms up, make sure that the butterfly opens until it is standing straight up (full open) when the engine is fully warm.  If it doesn't, readjust the choke until you get it right. The idle speed might remain high until you blip the throttle to allow the stepped cam to rotate, dropping the idle rpm.
+Note:
+The engine is now warm, so you won't be able to adjust the choke per the foregoing.  Note the position of the notch on the side of the choke relative to the three little ridges on the body of the carburetor.  If the butterfly is too far closed with the engine warm, turn the choke clockwise just a bit to straighten it up.  The notch on the choke should never be too far outside of the three ridges on the body of the carburetor.
+If you are not able to adjust the choke using these method, something may be sticking, or perhaps the coil spring inside the canister is broken, or perhaps the wire has fallen off of the contact on the canister so that it is not getting power from the battery properly.
+~~~
+Automatic Choke Adjustment
+This excellent article was written by Ron Van Ness in response
+to a question about how to adjust an automatic choke.
+http://www.type2.com/bartnik/choke.htm
+First, disconnect the wire to the choke and remove the throttle return spring that goes from the throttle lever to the arm atop the carb. Loosen the three screws around the plate that holds the choke down so that they no longer screw into the carb body--they will still be held loosely by those white nylon washers. When you have loosened all three you can gently pull the plate back with all the screws/washers attached and put it somewhere safe, being careful not to drop those washers and screws. The element should look just like an old clock spring to you and there should be no distortion in the spring (i.e. the element should wind around itself with smooth curves and evenly--if it appears bent/mangled or if it falls out of its housing, you know you'll need a new choke).
+Now to adjust the choke (do this with the engine cold). You'll notice when you look at the element it terminates in a little hook. That hook grabs the lever that moves the shaft/butterfly valve on top of the carb. Loosen the clamp holding the rubber tube from the aircleaner to the top of the carb, pull the rubber end off the carb throat and push it back out of your way. For a visual aid, put a hand held mirror over the carb throat so you can see the valve and move the lever that the choke controls. You'll see that when you move the lever down (assuming you properly engaged the element hook on the lever) the butterfly valve closes all the way. With the choke removed move the lever back and forth--the shaft should open and close the valve smoothly. If it does not, you have a bent shaft or worn bore on the carb and that could be the cause of your problem--getting a good top half off a used carb (it's the bottom end throttle bushing that tends to wear out more than the top) will quickly solve the problem. Now put your choke back in place on the carb (forget about the plate/screws for now) and place it on so that the element hook will engage the lever when you push it in place. Watch the mirror and move the choke slightly forward and backward. You'll notice that the valve opens (choke rotated back) and closes (choke rotated forward). You want to set the choke so that the valve just barely closes for cold weather. To achieve this, gently turn the choke so that the valve just closes and then back it off just a hair so the valve is open a sliver. You'll have to tweak this initial setting a bit to get it just right--I'll describe that later--but this will get you in the ballpark initially.
+You'll notice that there is a dot stamped on the choke disk that lines up between 3-4 ridges on the carb body. Lining up this dot with the lower ridge (choke more closed) is a good setting for cold winter days that require longer warmups. Lining the dot up with the upper ridges will open the valve which is better for warmer days when you don't need the choke to engage the lever for very long. The element does not expand/retract based on engine heat (though engine heat affects it somewhat), but primarily on the duration of the electrical current heating it from the coil wire, so even on a warm day, you'll have to wait almost as long for the choke to spring open the same amount. That's why you have to manually adjust its position when the climate changes.
+If you find when you turn the choke element so that it just closes the valve that the dot does not line up at all with the ridges on the carb body (i.e. it's way below them) you have a distorted element and you'll have to replace your choke (you probably noticed this in your visual inspection--could've been the result of someone overturning the choke in the past or the element has simply worn itself out of shape).
+If the choke looks good and you position it so that the valve is just cracked open, you can put the plate/screw assembly back over the choke and tighten the screws, being careful not to disturb your setting. DO NOT put a lot of pressure on those screws. Just enough to snug them down to hold the choke in place--the nylon will compress a little giving good fit. It's tempting to give them an extra turn, but you will strip the housing if you are too zealous. If you strip the threaded housing the quick solution is easy: just find a slightly bigger screw at a hardware store and thread it in. But you don't want the hassle of potentially damaging the threads on the carb body so go easy on them and you won't have a problem. Reinstall the spring on the throttle arm and reconnect the choke wire.
+You'll probably have to make adjustments to your choke setting to zero it in after observing a few cold start warmups. Before starting the engine, pump the pedal once--this will pull the throttle arm back and the choke element will act as a spring to snap the valve closed and set the step cam. For you first warmup, you might notice that your engine rpm is high a little longer than it should be, or it idles too low and stalls when cold. In this case, your choke setting needs some tweaking. This is because the choke not only closes the butterfly valve, it also controls the stepped cam on the left side of the carb that will affect your idle speed. When your engine is cold, notice on which step the throttle arm screw rests. The higher the step, the higher the idle, the longer the warmup time before the choke disengages. If your engine idles high for a little too long, just remove the throttle return spring and loosen the three choke screws a bit and gently slide back your choke a hair--now the idle screw should rest on a step lower. Tighten the screws and reinstall the spring. Reverse this procedure if your choke does not hold the step cam at a high enough rpm (your engine will stall when warming up at idle because the choke element will disengage the lever too soon). You will eventually get it just right.
+Use both the step cam and the dot on the choke relative to the ridges on the carb body as your guides for positioning the choke and if you get really good at it, you can tweak the adjustment a tad even when the choke is warm so that for the next cold startup, your choke will be set perfectly.
+Another thought: Look at the step cam and you'll see a little slot cut into it--a roll pin should be visible. This pin limits the rotational travel of the cam and is secured in the carb body. If the roll pin has vibrated itself out and is no longer there, your step cam could fall back and make idling cold difficult. If it's missing you just have to tap a new rollpin in place.
+Also, make sure the wire going from the coil to the choke is actually connected on both ends--that might be your only problem if your choke is set properly.
+You have to tweak the choke a few times a year if you live in a region that gets seasonal changes (most places) so that your morning warmup is hassle-free. Don't disable your choke as Muir advocates, just keep it properly adjusted.
+Good luck,
+Ron
+rvanness@neuron.uchc.edu
+'71 Westy
+Rob seconds that last comment - Muir's book is an entertaining and useful read, but some of his suggestions are counter to the VW engineer's reasons for installing things on the car - the engineers were very clever people (and did not spend a penny they didnt have to so if it's there - there is a good reason for it), and once the various items on the engine are adjusted correctly, the car will give you a very smooth ride.
+Last modified June 2019
+* 
+                    * * * *
+Design by
+Erin

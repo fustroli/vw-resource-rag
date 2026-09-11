@@ -1,0 +1,32 @@
+Wheel Cylinder Replacement
+Wheel Cylinder Replacement
+~~~
+Note:  Never replace only one wheel cylinder-
+always replace in pairs (left to right).
+~~~
+Remove the brake drums and shoes per the
+Brake Shoe Replacement
+procedure.
+Remove all dirt and foreign material from around the wheel cylinder on both sides of the backing plate (a toothbrush works well for this).
+With an 11mm line wrench, loosen the steel brake line fitting that connects to the wheel cylinder and remove the brake line from the cylinder.  Immediately plug the brake line to prevent fluid loss and contamination.  The rubber caps used to plug the vacuum lines on the carburetor work well for this.
+Note:
+Do not use an ordinary open-end wrench (spanner) for this purpose.  It's very easy to round off the fitting, making it difficult to grasp and remove.  The line wrench reaches farther around the fitting and grasps it more firmly, preventing the fitting from becoming rounded.
+Remove the bolt (13mm) that secures the wheel cylinder to the backing plate and detach the wheel cylinder from the brake backing plate.
+Place the new wheel cylinder in position and install the bolt loosely.
+Connect the brake line, but don't tighten it yet.  Tighten the wheel cylinder bolt securely, then tighten the brake line fitting.
+Important Note:
+The brake bleeder valves are very fragile and are located in very close proximity to the brake line fitting.  When removing or attaching the brake line it is very easy to break off the bleeder valve with the line wrench.  If this happens, youll have to remove the wheel cylinder from the car and remove the broken bleeder valve with a very small easy-out.
+Another Note:
+We found reattaching the brake line to the wheel cylinder to be very difficult.  The easiest way, we found, was to disconnect the nearest fitting in the brake line, then attach the brake line to the wheel cylinder, then reconnect the brake line fitting.  Don't forget to plug the brake line while it's disconnected.
+Reinstall the brake shoes and the brake drum in accordance with the
+Brake Shoe Replacement
+procedure and adjust the brakes in accordance with the
+Brake Adjustment
+procedure.
+Bleed the brakes per the
+Brake System Bleeding
+procedure.
+* 
+                    * * * *
+Design by
+Erin

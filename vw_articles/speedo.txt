@@ -1,0 +1,87 @@
+Remove/Install Instrument Cluster/Speedometer Cable
+Remove/Install Instrument Cluster/Speedometer Cable
+Please see our discussion of the
+Instrument Cluster
+for more information.
+~~~
+Note:
+For this procedure ONLY, "front" will mean the side of the instrument cluster from which the driver views the gauges; "back" will mean the side of the instrument cluster to which the speedometer cable and the various wires are attached.  This use of "front" and "back" is opposite the convention normally used in discussing VWs, where "front" means the front of the car and "back" means the back of the car.  It just doesn't make sense to refer to the face of the instrument cluster as the "back."
+BUT - This use of "front" and "back" applies to
+this procedure
+ONLY
+.
+~~~
+The following topics related to the instrument cluster are discussed herein -
+Instrument Cluster Removal
+Instrument Cluster Wiring
+Instrument Cluster Wiring Diagram
+Instrument Cluster Lights
+Speedometer Cable Removal
+Speedometer Cable Installation
+Instrument Cluster Installation
+~~~
+Instrument Cluster Removal
+Detach the cable from the negative battery terminal.
+Remove the instrument cluster by carefully prying it away from the dash with your fingers (if you use a screwdriver, be very careful not to scratch the dash or the bezel around the instrument cluster.
+Note:
+The instrument cluster is just pressed into the dash and held in place by a ribbed rubber boot that fits around it.
+Disconnect the speedometer cable from the speedometer by unscrewing the threaded fitting that attaches it to the back of the instrument cluster.  This fitting should only be finger tight.
+If you need to take the instrument cluster completely out of the car, make a diagram of the back side of the instrument cluster (see below) and clearly label all of the wires (there are a total of twelve connection points), with each of the connection points on your diagram labeled with the number of the wire connecting to it.  It is also a good idea to note all of the wire colors on your diagram just to make sure.  Trying to rewire the cluster from memory will cause you no end of fits!
+~~~
+Instrument Cluster Wiring
+Following is a diagram of the back side of the instrument cluster that Dave drew the first time he removed the cluster.
+Backside of the Instrument Cluster Showing Wiring Configuration
+~~~
+Instrument Cluster Lights
+Someone wrote to say -- I have a 1972 standard Beetle. One of the bulbs in the instrument cluster by the speedometer is 'out.' The place I have taken my Bug (run by a German mechanic who is very knowledgeable about Bugs) says he can't get a new bulb to work in the socket where the extinguished bulb is. My question: is there a brighter type of bulb that I could use in place of the working bulb that would give me more light at night?
+Dave responded -- First, regarding replacement of the instrument cluster bulbs:  These little 1.2-amp bulbs are readily available (for example, from
+Aircooled.Net
+).  I replaced all six of them in my '73 instrument cluster, which I don't think is any different from the '72 instrument cluster.
+Check out our
+Instrument Cluster Wiring
+procedure.  There is a diagram there of the rear of the cluster, showing the location of the six little lights at #2, #3, #6, #9, #10 and #12.
+You can easily do this job yourself; instructions are given earlier in the procedure.  The hardest part is getting the speedometer cable removed and replaced.
+Be sure to follow the instructions carefully regarding the wiring -- label each wire per the diagram so you get them all back in exactly the right place.  Other than that replacing the bulbs is way easy.
+Regarding brighter bulbs, Dave wrote -- I dont know of any brighter lights.  I only see the 1.2W wheat-style bulbs available commercially, at about two bucks apiece.  Personally, given the rheostat in the dash, I have found the standard bulbs plenty bright enough at night.
+The question continued -- I find that the sole working bulb sometimes goes out, but if I tap the glass it comes back on. The rheostat sometimes works, sometimes doesn't (in that when I turn it brighter, it brightens sometimes, and the bulb goes out sometimes). Does this indicate a different problem?
+Dave responded -- I would strongly suspect that problem is due to a loose or otherwise faulty connection.  I would recommend taking the instrument cluster out (carefully marking the wires, of course, or you'll have a most interesting time rewiring the baby) and laying it on your workbench (or your wife's kitchen table :-) where you can ponder over it.  Test the instrument cluster bulbs as follows (you don't want to go to all the trouble of reinstalling the instrument cluster (reattaching the speedometer cable is VERY difficult) only to find later on that one of the bulbs wasn't functioning).
+This is how I did it -
+Connect the ground strip on the lower back of the instrument cluster to the negative terminal on the battery with a test lead.
+Connect a test lead to the positive terminal (big alligator clip) of the battery and then touch the other end of the lead to each of the spade connectors on the lights in succession.
+If the bulb is good, the light will come on when subjected to this test.
+When you put it back together, make sure the bulbs are firmly seated in their sockets and the wiring connections are solid.
+I don't know exactly what causes the problem with the rheostat, but mine is the same way.  It may just be the nature of the beast.
+~~~
+Speedometer Cable Removal
+Firmly set the parking brake, block the rear wheels, raise the front of the car and set it firmly on jack stands.
+Working on the driver's side of the car, remove the circlip which secures the end of the cable to the outside of the wheel bearing dust cap.
+Working from the back side of the driver's side front wheel, pull the cable out of the steering knuckle.
+Pull the speedometer completely out through the hole in the dash.
+Note:
+It will help to have an assistant under the car as you slowly pull the cable out so he can note the routing.  Getting the new cable back in can be tricky.  Another idea that we have used with success is to tie a string to the end of the cable, which is then pulled exactly through the route that the cable had taken.
+~~~
+Speedometer Cable Installation
+Pull the cable right out of it's sheath, wipe it clean with a rag, and rub grease down it's length with your fingers.  Reinsert the cable in the sheath.
+Note:
+If you are just lubricating a cable that you plan to reuse, grease it carefully, as you may find a 'sprung' wire or two, and wire punctures in the skin HURT.  This will also tell you if it needs replacing again :-)  The cable usually breaks near the wheel end, as this bit gets flexed in all directions and the wheel bounces and steers.
+It's a good idea to install a new rubber sleeve in the steering knuckle to keep water out.  If water gets into the knuckle, it can damage the bearings and allow the cable to freeze--and stick--in the winter.
+Working with one person in the car and one person under the car, route the new cable from the hole in the dash through the hole in the firewall (there should be a grommet in this hole) and on down to the back side of the steering knuckle, following the same route that the old cable took.
+Note:
+Route the cable to eliminate sharp bends (no radius less than six inches).  Make sure it isn't kinked or pulled too tight anywhere in the turning radius of the front wheel.  Be careful not to unseat the grommet when threading the new cable through.
+Insert the wheel-end of the cable into the steering knuckle (from the back side).  You will probably have to remove the dust cover to get the end of the cable properly aligned in the square hole.  Install a new circlip at the end of the cable.
+Note:
+It is actually the dust cap which turns the cable and thus drives the speedometer and odometer.  You  will note that the end of the cable is square and has a slot around it.  This fitting protrudes through a square hole in the dust cap, secured there with a circlip in the slot.  This causes the cable to turn as the front wheel turns, with speed proportional to the speed of the car.  Make sure the end of the cable is seated securely in the dust cap.
+Also note:
+It's important to get the wheel diameter right, or the speedometer will read incorrectly.  The correctly-sized tyre has a diameter of around 24 inches - the stock tyre is 165SR15.
+Screw the threaded fitting on the dashboard end of the speedometer to the back of the instrument cluster.
+Note:
+This is the hardest part of the job.  You need very small hands and very strong fingers!
+~~~
+Instrument Cluster Installation
+Carefully reattach all of the wires (12) to the back of the instrument cluster, making doubly sure that each attaches at the correct point (see the diagram above or the diagram you prepared that is specific to your situation).
+Orient the cluster properly and press it back into the hole in the dash.
+Check the operation of the warning lights, the turn signal indicators, and the high beam indicator.
+* 
+                    * * * *
+Design by
+Erin

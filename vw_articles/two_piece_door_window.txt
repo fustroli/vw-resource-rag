@@ -1,0 +1,91 @@
+Door Window Installation
+Door Window Installation
+(two-piece)
+For more information, please see our
+Windows Discussion
+.
+See also a discussion of
+Rebuilding Door Windows
+.
+~~~
+Note:
+There are lots 
+              of
+Notes
+in this procedure. Be sure to read them all! This 
+              procedure is written for the standard windows in the doors; please 
+              see our
+"Cal-look" procedure
+for 
+              installation of one-piece door windows. Also note - this procedure 
+              is for later-model Bugs. The procedure for earlier models is similar.
+Procedure
+Door Window Removal -
+Open the door fully by removing the small circlip on the end of the pin for the door check strap, then drive the pin out.
+Remove the door trim panels in accordance with our
+Door Trim Panel Procedure
+.
+Remove the waterproofing sheet from the door.
+Note:
+If you tear the sheet during removal, you can cut a new one (use the old one as a template) out of heavy duty poly vinyl.  Please see our
+waterproofing sheet
+procedure.
+Lower the window down into the door and remove the two 10mm 
+                bolts that attach the window lifter channel to the regulator.
+Hold the window to keep it from dropping, then remove the 10mm 
+                bolt at the bottom of the regulator which attaches it to the door.
+Ease the regulator forward and pull the window down and out through the large opening in the bottom of the door.
+Remove the screws which attach the winder mechanism to the door.
+Pull the regulator assembly down and out through the opening in the door.
+Door Window Installation -
+If you need to replace the felt channels, now is the time to do so.
+Note:
+The felt channel is held in place by five or six steel clips that fit into holes in the slot the window will roll up into, all the way across the top down into the door on both ends. (See the picture below.)  Gently - the clips can draw blood if you're not careful.
+Felt Channel Clip
+~~~
+Position the clips in the little holes in the window channel, with the little "hook" on the top facing the back of the car (or facing the ground, for the clips in the vertical part of the channel).
+Note:
+Make sure these clips are installed securely.  With the tab on the clip in the hole, push the clip into place with a screwdriver, pressing down on/against the end.  When it's secure, you'll hear a satisfying "click."
+To install the felt channel, place it loosely in the channel in the door frame and run it forward and down until you feel it butted up against the vent window frame, then feed it back the other direction and down into the door frame in the rear.
+Position the felt channel properly (especially in the corners), then carefully press the felt channel carefully into the clips with the heal of your hand, being careful not to deform it.
+Felt Channel
+~~~
+Go all around the felt channel and make sure it is not deformed but provides a clear channel about 1/4-inch wide for the glass to fit into.
+To install the regulator, guide it up through the opening in the inside of the door, winder mechanism first.  Push the regulator assembly up into the door until the regulator mounting bracket holes are lined up with the holes in the door.
+Install the two bolts that connect the winder to the door frame and the single bolt at the top of the regulator assembly.  Don't tighten the bolts yet, and don't install the bolt that attaches the regulator to the bottom of the door yet, either.
+Note:
+The regulator lives inside the door against the frame member that's closest to the passenger compartment. It is possible to incorrectly install the regulator and align the window glass so that the glass is blocked and cannot be raised up between the window scrapers.  You'll know you have this problem when you find that you cannot raise the regulator high enough to permit you to install the bolts at the top and bottom.  Also, you will not be able to raise the glass up between the scrapers.
+Window Regulator
+~~~
+Have an assistant hold the regulator assembly in place while you carefully slip the window up through the opening in the door and into place in the lifter channel.
+Straighten the glass in the window opening and raise it as high as you can in the opening.  Make sure that the window fits properly into the felt channel, all the way around.
+Note:
+Be sure that the glass clears the regulator and doesn't bind up between the regulator and the door frame.  Again -- you'll know, because you will be hopelessly stuck!  (Voice of Experience!)
+Lower the glass until the window lifter channel clears the door frame, and raise the regulator so as to align with the bolt holes in the window lifter channel.  Install the bolts that attach the window lifter channel to the regulator but do not tighten them yet.
+Note:
+You must be doubly sure that the window glass does not hang up on the regulator tube.  It is very easy to have this interference, and it can be very exasperating!  One-piece "Cal-look" windows are a mixed blessing!
+Once you have the rear end of the glass protruding up through the scrapers, lift the forward end of the glass and slide the entire window up between the window scrapers.  Raise it as high as you can in the opening to make sure the window fits properly into the felt channel, all the way around.
+Lower the glass until the window lifter channel clears the door frame, and raise the regulator so as to align with the bolt holes in the window lifter channel.  Install the bolts that attach the window lifter channel to the regulator but do not tighten them yet.
+Note:
+You must be doubly sure that the window glass does not hang up on the regulator tube.  It is very easy to have this interference, and it can be very exasperating!
+Attach the bolt that holds the bottom end of the regulator to the door.  Once you have everything properly aligned, tighten all of the bolts.
+Check the operation of the regulator assembly, and while doing so, make sure that the window rides in the felt channel all the way up.  If necessary, loosen the bolts attaching the lifter channel to the regulator and readjust the window a little and recheck. Repeat this process until the regulator operates satisfactorily.
+Reform (and reattach!) the felt channel as necessary.
+Note:
+A clean paint spatula works well for doing any necessary reforming of the felt channel.
+Note:
+Despite your best efforts, the felt channel may become detached, specially in the corners and at the front of the door frame.  I found that a good strong glue worked well for attaching these troubling spots. Roll the window all the way up to hold the felt channel in place while the glue dries.
+Install the protective plastic sheeting on the door frames in accordance with our
+Protective Plastic Sheeting
+procedure.
+Reinstall the door trim panels in accordance with our
+Door Trim Panel Procedure
+.
+Completed Door Innards
+~~~
+Congratulate yourself!  You have just completed one of the more
+difficult tasks your Bug can throw at you!
+* 
+                    * * * *
+Design by
+Erin

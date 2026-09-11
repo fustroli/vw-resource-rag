@@ -1,0 +1,56 @@
+Muffler Removal/Replacement
+Muffler Removal/Replacement
+Please see our
+Discussion of the VW Muffler
+and specific
+Muffler-Related Procedures
+.
+Also, please see our procedure for installing
+the
+"Hideaway" Muffler
+~~~
+Muffler Removal
+Block the front wheels.
+Raise the rear of the car and support it securely on jack stands.
+Apply
+Kroil
+or other penetrating oil to the following connections:
+Muffler to preheater pipes.
+Muffler to heat exchangers.
+Muffler to rear cylinder heads.
+Allow the penetrating oil to work for at least an hour; then apply it a second time.
+Loosen the hose clamps on both ends of the fresh air hoses and carefully remove the hoses (if they are damaged they will have to be replaced).
+Remove the cover plates over the intake manifold preheater pipe connections (if you have them).
+Unbolt the preheater pipes from the muffler.
+Remove the crankshaft pulley cover plate and the rear cover plate.
+Remove the nuts, bolts, and clamps that join the heat exchanger outlet pipes to the flanged pipes on the muffler.
+Remove the four nuts (two on each side) that hold the muffler to the rear cylinder heads.
+Pull the muffler to the rear and off of the car.
+~~~
+Muffler Installation
+Note:
+If you are running the stock single carburetor, make sure the pre-heat tube flanges on the muffler pipes are drilled completely through into the muffler pipes before proceeding.  This will allow exhaust gas to travel up under the center of the intake manifold to vaporize any fuel injected by the accelerator pump.  If you have dual carburetors, the pre-heat tube flanges should be blocked, since there is no intake manifold for a center-mounted carburetor.  This is done either with blank gaskets or by the flanges not being drilled completely through into the muffler pipes (which is the way the header/muffler is usually supplied).
+Block the front wheels.
+Raise the rear of the car and support it securely on jack stands.
+Place new gaskets over the four bolts (two on each side) where the muffler attaches to the rear cylinder heads.
+Note:
+Use two gaskets on each side to assure a tight seal.
+Place a new retaining ring and donut gasket on each of the two heat exchanger outlet pipes.
+Position the muffler in place on the rear cylinder heads and on the heat exchanger outlet pipes.
+LOOSELY attach the muffler to the rear cylinder heads using new 13-mm nuts.
+Loosely attach the heat exchanger outlet pipes to the flanged pipes on the muffler with new clamps, bolts and nuts.  Make sure the donut gasket is properly positioned before tightening the nuts completely.
+Loosely bolt the pre-heater pipes to the muffler using new gaskets and hardware.
+Note:
+We have found that the pre-heater pipes almost never line up with the connection points on the muffler, especially with aftermarket mufflers.  The pre-heater pipes must be bent ever so gently so that the connections will line up.   A technique with which we have had success is to insert a small round-bladed screwdriver in one of the two holes and then pry the tube over so it would mate with the muffler connection, then insert the other bolt.   When the screwdriver is pulled out, the second hole will be aligned.  (Hopefully!  :-| )  It's a difficult job, and it must be done very carefully to keep from breaking the pre-heater pipe away from the intake manifold.
+Tighten all connection points, moving gradually from one point to another until all nuts, bolts and clamps are snugged up as tightly as possible.
+Note:
+Significant exhaust leaks can occur at all connection points.  Make sure gaskets are thoroughly compressed and the nuts are tight.
+Replace the rear engine breast plate.
+Replace the two fresh air hoses and secure them with hose clamps on both ends.
+Note:
+You will probably find that the muffler pipes interfere with the fresh air hose on the left side.  You may need to cut another hole in the rear engine breast plate for the hose to pass through.  If so, be sure to plug the original hole (e.g., with a large rubber stopper).
+Remove the jack stands and lower the car.  Remove front wheel blocks.
+* 
+                    * * * *
+Design by
+Erin

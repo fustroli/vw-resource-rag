@@ -1,0 +1,31 @@
+Fuel Injection
+Fuel Injection
+Thanks to
+Type2.com
+for the following.
+If you have a '75 or later Beetle or Super Beetle, a '75 or later Bus, or a '67 and later Type 3, you should have fuel injection (assuming a US-spec model). In that case, a manual you will find very helpful is "How To Understand, Service and Modify Bosch Fuel Injection and Engine Management"by Charles O. Probst. It's also put out by Robert Bentley Publishers, the same publisher as the official VW repair manuals. It covers all Bosch fuel injection systems, including the D-Jetronic system found on Type 3s and the L-Jetronic system found on Beetles, Super Beetles, and Buses.
+A lot of people dislike the Bosch L-Jetronic fuel injection system fitted to the Beetle, Super Beetle, and Bus in 1975. Most of the complaints seem to stem from the fear of the unknown. Unfortunately, this fear results in the removal of a superior system from the engine and usually winds up with the owner replacing it with an inferior aftermarket carburetor setup.
+In reality, the L-Jetronic system is very simple, very reliable, and easy to diagnose. All you need for diagnostic tools is a fuel pressure gauge, a multimeter, and a manual. The Bentley manual does an excellent job of explaining FI diagnostic procedures. Most people blame ignition system problems on the fuel injection and go on a parts-replacing spree, unnecessarily wasting money. So it is imperative that before diagnosing the fuel injection system, the ignition system must be in tip-top shape and the engine must be free of vacuum leaks.
+The following links endeavor to explain the functions of the various fuel injection parts so that the seemingly mysterious fuel injection system will be revealed for what it is: a bunch of simple parts working together.
+Bosch L-Jetronic Fuel Injection.
+Air Flow Meter
+Fuel Pump
+Fuel Filter
+Fuel Pressure Regulator
+Fuel Injectors
+Series Resistors
+Electronic Control Unit
+Double Relay
+Cylinder Head Temperature Sensor
+Cold Start Valve
+Thermo-Time Switch
+Auxiliary Air Regulator
+Throttle Switch
+Oxygen Sensor
+For detailed troubleshooting information on your Bosch L-Jetronic system, check out the
+Bosch FI manual online
+, which is a scanned in Bosch L-Jetronic manual with great flow-charts for troubleshooting.
+* 
+                    * * * *
+Design by
+Erin

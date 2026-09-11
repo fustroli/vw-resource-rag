@@ -1,0 +1,194 @@
+Miscellaneous
+Miscellaneous Tune-Up Information
+~~~
+This article contains miscellaneous tune-up information, roughly divided into the following subtopics -
+Distributor
+The 009 Distributor
+The 009 vs the SVDA
+Vacuum Distributors
+Worn Distributor
+Carburetor
+Throttle Lever
+Flooding
+Jets
+Tuning
+Sequence
+Points
+Timing
+Timing Advance
+Static Timing
+Fuel Mixture/Timing
+"Cold-Blooded"
+Cold Idle
+Automatic Choke
+Miscellaneous
+Spark Plug Wires -- Idendifying
+Coil
+Air Cleaner
+~~~
+Distributor
+The 009 Distributor -
+009 (centrifugal advance) distributors vary a lot in the amount of total advance they make (they are  built rather cheaply).  For this reason they MUST be set at 3000+ rpm using a timing light.  Maximum advance is much more important than idle advance, and for the aircooled VW engine and 009 distributor, the maximum advance MUST be between 28 and 32 degrees.
+The 009 is usually set at 3000+ rpm because they produce their maximum advance at 2600-2700 rpm, and using 3000 rpm ensures that it's all in.
+To do this, make a clearly-distinguishable mark (e.g., white, paint, etc.) on the rim of the crankshift pulley at 30 degrees BTDC (46.5mm to the right of TDC).  I would start by statically setting your timing to about 5 degrees BTDC. Then run the RPMS up until the distributor stops advancing, all the while following the advance with a strobe light. You should get a total advance of about 26 degrees or more.
+Note:
+If the 009 distributor is set with more than 32 degree maximum advance, the engine is over-advanced in  certain throttle/rpm conditions, and this can cause the engine to ping/detonate.  If it's set with less than 28  degrees total advance, the engine will be under-advanced at high rpm and cause overheating. Overheating certainly puts an extra load on the head and it's components, especially the already very hot exhaust valves.
+Once the maximum advance has been set, you can then measure the STATIC (engine off) timing and use THAT setting for THAT distributor in future.  The static timing using this method is commonly between about 5 and 10BTDC but I have seen reports of up to 16BTDC, since these distributors vary so much in the total advance they can make.
+So 7.5 BTDC MIGHT be right for some 009s -- but for a 009 that has a maximum advance of say 26 degrees, the idle (or static) advance should be set at around 10-12 BTDC so that the maximum advance is in the 28-32 degree range.  It is important that you determine the proper parameters for YOUR distributor.
+The 009 distributor can't "load sense" like the vacuum distributors, so it must be limited to "worst case" of a little either side of 28-32 degrees.  Additionally, the 009 centrifugal advance distributor does sometimes cause an acceleration flat spot, as it does not have the vacuum advance adjustment of the original distributor.  For this reason the carburetor must be set to run a little rich to compensate for the 009-induced flat spot.  One size up on the main jet should do it.
+The 009 Distributor vs the SVDA Distributor -
+Responding to a question, Rob wrote - Your mention of a flat spot and the sluggish performance plus the engine/carburetor you have makes me think it's almost certainly running a little lean.  The 009 distributor NEEDS a richer running carburetor than the vacuum distributors need, and the larger capacity 1641cc tends to make the carburetor run a little lean at higher speeds, so it's a double whammy.
+You might like to think about getting an SVDA (single-vacuum dual-advance) distributor - John at
+Aircooled.Net
+will build one to suit the carburetor (vacuum signal) you are using.  The SVDA is like a high quality 009 distributor (32 degrees) with added vacuum advance (8-10 degrees).  VW used them as standard from 74 onwards (and from 71 onwards in countries which didn't use the double vacuum distributor from '71-'73).
+The SVDA distributor is essentially a centrifugal-advance (009) distributor with a vacuum advance assist to help prevent hesitation in all of those stop-n-go situations in city traffic.  The mechanical advance takes over out on the highway in the rpm range of 2000-2500+ (highway speeds in 3rd and 4th gear).  At the higher rpm the vacuum signal drops and the mechanical advance is (or should be) "all in".  The vacuum only pulls in/advances the timing plate right off idle and through the lower range (not neccesarily in the driveway but under load it does).  Once the higher rpms are reached, the vacum advance drops off and the mechanical advance takes over.
+Vacuum Distributors in General -
+The vacuum distributors used on aircooled VW engines can provide up to about 40 degrees of total advance under the right conditions - for example part throttle cruising (this is good for fuel economy), but the "load sensing" ability of the vacuum canister reduces this amount to around 30 degrees or so when required (for example, flooring the throttle at medium speeds, until the increasing engine rpm then feeds the advance back in as the rpm catches up with the "new" throttle position).  It's actually an airflow-through-the-carburettor thing, rather than actual rpm, but you get the idea.  The change in vacuum when you floor it takes the advance back to roughly 30 degrees. This ability of the vacuum distributors (which also provides a shot of advance off idle to help the engine spin up) is called "load sensing."
+7.5 degrees BTDC is the correct static timing for most single-vacuum distributors on aircooled VW engines (some variation depending on the model year and the country - emissions considerations and such).
+If you are using the double vacuum distributor, the correct timing is 5 degrees ATDC (that's AFTER), set with a strobe timing light and the engine idling. You can't set this distributor engine-off, as you need the idle (front) vacuum line working to pull the distributor plate back to the idle setting.
+Worn Distributor -
+Someone wrote with a question - When I bought the car it ran half decent -- it had a little miss but decent.  So I started messing with the timing and its been down hill since.  Everything is set to spec and now it wont even start.  The distributor shaft seems sloppy to me at the  bottom -- I can grab the end and wiggle it considerably.  I dont know if that is normal.
+Rob responded - It's possible that the distributor a problem, but it shouldn't prevent the car from running.  So long as the points are opening there will be a spark, and so the worst a worn distributor causes is a little "hunting" in the timing, which isn't super critical in getting the engine running decently (although it obviously needs replacing eventually if that's part of the problem).
+~~~
+Carburetor
+Throttle Lever -
+Dave wrote - I discovered that the little screw on the top of the throttle lever had been backed off from the cam about an eighth on an inch!  The proper way to adjust this screw is to warm the engine up so that the choke is fully open, then adjust the screw on the throttle arm so that it just touches the fast idle cam. Then turn it in 1/4 turn.  This adjustment is very important. It opens the throttle butterfly in the carburetor 0.004" so that the idle jet will work properly.
+Flooding -
+Dave wrote - An interesting problem regarding flooding -- we parked the car in a spot that was sloped, the engine end down.  When we came out the car wouldn't start -- it acted for all the world like it was flooded.  So we pushed it around facing the other way, and after a couple more tries it started right up.  I'm hard pressed to understand why the carburetor would flood under those circumstances. Even if the gas would tend to drain toward the low end, it couldn't get past the fuel pump, could it?  Is there maybe something wrong inside the carburetor (float, perhaps?) What would cause this problem?
+Rob responded - Two possibilities come to mind -- the needle valve in the carburetor and (faint possibility) the idle shut-off not shutting off properly.
+In the early days before the idle shut-off, flooding carburetors from facing up hill were not uncommon.  The top of the fuel tank is about level with the top of the carburetor so it doesn't take a lot of uphill to put some of the tank above the carburetor.
+Yes, fuel will "leak" through the fuel pump, since the two one-way valves inside allow fuel flow in that one direction - it doesn't matter where the pressure comes from - you could pressurise the tank with compressed air and fuel would flow through the pump too.
+See our article on
+Flooding
+.
+Jets -
+Jetting for a 1641cc engine with a 30-series carburetor -- This is a little on the larger side for the 30 PICT carburetors -- it will work okay but tends to make the smallish carburetor run lean at higher rpm, and the carburetor will just start to run out of breath at higher rpm, so the top speed may not improve much -- if at all.  Low and mid-range acceleration would improve of course.
+You could try these jets for an "in the ball park" set-up -- 55 idle (it probably has that already - the cut-off solenoid screws into this jet in the right side), a 127.5 main jet and a 115 or 120 air correction jet.  You MIGHT need to use a 130 main jet, but try the 127.5 first.
+These changes will richen up the mixture from about 1500rpm upwards, and should reduce/eliminate the flat spot.
+You should also make sure that the tiny transfer ports in the side of the throat (close to the opening throttle plate) are not blocked.  The idle jet provides fuel through these ports up to about 2500rpm -- slowly handing over to the main jet between about 1500 and 2500rpm, so any partial blockage there will affect the low/mid range performance.  Never use wire to clear those ports - the best method of cleaning is an overnight soak in carb cleaner and then compressed air or WD40 with the little straw to blast any gunk out of the passages.
+~~~
+Tuning
+Sequence -
+Dave wrote - The dwell, timing and idle are all interrelated, and I'm never sure which to adjust first.
+Rob responded - Points gap (dwell) first, then timing if it needs it (the timing will probably be MORE advanced after the dwell is set).
+In general, the sequence of tuning things to do is given in our
+Tune-Up Article
+(starting with a cold engine, ending with a warm one).
+Rob gave a couple of interesting snippets from an Aussie repair manual -
+The points should always be set BEFORE setting the ignition timing, as just a 0.004" alteration to the points gap makes a 3 degree change in the timing.  That's pretty significant.
+It is preferable to set the timing on a cold engine using the static timing method (if you have an 009 or SVDA distributor).  Using a stobe timing light on a cold engine will result in alterations over the whole setting range. The engine CAN be set when warm, so long as the oil temp is below 50C/112F.
+I'm not sure why this is -- the book doesn't say.  Maybe the gear lash increases with engine temp and affects the timing or something.  I presume the bit about using the static method in preference to a strope light would be the effect of the vacuum (this book DOESN'T describe the method of removing the vacuum line when using a strobe light).
+Points -
+Rob wrote regarding spark and points position - The spark happens when the points open -- the magnetic field in the primary of the coil collapses and sends a surge through the secondary to the plugs.   Theoretically you COULD get a spark from the points connecting, but the magnetic field builds up more slowly than when it collapses as the points open, so that's when you get the best spark.
+Dave wrote - I have a little points setting kit that I've had ever since my '65 Bug.  It has a sleeve that fits down over the shaft that the rotor sits on.  This opens the points wider, and they are adjusted with the feeler gauge in the kit.  A very useful kit for adjusting the points.
+Dave found his point gap to be way too wide, which the dwell of 30 degrees indicated.  The PO had tightened the adjusting screw so tightly I could hardly get it loose - finally succeeded, but I'm going to have to replace that screw - it's pretty buggered up.  I reset the points, then statically timed it at exactly 7.5 degrees BTDC.
+Rob responded - Why do people overtorque stuff all the time - it just doesn't make sense.  That's a small screw, and has only light spring pressure on the plate it has to hold, so only needs a few ft-lbs to hold it still.
+Please see our
+Points Setting Procedure
+.
+Idle -
+Someone wrote - The car starts right up cold, but when warm it is a little more reluctant.  And it idles way too fast (otherwise it dies). Tuning, I guess?
+Rob responded - Most likely. Try turning the volume screw out just a fraction (richens the idle mixture). Might make it idle a tad fast and need a little adjustment, but might help with the stutters. Hopefully the fast idle will just be a little adjustment.
+Please see our
+Idle Adjustment Procedure
+.
+Timing -
+Someone wrote with a good question - I just put the finishing touches on my 1600cc dual port with a new Bosch 009 distributor. The carburetor is 34 PICT/3. I've plugged the vacuum hose that used to be for the vacuum advance. The dwell is set at 50 degrees and the valves are adjusted. What I need to know is:
+What should the timing be? What are the variables to consider when determining where to time it?
+Is the static timing method appropriate considering the distributor is centrifugal and not vacuum advance, or would I be better to strobe it?
+Rob responded - The Beetle engine needs around 28-32 degrees maximum advance. The actual amount depends on your engine setup, and maybe a bit on the quality of fuel you have.  009s vary a bit in the total advance they provide, so:
+Strobe time it for maximum advance - try 30 degrees at 3000 rpm first.
+Check the static timing -- it should come in at around 5-7 degrees BTDC. The exact amount doesn't matter, so long as the
+maximum
+advance is okay.
+Run the car, and try some high speed and lower speed high acceleration runs. If it runs fine, you've got it right. If it pings a bit, or has a flat spot on acceleration, try backing off the maximum advance to say 28 degrees, and try again.
+The 009 distributordoes often cause acceleration flat spots, and these can usually be overcome by ensuring the accelerator pump is adjusted for it's maximum stroke.  Also, and you might need a richer main jet in the carburetor.
+This last point is particularly relevant if you live in an area which has a lot of MTBE or similar additives in the fuel (California, etc.). These additives cause carburetted engines to run a little lean, and VW engines prefer to run a touch rich.  So a jump up one size in the main jet is often helpful.
+Someone wrote - Something I've never gotten straight in my head is the requirement to plug the vacuum line(s) during timing. I take it from your instructions that one of the two (if you're using the double vacuum distributor) must remain attached. Is the other one plugged? And if so, which way (i.e., is the distributor port plugged or the carburetor port plugged?) It seems to me that the 34 PICT/3 carby was designed for use with a double vacuum distributor, since it has two vacuum ports (I'm still baffled by the port down on the intake manifold).
+Rob responded - The vacuum port on the manifold provides vacuum to the stock air cleaner.  If you are running an aftermarket air cleaner, this vacuum port must be plugged.
+As I understand it, with the double vacuum carburetor, you have both vacuums lines on and set the idle at 5 degrees ATDC with a timing light and the engine running at idle. With the single vacuum distributor (or with the double vacuum which has the idle retard circuit permanently disabled/plugged), you set the timing with the engine off -- statically to 7.5 degrees BTDC. I suppose you COULD plug the retard line and set the double vacuum distributor to about 7.5 degrees BTDC (static) then reconnect the retard vacuum line, but that's not how I've seen it written. Does Muir or something else talk about temporarily disconnecting a vacuum line just for the timing?
+Someone wrote - I'm confused. The specs say that the timing for the double advance distributor should be set at 5 degrees ATDC at idle (850-900 rpm) with both vacuum hoses attached. Our engine absolutely refuses to run at this setting and demands 7.5 degrees BTDC, which is 12.5 degrees advanced beyond the specification. I don't understand.
+Rob responded - You are dealing with both vacuum and centrifugal effects on the distributor. At 1200 rpm the idle circuit of the carburetor would be shutting down and the low speed ciruit starting to operate, so the IDLE vacuum (the retard vacuum line) is probably inoperative at 1200rpm, and setting the 5 ADTC would not be possible, as this retard vacuum circuit is designed to work with the throttle shut -- idling at 900 rpm.
+And at 1200rpm, the centrifugal advance would be just starting to work, so you can't set it with the engine running at 1200 for 7.5 degrees BTDC either it probably needs to be higher than that. You could try either -
+Setting it at 7.5 degrees BTDC with the engine off (when both retard vacuum and centrifugal advance are inoperative). It's not supposed to be set this way, but you could then check the maximum advance, and if it is around 28-30 degrees BTDC, it HAS to be somewhere near right for the idle.
+Setting the high revs at 28-30 degrees BTDC, and hoping that the idle will come in about right. Until you get the car to idle at about 900 (and neither of us is sure how to accomplish THAT yet), you are going to find it difficult to set the timing the 'normal' way for that distibutor/carby set up.
+The guy's question continued - It doesn't come anywhere near the 30 degree mark on the pulley when I rev it up -- I would say on the order of 25-26 degrees BTDC. But if I advance it such that it approaches 30 degrees BTDC at 3000 rpm that's going to advance the timing at idle even more. I'm missing something here!
+Rob - As I said above, you're 'missing' the fact that the centrifugal advance is starting to advance the timing at 1200rpm, so the 'idle' timing at 1200rpm SHOULD be higher than 7.5. I hope that makes sense. The 009 distributor is set STATICALLY, and you're now setting the vacuum distributor DYNAMICALLY, with two variables vacuum and centrifugal advance.
+Someone wrote - Can you tell me the procedure for adjusting the idle and timing on a '60 36hp motor?
+Rob responded - These came with either a 28PCI or 28PICT carburettor (probably 28PCI, since the 28PICT first came with the 40hp 1200).  The later 30 series carburetor, and the modern replacement H30/31 should also work on this engine - with suitable jetting.  The last of the 30s - the 30PICT/3, plus the H30/31 have two adjusting screws, so the setting process is given in our
+"Two Adjusting Screw" Procedure
+.
+To my knowledge, the timing is 10 degrees BTDC (if you have a vacuum distributor), set static (or at idle with the vacuum line removed and plugged on the carby - open on the distributor).
+For a 009 distributor, you set the maximum advance at 28-32 degrees BTDC at 3000+ rpm, and let the idle fall where it may (usually somewhere between about 5 and 10 degrees BTDC).
+Idle rpm should be about 800-900rpm. You use the throttle arm screw on the rear (rear is rear of car) to set this (28 and early 30 series carburetors - you DON'T use this screw on the 30PICT/3 or H30/31 for idle speed adjustment - that's what the second (larger) screw in the left side of these carbs is for).
+For setting the 28s and early 30s carburetors, you can use our
+"One Adjusting Screw" Procedure
+.
+Someone wrote - I've read a couple other places that the timing should be set at 7.5 BTDC.  Are you sure about 10 BTDC?
+Rob responded - Timing at 10 degrees BTDC is used on the 1200cc engines which have lower compression (6:1 and 6.6:1).  Low compression needs more advance than higher compression (relates to the larger proportional head volume on low compression engines, and the amount of residual burnt gases being mixed with the fresh stuff which lowers flame speed).
+The 1300/1500/1600cc engine all had compression of 7:1 or higher, and 7.5 degrees BTDC is normal for these.
+Dave asked - I accidentally timed on the #3 cylinder -- is it possible to time correctly on cylinder #3 as well as #1?
+Rob responded - Timing on #1 is really "tradition" rather than "necessary," EXCEPT for cars with the in-shroud oil cooler, which heats up the #3 cylinder.  These cars have the older style 3 degree-retard distributor (which prevents detonation in #3 cylinder), so the timing HAS to be on #1.
+Timing Advance -
+Someone wrote to ask - How can you tell whether the retard circuit is functioning properly?
+Rob responded - To test the retard circuit you must be able to set the idle at about 900 rpm. Then with the timing light connected you should see it jump from 5 degrees ATDC to 7-8BTDC as you crack the throttle open and the retard vacuum line 'disengages'.
+Someone wrote to ask - Do I use a timing light and set the total advance at about 20 degrees at 2500 rpm?
+Rob responded - 20 degrees total advance (BTDC) is WAAYYY to little.  It's VERY important to set the 009 distributor to between 28 and 32 degrees BTDC at 3000rpm, and let the idle fall where is may.
+Reasons are -
+009 distributors vary in how much total advance they make.  Since they do vary, and maximum advance is more important than idle advance, set the maximum advance with the engine running at 3000rpm. (Once you've done that, you can measure the idle (static) advance and use THAT setting for THAT 009. This would normally be from about 5BTDC to about 10BTDC with most 009s.  The reason we use 3000rpm is that the 009s provide maximum advance in the range of about 2500-2600rpm, and you want to makes sure it's all there before setting it.
+The reason for 28-32 max advance - The vacuum distributors all provide up to about 40 degrees total advance, for example cruising at medium speed with part throttle. (See further discussion above under "Vacuum Distributors in General.")
+The 009 distributor can't "load sense" as the vacuum distributors do  -- it only rpm senses, and because it's a "one size fits all" distributor, it has to be set for "worst case" which means wide open throttle at lowish/medium rpm, and THAT's 28-32 degrees.
+Any more than that and the engine will detonate (ping) when you floor the throttle.  Any less than that and it's under advanced at higher rpm and will run hot, and you don't want THAT on your high capacity engine.
+Use as much of the 28-32 degrees BTDC as the engine can take without detonating (this gets is a fraction closer to the 40 degrees the vacuum units make and so improves mileage a fraction). If you can't stop it detonating at 28 degrees, then you need a higher octane fuel or (last resort) lower the compression ratio of the engine a little.
+Static Timing -
+Someone wrote with a question regarding the static timing tester - For doing static timing, you say to use a 12-volt bulb, but if car has a 6-volt system, shouldn't you use a 6-volt bulb?
+Rob responded - Yes, a 6-volt bulb would be better for use with a 6-volt system, but a 12-volt one will work too.  You just need something to show when the points are open/closed, and a dim light will do that as well as a bright light can.
+It doesn't really matter what wattage bulb you use either, but preferably not a headlight bulb, as this would be trying to pull more amps through the points than they were designed for (so any small wattage bulb is better).
+Fuel Mixture/Timing -
+Someone wrote - I am running a 64 with a 1500cc engine rebuilt by me.  It doesnt get very good mileage -- maybe 20 mpg.  I have 3 notches in the crankshaft pulley.  I am running 30 PICT carburetor and an 009 distributor; everything is switched to 12 volt.  The car runs great as long as I am into the pedal, but when I back off to cruise at 45-55 mph the car seems to bog down -- sputter and lose power.  Its the same in 3rd gear but at different speeds.  I have tried adjusting carburetor, the points and the valves.
+Is this problem common to the 009 distributor, or should I be looking somewhere else?
+Rob responded - The timing and mixture seem to be the most obvious places to look.
+The 009 distributor MUST be timed between 28 and 32 degrees at 3000+ rpm.  Use as much of the 28-32 as you can without the engine starting to ping/detonate.  If it still pings at 28 degrees, us a higher octane fuel -- NEVER use less than 28 degrees or the engine becomes under-advanced at higher rpm and will run hotter than it needs to.  Using as much of the 28-32 as you can helps reduce any 009 flat spots a little.
+Just for information, the vacuum distributors run up to a maximum of about 40-42 degrees BTDC under the right conditions (part throttle cruising for example).  This is good for economy, but they can reduce this advance back to around 30 degrees when you floor the throttle (to stop the engine detonating/pinging) and only allow the extra advance back in gradually as the rpm rises to the "new" throttle position; this is called load (throttle) sensing.  The 009 distributor can't do this, it only rpm-senses, so has to be held back to the "worst case" 28-32 degrees BTDC.  That means a lot of the time it's actually under advanced to some extent, so you use as much of the 28-32 degrees as it can stand, to reduce that under-advance.
+If you don't have a degree pulley -- 28 degrees is 43.5mm to the right of TDC, around the rim, and 32 degrees is 49.5mm to the right of TDC.
+~~~
+"Cold-Blooded"
+Cold Idle -
+Dave wrote regarding his Bug's performance - It's not idling cold at all well right now -- better when it warms up.
+Rob responded - That could be as simple as rotating the choke canister a little to get an extra step on the stepped cam when cold. Or a tad more idle rpm on the big bypass screw.
+Dave wrote - The mechanic my son took the car to said it's "cold-blooded."  Now THERE is a useful bit of technical data!  :-/  The car has always "liked" a somewhat higher idle speed, so maybe it's having trouble because the guy set it right on spec.
+Rob responded - Try looking at the choke before you start it up - just pull once on the throttle arm to see how "closed" it gets.  Then do the rest with the engine warm.
+Dave wrote - With the engine good and hot, I slapped the dwell/tach and timing light on it.  I was rather astounded at what I found, given that the mechanic my son took it to adjusted the dwell and timing.  I found that the idle was at about 1200 rpm, the dwell at 30 degrees (!), and the timing at about 10 degrees BTDC.  I'm amazed that it's running so well!
+Rob responded - Hmmm - certainly not very close to the mark.  Dwell should be 50-52 degrees of course.  The slight advance on the timing might just be the result of the rubbing block wearing which would ALSO cause the reduced dwell.  Try adjusting the points and see it that fixes both, before you touch the timing.
+Dave wrote - I tuned it completely according to our
+Tune-Up Procedure
+, then started it up.  It ran great, except it was still "cold-blooded."  So I turned the choke element counter-clockwise another eighth of an inch or so, and that, plus a tweak to the volume screw, did it!  It's running like a new car - better than it EVER has. I'm delighted!
+Rob responded - Isn't that a great feeling - I just love it when I've worked through a frustration and it WORKS :-)
+Automatic Choke -
+Dave wrote - While the car is cold, I'm going to remove the air cleaner off and check out the choke.  If the butterfly is opening too quickly, that could account for the "cold-bloodedness," right?
+Rob responded - Yes - the choke opening before the engine is really warm could cause the "cold-bloodedness" you're experiencing.  It's probably partly related to the aftermarket air filter you had which doesn't have the warm air induction paper tube - that gets warm as soon as the heads do, and helps vapourise the fuel until the engine and heat riser are fully warmed up. (I presume that the inlet warm air tube is not connected?
+~~~
+Miscellaneous
+Spark Plug Wires -- Idendifying -
+Rob wrote - One good trick I use is (once you've sorted out the leads) to wrap each lead at each end with some thin copper or other wire, plug lead #1 gets wrapped one turn, plug lead #2 gets wrapped two turns etc. and then twist the ends to gently grip the plug lead (that's why I use copper it twists easily). Do it at each end of each plug lead. Then you don't have to 'follow' leads to work out which lead is going to each plug, and if you pull off all plug leads when you change plugs you don't end up trying to put #4 lead on to #3 plug etc.
+Coil -
+Someone asked - Sometimes I think there is not enough spark.  Could you tell me how to check the coil?
+Rob responded - Pull the centre wire out of the distributor cap and connect it to a spare spark plug which has been gapped the same as the others.  Put the side of the plug on the engine case, and get someone to crank the engine (with the key in the ignition). Hold the plug with thick leather gloves or insulated pliers -- you don't want a shock.  You should get a nice stream of blue sparks (do this test in the shade or at dusk when you can see the sparks better).  A yellowish colour means the spark is not so good.  You get all four sparks that way, so more to see, and with the plug you have the right gap so it's like it would be inside the engine (near enough).
+Coils rarely go bad (I still have the 33 year old one working in my 1970 Bug).  A bad condenser is more likely (and cheaper to replace too!)
+Air Cleaner -
+Dave wrote - The mechanic that my son had work on his car didn't attach the vacuum line to the port on the intake manifold -- it was just tucked up under the clip on the air cleaner.  The new air cleaner seems to have solved the problem with oil blow-back, though.
+Rob responded - That's the vacuum switch tube for the warm-air inlet you mean? (I presume he did have the distributor advance line connected to the left port on the carby).
+If that warm-air vacuum tube was left open from under the carby, it would be causing a massive air leak - lean mixture. If it's not used, that manifold port has to be plugged. (Lean running means HOT - could that be the cause???)
+Dave wrote - I removed the air cleaner, and with the engine stone cold found the choke butterfly wide open, standing straight up!
+And the inlet warm air tube is not connected.  That was one of the things I wanted my son's mechanic to be sure to do when he installed the new air cleaner, but it didn't happen.
+Our new stock air cleaner has a vacuum line that runs down to the port on the intake manifold, right below the carburetor.  I had assumed this was to provide vacuum in the air cleaner to assure that air/oil was sucked from the crankcase, thus preventing blow-back through the crankcase vent behind the pulley.  I thought this might be the source of the oil on the engine tin, since the aftermarket air cleaner didn't provide for this.
+Rob responded - That under-carby vaccum line should be connected to a temperature sensor switch built into the standard air cleaner.  That switch has TWO vacuum line connections - the first one up from the inlet manifold, and the other to the flap in the air cleaner inlet.  So when the temp sensor is cold - the vacuum switch is open and the air cleaner flap gets vacuum and moves so that warm air is pulled up from the cylinder head area.  As the air inside the air cleaner warms up, the temp sensor closes (or partly closes) the vacuum line switch so the flap moves over for cold (or mixed) air.  This means the carby is breathing air at a near constant temp, making it easier to set the carby for just the right mixture, since they don't have to worry about air density so much.  Aftermarket air cleaners usually miss out on all that stuff.
+The other connection to the standard air cleaner is the breather from the oil filler neck, and this is a much larger pipe than the vacuum line.  The two types of connection have nothing to do with each other - the vacuum line does not create any vacuum inside the air cleaner - it just attaches to the sensor switch which looks at the air temp inside the cleaner.
+The "vacuum inside the air cleaner" you mention (for scavenging the crank case) is provided only by the carby pulling air through the cleaner.
+Dave wrote - The vacuum port on the intake manifold was plugged.  Now I have a line attached to it running up to the air cleaner (as per the original design, I think).
+Rob responded - That vacuum port can stay plugged and unused, but that would result in cold air to the carby inlet all the time (okay for warmer climates but would be a large part of the "cold blooded" problem.)  In this case, the vacuum line to the air cleaner sensor can be completly removed and the port in the inlet manifold plugged at the manifold.
+I have the older wire-pull system on my cars (attaches to the right side cooling flaps), and on Bradley that wire is missing, so I have "continuous cool" to the carburetor.  Works okay in Adelaide, but I have a little wire hook on the inlet flap I can use to shut in manually (for full warm intake) on really cold days - haven't needed it yet.  This older method gives only hot or cold (the flaps are only open or shut so the pull wire is in or out) - not mixed like the vacuum operated system can.
+* 
+                    * * * *
+Design by
+Erin

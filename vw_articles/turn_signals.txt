@@ -1,0 +1,22 @@
+Turn Signals
+Turn Signals
+~~~
+John Muir has written regarding the turn signals - When it comes to signal lights you're on your own as I can't even keep mine working properly, so I should be advising already...  Remember to check the fuses before doing anything else.  Don't be fearful, be careful.
+- How to Keep Your Volkswagen Alive -- A Manual of Step-by-Step Procedures for the Compleat Idiot, 1976 Edition, page 313.
+Dave has "Mexican-style" front bumpers on his car, which means that the front turn signal lights are located in the bumper on either side.  The car was not originally designed this way -- a PO had removed the turn signal assemblies from the top of the fenders and installed a new "Mexican-style" front bumper with the turn signal assemblies mounted right in the bumper.
+The PO had then done a very poor job of filling the holes where the assemblies had been on the fenders -- he used epoxy and lots of bondo.  Both sides were cracking badly; Dave had the paint shop weld metal inserts in place to fill the holes, with grinding and sanding to make the top of the fenders nice and smooth.
+Dave lamented, after purchasing new turn signal assemblies from XYZ - I got to looking a little more closely at the new turn signal assemblies -- they give a whole new meaning to the euphemism "XYZ JunkBox!"  Really cheap.  I'm going to modify the new lenses to fit into the old assemblies (which he did successfully).
+After blowing the ignition switch in his '73 Super Beetle (twice!), Dave replaced the turn signal switch while he was there in the bowels of the steering column housing.  The horn contact on the switch was worn completely through, which explained why his horn was so "wimpy."  See our article on
+Horn Wiring
+for more information about horn wiring.
+Someone wrote - I pull the lenses off the front turn park lights and discovered there is a big bulb and a small bulb on the housing. So I looked at the wiring and there are only three wires coming and connecting to the big bulb. I do have parking lights and turn signals from this big bulb but what is the little bulb for?
+Rob responded - In many countries, the parking lights are inside the headlights, and the headlights themselves are the bulb and reflector type similar to the old 6v style.  (This makes it VERY easy to update the headlights to 55/60w halogens - it's a straight bulb swap. :-)  With this style of lighting, the housing on the fender has only one bulb - the turn signal.
+But in the US, the 12-volt Bug's headlights are sealed beams (just the two filaments and no space for a parking bulb) and so the parking lights are moved to the housing on top of the front fenders, so you have two bulbs up there.  The smaller of the two bulbs is the parking light (probably about 4-5 watts), and the larger is the turn indicator (about 18-21 watts).
+Hopefully your wiring has grey, blue (maybe with a white stripe) and brown connecting wires (with a black wire inside the housing). The grey wire connects to the large bulb (one of the two terminals on the base) and a black wire goes from there to the small bulb (single terminal).  The blue wire goes to the other terminal on the large bulb. The brown wire is a ground wire, connecting to the side of the bulb bases.
+Someone wrote - Do you know why the right blinkers would work and not the left?  Both with the lever and with the emergency switch.  Front and back right blinkers work fine, but both left ones do not.  I have tried reversing the L-R switch wires, disconnecing the emergency switch, changing relays and bulbs, but haven't worked it out.  It is a '67 wiring system with a later 3-prong relay.
+Rob responded - My first thought -- check the ground connections.  You can get some weird effects if the ground wires are not good.
+In the tail lights you should find a brown wire screwed to the light fitting and then it relies on the metal of the fender and the fender mounting bolts to get a ground connection, so sometimes cleaning up the wire connector and one or two fender bolts will make a good connection and fix a lot of problems.
+* 
+                    * * * *
+Design by
+Erin

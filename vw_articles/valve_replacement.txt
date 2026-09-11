@@ -1,0 +1,22 @@
+Valve Replacement
+Valve Replacement
+~~~
+Changing a valve is not especially hard, but it's usual to replace ALL of the exhaust valves at the same time. They work very hard (get very hot) in the VW engine, and so if one is worn/leaking, the others are not far behind.
+Assuming the valve guides are not worn and the seats are good, the valves are replaced like this - the valve spring is compressed using a spring compressor. Alternatively, place the head on a small block of wood which sits under the valve head, then can use two flat pieces of metal on either side of the stem to compress the spring, so the two collars can be removed.  Then release the spring so the valve can be withdrawn from the head.
+Check the height of all springs (placed together on a flat surface). They should all be the same height.  If in doubt, replace the springs.
+When the new valves are in, the most important part of reinstalling the heads is the torquing of the head nuts.  There is a specific pattern for the first tightening to 7 ft-lb and then a different sequence for the final tightening to either 18ftlbs (8mm head studs) or 22 ft-lb (10mm head studs).  DON'T exceed these figures! As the head warms up the different expansion of steel and aluminium makes the heads tighten to about 70 ft-lb.  So if you tighten the head nuts any more you are liable to strip the threads in the case.
+First the 7 ft-lb sequence:  torque each of the eight nuts to 7 ft-lb in the sequence shown below -
+As you are looking at the cylinder head with the valve cover removed -
+top of engine
+7 5 6 8
+4 2 1 3
+Then torque the nuts again again to 18 ft-lb for the 8mm studs and 22-23 ft-lb for the 10mm studs, in the sequence shown -
+top of engine
+8 2 4 6
+5 3 1 7
+If you over-torque a nut, loosen them all (to not less than 7 ft-lb) and redo them in sequence.
+For information, the inlet valves do not need replacing regularly like the exhaust valves - they run much cooler and so do not age nearly as fast as the exhaust valves.
+* 
+                    * * * *
+Design by
+Erin

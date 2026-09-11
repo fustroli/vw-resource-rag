@@ -1,0 +1,814 @@
+Rear Suspension
+Rear Suspension
+See also our
+Rear Suspension Procedure
+.
+~~~
+Topics in this article -
+From the Manuals
+The Wisdom of Rob Boardman
+Independent Rear Suspension (IRS)
+Disassembly
+Repacking and Reinstalling Bearings
+The CV Joints
+Double Spring Plates
+Removing the Rear Wheel Bearings on 
+                      a Swing Axle Bug
+Rob's Wisdom Resulting from Questions -
+Swing Axle vs IRS
+Conversion -- Swing Axle to 
+                        IRS
+Shock Absorbers
+Rear Suspension Alignment/Adjustment
+IRS Adjustment
+Camber
+-Sagging- Rear End
+Lowering the Rear End (e.g., for 
+                        Sandrail
+)
+-Floating- Rear End on Ice
+Rear End -Sway-
+~~~
+From the Manuals
+Bentley -
+Each rear axle is independently sprung by means of torsion bars, 
+                trailing links (spring plates), and hydraulic shock absorbers. 
+                The wheels are driven by the double-jointed axles that have two 
+                constant velocity joints on each shaft.
+Haynes -
+All pre-1969 models, except the 1968 Super Beetle with Automatic 
+                Stick Shift, are equipped with swing axles at the rear. The 1968 
+                Super Beetle with Automatic Stick Shift and all 1969 and later 
+                models are equipped with driveaxles with constant velocity (CV) 
+                joints.
+Regardless of axle type, the rear wheels are independently sprung 
+                on all models. A splined tube welded to the rear crossmember of 
+                the frame anchors transverse torsion bars at their inner ends. 
+                The splined outer ends of the torsion bars carry hubbed spring 
+                plates, to which the axle tube (swing axle models) or diagonal 
+                arm (driveaxle models) is attached. The splined hubs at the front 
+                ends of the spring plates also allow suspension adjustment. Shock 
+                absorbers control damping.
+On 1967 and 1968 swing axle models, an equalizer spring provides 
+                additional progressive spring action to assist the torsion bars 
+                when the vehicle is loaded down. Because its operating levers 
+                slant in opposite directions, the action of the equalizer spring 
+                doesn-t affect body roll, so the front end of the vehicle is able 
+                to absorb more roll to provide improved cornering.
+On later models with driveaxles and CV joints, a pair of large 
+                trailing arms, known as diagonal arms, absorb lateral forces generated 
+                by the outer ends of the driveaxles and transfer them to the frame. 
+                The rear suspension on early and later models are otherwise fairly 
+                similar.
+~~~
+The Wisdom of Rob 
+                Boardman
+VW rear suspensions sometimes sag as the car ages, especially if 
+              it has carried a few large loads. My 1970 1500cc Beetle has carried 
+              more than its fair share of loads (I refuse to read the -maximum 
+              axle load- section of the Owner-s handbook, or it might scare me!) 
+              I-ve had to do this job twice in the 27 years I-ve owned the car.
+~~~
+Independent Rear 
+                Suspension (IRS) Rear Axle
+The IRS rear suspension first appeared in 1968 in the semi-auto 
+              Beetle. In 1969 the rest of the US Beetles got the IRS; and in most 
+              other countries, IRS became standard in 1971, although the base 
+              model 1200cc which was sold mostly in Eastern Europe remained swing 
+              axle.
+The IRS suspension consists of a stub axle to which the brake drums 
+              attaches, and a drive shaft with a constant velocity joint at each 
+              end which connects between the stub axle and the gearbox. This enables 
+              the wheels to move vertically up and down instead of swinging in 
+              an arc as per the original VW design.
+The assembly is quite strong and will give long life if properly 
+              maintained.
+Regreasing of the axles and constant velocity joints is not difficult, 
+              but it is a VERY messy job, so have plenty of rags or paper towels, 
+              and if you prefer to keep your hands semi-clean, latex gloves.
+The stub axle has two greased bearings, a roller bearing at the 
+              brake-drum end, and a ball bearing at the gearbox end. The roller 
+              bearing takes most of the up and down load, and the ball bearing 
+              takes the side thrust in cornering. There are three spacers in the 
+              assembly, consisting of a tube between the two bearings, about two 
+              inches long, and a thick ring shaped spacer on the other side of 
+              each bearing. Two grease seals fit around the outer spacers. The 
+              two ring shaped spacers each have one chamfered edge and it-s VERY 
+              important that these be installed the right way round, so the whole 
+              stack of bearing inner races and spacers makes a stack of the right 
+              length; the brake drum and 36mm nut then holding the stack together 
+              and aligning the bearings. The axle shaft itself has a flange on 
+              the gearbox side, which the CV joint is attached to, and this forms 
+              the inner side of the stack previously mentioned.
+The gearbox-side spacer has a chamfer on the inner circumference, 
+              and the brake drum side spacer has a chamfer on the outer circumference. 
+              You will understand that as soon as you see them. Both chamfers 
+              must face the gearbox, NOT the brake drum.
+The stub axle bearings are greased with Lithium wheel bearing grease, 
+               the same grease is used in the front wheel bearings, Castrol 
+              LM or similar.
+The CV joints are lubricated with black Moly grease (the pack usually 
+              says "contains 3% Molybdenum Disulphide") and is sometimes called 
+              Extreme Pressure grease, Castrol LMM or similar.
+~~~
+Disassembly
+Do one side at a time from start to finish (there-s a reason 
+                for this). Remove the hub cap and the split pin from the 36mm 
+                nut holding the brake drum. Loosen the 36mm nut, THEN jack the 
+                wheel off the ground. Support it on a jack stand (don-t trust 
+                just the jack).
+Remove the brake drum (you can leave the wheel attached if you 
+                wish).
+Now you have the wheel off for easy access, crawl under the 
+                car where you-ll see the two constant velocity joints are held 
+                by six bolts. Sometimes these will have an Allen Key head, and 
+                some have a 12-point star head. Make sure you use the correct 
+                driver--you need a good connection to re-torque these when you have 
+                finished. You may need to get a 12-point driver from a VW shop, 
+                if you car has these (most other automotive shops carry them as 
+                well). Under the bolts is a washer and a "paired" plate which 
+                fits under two of the bolts (three plates for six bolts).
+Remove the six bolts from each end of the CV drive shaft. The 
+                drive shaft will then come free very easily, and each exposed 
+                end of the CV joints is full of black grease so be warned! Lay 
+                the shaft down for the moment, and clean off all grease inside 
+                the dished CV attachment plate in both the gearbox and the stub 
+                axle (you-ll be repacking these with fresh grease later).
+Now to the stub axle. With both the brake drum and the CV/Drive 
+                shaft removed, the axle can be driven out of the assembly towards 
+                the gearbox. It's a slight interference fit, so don't beat on 
+                the threaded end of the shaft with a bare hammer. Use a block 
+                of wood or rubber mallet to drive the shaft out. If the gearbox-side 
+                spacer ring comes out with the axle, that-s OK.
+Remove the four bolts holding the cover plate in place in the 
+                middle of the brake assembly. You don't have to remove the brake 
+                shoes for this. They can stay in place so long as you take extra 
+                care not to get grease on them. The cover plate will lever out 
+                easily, exposing the roller bearing underneath, with a ring shaped 
+                spacer on the outside of it. Remove the spacer, and you-ll see 
+                the chambered outer circumference facing the gearbox. The inner 
+                race and the roller cage will then pop out very easily, leaving 
+                the outer race in the brake assembly. Inside that is the tube 
+                spacer which separates (and positions) the two bearings. This 
+                should still be surrounded by grease, and should be very easy 
+                to remove with your fingers.
+Now go to the gearbox side. There should be another ring shaped 
+                spacer sitting inside the grease seal (or it might have come out 
+                attached to the stub axle). This spacer has a chamfer on the inner 
+                circumference, facing the gearbox.
+It-s a good idea to place all these items on a rag etc in the 
+                order they are assembled, so you don-t get confused putting them 
+                back. Gently lever out the grease seal facing the gearbox with 
+                a large screw driver or similar.
+The ball bearing is one complete assembly. To remove it you 
+                have to use a drift placed through the centre of the brake assembly 
+                on to the outer race, which is held in the brake assembly by a circlip which must be removed first. Make 
+                sure you don't hit the drift on to the ball cage or inner race. 
+                All pressure should be applied to the outer race. Tap on 
+                the drift and working your way around the bearing to work it out 
+                of the housing. There are indents in the housing on each side 
+                (fore and aft direction of the car) which can help here. This makes 
+                it easier to get the drift on to the outer race.
+Clean out all the old grease, and carefully examine the outer 
+                race on the brake drum side. If it is shiny and unmarked, you 
+                can leave it there, the bearing is in good condition. If it needs 
+                to be removed, use the drift and a hammer from the gearbox side 
+                of the hole, and drive it outwards.
+Clean each component until they are completely free of grease 
+                and you can examine the bearings for marking and wear. If in good 
+                condition (bright and shiny) they can be reused. If the grease 
+                seals are in good condition they can be reused too, or you can 
+                replace them as a matter of caution.
+Take a moment to clean all the bolts and washers too. Cleanliness 
+                of all components before reassembly is most important.
+~~~
+Repacking and Reinstalling 
+                the Bearings
+Place the cleaned inner ball race in the palm of your hand, 
+                and using your other hand, place lithium wheel bearing grease 
+                in the races and work it through with your fingers. It's a very 
+                messy job, but don't skimp it. The grease must be worked right 
+                through the bearing until it-s oozing out the other side on to 
+                your palm.
+Gently tap the ball bearing back into its place on the gearbox 
+                side of the brake assembly. Only tap the outer race, not the 
+                cage or inner race. Install the grease seal.
+now insert the inner ring spacer over the stub axle (with the 
+                chamfer facing the gearbox so it mates with the chamfered join 
+                between the shaft and the CV flange, and insert the shaft through 
+                from the gearbox side (you have put the grease seal back in haven-t 
+                you-)
+Now slide the tube spacer back over the axle from the brake 
+                drum side, and you should see a space between it and the hole 
+                in the housing. This space needs to be completely filled with 
+                grease (it acts like a reservoir) keeping the grease from running 
+                out of the bearings. Using a finger dipped in the grease you can 
+                work it into the space around the tube spacer, running your finger 
+                round and round the end to work the grease deeper (if this whole 
+                process doesn-t feel therapeutic, you should be getting someone 
+                else to do the job!)
+Now put the roller bearing cage in the palm of your hand and 
+                work the grease through the bearing, as you did with the ball 
+                bearing. Once completely packed with grease, place the cage over 
+                the axle and push it home. If you-ve done it right, some excess 
+                grease will push out between the rollers. If not, pull the bearing 
+                and work more grease into the area, so when the bearing is push 
+                home the space between the two bearings is FULL of grease.
+Replace the outer ring spacer, with the chamfered edge facing 
+                the gearbox (it-s chamfered on that side so it only bears on the 
+                inner race, not on the roller cage). Insert a new grease seal 
+                into the outer cover (or just completely clean the existing one 
+                if you are reusing it), and place the cover back over the bearing 
+                and spacer. Tighten the four bolts.
+Replace the brake drum, and spin the 36mm nut on. Once the wheel 
+                is back on the ground, you-ll be able to tighten it to 217 ft-lbs 
+                and install the split pin.
+~~~
+Double Swing Plates
+Someone wrote to ask -- We have a rear end out of an old VW but 
+              it has two spring plates on each side. I have been looking for any 
+              information I could find on this type so that I know what year trailing 
+              arms to use. Can you tell us what years VW's used the two spring 
+              plates and what year trailing arms to look for that will work with 
+              this type of rear end.
+Rob responded -- The Bugs with the Independent Rear Suspension 
+              (IRS) used the double springplates on the rear suspension. These 
+              are shorter than the single springplates to suit the different 
+              brake hub assembly shape, which accomodates the diagonal link. Because 
+              of the diagonal link which is fixed to the torsion bar tube near 
+              the middle of the car, the actual torsion bar inside is mounted 
+              further outboard, and so protrudes about two inches out through 
+              the spring plate and the cover plate with the four bolts. On the 
+              swing axle models the torsion bar does not project out past the 
+              cover plate, so a quick look at the front end of the spring plates 
+              for the projection or flush torsion bar cover will tell you if the 
+              car has the twin springplates or not.
+In the U.S., semi-automatic Bugs from '68 onwards had IRS, and 
+              ALL Bugs from '69 onwards had it. In other parts of the world the 
+              semi-automatics had it from '68 and the L or S superbugs had it 
+              from '71 onwards. In some parts of the world the 1200cc base model 
+              Bug continued to be sold with the swing axle suspension and single 
+              spring plates.
+~~~
+Removing the Rear 
+                Wheel Bearings on a Swing Axle Bug
+The bearings sit on the outer ends of the axles and the inner race 
+              has a slight interference fit with the splined section of the axle. 
+              The outer race slips into the assembly in the end of the axle tube 
+              which holds the spring plate and brake assembly. This is a close 
+              fit but is "slip in". To remove the wheel bearing, there are two 
+              methods.
+The VW way is to use an "inside" puller which grabs the inside 
+                of the bearing race, between the balls, and withdraw the complete 
+                race that way. It's not a real tight fit in the end of the axle 
+                tube. It's an easy job if you can find/make a suitable puller 
+                -- you could try
+Aircooled.Net
+or someone like that.
+If you don't have an inside puller, this second method will 
+                work. It uses the axle tube as a "ram" to push the bearing off 
+                the axle. You need to remove the complete axle tube assembly (including 
+                the backing plate and hydraulic line, and release the rubber boot 
+                at the inner end of the axle tube. There are spacing rings on 
+                both sides of the bearing, so remove the outer one (its a firm 
+                fit on the axle but you can (gently) use a screw driver as a wedge 
+                between it and the bearing to get it moving off the shaft. I say 
+                gently as there is also a thin metal washer between the spacer 
+                ring and the bearing, and you don't want to damage it.
+The axle itself is held in the gearbox by a large retaining 
+                ring and circlip. Stand the axle tube assembly up with the brake 
+                assembly upwards. Then using a large hammer, and using the shock 
+                absorber lower mounting horn on the axle tube as a handle to hold 
+                the axle tube steady, beat that fitting outwards, trying to force 
+                it off the axle. It takes some doing, and you have to be careful 
+                to hit the axle tube assembly squarely on the inner side so you 
+                don't damage it, but eventually the axle tube, with bearing in 
+                the end of it, will be forced outwards over the splined end of 
+                the axle. Once you've moved it about an inch it will become easier 
+                as the interference fit for the bearing is at the inner end of 
+                the splines only.
+To get access to the bearing you need to remove the brake drums, 
+                and then the shoes. The slave cylinder and backing plate can stay 
+                on, unless you have to remove the whole thing from the car as 
+                described above, then you'll need to disconnect the brake lines 
+                (and re-bleed them after re-assembly).
+There are four bolts holding the bearing retaining plate in 
+                place. Remove them and pull the plate clear. There is a paper 
+                seal and an O-ring which will need replacing, and there should 
+                be a larger spacer washer in there too. Take note of how everything 
+                fits so you can re-assemble it the same way.
+The retaining plate has an oil drip hole at the bottom, so any 
+                leakage from the bearing will drip out through the backing plate 
+                and not on to the brakes, and so you must place the plate the 
+                right way round when reassembling. Make sure the O-ring is not 
+                twisted. You'll get some smelly geabox oil on you with this job. 
+                 The downward angle on the axle tube (positive camber) is designed 
+                to hold a small pool of gearbox oil behind the bearing for lubrication. 
+                If you can lift the side of the car high enough so the oil flows 
+                back to the gearbox you'll reduce the mess a little.
+When reaseembling with a new bearing, make sure the inner spacer 
+                has the chamfered edge facing the gearbox, or you'll have to remove 
+                the whole thing again to get it put back in the right way. These 
+                spacer rings provide the positioning function for the bearing.
+Putting a new bearing in is easier. Find a tube a little larger 
+                than the axle splines, and use that to drive the new bearing home 
+                over the splines.
+Renew the oil seals (never try to re-use them) and make sure 
+                the drain hole in the bearing retaining cap (with the four bolts) 
+                is clear.
+You can adjust the rear wheel bearing position a little using 
+                the paper washer under the outer bearing retainer (with the four 
+                bolts). A thinner paper washer will push the bearing inwards a 
+                few thousandths (it allows the outer retaining plate to move towards 
+                the gearbox), or if necessary, remove the paper washer all together 
+                and use the thinnest layer of gasket goo you can.
+- Rob Boardman
+March 2002
+~~~
+Swing Axle vs Independent 
+                Rear Suspension
+Most people think that the Super and Standard are identical from 
+              the dashboard rearward. This is not exactly true. All pre-1969 models, 
+              except the 1968 Super Beetle with Automatic Stick Shift, are equipped 
+              with swing axles at the rear. After 1969 both have independent rear 
+              suspension. If ancient memory serves, yours will have an additional 
+              link rod, which starts at the inner ends of the torsion bar housing 
+              (near the front end of the gearbox), and runs out at about a 45-degree 
+              angle (relative to the car's centreline) to the outer CV joint housing/brake 
+              assembly. So on the swing axles, location of the axle comes from 
+              the axle itself (location across the car) and the spring plate (location 
+              along the car). On yours, the diagonal link provides location across 
+              the car and the spring plate provides location along the car. If 
+              that ancient memory serves, this is so the IRS axle can slide in/out 
+              as it's two joints work up/down. My axle is of course rigid at the 
+              outer end.
+All '70 manual Beetles in Australia are swing axles. In the US, 
+              '68 semi-autos got the first IRS and then all Beetles in '69. In 
+              Australia, '68 semi-autos got IRS, then all Beetles in '71.
+~~~
+Conversion -- Swing 
+                Axle to
+Independent Rear Suspension
+A question was posed regarding the whether the transmission from 
+              a '73 Standard Beetle could be used in a '66 Bug and whether the 
+              axle lengths are close enough without having to swap them out or 
+              get them cut.
+Rob wrote to say that he's never done this kind of swap, but it's 
+              a fairly big job.
+The '73 has IRS suspension, so to use the '73 transmission you'd 
+              need to convert the '66 to IRS. The IRS transmission can't be used 
+              with swing axles. This involves welding the diagonal strut supports 
+              to the inner sides of the torsion bar tube, and using the '73 torsion 
+              bars and fittings. It needs a proper jig to weld those supports 
+              in straight, not a "home" job.
+The '73 transmission will fit into the '64 Bug but you need the 
+              later style cradle (between the horn ends) so you can use the later 
+              rear mounts. I think the whole transmission nose cone might need 
+              to be changed too (to the earlier one) the front mounts are different.
+If only one of the cars is going to go on the road, an easier solution 
+              might be to put the '66 body on the '73 floor pan.
+If you had a '68 1500cc gearbox it would fit straight in, and give 
+              you better gearing than the '66. The '66 1300cc used 0.98 4th and 
+              4.375 final drive. The '68 swing axle 1500cc gearbox (also the '69 
+              and '70 swing axles in Europe and Australia -- USA had IRS then) 
+              has 0.98 4th and 4.125 final drive. The '73 box has 0.93 4th and 
+              3.88 final drive.
+'66 1300cc -- 3400 @ 60mph
+'68 1500cc -- 3200 @ 60mph
+'73 1600cc -- 3050 @ 60mph (all approx.)
+~~~
+A similar question came in -- I bought two IRS transaxles; I didn't 
+              know if there was a difference about the swingaxle or IRS. All I 
+              want to do is bolt the IRS up and take the swingaxle out.
+Rob responded -- It is possible to convert the swing axles suspension 
+              to IRS, but it's complicated because on the swing axle models the 
+              axle itself is part of the wheel hub locating system, but on the 
+              IRS there is an extra Z shaped support for the brake/hub assmembly. 
+              This support is attached to the inboard sides of the torsion bar 
+              tube, and this support must be carefully welded into position as 
+              part of the conversion. The axles in the IRS suspesnion do not form 
+              part of the wheel hub support. The axles "float" between two CV 
+              joints.
+So you can NOT just "bolt up an IRS suspension" it's much more 
+              complicated than that.
+~~~
+Rear Suspension Alignment/Adjustment
+Someone asked -- I have a sand rail and the rear tires drag and screech 
+              down the road. The rear tires are running outwards when rolling 
+              down the road not straight down the road. I have been told my trailing 
+              arms might be bent, like it was slammed against a tree or curb. 
+              Is there any way to fix this; that is, to "align" the rear suspension-
+Rob responded -- There certainly is -- for toe-in/out anyway. The 
+              track (toe-in/toe-out) is adjustable over a small range on the VW 
+              rear suspension. The trailing arms are connected to the brake hub 
+              assemblies on elongated bolt holes. The correct amount of toe out 
+              (yes, toe OUT) is 0.5 degrees (about 1/8th inch difference at the wheel 
+              rims front and rear side of the axle), so when the wheels are under 
+              power the tyres tend to push the axles forwards and run parallel.The 
+              spring plates have elongated holes in the rear end, so the brake 
+              assemblies can be moved back/forward a small amount.
+Note:
+The spring plates are the flat metal pieces which 
+              attach to the torsion bar at the front and the brake hub at the 
+              back -- they are the "lever" which twists the torsion bar. They 
+              are called spring plates as on the swing axles models they have 
+              to twist (spring) as the wheels move through their arc of travel. 
+              When the spring plates are badly out of adjustment the car LOOKS 
+              like it's squatting at the rear.
+There are three bolts (or is it four on the IRS suspension-) just in front 
+              of the rear brake hub. Have a look at it when you have the engine 
+              out. You could try laying a long straight edge along the rear 
+              wheels and comparing with the outer edge of the running board. This might give you some indication of a misalignment. It won't 
+              be much -- the elongated holes allow for only about 1/2 degree total 
+              movement.
+The correct alignment is about 1/8-inch toe OUT on the rear (and 
+              about 1/8-inch toe in for the front). This is for radial tyres. 
+              For the older cross plies -- it's 1/4-inch instead of 1/8-inch (both 
+              ends).
+The rears are under power, so trying to force the axles forward 
+              into parallel alignment, and the front tyres only have rolling resistance, 
+              which tries to push the wheel backwards into parallel. That's why 
+              the toe-out at the rear and toe-in at the front.
+Some front drive cars use toe-out at the front for exactly the 
+              same reason. The power through those wheel tries to push them forward 
+              into parallel alignment.
+If the amount of adjustment is not enough to correct your problem then the most likely cause is the torsion bar tubes getting bent and allowing the trailing arms to move rearwards.  A really hard knock (like running hard over a large rock etc which either catches on the tubes themselves or causes a real shock at the front of the wheels) might be enough to bend the torsion bar tubes backwards.  If that's the case you might be able to see the misalignment by looking along the torsion bar tubes. They should of course be exactly at right angles with the centreline of the car.
+That's a difficult job to correct and would probably need a specialist suspension place to correct it.
+It's much less likely to be the trailing arms themselves.  You'd be able to see clearly if one or other side HAD been bent. They are straight flat plate arms, and in any case bending one of those would move the axle forwards, not backwards, so you'd have that side toe-in and the car would be crabbing down the road.
+Someone wrote -- I've noticed that the right rear end was sitting a little 
+              squat. I felt like I even noticed it while I was driving it.
+Rob responded -- You certainly can feel it once it gets bad. The back end 
+              feels a little squirly or wollowy.
+Question continued -- Slowly and carefully, we pulled the spring 
+              plate off the end of the torsion bar and rotated it counterclockwise 
+              what I believe was one notch. In rotating it counterclockwise, we 
+              dropped the rear (rear is rear of car) end of the spring plate closer 
+              to the ground. That was all we did. Now after reading your procedure, 
+              something tells me that we completed only half of the procedure. 
+              It sounds like we should have pulled the spring plate along WITH 
+              the torsion bar out, and the other end of the torsion bar which 
+              would be somewhere around the middle of the car, which has less 
+              or more splines, should have been rotated the opposite direction 
+              one notch.
+Rob -- The inner end has 40 splines and the outer 44, so one spline 
+              down on the outer-only results in 8.1 degrees of spring plate movement 
+              -- that's a LOT.
+Question continued -- It gets you to a halfway point between the 
+              two points that the first rotation will give you.
+Rob -- Not half way, but you have the gist of it.
+Continued -- If the first rotation between two notches will give 
+              you one inch, but you need to be at only half an inch, you have 
+              to rotate the thing the opposite way to get back to the half inch 
+              point. The question I have is....how do you get the torsion bar 
+              and the spring plate out a bit at the same time- I think that the 
+              spring plate came off without pulling the torsion bar out at all.
+Rob -That's normal. What I do is leave the rubber bush on, and 
+              pull it just enough so I can get my fingers behind and grab the 
+              torsion bar, then wiggle the whole thing and pull out the spring 
+              plate, bush AND the torsion bar, and rotate the rear of the torsion 
+              bar one notch on the inner spline -- that's about 6-8 inches at the 
+              rear of the spring plate (I forget exactly, but it's 9 degrees exactly).
+Then push the whole assembly back on to the inner spline, and then 
+              pull the bushing etc off the outer end of the torsion bar and rotate 
+              it back up one outer spline (8.1 degrees), which will result in 
+              the rear of the spring plate now sitting just a little lower than 
+              before -- maybe an inch.
+If you do the whole procedure again you'll see that you can lower 
+              the rear of the spring plate (which raises the car) by about 1-inch 
+              per down-and-up rotation.
+You are looking for an angle of about 21 degrees on the spring 
+              plate (body level). This varies a little froom model to model, but 
+              that angle gets you in the ball park.
+If you have trouble with the "grab the torsion bar with your fingers" 
+              method, then no problem. Just note the height of the rear of the 
+              spring plate off the floor prior to removing it, then pull the spring 
+              plate right off the torsion bar, grab the torsion bar by the outer 
+              spline, pull it out a few inches and rotate it one spline "rearwards" 
+              (top to the rear). You can mark the end of the bar with some white-out 
+              etc to make sure you can see that it's rotated. You can actually 
+              feel the spines "latch" if you are careful, so you can feel for 
+              one notch only. Then reattach the spring plate so that the outer 
+              end is only about an inch or so lower than before. If you get it 
+              wrong, the spring plate will be either WAY too high or WAY too low 
+              compared to the original height, so it's easy to tell if it's right.
+Question -- Even if I can get the torsion bar out, how do you know 
+              how many splines you have rotated since the other end of it is back 
+              in the tube where you cannot see-
+Rob -- You do it by feel, since on inner spline is 9-degree rotation 
+              and it's easy enough to guess about 10 degrees, so you know when 
+              you get it back in that it has to be right. Taking note of the height 
+              of the rear of the spring plate for each movement helps too.
+It's almost impossible to rotate is MORE than one notch up or down 
+              at a time. The spring plate will be almost 45 degrees down with 
+              two rotations on the inner spline by istelf (18 degrees plus it's 
+              initial downwards angle).
+In other words, as you do it it becomes "natural" if you keep an 
+              eye on the height of the rear of the spring plate, and always do 
+              "one down one up" as a complete rotation.
+~~~
+IRS Adjustment
+Someone asked -- I have a 1972 VW Bug with IRS suspension. Working 
+              down through your
+Rear Suspension Adjustment
+procedure, is there anything which is under tension and might spring 
+              out- And how do the 14 steps of the procedure change with an IRS 
+              suspension- I need to raise the rear 2" (yeah, it really sags, and 
+              the muffler practically drags on every driveway I come to), how 
+              many rotations do you estimate I need to make-
+Rob -- When you lift the car the spring plates descend until they 
+              sit on the stop-lip which is part of the assembly attached to the 
+              torsion bar tube. This means they are still under a lot of tension 
+              -- wanting to descend more. At the point where I describe jacking 
+              up the spring plate, then pulling the plate outwards off the stop 
+              lip is where you take a little care. If you just lever the plates 
+              outwards at that point, they will spring straight downwards off 
+              the stop lip with tremendous force (over 600-lb tension).
+If the car is on jack stands, the back end of the spring plate 
+              won't hit the floor or anything like that, but it's much better 
+              to do the job with a jack and control it's descent. Then you have 
+              control, rather than the car having control.
+Nothing springs outwards towards you, and once the spring plate 
+              has no tension, everything can be pulled free reasonably easily. 
+              The large rubber bushes at the forward end of the spring plate do 
+              restrict sideways (away from the car sideways) movement a little, 
+              but not too bad. Use talcum powder as a lubricant if needed to 
+              get the spring plates back over them.
+The only part of the procedure which changes for IRS is that the 
+              bolts holding the spring plate are forward of the axle, rather than 
+              over and under the axle (the spring plate is a little shorter on 
+              IRS models). You possibly may not have to loosen the hand brake 
+              assembly on the IRS models, since the axle does not have to be pulled 
+              clear so much to the rear. I haven't had to do this job on my '68 
+              Bug (a converted semi-auto with IRS) yet, but you'll see the bolts 
+              just forward of the brake assembly which attach the spring plate.
+On the IRS models, the torsion bar actually projects right through 
+              the cover over the torsion bar tubes near the front of the fender, 
+               but the job doesn't change there at all (it does if you have to 
+              REMOVE a torsion bar, but not with this job).
+You'll probably need TWO "one up one down" rotations" to get that 
+              much sag out. You have to do each rotation as a "one up one down" 
+              complete, as the spring plate changes about 9 degrees with each 
+              part of the movement (9 degrees down on the inner splines, then 
+              8.1 degrees up on the outer splines to give a 0.9 degree lift to 
+              the car), and the spring plate can't move much more than this -- 
+              in other words you can't do 18 degrees down then 16.2 degree up 
+              in one movement. Hope that makes sense. If you have the car level 
+              on the jack stands, you are looking for a downward angle on the 
+              spring plates of about 21 degrees. But if your complete car is a 
+              lot lighter than the Beetle, that setting may not work. You may 
+              need one rotation LESS than 21 degrees, as that setting suits the 
+              1800-2000 lb weight of the normal Beetle.
+Don't worry if the angle is slightly different on each side. Just 
+              get them as close as you can. The torsion bars never sag at exactly 
+              the same rate, so exactly matching them is not possible, but so 
+              long as they are close, you can't see the difference from behind 
+              the car.
+Question -- My Bug was lowered in the rear so I raised it two splines 
+              or three inches. The swing arm seems to rest in the middle of the 
+              rear end plate and there seems to be the same distance from the 
+              center of the axle to the bottom of the wheel well on both the front 
+              and rear. What is the stock height of a '67-
+Rob -- 20cm (around 7.8 inches), measured under the lip of the floor 
+              where the line of body attachement bolts are fixed (the ride height 
+              for all standard Beetles is the same). The bottom of the running 
+              board should be the same height if it's attached correctly, so you 
+              can use that as a quick check.
+The floor should be level, so you can measure it under the front 
+              of the door, and then again just in front of the rear wheel well 
+              and get an idea if it's still sagging at the rear. It sound's like 
+              you have it about right though.
+Question -- Should the wheel well be a good measurement (are to 
+              bottom to the wells parallel-).
+Rob -- I'm not sure about that, but that bolt-line lip under the 
+              floor should be level from front to rear.
+~~~
+Camber
+Dave wrote, I seem to recall something a mechanic did for me on 
+              my '65 Bug that he called a "Hunter alignment." The rear wheels 
+              were pigeon-toed too far in at the bottom and were wearing out prematurely.
+Rob -- That's camber your talking about now. Shouldn't be a problem 
+              with the IRS suspension, since this keeps the wheel near vertical 
+              all the time, unlike the swing axle cars which change camber all 
+              the time.
+You need to take the car to a wheel alignment place that connects 
+              front and rear to align all four wheels -- they need to be done together 
+              so the car doesn't end up crabbing sideways.
+Question -- The way the car sits now, the right rear is raised slightly 
+              higher than the left side, but not as much as the right rear was 
+              sagging from the left side, so that leads me to believe that doing 
+              the other half of the proceedure may just put it where it should 
+              be, also bringing out the bottom of the tires a bit. I'm not sure 
+              if positive camber is where the tires look like this \ /, or this 
+              / \.
+Rob -- Positive camber means the bottoms are in and the tops are 
+              out (your first example).  Another way of thinking of it is that 
+              the axles tubes should have a slight downward angle from gearbox 
+              to brake drum, with the car sitting on the road. Actually about 
+              2 degrees or so. This angle also ensures that some gearbox oil pools 
+              behind the rear wheel bearings. That's how they are lubricated 
+              on swing axles Beetles.
+Question -- Before we attempted the procedure... | |, pretty much 
+              straight up and down, but with the right rear sagging a bit. This 
+              is what they look like now...\ /, with the right rear slightly raised 
+              higher than the left side.
+Rob -- That's the right way round -- now you just have to even them 
+              up. It's impossible to get it absolutely even, since the torsion 
+              bars always sag at fractionally different rates, but so long as 
+              the ends of the spring plates are within about 1/2 inch in height, 
+              then the car will look fairly even on the road. I would tend to 
+              put the "high" side on the curb side of the car, if I had a choice, 
+              as this will make the car sit a tiny bit flatter on the road.
+Question -- The rear wheels have a slight positive camber now.
+Rob -- That's how it should be. Besides the suspension geometry 
+              then being right, it also ensures that a small pool of gearbox oil 
+              remains behind the rear wheel bearings, so they don't ever run dry 
+              (I've had my 1970 Beetle since new, and it still has it's original 
+              rear wheel bearings after 248,000 miles). With a lowered rear end 
+              (negative camber), those bearings will only get a splash of oil 
+              in prolonged cornering, when any oil in the axle tubes is forced 
+              outwards.
+~~~
+"Sagging" Rear End
+Someone wrote -- As I look at the car sitting out there at the curb 
+              in front of the house it looks too low in the rear to me.
+Rob -- The simple test is to look at the car from the rear. If the 
+              rear tyres are out at the bottom and in at the top, it's sagging. 
+              The correct angle has a very slight positive camber bottom fractionally 
+              in, top fractionally out. In fact on the swing axle models the book 
+              says (from memory) the axles should have about a 2 degree downward 
+              angle from gearbox to brake hub. This arrangement makes sure that 
+              some gearbox oil is always sloshing about behind the rear wheel 
+              bearing. That factor doesn't apply to the IRS course (open axles 
+              and greased wheel bearings), but I think the axle angle is the same.
+It's a very straightforward job; see the
+Rear 
+              Suspension Adjustment
+procedure is on our site. The main assistance 
+              tool is the trolley jack (for lifting the spring plates before prying 
+              them outwards off the stops), and you have one of those. Some guys 
+              talk about "levering them out and they spring down with a huge bang 
+              that'll break your leg ...." but that's totally unnecessary with 
+              a trolley jack to help.
+Allow about four hours the first time you do it. Both sides should 
+              be done at the same time or the car will be cocked up on one side 
+              until you get to the second side.
+The IRS wheels move vertically so they WON'T show the camber like 
+              the swing axles do. You have to put a spirit level on the axle itself 
+              -- it should have a slight downward angle from gearbox to wheel 
+              about 2 degrees. Or put the spirit level on the bottom of the door 
+              jam with the car on level ground, to see if the back is lower than 
+              the front (though this test won't actually show much of an angle 
+              unless the torasion bars are REALLY tired and the back suspension 
+              feels mushy).
+I don't know about your spirit levels, but ours have 4 lines on 
+              the glass. It's level if the bubble is inside the inner lines, and 
+              1 degree slope if the bubble is touching one of the outer lines. 
+              Very useful measurement. One these levels, 2 degrees would have 
+              the bubble about half way past the outer line.
+Someone wrote -- I have a '73 convertible that has a pretty good 
+              sag in the rear. I noticed that there are some sort of tube extensions 
+              as part of the cover plates, and I was wondering what these are- 
+              Is the adjustment to increase the tension on this '73, the same 
+              as your text description-
+Rob -- The extensions on the cover plate are used on all Bugs with 
+              IRS suspension, since the diagonal brace mounts to the torsion bar 
+              tube centre, where the inner splines would have been on the earlier 
+              models. They just moved the bar outwards a bit, so they project 
+              through the cover plate.
+The procedure is exactly the same. But you'll note that the bolts 
+              holding the spring plate to the brake assembly don't "cup" the axle 
+              tube like they do on the swing axle model. The bolts are forward 
+              of the axle itself might make it a little easier to remove them. 
+              I don't think the brake assembly has to be pulled as far to the 
+              rear to clear the spring plate end.
+Make sure you clearly mark the position of the spring plate and 
+              brake assembly so you can line them up afterwards, otherwise you'll 
+              have the car crabbing with badly aligned rear wheels. The correct 
+              alignment is between 0 and 0.5 degrees toe OUT if you do need to 
+              get the rear wheels re-aligned.
+You might have trouble re-attaching the cover plate. If you do, 
+              find a couple of longer bolts to get the plate started, them replace 
+              them with the correct length bolts once you've got two normal ones 
+              on -- hope you follow that OK. Work at the bolts a couple of turns 
+              at a time each so the plate doesn't get distorted.
+~~~
+Lowering Rear End 
+                (e.g., for Sandrail)
+Someone wrote -- I believe I have about an 1969 or 1970 volkwagen 
+              that has been converted into a sandrail. My question to you is I 
+              want to try and adjust the rear spring plates that come off the 
+              torsion bar that run across the car. I need the car to sit lower 
+              in the rear end so that the rear axle is more level to the rear 
+              transmission housing, I am finding that the rubber boots that go 
+              from the axle and wrap to the transmission housing seem to wear 
+              very quickly and the of course I ave fluid leaks, secondly the weight 
+              of the axle seem to rest on the horns of the car and has put stress 
+              on them to the point where it has cracked them. I have read on your 
+              web site (which has been extremely helpful in the past) on how to 
+              accomplish this procedure, my question is how much tension is on 
+              those springs and will a 2-ton trolley jack be enough to how the 
+              tension- Next, are those springs going to come flying downward and 
+              cause damage, and at what point will I know if it is safe to remove 
+              the cover on the torsion bar, is the tension on the springs released 
+              when I slowing let the jack down or is there is more tension on 
+              the springs. Finally, how do I put more tension back on the springs 
+              when I have adjusted the setting, since I am not working with a 
+              lot of weight as the body of the car has been removed to be converted 
+              to a sandrail-
+Rob -- If you just lever the spring plate out off the stop lip then 
+              they will let go with a huge bang that they will break your leg 
+              or anything else which is under it. Each spring plate has about 
+              600-700 lbs spring weight behind it.
+So the trick is to jack it up and down with a trolley jack (a 2-ton 
+              one is just fine) or a bottle jack so you can control the motion.
+With a normal Beetle, the weight of the car as you jack up under 
+              the rear end of the spring plate is enough to allow the spring plate 
+              to lift off the stop lip. Then you can remove the cover plate bolts 
+              and lever the plate outwards a few mm clear of the lip, and then 
+              lower the jack. The spring plate should then rest at about a 20 
+              degree down angle (assuming the floor of the car is level).
+Lifting the plate is just the opposite. You jack it up just past 
+              the stop lip and then tighten the four bolts on the torsion bar 
+              cover plate to pull the spring plate back into place above the stop 
+              lip. It's handy to have a couple of slightly longer bolts for the 
+              cover plate for this job. The normal ones are only JUST long enough 
+              to get the threads started (usually). Once you've pulled the cover 
+              plate partly in with the longer bolts you put the normal ones in 
+              the other holes then remove the long ones and replace them with 
+              the normal ones. Hope that makes sense.
+Since the sand rail is much lighter you might have to weight the 
+              rear of the car somehow so the car will sit still whilst you jack 
+              each spring plate up. Pehaps you can sit the car on axle stands 
+              under the torsion bar tube and get a couple of mates to hop on top 
+              of the rear of the car as you jack/release the spring plates-
+With each spring plate at rest (approximately a 20-degree angle), 
+              you then do the one-up-one-down rotation as described in the
+rear 
+              axle
+article on our web site but do it in reverse so the spring 
+              plate now sits at a lesser angle (19 degrees, 18 degrees etc).
+Depending on the weight of the car over the rear axles you might 
+              need to do the rotation thing two or even three times till the spring 
+              plates no longer sit hard on the stop lip with the car at rest on 
+              it's wheels. The spring plate should really only ever contact the 
+              lower stop lip if the rear wheels come off the ground.
+I'm guessing that you have a very harsh ride at the moment as the 
+              springs will be set for a much heavier body.
+Once you've got the ride height a little lower the axles should 
+              be at a flatter angle and hopefully you won't wear out the rubber 
+              axle boots so often.
+~~~
+"Floating" Rear End 
+                on Ice
+Question -- I have a '74 super Beetle and driving in icy conditions 
+              the rear of the car feels like it is floating. I have driven Bugs 
+              in the past and not noticed this behavier. Could it be something 
+              in the front or rear suspension-
+Rob -- I don't have any definitive answers, as I've never driven 
+              on icy roads and rarely driven on snow (most areas of Australia 
+              of free of snow and ice).
+A couple of thoughts though...
+Is the rear suspension sagging..is the bottom door sill level 
+                with the ground or does the car sag a little in the rear. This 
+                will make the car feel a little "soggy' and icey conditions might 
+                make it more noticable. There is a "sagging rear suspension-" 
+                article on our web site should you find this a problem.
+Shock absorbers. If they are old and worn, this would show up 
+                more on ice than on nice dry roads; the shocker's job is to smooth 
+                and bumps and keep the wheel on the road surface as much as possible...if 
+                they are worn they'll let the wheel bounce off the road/ice more 
+                than necessary and with the already poor traction on ice this 
+                would be more pronounced.
+I guess it's also worth checking type pressures and tyre type. Hopefully suited to ice and snow.
+~~~
+Rear End Sway
+Question -- When I drive at higher speeds or when the wind blows 
+              it feels like the rear end is swaying. I know there are bushings 
+              on the spring plates and on the trailing arm. Is there anything 
+              else in the rear suspension that could cause the problem above- 
+              Also when I wiggle the rear end by hand it seems to sway more than 
+              it should and more than the '72 Beetle I also have.
+Rob -- There are three main pivot points on each side of the superbug 
+              suspension, and wear in any one of them might result in the symptoms 
+              you describe.
+There are the bushes in the spring plates (which you mentioned), 
+              and there are bushes at both ends of the diagonal link (which looks 
+              more like Z than a diagonal...running from the torsion bar tubes 
+              to the brake hub assembly). These three buses and the three linking 
+              components (spring plate, torsion bar tube and diagonal link) form 
+              the positioning system for each rear wheel.
+The only other possibility I can think of is the axle nut being 
+              loose and allowing the two wheel bearings in the brake hub assembly 
+              to move (the axle nut holds the whole stack of stub axle, bearing 
+              races and spacers tight), or, just a faint possibility...that the 
+              splines on the axles stub have worn and are allowing the brake drum 
+              and wheel to move on the axle (this is unlikely to cause the symptoms 
+              you describe).
+The CV joints do not play any part in keeping the axle/wheel assembly 
+              aligned, as they free float on the floating axle between the gearbox 
+              and the brake drums assembly, so you can eliminate these from your 
+              considerations.
+* 
+                * * * *
+Design by
+Erin

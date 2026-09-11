@@ -1,0 +1,34 @@
+Installing New Brake Hoses
+New Brake Hoses
+Installation Procedure
+~~~
+Being flexible, rubber brake hoses are much more subject to wear than brake lines.  The hoses should, therefore, be inspected very carefully every time routine maintenance is being carried out.
+~~~
+To remove the old brake hoses:
+Note:
+Bentley says to remove the road wheel, but I had good success with simply raising the car and placing it on jack stands, allowing me to turn the wheels fully in either direction.
+Place a flat metal drip pan (or equivalent) on the floor directly under the area to keep brake fluid off of the floor.
+Carefully unscrew the union that holds the rubber hose to the metal brake line coming from the master cylinder.  I found that an 11-mm line wrench on the metal line works best (the same one you used when you removed the lines from the master cylinder so you could replace it!).
+Locate the two brackets that hold either end of the rubber brake hose to the frame or axle, at the fittings.  Remove the steel spring clips from the two hose brackets by pulling them straight out.
+Pull the rubber hose off the metal line from the master cylinder and (Bentley says), plug the line with a brake bleeder dust cap.
+Note:
+I didn't have much success plugging the line with a brake bleeder dust cap (actually, I used a grease fitting cap, which works well on the brake bleeder).  The end of the metal brake line is larger than the brake bleeder, and I couldn't get it on.  No big deal, really  it won't be open for long.
+Unscrew the metal end of the line from the wheel cylinder.  Again, an 11-mm line wrench works best for this.
+Now you have in your hand a piece of brake line consisting of two parts  a metal part and a rubber part.  Disconnect the metal line from the rubber hose; discard the rubber hose, as this is the part you are replacing.
+~~~
+To install the new brake hoses:
+Obtain a new hose of the correct length.  I replaced mine with braided stainless steel encased teflon lines.  I know, they're not stock, but they look nice, they provide improved braking performance, and they will certainly outlast me!
+WARNING
+from Bentley:  If the hose is too long, it may rub the wheel or moving suspension parts.  If it is too short, it could break when drawn tight by the wheel travel or steering movements.  In either case, partial brake failure could result.  Hoses must never be painted, and they can be damaged by grease, oil, gasoline, or kerosene.  Brake hoses that bulge or appear oil-soaked or cracked must be replaced immediately.
+Attach the new hose to the metal brake line that you just removed from the car.  DO NOT TIGHTEN THIS CONNECTION YET  keep it loose so that the two pieces are free to rotate relative to one another.
+Install the metal brake line to the wheel cylinder, and tighten it to 11-14 ft-lb.
+Twist the two pieces of the brake line (metal/rubber) at the loose fitting so that the fitting on the end of the new hose will rest securely in the bracket.  There is a groove in this fitting; slide the clip into this groove on the bottom side of the bracket to hold the brake line firmly in place.  If these clips are missing, replacements are readily available at most auto parts stores.
+Run the new brake hose up and around to the other bracket and secure the fitting on that end to the bracket with the clip.  The hose must curve up or down (depending on your model of Bug) and be free of twists with the wheels pointing straight forward.
+Attach the other end of the new hose to the metal line from the master cylinder, and torque the connection to 11-14 ft-lb.
+Now that both ends of the hose are secure in the brackets, tighten the connection between the new hose and the metal line to the wheel cylinder, torquing this connection also to 11-14 ft-lb.
+Check the hose position and the routing in all steering and suspension travel positions to make sure it doesn't kink.  It will bend around as the wheels turn, but that's what it's designed to do.  Just make sure it doesn't kink or rub on anything.
+When you have replaced all of the hoses, thoroughly bleed the brakes several times to assure that all air is out of the system.
+* 
+                    * * * *
+Design by
+Erin

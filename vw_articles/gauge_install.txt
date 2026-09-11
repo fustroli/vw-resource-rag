@@ -1,0 +1,47 @@
+Oil Temperature Gauge
+Oil Temperature Gauge Installation
+~~~
+Dave installed an oil temperature gauge in his '73 SB.
+This procedure was generated as a result of that experience.
+See our
+Discussion of Gauges
+,
+including a
+Gene Berg Assessment
+.
+~~~
+Note:
+The oil temperature should not exceed 235 F (113C) -- if the temperature is higher than this, the heat can cause case studs to pull out, head and case sealing surfaces to warp, cases to be internally distorted, permanent case metal fatigue and engine bearings to wear prematurely.
+Gauge Installation Procedure:
+Install the oil temperature sender.  There are two types -
+The oil sump plate center.  This requires the drilling of a hole in the sump plate.
+The oil relief plug sender.  This sender replaces the oil relief plug and thus can be used only in dual oil relief systems.  This is the type we installed in our '73 SB.
+Remove the rear seat bottom and pull the seat back down. Locate the rearmost part of the pan where the sheet metal slopes upward.  Pull back the insulation and drill a small hole just below the point where the pan levels out.
+Run one end of a long wire down through the hole you just drilled (from inside the car).  Route this wire down to the sender, taking care that it does not hang loose.  Connect the wire (with an insulated female spade connector) to the sender. Seal the hole you drilled with a suitable caulking material.
+Run the wire forward underneath the carpet to the area underneath the dash.
+Note:
+You've probably already discovered that working up under the dash is a bit of a nightmare.  You must remove the driver's side seat, but then you have the front seat support to contend with.  I found a piece of heavy plywood to lay across the seat support to be very helpful.  It's still a pain working under the dash, especially if you're kind of a big guy like me, and if you wear bifocals.
+Find a good location for the gauge.  In our SB, we cut a 2-1/16" hole in the panel immediately to the left of the steering column.
+Note:
+We did this by scoring the outline for the hole in the plastic, then drilling numerous holes (1/8") all around the inside of the scored marking.  This is difficult with a power drill, as access is limited.  We found a right-angle attachment on the drill to be very useful.  With these holes drilled all around the inside perimeter of the hole, we cut between the holes with a hand-held coping saw blade.  We smoothed out the edges of the hole with a round file.
+Connect the wire from the sender to the rear of the gauge on the terminal marked "S."
+Note:
+There is a collar that screws onto the body of the gauge from the rear, tightening it into place.  Make sure that all the wires run through this collar properly before making the final connections.
+Connect a wire to the terminal marked "+" on the rear of the gauge.  Connect another wire to one of the two terminals on the light socket.  Splice these two wires together and connect them to Fuse #11 (the horn fuse) with a female spade connector.  Wired this way, the gauge will receive power only when the ignition switch is turned on.
+Note:
+Attaching the wire to the fuse is a real pain.  I already had the radio connected to this fuse to assure that it turned off when the ignition is turned off, so I had to use an adaptor with two male spade connectors.  Whoever designed that situation had much smaller fingers than I have, and he sure didn't account for bifocals!  Be patient.
+Connect a wire to the terminal marked "-" on the rear of the gauge.  Connect another wire to the second terminal on the light socket.  Splice these two wires together and connect them to an appropriate grounding point (e.g., the dash sheet metal or a spare ground connector on the instrument cluster.
+I couldn't find a good place to attach the ground wire; I finally drilled a hole in the sheet metal and installed the ground wire with a sheet metal screw at that point.
+Slip the gauge through the 2-1/16" hole, face forward, and tighten the collar from the rear.
+Beetle On!
+Oil Temperature Gauge Installed
+~~~
+Note:
+After an initial run on a hot day to warm the engine up, we found that the temperature on the gauge to read about 175F or so -- yet the dipstick handle was almost too hot to touch.
+Gene Berg
+may be right in his
+assessment of temperature gauges!
+* 
+                    * * * *
+Design by
+Erin

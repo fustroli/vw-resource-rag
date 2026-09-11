@@ -1,0 +1,76 @@
+Towing
+Towing
+~~~
+Topics included in this article -
+To Tow ...
+Or Be Towed.
+~~~
+To Tow
+Rob wrote -- I've always had a trailer hitch on my 1970 Bug, and Ive pulled some horrendous loads with it -- on one occasion over 1.6 tons on a trailer which had no brakes.  In it's youth, the car pulled a small caravan on a 2000-mile holiday too.  It's been a real workhorse, which makes it amazing it's lasted so long really.
+I originally had a special trailer hitch which had long V-shaped frame which went forwards under the engine and attached to the torsion bar tubes.  These provided the pull for the towbar, with the bodywork only supporting the vertical weight.  But this got stolen (about a month after I got it), and so since then I've used a simple one which mounts inside the rear bumper, and attaches direct to the rear bumper hangers.  They call these body breakers as the body takes ALL the load; but I've had no problems with mine at all.  I'm just very careful to weight the trailer right, and always take is easy when towing.  The VW is quite good as a tow car -- low 1st and 2nd gears, and the suspension can take a lot of weight.  The disc brakes on mine help breaking too of course.  Crazy that they stuck with the drums on U.S. VWs.
+I wouldn't want to pull a big load in heavy traffic (slow acceleration holding people up) but Bugs sure don't mind pulling a load.  Before I started I had to buy some M8 bolts -- the rear bumper (which holds the tow-bar) had only 2 bolts per side -- I wasn't going to risk that with a big load on.
+Interesting thing though -- the pulling power of the dual-port engine is definitely less than the single-port engine at lower rpm.  I've heard Type 2 guys say the 1600cc single-port is a better engine for Buses than the 1600cc dual-port (more torque low down), and I can understand that easily.  I think the reason for this is mainly because the single-port engine uses the smaller 30 or 31 sized carburetor, so you get high airflow through the smaller throat at lower rpm, which brings the maximum torque rpm in sooner than the larger 34 sized carburetor.  The dual-port engine provides more power, but it's shifted up the rpm range a little so you have to hold a lower gear for longer with this engine.  Also, the 1600cc single-port engine (and the 1500s too) came with a slightly lower range gearbox -- 3200rpm at 60mph whereas the dual-port gearbox has about 3050rpm at 60mph.  The lower gearing makes for better acceleration, at the expense of lower top speed.
+Someone wrote regarding the lighting setup between the towing vehicle and the one being towed - I am hooking the VW up to be used as a tow vehicle. I figured out the turn signals and the running lights, but I can't figure out how to hook up for the brakes on the fuse panel. Any ideas?
+Rob responded - So long as the trailer you are towing has only two tail/stop lights (one each side at the back), you can wire them direct to one of the tail lights - mine has the trailer wiring all hooked to the left tail light housing (apart from the right blinker which is of course hooked into the  right side blinker light.)
+You don't need any extra fusing with this wiring for the tail lights or the blinkers.  But if the trailer has more than one stop/tail light each side at the rear then you might need to increase the fuse amperage to a slightly higher value for the stop light circuit.  I can't remember off the top of my head if the tail lights are fuse 1 or 12 but it's on one end of the fuse panel and has two grey wires for the tail lights, and the fuse next to it is for the stop lights (2 or 11).  It's this fuse which might need increasing a little - the end fuse (1 or 12) for the low wattage tail lights) should be fine.
+~~~
+Or Be Towed
+In this section we will give some general information regarding the towing of your Volkswagen, followed by some "conversational" discussion as Rob and Dave corresponded back and forth on the subject.
+General Information Regarding Towing Your Bug
+Discussion
+~~~
+General Information Regarding Towing Your Bug
+Note:
+Always observe state laws and municipal ordinances governing towing.  The State Patrol is a good source for this information.
+First you must decide how you are going to tow your car.
+Probably towing by rope is the most common, but we do not recommend it except for very short distances.  If you do tow the car with a rope, NEVER connect the tow rope to the car's bumper!  Crawl under the car and tie the rope securely to the frame, with several wraps.  When towing with a rope, the driver of the towing car must be very careful when driving off and shifting to avoid sudden and abrupt jerks.  The driver of the towed car must always keep the tow rope taut.
+A much better (and much safer) option is the use of a tow bar.  Tow bars are commercially available for both Standard Bugs and Supers.  They run about $100, but Dave's has paid for itself several times.  Tow bars come with a bracket that is bolted permanently to the frame underneath the front of the car - always ready for when you need it.  The tow bar itself attaches to the bracket with two pins and associated washers, one on either side that run through attachment points on either side.  Attaching the bar to the bracket takes about five minutes.
+The tow bar attaches to a standard trailer hitch on the rear of the towing car.  (Make sure the size of the trailer hitch matches your tow bar.)  In addition to the standard hitch, you must always use safety chains when towing. Safety chains are used to retain connection between the towing and towed vehicle in the event of separation of the trailer coupling or ball. The chains are crossed under the tongue of the towing bar.  They must allow enough slack for turning corners. See the following picture.
+Attachment of the Tow Bar to the Trailer Hitch on the Towing Vehicle
+~~~
+The next consideration is lights - tail lights, brake lights, directional signals, and hazard lights.  Note how Dave placed the lights before towing his Super to the shop -
+Ready To Tow
+~~~
+These light are commercially available (Dave got his at the U-Haul office) and generally run on the order of $40.  With  the two lights secured on the rear top of the car (they come with very strong magnets), a heavy wire runs forward to attach to the electrical system in the towing car.  If you don't have such an attachment, the guys at U-Haul will be happy to install one for you.
+Theoretically, there is a plug on the end of the cable coming up to the towing vehical and a plug on the end of the wiring from the towing vehical.  These plugs are supposed to mate together, but one or both may be missing.  Not to worry - you can easily make the connections yourself.  Dave uses waterproof spade connectors so the two cables can be easily disconnected once towing is over.  Both the cable that runs forward from the lights and the cable from the towing vehicle have four wires in them, colored white, brown, yellow, and green.  The four wires provide the following lighting functions:
+White - Ground to the chassis of the towing vehicle.
+Brown - Taillights.
+Yellow - Left turn indication and brake light.
+Green - Right turn indication and brake light.
+Note:
+The yellow and green wires also provide the hazard lights.  However, if you are running with the hazard lights on (which you should), you must turn them off before giving a turn indication, as they won't do both.
+Here's a picture Dave took of his wiring connections -
+Wiring Connections
+~~~
+With the wiring complete, place the lights in a visible location on the rear of the the car being towed.
+Now turn your attention to your VW.  Before towing it, there are several things you must do -
+Remove the grounding strap from the battery (you'll be leaving the ignition key on - see below).
+Place the gearshift lever in Neutral.
+Release the parking brake.
+Note:
+If you've been having trouble with your brakes locking up (usually due to the length of the pushrod into the master cylinder being wrong), you MUST get that problem resolved before towing the car any distance.  If your towing vehicle is fairly powerful, you might not notice the brakes seizing, and you'll do extensive damage to your brakes.  Voice of very bad experience!
+With the key, turn the ignition on.  Turning on ignition releases the steering lock so that the front wheels will turn when going around corners.  It is very important that they do so.
+Now you are ready to safely tow your Bug.
+~~~
+General Discussion
+Interesting, maybe useful.
+Dave wrote -- I have been reading with interest the posts to the VW Newsgroup about towing a VW Bug.  My son has a '73 Super Beetle that he plans to take to college with him in the Fall.  We're a little leery about driving the car 750 miles (I'm confident that the rebuilt '71 engine can make it, but my wife is not).
+So we are thinking about towing the Bug behind our van when we make the trip.  Now finally my question:  I have seen the tow bars in the Rocky Mountain Motor Works (now
+Mid-America Motorworks
+) catalog; I'm wondering if you have any experience with them, like how hard are they to put on the Bug, do they match up well to the trailer hitch, etc.  I don't want to invest close to $100 if the thing turns out to be a piece of junk.
+Someone wrote -- I don't know about the Super Beetle towbar, but the one for my 68 Baja takes less than five minutes to put on, hook up and be on the road!
+Dave wrote -- Here's what an old Rocky Mountain Motorworks catalog has to say about the tow bar for the Super Beetle -
+Motorworks Tow Bars are made of heavy duty steel tubing and meet S.A.E. Class 1 specifications (2000 lb. gross load).  The Standard bar is easily installed or removed with two quick release pins.  This same type of tow bar has safely towed Bugs for thousands of miles.  The Super Beetle bar has a mounting plate that bolts under the car.  The tow bar is equipped with a 1-7/8" receiver.
+Dave:  I still say "Drive it!"  I think that's what we're coming to...  One way or the other, after I've put in all this work so our son could have a safe, reliable, "cool" car to take to school, we'll get it down there, one way or the other!
+(Dave and his son (plus Dave's wife and a friend) did drive the Bug to school the first time.  The second time, after the rebuild was complete (and mainly because they didn't have enough drivers), Dave and his son towed the Bug behind a borrowed truck.)
+Regarding getting the Bug to the paint shop, Rob wrote -- Aren't you allowed to tow with a rope in the U.S.?  If the car is still registered, I'd just tow it slowly since it's only a few miles.
+Dave responded -- I'm a bit leery of towing the car with a rope.  It's more than just a few miles -- both in town and freeway driving.  The tow bar is solid - no worries about the tow rope/chain going slack and things like that.  I think Ill bite the bullet and order the tow bar -- it may be useful later, too, who knows.  And I won't need a driver in the Bug while it's being towed.
+I went over to the U-Haul place yesterday and got a 1-7/8 inch ball to mount on the rear bumper of my little red Nissan truck.  The guy looked the situation over and said the truck should be good for up to 2000 lbs -- Standard Bugs are about 1800 lbs, as I recall, and the Supers just over 1900 lbs -- and that's with all of it's doors and fenders and stuff (which are all removed for painting).  So I shouldn't have any problems towing our Super Beetle to the paint shop with my truck.
+Dave's thinking about lights:  I'm going to have to rig up brake lights somehow. The guy at the U-Haul place tried to talk me out of the lights, since I'm not really going very far and it will be during the daylight.  That would be good - would save me about 46 bucks! (lights $30, wiring $13, plus tax).  But I think I should do things right - with all of the other expenses I can hardly afford a hefty fine!  And I may well be towing the car again later on.
+After receiving the two bar for his son's Super Beetle, Dave installed the tow bar mounting bracket under the front of the car.  He found that bracket attaches to the underside of the Super Beetle using six of the eight bolts which hold the crash bar in place.  Once installed the tow bar mounting bracket stays there all the time.  Then when you need to tow the car, the tow bar attaches to the bracket with two pins - very simple and easy.  The tow bar didn't come with the required safety chains, though, so Dave had to make them with heavy chain from the hardware store.
+Dave got good use out of the tow bar -- he towed his stripped Super Beetle to the paint shop with it hitched up behind his little red truck, and later he towed the car the 750 miles to where his son was attending college, and back again.  And most recently, when the Bug developed engine problems, Dave towed it to the shop.
+The only drawback with the tow bar is that you cannot back up with the car attached to the towing vehicle - so you've got to be careful where you park when you stop.
+* 
+                    * * * *
+Design by
+Erin

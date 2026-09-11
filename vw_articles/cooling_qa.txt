@@ -1,0 +1,105 @@
+Cooling Q&A
+The VW Cooling System -- Miscellaneous Topics
+The following topics are discussed herein -
+Cooling Air Flow
+Cooling Tin
+Oil Cooler
+Fresh Air Tubes
+Engine Lid
+Temperature Gauge
+Miscellaneous Ideas to Improve Cooling
+~~~
+Cooling Air Flow
+Some people plug the fresh air snouts in the summer to provide more cooling air to the engine.  The heater exchangers (heater boxes) are designed so that a proportion of air is constantly flowing through them, even if the heater is turned off.  You can see the slot-shaped outlet at the top/front of the exchangers, above the actuating flap. The heat exchangers are designed this way so that when you DO need the heaters they haven't filled up with smelly old/dust and such.  Therefore plugging the shroud outlets in hot weather probably would provide a tiny amount of extra air to the cylinders/heads, at the expense of a smelly surprise when you need the cabin heater.
+Bob Hoover described the airflow through the shroud and cylinder/head finning in one of his 'sermons' (he did some comprehensive studies of this many years ago using an electric blower to measure airflow through the tinware). In essence he said that the shroud provides a "header" or "supply tank" for the air (i a similar fashion to aircooled flat 4 aero engines which use a "plenum" above the cylinders which slows the air and therby increases it's pressure), and the actual flow (both volume and WHERE it flows) is controlled by the close fit of the tinware around the cylinders/heads and the baffles under them, and the size and spacing of the fins (leaving a certain amount of space for actual airflow).
+Bob also commented on the heater outlets in the shroud and the fact that they were "channeled" internally off the shroud   not just holes, and that this tended to separate the airflow through the heater pipes from the airflow through the cylinders/heads.  I gathered from this that he meant that blocking the outlets completely would not make much difference to the airflow over the cylinders compared to having the heaters fully installed (since those channels were separated internally), but he did note that leaving them open reduced the air pressure inside the shroud which resulted in lowering airflow over the cylinders -- that is, it's the air pressure above the cylinders which is important, more so than the quantity of air available from the fan (which is more than sufficient).
+The upshot of all this is that the fan has been designed to maintain a certain positive pressure in the shroud (which then acts like a pressure tank on an air compressor for even airflow to the tool).  Though there is some relationship between leakage (wasted airflow) from any source, and the cylinder temperatures, it's the PRESSURE which is more important, and blocking the heater outlets in the shroud will only marginally increase that pressure when compared with the heaters fully installed.
+Many VeeDubbers who have 71+ doghouse cooled engines, find that the oil cooler tin on the front of the fan shroud has a corner missing, seemingly torn off from the look of the ragged edge, leaving a hole about an inch and a half in diameter.  If the missing piece is sort of L-shaped, it's the famous "Hoover bit" (after Bob Hoover, who is adamant about the importance of this piece in maintaining a proper airflow through the doghouse oil cooler).  This little piece fits just below the oil cooler and properly directs the air out through the little downspout through the firewall tin.  If this piece is missing, hot air escapes from the oil cooler and gets sucked right back into the fan -- thus contributing to overheating on a hot day.  I don't know why people think they can leave this off -- it's an essential part of the cooling system in doghouse cooler engines.
+Bob Hoover gets
+really
+annoyed when he sees this part missing -- I guess the car will survive okay in cooler climates, but he lives in Los Angeles. I'll bet there have been a few cooked engines around there running without that little part.
+Rob's response to a question about a dirty fan - "The bit about the dirty fan caught my attention   I know mine's got a layer of crud on it, and I intend to get it sparkly too. I wonder if it will run a little quieter with a clean fan -- I imagine the crud would have to disturb the airflow through the fan somewhat.  Probably not enough difference to hear though (through the exhaust noise etc)".
+~~~
+Cooling Tin
+The cooling tin includes two horizontal baffles, one on each side, between the push rod tubes and underneath the cylinders. These are essential parts of the cooling system which force the cooling air to pass through the underside cylinder fins rather than leaking down between the cylinders and doing no cooling.  Because they also restrict the air path to just the cylinder fins, they help to maintain the positive pressure in the fan shroud above, which is needed to force the cooling air through the fins.  Without the over pressure from the fan, the air moving through the fins get hot, expands, and forms a "plug" between the fins, which slows down the flow, and the engine is undercooled, so it's
+essential
+that these are in place.
+Likewise, there are two small (roughly inch square) horizontal baffles under the centre of the heads.  These have the same effect for the head airflow - it's forced to flow fore and aft through the underside finning before it escapes. Never remove those underside baffles for the cylinders or the heads - they are cruitial in providing adequate and even cooling for the cylinders and heads.
+On Type 3s there is a modification to the under-cylinder baffles called "cool tins". These can be retro fitted to Beetles, too.  These are better shaped pieces which are "molded" to the shape of the fins (kind of inverted V shaped) to even more carefully control the airflow between the cylinders.  Often fitted to higher capacity VW engines so they get every scrap of cooling they can get.
+The "cool tins" cup the underside of the cylinders and have smallish outlet holes for the cylinder air.  That means they restrict the cylinder cooling air a little but direct it better. That flow restriction means there's more air forced through the heads.  Remeber that the heads get the worst of the engine heat, so the original VW design and the "cool tins" result in more airflow to the hot heads, and a little less flow to the less-hot cylinders.  The cool tins also have small sections (ears) which cup the underside outer corners of the heads next to the exhaust ports, redirecting the head air right through the underside head fining near the exhaust valves - less "spillage" means better cooling for that hot section of the heads.
+Rob says: Siince I used to have a pilot's licence and spent a lot of time looking at the air cooling on these flat 4 engines (Lycoming and Continental), it's evident that aircraft builders take a great deal of care with the way airflow is directed into and around the engine, particularly around the cylinder heads. I can see exactly what VW were trying to do with the "cool tins" and I've thought it would be a good thing to try in my warmer climate.
+Here's a picture of this cooling tin from John Connolly's page
+(Aircooled.Net)
+.
+You can see that cupping
+both
+sides of the cylinder undersides with an exit hole in the middle will force the cooling air around more finning, in contrast to the flat deflectors which just send it roughly across the bottom of the cylinders, and you can also see the little "wings" (in the center on that picture) which cup the exhaust valve area of the head for better cooling there.
+when fitting "cool tins", the small flat deflectors in the center of the head area ("between" the cylinders sections) still stay in place, but the larger one between the cylinders are removed and replaced by the "cool tins".
+You have to remove the push rod tubes to install the cooling tin, then replace the push rod tubes.
+~~~
+Oil Cooler
+A problem occurs in mismatching the 009 distributor with the doghouse-type oil coolers.  Up to and including 1970, the oil cooler was internal to the fan shroud, and this meant that the #3 cylinder (left front) got
+warm
+air for it's cooling and therefore ran hotter than the others.  So VW altered the timing on the #3 cylinder only -- the cam in the vacuum distributors has #3 cut 2-3 degrees later than the other three cylinders, to reduce the heat load on that cylinder a little.  The early 009 distributors also had this feature.
+But since 1971 the engines have a doghouse oil cooler is offset -  on the front of the fan shroud.  The fan is wider than the older fan so airflow is up from 21CF/sec to 25cf/sec, and there is a completely segregated airpath from the fan area to the oil cooler.  After passing through this oil cooler, the hot air is dumped overboard through some extra tinware, outside the engine bay, over the top of the gearbox.  You should be able to see/feel this oil cooler sticking out the front of the fan shroud (front is front of car),   slightly left of center.  When you're under the car you should be able to see the rectangular air outlet in the tinware just above the bell housing.  If the shroud is smooth/straight right across the front of the shroud, you have the earlier type of "in shroud" cooler.
+So with the newer type oil cooler, the #3 cylinder now gets nice cool air for cooling, and the retard on #3 is not needed.  The double vacuum distributors therefore have no retard on the #3 cylinder (double vacuum distributors were only used on '71 and later engines in the USA...other countries got the single vacuum double advance distributor in 1971, this too has even firing).  VW dropped the retard on 009 distributors about 10 years ago too.   So
+some
+009 distributors have the retard, some don't.  You need to make sure you have the right one.  The only way to tell is to time the engine on #1 as it should be, then look at the timing for #3 (turn the engine 360 degrees - one complete turn).  If the points open at the same time, okay; but if the points are opening later (the timing mark is now moved about 4-5mm to the right), it's the
+wrong
+009 distributor for a doghouse cooler engine.
+You see where messing with VW's design leads -- YOU become the engineer!  This is okay so long as you know what you are doing, but most folks operate in a "partial information" arena, and don't realize that alterations to one component may not be compatible with another.
+Returning to the doghouse oil cooler -- the fan on cars equipped with the doghouse cooler is fatter for greater airflow, because the cooling air through the oil cooler is vented overboard separately to the cyliner/head cooling air.  But if you have a close look at the doghouse shroud internally, it has a distinct separate passage leading from fan to the oil cooler.  So the bigger fan is designed to maintain the shroud air pressure in the rest of the shroud while allowing a separate additional flow to the cooler. The fan and the oil cooler ducting also imply that the cylinder and heads also get extra air - obviously necessary to cope with the extra heat of a larger capacity engine.
+~~~
+Fresh Air Tubes
+The fresh air tubes that run from either side of the fan shroud down to the heater boxes are relatively fragile and will eventually need to be replaced.  If you find yourself in a position where you need to drive the car with the fresh air tubes removed, you can, if you want, block off the air outlets on the fan shroud, so it does waste the cooling air out the heater holes.  Just a number of thicknesses of aluminum foil molded over the hole and held with the hose clamp or some twist wire will do the trick until you get new tubes.  The holes in the lower tinware where the pipes went through underneath would be best blocked up too, but the car should be okay with them open unless you drive a long distance on a really hot day, when the mixing of old and new cooling air would become a problem. Replace the paper heater tubes as soon as you can.
+~~~
+Engine Lid
+Rob wrote to say that his '68 Bug always smells a little hot after a run, and he keeps the speed to 50mph to limit it.  It's the solid engine lid with the 71 doghouse cooler engine which is causiing the problem - the under window sair inlet slots are just not enough to permit full airflow to the larger cooling fan at higher engine speedsw. -- a slotted engine lid would provide increased air intake and much better cooling. You'll note that all 1500/1600 beetles in 1970 got the "cabrio" engine lid with two sets of extra cooling slots in the lid - the first 1600 engine in the bug - the USA 1970 B series engine) was making 58hp versus the 1500's 53HP and VW were obviously worried about adequate cooling.  Then in 1971, with the introduction of the 1600 twin port engine and 60 hp, the redesigned larger dogouse fan with offset oil cooler improved cooling a lot and really needed that exctra air inlet area.  Then in 1973, they decided that the "2-slot" engine lid was not quite enough either, given the increasing weight of the car and the introduction of the 50amp alternator (more power needed from the engine to run it and push the car's weight) and they further improved airflow into the cooling fan with the "4-slot" engine lids.
+To increase air flow into the engine compartment, some people install stand-off engine lid brackets to provide increased air flow.  These brackets will indeed increase air flow on cars with solid engines lids.  On cars with slotted engine lids, the increase is probably not enough to make it worth the "ugly".
+~~~
+Temperature Gauge
+Dave decided to install a temperature gauge in his '73 SB.  I like the the sump plug sensor idea, not because it's more accurate (it will read about the same), but because it's cheaper.  Of course you can use a Gene Berg dipstick sensor which connects to the oil pressure wire and causes the oil pressure light to blink when the engine is too hot. It's only a "hot or not hot" warning -- maybe too simple.
+Most of the sensors are resistor type, so the wiring is basically (12+) to sensor, sensor to gauge (+), and then gauge to ground.  If the sensor has two wires I guess one would be grounded. You will need at least one wire from the sensor under the car (or in the engine bay) up to the gauge at the front.  From under the car you could probably push the wire through the grommet for the heavy starter cable, then run it under the carpet or whatever.  I'm not certain of any of this, but I would imagine it would have instructions or pretty pictures etc.
+Gene Berg
+(Gene Berg Enterprises)
+gives some technical information in his manual regarding temperature gauges.  Here's what he says -
+Why We Don't Sell Gauges - Technical Info -
+Most Gauges Are "Horrible!"
+I hear daily of engines being destroyed by people relying on gauges. I have run hundreds of accuracy tests on practically every inexpensive aftermarket gauge under $125 offered. Practically all read low in the 212f to 260f degree range by 40f to 50f degrees on oil temperature... Oil temperature gauge readings would be 212 to 220 degrees on the gauge when the true test temperature was 240 to 260 degrees... I swapped gauges with senders and got different readings. I found nothing in that price range I would wish on my worst enemy. Not one I tested could ever be properly calibrated or relied on in any way for any valid information or even as a comparison from day to day on the air cooled VW.
+Warning: If you want gauges as a decoration fine, but never rely on them. After all, if they provided reliable information I would be selling them to make a profit just like our competition.
+Dave did install an oil temperature gauge in the dash of his Super Beetle -- see our discussion of the
+Oil Temperature Gauge
+for details.  We have found the oil temperature gauge to be a good indication of increasing temperature at least, and the gauge we installed seems to be relatively accurate (against the "Gene Berg dipstick," for instance).
+Also see our discussion of the
+Gene Berg Dipstick
+.
+The Gene Berg temperature-sensing dipstick is a very simple, reasonably foolproof way of checking oil temperature.  But of course it only tells you when you've reached the limit (the oil light flickers) - not that the problem is developing, like a gauge whould.
+Gene Berg says that gauges are usually WAY off.  I have no idea how inaccurate they are, though I've heard plenty of people say that you should use them as an indication, not as gospel.  Accuracy of the gauge is reasonably easy to check -- dip the sender in boiling water and see where the needle lies in relation to 100C (212F).  You could check it at say 80C too (comparing with a cooking thermometer) so you got some kind of "scale" of inaccuracy.  Cylinder head temperature gauges would be much harder to check, since you are dealing with much higher temperatures, though you
+can
+get infrared thermometers that you just point at the part to get the real temperature.  Such thermometers are perfect for checking cylinder head temperature -- you just point the infrared sensor at the underside of the cylinder head and cylinders, etc.
+I don't know WHY gauges should be way off the mark.  It should be easy enough for a manufacturer to calibrate them reasonably accurately.  If they are all so far off as Gene Berg suggests, what does that say for factory-fitted gauges in modern cars?
+~~~
+Miscellaneous Ideas to Improve Cooling
+All of us want a cool running engine, one that can take 70 mph into a headwind at 95f degrees all day.
+The stock cooling system will handle higher power okay, but
+do
+include the thermostat and cooling flaps.  (See our discussion of
+Cooling Vanes and Thermostat
+.  If the thermostat is expanded, the flaps should be open, (as long as the control rod is moving freely).
+Another useful trick is to examine the heads carefully, and use a Dremel, rat tail file or small chisel to remove any casting flash between the fins - some of the casting holes through the finning are quite restrictive.  This improves airflow for better cooling.
+Paint the cylinders (not the heads) with a very thin coat of matt black heat resistant paint (brush-on, not spray paint -- according to John Connolly
+(Aircooled.Net)
+, using the brush-on type is much better than spray-on, maybe it sticks better.  Also paint the push rod tubes with the same stuff (that will cool the oil just a little, since it's just come from the hotter heads and is dribbling past the cooler cylinder air).
+Don't be tempted to install those shiny "cool" aluminium rocker covers.  The black VW ones shed more oil heat according to Bob Hoover.  Apparently VW offered an Arctic Kit many years ago which included chrome rocker covers to slow the radiation of heat in cold climates. The genreal rule is - if hot oil touches it, black is better for shedding heat.
+If it's really needed you can alter the oil cooler doghouse to fit the wider Type 4 oil cooler.
+Dave wrote to
+"Speedy Jim"
+asking about these methods to increase cooling.  Jim wrote back -
+Sorry.  My personal feeling is that all of those measures are "lily-gilding".  Any improvement is likely to be small and probably insignificant.
+Many people install a larger oil sump in an attempt to reduce oil temperature.  The
+Gene Berg
+catalog says that oils sumps aren't really effective in reducing the oil temperature.  You only end up with more hot oil.  The deep sumps don't have enough surface area to make much cooling difference.  They were originally designed to prevent oil surge in hard cornering (racing),  not for oil temperature reasons.
+* 
+                    * * * *
+Design by
+Erin

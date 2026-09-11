@@ -1,0 +1,51 @@
+Brake Bleeding
+Bleeding VW Brakes -- Discussion
+See our
+Brake Bleeding Procedure
+for detailed instructions regarding bleeding the brakes.  This procedure has been prepared from various resources including our own experience.  It is an "old-fashioned" (but in our opinion a much more straightforward and reliable) method of bleeding the brakes.
+~~~
+A common complaint we hear is about a "spongy" brake pedal.  For example - "Normally the pedal feels firmer and more secure, but now whenever pressure is applied to the brake pedal, it feels "mushy".  The pedal may feel more like normal after repeatedly pressing and releasing it. However, the firmer feel quickly disappears after you take your foot off the pedal."
+The most common cause of a "spongy" brake pedal is air in the hydraulic system.   This problem can be easily corrected by bleeding the brakes. Follow our
+Brake Bleeding Procedure
+and in all likelihood youll find at least one spit as the air escapes from the bleeder valve.
+The wheels do not have to be off the ground to bleed the brakes.  Our preferred method is to jack up one wheel at a time (securing it firmly on a jack stand) and remove the wheel so we don't have to crawl under the car to get at the brake bleed screws.  You risk a face full of fluid too if you try to do it under the car.  Use a small (7mm) box-end wrench (ring spanner) for this job -- it will usually grab the bleed valve okay even if some ham-fisted person has rounded the flats in the past.
+Note:
+If someone has replaced the wheel cylinders in the past, the bleeder valves may be 1/4-inch rather than the metric size of 7mm.  The valves may also require a smaller ID bleeder tube than the 7mm valves.
+Bleed the longest lines first, working to shortest.   On a left-hand drive car, this is right-rear, left-rear, right-front, and left-front; on a right-hand drive, it will be left-rear, right-rear, left-front and finally right-front.
+Don't forget to check the fluid level in the reservoir frequently as you are bleeding the brakes and master cylinder -- running the reservoir dry will put air in the whole brake circuit and you'll have to start all over again.
+Usually checking the reservoir fluid level after each wheel is enough -- unless you have A LOT of air in the system.  Bleed till you see clean bright coloured (new) fluid coming from the bleeder valve.  This will make the rubber portions of your brake lines last longer.  Old fluid usually darkens with age, so it's easy to tell the new stuff when you see it.
+It is important to replace the reservoir cap after each check of the fluid level.  Brake fluid is hygroscopic -- it absorbs water rapidly.  Water in the lines leads to corrosion and possibly boiling under heavy use.  Also, cap the brake fluid bottle after each use for the same reason.
+Note:
+There is a tiny pin hole in the reservoir cap to allow air in and out so that the brake fluid can expand and contract and move into and out of in the reservoir during braking.  Make sure this little hole in the reservoir cap isn't plugged.
+And becasue this pin hole does allow a little air in and out of the reservoir, it's a good idea to replace all the brake fluid about every 2 years so it stays fresh.
+During the bleeding process it is best to close the valve BEFORE the assistant's foot hits the floor.  This prevents his/her foot bouncing back and introducing air again.  In other words, short squirts of fluid are best, rather than getting the last drop out of each stroke.  If you release the fluid slowly, you could get more from each stoke without a 'bounce' problem.  This technique allows for the use of even 7-year old or untrained assistants!
+Arrange a 'code' with your assistant, so they don't release until you say so; e.g., 'foot down' and 'foot up, please' etc.  Your assistant will need some patience too, it will take at least 3-4 pumps on each wheel to get bright new fluid through (could be more) and then the time necessary to replace that wheel and move to the next one.
+At the end of the operation the correct level in the brake fluid reservoir is at the horizontal seam in the fluid bottle; i.e., about 3/4 full.  Don't fill it completely, as it will expand in hot weather and cause the reservoir to overflow.  Brake fluid is a very good paint stripper!
+Use a good quality fluid, of course.
+DOT 3 or DOT 4 fluid, NOT DOT 5 silicone fluid.
+It shouldn't matter if you use drum or disc fluid though -- disc fluid is designed for higher temps than drum stuff.  If your Bug has disc brakes on the front, you will I have to use disc brake fluid, not drum brake fluid -- but it will work equally well for both.  You'll probably need a pint (500ml) or so of brake fluid for this job.
+After completing the brake bleeding operation, check the pedal travel.  Badly adjusted brake shoes may have been disguised by air in the lines.  The pedal should go hard in the first half of travel, not down near the floor.
+This is important - with dual circuit brakes if one circuit fails, the pedal moves further before the remaining circuit applies the brakes so you dont want your foot hitting the floor before the remaining circuit activates.
+If you do have to adjust the rear brakes, check the hand brake adjustment too.
+And while you are checking the brake shoe condition (e.g, for thickness, any brake dust) have a good look at the slave (wheel) cylinders for signs of wetness, which would indicate that the wheel cylinder is leaking.
+Some people use a suction pump, trying to make the task of bleeding the brakes easier and do-able by just one person.  Dave found that the handy-dandy vacuum pump is anything but.  After lots of frustration, he reverted to the old-fashioned way, in which brake fluid (and any entrapped air) is forced out of the system by pressure on the brake pedal.
+Note:
+Dave finally determined that his problem with the vacuum pump was that he was unable to get a good seal at the point where the bleeder hose attaches to the bleeder valve.  The vacuum pump was sucking air into the hose at that point, making it impossible to tell whether the air was coming from the system or was leaking into the bleeder hose at the connection point.  With the old-fashioned way, air in-leakage at the connection point is not a problem.
+~~~
+Someone reported that during an attempt to bleed the brakes no fluid or air came out of the bleeder valve when pressure was applied to the brake pedal and the bleeder valve was opened.  "After trying for about 30 minutes, sometimes air and a tiny bit of fluid would drip off the edge of the bleeder valve, but that was about it.  What could be wrong?"
+Rob responded - With the height of the fluid tank well above the wheel cylinders, the fluid should leak out quite readily even without pumping the pedal.  The situation you describe could be caused by several things -
+One of the circuits in the master cylinder may have failed -- which would mean that the master cylinder is toast.  If the pedal travels a long way before the brakes start to work, that might indicate a problem with one circuit (front or rear) in the master cylinder (it could just mean badly adjusted brakes too!).
+There could be a problem with the flexible brakes lines near the wheels.  As the brake lines age they swell internally, this reducing the flow of brake fluid until the brakes start to grab.  Sometimes this will start the brakes binding even when your foot its off the brake pedal.  When you use the brake pedal, fluid is forced through under pressure, and the brakes stay on when the pedal is released because the fluid is very slow to leak back up the blocked flexible line.
+Try this test - remove each flexible line from the brake hub itself (one at a time) and see if fluid dribbles through the line (take the cap off the fluid bottle up front to make sure it can flow easily).
+If there is only a tiny drip or no flow at all, try removing that flexible segment and see if the fluid then dribbles out the metal body line.  If the flow is good, then the flexile line is bad and must be replaced.  They are not too expensive and should be replaced every ten years or so anyway.
+Note:
+Make sure you get the correct replacement line - the IRS bugs have a different end coupling compared to the swing axle bugs (from memory, the IRS Bug line is male/male and the swing axle is male/female).
+If the rear flexible lines do need replacing it would be a good idea to change the front lines too - even though they may be bleeding OK.
+If you find that you have good flow through the flexible lines, reattach the lines to the brake hubs and in turn remove each bleed valve completely and see if that slave (wheel) cylinder fills up and overflows (it will take a minute or two if it's new/dry).
+If fluid doesn't start to flow out the bleeder, then you know there is something blocking the flow inside the slave cylinder - internal spring left out, rubbers put in the wrong way, crud in the slave cylinder or something like that.  This may be due to bad maintenance in the past or water in the brake lines.  If this happens, the wheel cylinders are easy and inexpensive to replace.  Always replace them in pairs, and thoroughly bleed the system afterwards.
+Once the fluid is dribbling through (with the valve removed), when you bleed the brakes you should only need a few pumps of the brake pedal to bleed any air bubbles out of the slave cylinder.
+Once you have the flow working, make sure the fluid coming out of the bleeder is a nice bright clear colour when you bleed the brakes.  Brake fluid tends to go brown/clouded with age.   It is well worth it to make sure the complete system is full of new fluid, so run extra fluid through to get it coming out clean.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,19 @@
+Hotwire
+How to "Hotwire" Your Bug!
+When Dave burned out his ignition switch, he found it necessary to use the car even though he could not start it normally -- that is, since the section of the ignition switch for "START" was burned out, turning the key did not connect the battery to the starter motor, the way the car is normally started.
+"Speedy Jim
+wrote to tell Dave how to hotwire his Bug.  Heres how its done 
+Lift the rear seat up out of the way (or remove it) so you have plenty of working room.
+On the left side, very close to the Y-shaped heater tube, look for the Red wire in a plastic splice with a Red/Blk wire. This black/red wire sends power to the starter from the igntion switch.
+Attach the Hotwire Here
+(There is normally a plastic cover on this splice.)
+Set the ignition switch to "ON" and leave it there.
+Make sure the gear shift is in neutral, then touch a jumper wire from that splice to positive battery post (+).  This will connect the battery to the starter motor.  This replicates the "start" position on the ignition key, and the engine should start.
+Note:
+Make the jumper wire fairly long so you can reach it to the battery while sitting in the driver's seat.
+A little inconvenient, but it works until you can get the
+ignition switch replaced.
+* 
+                    * * * *
+Design by
+Erin

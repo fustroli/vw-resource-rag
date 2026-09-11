@@ -1,0 +1,29 @@
+Reading Spark Plugs
+Reading Spark Plugs
+By Rob Boardman
+~~~
+There have been a number of posts recently about spark plugs, and since I recently got an information sheet from NGK about reading spark plugs, I thought there would be lots of VW owners out there who are interested, so here it is.
+Although it's about NGK plugs, I'm sure it would be useful in reading other brands of plugs too.
+See the excellent article on the NGK Web site on
+Reading Spark Plugs
+(includes great pictures!).
+~~~
+Reading Your Spark Plugs
+Remove plugs and look at threads. About 3 to 3+ threads should be discoloured with heat. This indicates good heat transfer into the cylinder head, and is some indication that the plug is close to the correct heat range.
+Visually check electrodes for overheating, wear corrosion or damage.
+Check the taper or gasket area. The gasket should be squashed to get good heat transfer to the head.
+Look up inside the plug at the ceramic insulator just before it touches the steel shell. A carbon ring about 1/3rd down the insulator indicates the correct heat range plug. Racing engines will have a higher 'heat range ring' - about 1/8th down the insulator.
+Check the edge of the centre electrode for a 'burnished' blue/grey mark. This is a good sign that a good voltage spark is leaving the centre electrode - it indicates that you have a healthy ignition system.  The centre electrode should have a flat surface facing the side electrode.  If the centre electrode is rounded - it's worn out and should be replaced.
+Check the leading edge of the outer electrode for erosion or melting. Also check the colour change along this electrode. Engines with 'static timimg' can use this electrode to indicate that timing is OK. The colour change should occur about half way round the bend in the eletrode. Nearer the tip means retarded ignition. Nearer the shell means advanced ignition. This won't really apply to the VW engine as it's timing is dynamic, not static, but it would be interesting to see if the retarded NO3 cylinder on older VW engines showed the colour ring hearer the tip compared to the other cylinders.
+Check the end (rim) of the shell face. It should have a light coat of grey/black carbon, and be smooth. If it looks like 'pizza', then the plug is seeing detonation. Use a higher octane fuel and check this again - the "pizza" look should have disappeared.
+Check the colour of the insulator nose. Modern fuels usually show a whitish colour (provided the carbon 'heat range ring' is OK - see No4 above.) If it looks like it is 'peppered', it is too hot - you need a richer mixture or a colder plug.  In countires where leaded fuels are still available, the insulator may have a yellow/grey appearance.
+The inside wall of the outer shell can indicate mixture strengths. This varies with types of fuel and type of use, so it is difficult to describe accurately. "Low speed" mixtures are found towards the open end of the shell, "mid range" mixtures in the middle, and 'top end' mixtures are found near the top (deepest) part of the shell. Unfortunately, they do not say exactly what to look for here, only where to look for it.
+Other useful tips from the same publication - Platinum plugs are ruined by leaded fuels (which are still available in some countries).  Gold Palladium plugs can run on any fuel, and are ideal for race engines.
+If you decide to give NGK plug a tryout in your VW, the correct plug numbers are:
+B5HS - standard 1/2 inch reach plug.
+B5ES - extended 3/4 inch reach plug for Type 4 and later Type 1 cylinder heads.
+Thanks to NGK for this information.
+* 
+                    * * * *
+Design by
+Erin

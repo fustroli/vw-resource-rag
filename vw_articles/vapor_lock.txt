@@ -1,0 +1,55 @@
+Vapor Lock
+Vapor Lock
+~~~
+Have you ever had this problem?  You are driving home from work late in the afternoon.  It's 90
+o
+F (32
+o
+C) outside and there's lots of traffic, so accelerating and decelerating a lot.  The engine is working, and you know it's getting hot.
+Then, about 4-5 miles from home, the engine suddenly starts surging and then decides to take a rest altogether.  As you pull off the road you think to yourself, "This couldn't be an electrical problem - the engine wasn't actually cutting out, just surging."
+Alternately, you drive to the store on a hot day (far enough so that the engine gets thoroughly hot); when you return from the store to the car, it won't start!  What's up with that!?
+So you lift the engine lid and notice right off that there is no fuel in that small fuel filter in the line between the fuel pump and the carburetor (if you have such a filter -- we actually recommend that you don't have a filter here).  So right away you know the problem (right?) - vapor lock!  Every VW we have had has done this when it got hot. They seem to be especially touchy both when they're hot and when it's getting close to "Tender Loving Care" time, when timing or valves may be a bit off the numbers.
+The usual problem is that the whole engine gets thoroughly hot, and when you switch off, there is a 'heat soak' period when the temperature in the tinware and engine compartment rises because the residual heat in the cylinder/heats isn't getting blown away by the fan.  The heads run at about 265-285
+o
+F (130-140
+o
+C) and can run up to about 355
+o
+F (180
+o
+C) on a really hard run which is pretty hot.
+This causes the metal fuel line around the tinware, the fuel pump, and the carburetor to all heat up somewhat, causing either excess vaporization of the fuel in the carburetor, or and actual vapor lock in the fuel line or fuel pump.
+As a result, starting is sometimes hard.  With hot fuel in the carburetor, the least reduction in pressure (through the carburetor throat) causes instant vaporization, perhaps of fuel in the float bowl too (which breathes into the top of the carburetor throat), and of course a vapor lock in the fuel line or pump is even worse, because it will result in an empty fuel bowl in the carburetor - the car uses that fuel and stalls because it can't get any more.  Then it takes a lot of cranking to fill the fuel bowl, once the vapor lock itself is cleared.
+In summary, following is the cause and the cure for vapor lock -
+Cause:
+The engine overheats, causing the fuel line, fuel pump and carburetor to heat up.
+Result:
+Excess vaporization of fuel in the carburetor and/or actual vapor lock in the fuel line or fuel pump.
+Cure:
+Wrap the fuel lines on both sides of the pump with aluminum foil.
+Note:
+This is a precaution if your car is prone to vapor lock.  It won't help much once the problem has
+already occurred.
+Pour a little water over the fuel pump to cool and re-condense the fuel, being careful not to splash the distributor.  If no water is readily available, hopefully there is some in the windshield washer bottle.  It doesn't take much.
+Hold the throttle open just a bit with the accelerator pedal while you crank.  Don't move the throttle at all while cranking, or the accelerator pump with flood the carburetor.  The reason for cracking the throttle open it to avoid using the idle jet alone, as this runs the car richer than the main jet, and a rich-hot mixture makes the car flood easily.
+When the engine catches, hold the throttle still until it clears the excess fuel (revs up smoothly).
+Away you go!
+~~~
+Other things to check if vapor lock has become a regular problem:
+Is the heat riser under the inlet manifold getting too hot?  It should be hot enough to keep the manifold above it warm, but if the heat riser is providing excessive manifold heat, it can also be overheating the fuel line which runs close to it on the way to  the fuel pump.  There are "small hole" heat riser gaskets available (you'll have to look for them though) which can reduce the heat flow through the heat riser if it's running finger sizzling hot.
+Is the carburetor running lean?  Many new H30/31 and 34PICT/3 carburetors are supplied with lean jetting as an emissions thing, which makes the engine harder to tune, and causes higher engine temperatures.  There is information elsewhere in these articles about suggested jetting for various distributor, engine size and carburetor size options.
+Is the carburetor pre-warmer working properly?  The paper tube up to the carburetor inlet is supposed to draw air from near one cylinder head to speed up the engine warm-up process, but if it's stuck full on (breathing hot air) the engine will run hotter than it needs to, which will worsen any potential vaporization problem.  There are two actuating mechanisms - the earlier engines (up to about '71-'72) have a pull-wire operated by the right hand cooling flap assembly, and later engines have a vacuum line from the manifold directly under the carburetor, up to a temperature switch in the air cleaner and another vacuum line from that switch to the vacuum canister on the side of the air cleaner inlet.  The early type is just on-off, depending on whether the flaps mechanism (controlled by the thermostat) is open or shut, but the later type may hold a partial position, depending on the temperature inside  the air cleaner.  Of course if your engine has no cooling flaps (tsk tsk) or if it has no vacuum lines connected, or an aftermarket air cleaner, then the carburetor inlet will be breathing full cold all the time - a potential icing problem, but not an excess-heat problem.
+Is any of the tinware missing?.  If the engine is missing any of the tinware which controls the flow of cooling air around the heads and cylinders, it WILL run hot, and this will worsen any vapor lock problems.
+Is the engine tuned properly?.  If the car is out of tune it has to work harder to provide the power to drive the car, so it may run hotter.  Keeping the car well tuned keeps the engine temperatures in the normal range, minimizing any vapor lock problems.
+~~~
+Notes from Rob on the Subject of Vapor Lock -
+My '68 Bug definitely doesn't like the heat as much as my '70 Bug - he started getting vapour locks before we even got there, and was troublesome all the way home.  Luckily I had a bottle of water with me and was able to pour a little over the fuel pump and carby, and get him going each time.
+I think the problem is that the heat riser is working TOO well, and cooking the inlet manifold and carb plus the fuel pump.
+I'm going to make a block-off washer for one side of the heat riser, and see what effect that has.  It's only about 20 minutes to install it and will be a good test of the theory.  I can always drill a tiny hole in it if I find the carby freezing up.  He already has a "small hole" washer in one side, but the inlet manifold still gets finger burning hot, and it only needs to be slightly warm to keep the fuel in suspension.
+I cut a washer out of flat metal sheet, and it only took about 20 minutes to remove the rear tinware, pull the two heat riser bolts and slide the old washer out before putting the new washer in.  I found that you can use the tinware to "lever" on if you are careful - I used a piece of flat steel so I was spreading the load, and it only took a little levering.
+I've only had a couple of short runs so far, but the manifold under the carburetor is not completely cold, so it looks like it might work OK.  If not, I'll remove the seal and put a 1/16" hole in it and work up from there.
+The manifold has always been too hot to touch on my '68 Bug and it only needs to be warm ( above freezing) to keep the fuel in suspension.  He seems to have a littel more power now too - and a hot inlet WOULD be less dense, so that makes sense.
+* 
+                    * * * *
+Design by
+Erin

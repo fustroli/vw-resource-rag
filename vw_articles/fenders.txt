@@ -1,0 +1,52 @@
+Fenders
+Fender Removal and Replacement
+~~~
+Fender (mud guard) Removal -
+Note:
+This procedure applies equally to both front and rear fenders.  Apart from the electrical connections, the procedure for removal/replacement of the front and rear fenders is pretty much the same.
+First, raise the front of the car and rest it securely on jack stands.
+Remove the front wheels (the fender can be removed with the wheels on, but you'll have limited access to the fender bolts -- we recommend removing the wheels).
+If you're removing the left front fender on a 1968 through 1973 model, unplug the horn wires and remove the horn.  Don't hang the horn by the wires.
+Remove the bumper and bumper brackets
+First remove the headlights and turn signal lights and wrap the wiring up out of the way.
+Remove the nut, washer and bolt that attach the fender to the running board.
+Remove the bolts and nuts that attach the fender to the body.
+Remove the fender, the beading, and the rubber spacer between the fender and the running board.
+Note:
+The rubber bead has cutouts around the bolt holes (it doesn't have holes in it - just cut outs).
+Inspect the rubber beading and the rubber spacer washer.  If they are cracked, dried, or deteriorated, replace them.
+Note:
+Dave reported that his old beading practically came apart in his hands.  Rob said that the new stuff will probably outlast the life of the car.  Dave was especially anxious to replace the fender beading, as well as all of the rubber in the body of the car, as some PO had painted right over it.  Rob said that's the first thing he looks at in a Beetle.  If the beading has been painted over you know that the painting's been done "on-the-cheap".
+Check the threaded holes in the captive nuts in the body and clean them up with a tap if necessary.  Lubricate the bolt threads.
+Note:
+Dave found that it was very easy to get to the bolts; the biggest problem, especially on the forward bolts, was the captive nut breaking loose before the bolt loosened, primarily because the body had been damaged in a past accident.  Even liberal use of penetrating oil (e.g.,
+Kroil
+) did not help with this problem.  Dave found that EVERY ONE of the captive nuts broke loose!  The fender had been replaced before, with a used one from a GREEN bug!  And lots of body putty.  Dave feared that he'd really opened a can of worms.
+~~~
+Fender Replacement -
+Note:
+Dave decided to replace all of the bolts for which the captive nuts had broken loose with new bolts, large washers on both sides, and nuts.  He found that this was much easier than getting the bolts out in the first place.
+Place the fender in position against the body
+without the beading
+and loosely install one bolt at the top to support the fender.
+Now start the rest of the bolts.  Tighten them just enough to hold the fender in position.
+Note:
+Dave found that the holes for the fender bolts were in a mess all the way around on the left side.  The holes were square and ragged from the "captive" nuts being pulled through.  Dave secured the fenders in place with (from the trunk side) a bolt, large rectangular "washer," U-shaped shim to lap over the edges of the ragged body metal; then on the fender well side a shim, washer, and nut.  To keep water out of the trunk, Dave followed Rob's suggestion and put a bead of soft (not-setting) silicone around each of the rectangular washers after he painted them to keep water out.  Dave found that the bolt/washer/shim/body/shim/washer/
+nut/silicone arrangement made for a good connection.
+Install a new rubber spacer washer between the fender and the running board, then install the bolt, washer and nut that attach the fender to the running board, but don't tighten yet.
+Hold the new beading around the body immediately above the fender, and mark (with chalk) the locations of the bolts.  Cut slots in the portion of the beading the extends down between the body and the fender to accomodate the bolts, then push the beading into place with your hand.  Make sure the slots in the beading slip over the bolts.  Be extremely careful about the fit of the beading as you gradually and evenly hand-tighten the fender bolts a few turns.
+Gradually and evenly tighten all the bolts.
+The remainder of installation is the reverse of removal.
+~~~
+Dave discovered to his dismay that the new fenders he had ordered for his Super Beetle didn't fit!  The supplier had incorrectly sent fenders for a Standard Beetle.  Dave didn't notice it until the guy called from the paint shop.  Fortunately Dave still had the old fenders (hadn't taken them to the dump yet) and even more fortunately Dave was able to sell the new fenders to a guy in Florida (getting them shipped was a nightmare because of their size).
+Keeping the old fenders also meant that Dave would get to keep the "frenched-in" antenna well in the left front fender after all. The paint shop completely removed the old antenna well and all of the fiberglass and stuff that the PO used to install the well, then they welded a new one in place!
+Dave found that the rear-most front fender bolt on the left, right down at the bottom of the fender, had pulled through just like all the others.  The captive nut had pulled through completely and the hole was enlarged and distorted. To make matters worse, the backside of this one is not accessible -- it's right down there by the "snout."  Dave decided to try to find a heavier version of a "molly" bolt that is used in hollow drywall.  Rob suggested perhaps welding a "plate" with a new captive nut over that hole.  Or, perhaps leaving that bolt out altogether, since the bolt to the running board is right near that one, so it wouldn't be without some support.  But Dave's too much of a perfectionist to leave a bolt out!  :-)
+To see how much trouble it was going to be, Dave put a light in the fender well and then had a look through the little hole inside the car that provides access to the "snout" up to the defroster vents.  Rob suggested that if the hole could be seen from inside the car it might be possible to get one of those flat "nuts" like the body clip(with thread) close enough to catch the thread of a larger tech screw or similar put through from the fender side.
+Dave thought he might be able to take the defroster tube off for access, then put the head of the bolt through the hole (backwards, from the fender-well side) and then slip a body clip down over it back behind the snout.  Rob suggested choosing a bolt long enough so that when tight the threads would project out from the nut.  Then two flats could be filed through the threads at the threaded end of the bolt so when the nut gets snug you can put an adjustable wrench on the flats to hold the shaft still.  Further, there may be no room for fingers but enough room to hold the upper end of a flat strip between the snout and the damaged outer skin/captive nut area.  The very small amount of room there is on the inside behind the snout is the limiting factor.
+After much fiddling and fussing, Dave was finally successful in getting this bottom bolt secured.
+~~~
+Dave reported marvelous success with replacing the fenders.
+* 
+                    * * * *
+Design by
+Erin

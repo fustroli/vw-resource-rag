@@ -1,0 +1,18 @@
+Fuel Gauge
+Fuel Gauge
+Please see
+Speedy Jim's fuel gauge article
+-- an excellent resource.
+Please also note the several references to the fuel gauge sending unit in our
+Fuel Tank Removal and Refurbishment
+procedure.
+~~~
+When Dave finished the refurbishment of his fuel tank he found that the fuel gauge no longer worked.  He removed the mechanism, of course, when he refurbished the tank, and he was sure he labeled the wires correctly.  But when he put everything back together he found that the needle in the fuel gauge was pegged all the way to the right (past full), no matter what the level in the tank was.  Dave wondered whether he may have crossed the wires, or if the problem were possibly more than that?  (Hoping not, as any problem with the mechanism would require yet another removal of the fuel tank.)  Dave pulled the instrument cluster out but and found nothing wrong.  The yellow wire from the fuel sensor was firmly attached on the one side, and two black wires (which he assumed to be power leads) on the other.
+Rob commented - The wire from the tank mechanism goes to the "trembler" box on the speedometer, and this connects directly with the needle (I think it's a direct connection - or very short wire anyway), and the needle is earthed through the shell of the speedo (should be a brown earthing wire connected to the speedo case somewhere.  Your finding the wires firmly attached indicates that the problem may be with the needle mechanism itself.  I've never heard of one blowing, but I'm sure it's possible.  You should be able to test it by "hotwiring" it to 12 volts and see if it moves.
+Dave was not able to complete the repair of the fuel gauge system before his son took the car away to college.  His son had occasion to take the car into a VW shop, where the mechanic fixed the fuel gauge system.  Having checked all of the wiring, Dave assumes that the problem was in the fuel gauge sending unit.  You will note the added emphasis on careful handling of this unit in the
+Fuel Tank Removal and Refurbishment
+procedure.
+* 
+                    * * * *
+Design by
+Erin

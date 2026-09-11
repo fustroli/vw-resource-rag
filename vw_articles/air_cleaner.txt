@@ -1,0 +1,419 @@
+Air Cleaner
+Air Cleaner
+This 
+                      article, together with several pictures from Dave's '73 SB,
+                      appeared in the April 2004 issue of "VW Trends" magazine.
+~~~
+Topics 
+                    covered in this article include -
+Introduction
+Ancillary 
+                      Air Cleaner Systems
+Crankcase 
+                      Ventilation
+Evaporative 
+                      Emission Control System
+Intake 
+                      Air Pre-Heating
+"Pull 
+                      Wire" Pre-Heat Control System
+Vacuum-Controlled 
+                      Pre-Heat System
+Aftermarket 
+                      Air Cleaners
+~~~
+Introduction
+A 
+                    component on the VW engine that is often taken for granted 
+                    is the air cleaner. Sitting as it does on top of the carburetor, 
+                    the big clunky stock air cleaner always seems to be in the 
+                    way on tune-up day, and the average VeeDubber is tempted to 
+                    change it out for one of those shiny chrome aftermarket models.
+Through 
+                    the 1972 model year the air cleaner was a large, round, dome-topped 
+                    metal black thing with metal clips on it, possibly with several 
+                    thin and fat hoses going to it. These round air cleaners, 
+                    of which there are several different designs, have oil in 
+                    them to clean the air before it goes into the carburetor and 
+                    on into the engine. The oil is changed by removing the clips 
+                    and the top of the air cleaner.
+In 
+                    1973 and later models, the air cleaner is a large black boxy shape with a paper
+		    aircleaner inside. It serves the same purpose as 
+                    the oil in earlier models -- to remove dust particles from 
+                    the air before it is drawn into the carburetor for mixture 
+                    with the fuel. The cleaning medium, whether it be oil or a 
+                    paper filter, should be changed every 18,000 miles.
+Earlier Model 
+                      Oil Bath Air Cleaner
+~~~
+Later Model 
+                      Paper-Element Air Cleaner
+~~~
+Ancillary Air 
+                      Cleaner Systems
+Cleaning 
+                      the air for mixture with the fuel is the primary purpose 
+                      of the air cleaner, but over the years a number of other 
+                      important functions have come to be associated with it. 
+                      In addition to the main air inlet port(s), there are other 
+                      hoses attached to the air cleaner -- simple arrangements 
+                      (or none) in early models, more complicated systems of hoses 
+                      later on. These hoses are associated with the following 
+                      ancillary air cleaner systems.
+~~~
+Crankcase 
+                    Ventilation
+In 
+                    response to clean air requirements, VW put a rubber hose (about 
+                    1/2" ID) from the oil filler pipe to the air cleaner to take 
+                    the oil fumes from the crankcase to the carburetor for burning. 
+                    The VW engine pulls fresh air into the crankcase from a spiral 
+                    groove in the crankcase forward of (front is front) the engine 
+                    crankcase pulley, thus providing positive crankcase ventilation.
+This 
+                    air, plus the "blow by" from the cylinders, is pulled into 
+                    the air cleaner (and on to the carburetor to be re-burned) 
+                    by way of the breather hose from the top of the oil filler tower. 
+		    When the engine draws air through the air cleaner it creates a slight vacuum inside the 
+                    air cleaner.
+This 
+                    negative pressure in the air cleaner, plus the positive pressure 
+                    from the spiral groove pulling air into the crankcase, results 
+                    in any oil fumes being drawn up into the air cleaner, through the carburettor,     
+		   and burnt in the engine.
+With 
+                    little or no pressure drop at the top of the breather (e.g., 
+                    because of substitution of the stock air cleaner with an aftermarket 
+                    one), any extra pressure in the crankcase causes the oil mist 
+                    to push out past the spiral groove and through the slots behind 
+                    (actually, in front of) the pulley. This oil mist, of course, 
+                    settles out inside the engine compartment and can make a real 
+                    mess.
+So 
+                    -- for the crankcase ventilation system to work properly, 
+                    it is essential that 1) a vacuum is established in the air 
+                    cleaner, and 2) the hose between the oil filler and the air 
+                    cleaner be in place so that crankcase gases are sucked up 
+                    into the air cleaner and thence into the carburetor and intake 
+                    manifold for burning.
+~~~
+Evaporative 
+                    Emissions Control
+On 
+                    later models there is a rubber hose from a charcaol canister in the right wheel well, 
+                    to the air cleaner. This hose provides suction on the evaporative 
+                    emissions control system so that gases are directed to the 
+                    carburetor for burning rather than escaping into the atmosphere.
+Evaporated 
+                    fuel, expelled from a full tank by expansion, is collected in 
+                    the expansion chamber under the cowl panel in the luggage 
+                    compartment. From there it escapes into a ventilation line 
+                    that carries it to an activated charcoal canister located 
+                    in the right rear wheel well. The activated charcoal absorbs 
+                    the vapor, preventing it from entering the atmosphere.
+When 
+                    the engine is started, air from the engine's cooling fan, 
+                    through a hose on the upper right side of the fan housing, 
+                    is directed into the canister, blowing trapped fumes from 
+                    the activated charcoal into the air cleaner. The filtered 
+                    vapors are drawn through the carburetor and into the cylinders 
+                    of the engine where they are burned.
+Steel ventilation line from fuel tank.
+Plastic tube from steel line to canister.
+Exit hose to air cleaner.
+Air hose from engine fan.
+Photo courtesy of Bentley.
+So 
+                    for the evaporative emission control system to work properly, 
+                    there is a nozzle on the upper right side of the fan shroud, 
+                    through which air is blown to the into the activated charcoal 
+                    canister, and another on the air cleaner into which air is 
+                    returned to the carburetor.
+On 
+                    the 1973 and later air cleaners, there are two nozzles on 
+                    the right end of the aircleaner. The furthest one forward 
+                    has a baffle behind it inside the air cleaner; it is to this 
+                    nozzle that the hose from the oil filler is directed to draw 
+                    a vacuum on the crankcase. The other nozzle, furthest to the 
+                    rear, is the one to which the hose from the activated charcoal 
+                    canister is attached.
+The Bentley Manual says "the activated charcoal filtering canister must be replaced after each 48,000 miles or two years, whichever comes first."  The canister replacement procedure is easy -
+Label and then disconnect the vacuum hoses.  Remove the 
+	mounting screws and separate the canister from the bracket.  
+	Installation is the  reverse, making sure the routing of all of 
+	the hoses is correct.
+A 
+                    note of caution:
+If you have disabled the 
+                    evaporative emission control system (as many people have), 
+                    the outlet nozzle on the fan housing and the inlet nozzle 
+                    on the air cleaner must be plugged. Otherwise valuable cooling 
+                    air is lost, and the vacuum inside the air cleaner cannot 
+                    be maintained.
+~~~
+Intake 
+                    Air Pre-Heating
+At 
+                    some point, VW added an intake preheating system for faster 
+                    cold-weather warm-up. The system initially consisted of a 
+                    pull wire running from the thermostat to a movable flap inside 
+                    the air cleaner intake. In 1973 and later models, this temperature-controlling 
+                    flap is controlled by a vacuum system.
+The 
+                    intake air pre-heating system added yet another hose, at 2" 
+                    the largest of the several hoses to the air cleaner. This 
+                    hose, which is the same size as the fresh air hoses to the 
+                    fan shroud, collects warm air from the #2 cylinder by way 
+                    of an L-shaped tube underneath the engine tin. This warm air 
+                    is then routed up to the air cleaner.
+~~~
+Pull 
+                    Wire Pre-Heat Control
+The 
+                    carburetor pre-heat system on older model cars works like 
+                    this:
+The 
+                    cooling control flaps inside the fan shroud are linked by 
+                    a flat rod in the front (front is front of car) and outside 
+                    of the fan shroud. The cooling flaps are worked by the brass 
+                    bellows thermostat which is mounted under and between the 
+                    right cylinders, inside the ducting for the used cooling air. 
+                    The thermostat has a vertical rod extending from the top, 
+                    running up between the two cylinders.
+This 
+                    rod connects to the cooling flap linkage, and also works the 
+                    air intake pre-heat system by way of a pull wire (a black 
+                    sheathed single strand of piano wire) which starts on the 
+                    back (back of car) of the fan shroud just under the generator/ 
+                    alternator, and loops to the left and up behind the carburetor 
+                    to the flap in the rectangular air cleaner intake pipe. Under 
+                    this intake pipe is the 2" paper tube which pulls in warm 
+                    air from the #2 cylinder by way of an L-shaped tube that 
+                    protrudes up through the tinware.
+There 
+                    is an air-preheating regulator valve inside the air cleaner 
+                    intake which normally closes off the pre-heater inlet. A lever 
+                    on the side of the inlet connects the pull wire with the cooling 
+                    flaps inside the fan shroud, and thus to the thermostat pushrod. 
+                    If the pull wire is missing, you'll be sucking cold air into 
+                    the carburetor all the time, instead of after the engine has 
+                    warmed up.
+When 
+                    removing the air cleaner you can leave the pull wire attached 
+                    and just rest the air cleaner at the back of the engine pulley 
+                    (the cable is just long enough), or you can disconnect the 
+                    wire to remove the cleaner completely. The regulating flap 
+                    in the air cleaner is adjusted by sliding the sheath back 
+                    or forwards through the clamp, so that the flap is open to 
+                    the warm air pipe when the engine is cold.
+~~~
+Someone wrote - I have been 
+		   reading your site looking for knowledge on my 1967 Beetle.  I have the original oil bath air cleaner 
+		  with a neck on each side of it with a flap on each side.  I noticed the other day that they are 
+		  clipped up to stay open.  There is a weight that hangs down on the outside of the neck that seems 
+		  to hold it closed.  I was playing around with the engine idle and noticed that when I rev up the 
+		  engine the weight moves.  I live in southern California in the city.  Should these flaps be clipped 
+		  open all the time or should they be allowed to move with the engine revs?  Also what do they do?
+Rob responded - The flap 
+		  on the left side should be loose but weighted so it's normally closed, but will open when the engine 
+		  is running hard and pulling in a lot of air.  The flap on the right side of the car should have a 
+		  pull-wire (like a mower throttle cable) running to a crank on the flap unit inside the fan shroud on 
+		  the right side of the engine (I bet it's not there!).
+With this system, when the engine is cold 
+		both air inlet flaps are shut and the carburetor air is pulled up from the right side cylinder head area 
+		through the paper tube, so it gets warm air as soon as the engine starts to heat up.  As the engine gets 
+		fully warmed, the thermostat opens the cooling flaps inside the fan shroud to increase the cooling 
+		airflow, and this action also opens the right side air inlet flap so now the engine is running on cool 
+		inlet air (the underside of the carburetor is now being heated by the heat riser under the manifold which 
+		uses hot exhaust gas).  Now the engine is running on the right side air inlet until you floor the 
+		throttle and then the weighted flap on the left side opens too.
+That's used on the 67 and 68 years only.  
+		For 69-71 they dropped the left side air inlet and increased the size of the right side inlet, so it 
+		became all-or-nothing for warm/cold air through the single inlet with the pull-wire flap mechanism 
+		(and from about 72 on they used a vacuum/temp switch device).
+If the pull wire is missing, and the 
+		cooling flaps inside the shroud will probably be missing too (should get them replaced as soon as 
+		you can - they are quite important for fast and EVEN warmups), then the flap in the air inlet should 
+		be fixed open.  It will mean the engine is a little rough when cold, but the engine only needs warm air 
+		for the initial warmup period, then it should be running on cold air, with the heat riser under the 
+		manifold providing the necessary heat to stop icing etc.
+~~~
+Vacuum-Controlled 
+                    Pre-Heat Systems
+In 
+                    1972 VW changed to a vacuum-controlled intake pre-heating 
+                    system for faster cold weather warm-up. A small vacuum line 
+                    from a port in the intake manifold directly below the carburetor 
+                    supplies vacuum via the tube, to 
+                    the temperature sensor in the top of the oil bath cleaner (and from 73, to the 
+		    bottom of the paper air cleaner). From 
+                    there vacuum is carried by another small tube to the operating 
+                    mechanism for the warm air intake, mounted on the air intake 
+                    tube.
+With 
+                    the inlet air cold and the engine running, the air cleaner 
+                    sensor feeds vacuum to the mechansim in the air inlet, 
+                    which opens the regulating valve allowing warm air from the 
+                    cylinder heads, by way of the paper intake, into the air cleaner 
+                    and carburetor. As the air inside the air cleaner warms up, 
+                    the sensor shuts down the vacuum and the air inlet gradually 
+                    switches to the cold air inlet as the vacuum bleeds out of 
+                    the inlet flap mechanism.
+For 
+                    either the pull wire or vacuum system, There is/was a paper tube down to the breastplate, 
+		   and a metal L shaped tube under the breastplate to pick up warm air off the right side finning.
+		   If the paper tube is missing and the breastplate hole is open,the L shaped tube underneath is 
+		    probably missing too. This means that the pre-heat system has been 
+                    disabled (which many people do). We do not recommend this! 
+                    But -- if the system is disabled in your car, you must plug 
+                    the large hole in the tinware breastpale where the warm air tube connected 
+                    to the L-shaped warm air adapter pipe. Otherwise you will 
+                    have hot, used cooling air sucked into the engine compartment and into the cooling fan, 
+                    contribution to overheating and smelly air in the cabin.
+It 
+                    is very common practice to remove the thermostat. Again, we 
+                    do not recommend this. If the thermostat is removed, the condition 
+                    will be the same as if the pre-heater tube were missing -- 
+                    the engine would be very slow to warm up and the engine may 
+                    run rough.
+~~~
+Aftermarket Air Cleaners
+A 
+                    frequently-asked question - I'm thinking about changing out 
+                    the big hurky air cleaner on my Bug for a smaller chrome one. 
+                    Any advice?
+Advice 
+                    regarding aftermarket air cleaners generally runs against 
+                    them, in favor of the stock VW air cleaners. Although the 
+                    chrome filters look nice on a tricked-out engine, our advice 
+                    is to retain the oil-bath or paper-filter air cleaner since 
+                    it's more reliable and provides several functions which the 
+                    aftermarket filters do not. Here are some specifics:
+Aftermarket 
+                        air cleaners are usually an open design, so there is little 
+                        or no pressure drop inside the air cleaner to help the 
+                        crankcase breather work the way it should. In extreme 
+                        cases, oily mist in the engine compartment may result 
+                        from blow-by through the crankcase breather.
+Many aftermarket air cleaners don't even have any attachment for a breather tube from 
+			the oil filler tower.
+		        Without this, oil fumes can fill the engine bay, resulting in a very dirty engine.
+The 
+                        chrome air cleaners usually don't allow for an intake 
+                        air pre-heat system. This will make the engine take longer 
+                        to warm up on cold mornings.
+The 
+                        carburetor likes warm air in the winter; without it, ice 
+                        may form at the base of the carburetor. The air intake 
+                        pre-heat system reduces the possibility of icing up the 
+                        carburetor.
+It 
+                        is possible that the small, chrome cleaner may not provide 
+                        enough air through-put, especially as the filter becomes 
+                        contaminated. The engine may become starved for air at 
+                        high RPM's because the filter element is too restrictive.
+The 
+                        stock cleaners (both oil bath and paper type) have a "ram 
+                        tube" (sometimes also called a "velocity stack") about 
+                        three inches high inside the air cleaner, which sits above 
+                        the carburetor inlet. This helps smooth the airflow as 
+                        it enters the carburetor throat, so you get a more consistent 
+                        mixture as the fuel flows out the delivery tube into that 
+                        air stream.
+The 
+                        squat chrome aftermarket cleaners invariably lack this 
+                        internal feature, so the airflow into the top of the carburetor 
+                        is more turbulent, and a small amount of engine performance 
+                        is therefore lost.
+If 
+                        you doubt the worth of this feature, have a look at almost 
+                        any modern engine. Carbureted engines have one ram tube 
+                        for each carburetor, and fuel injected cars usually have 
+                        one per cylinder, either curved or straight, as part of 
+                        the induction manifold.
+Rain 
+                        will fall through the vents in the decklid, rusting that 
+                        chrome in no time at all, unless you have one of those 
+                        plastic "rain guards" installed in the underside of the 
+                        decklid.
+We 
+                    must of course give a line or two for an opposing opinion 
+                    that we have received - "Taking off the original aircleaner 
+                    won't harm the engine at all. Go ahead and change it, it will 
+                    do the engine a lot of good, saves weight, looks better. "Everyone" 
+                    has one." (And "everyone" is surely right! :-).
+Based 
+                    on our experience, the "tricked-out" chrome aftermarket air 
+                    cleaners have several disadvantages:
+The 
+                        do not provide pre-heated air to the carburetor for smoother 
+                        starting on cold mornings,
+They 
+                        do not provide sufficient air to the carburetor,
+They 
+                        do not provide vacuum for positive crankcase ventilation,
+They 
+                        do not smooth the airflow into the carburetor and thus 
+                        ensure a consistent fuel/air mixture,
+They 
+                        may cause icing of the carburetor.
+The 
+                    terse bottom line from a source we trust (Bob Hoover) -- "The 
+                    aftermarket chromie filter assemblies are bad news."
+~~~
+Question
+- You describe a pull wire on older VW's, older than my '72. 
+                    Since VW had moved on to a vacuum based system by '72, I wouldn't 
+                    have the pull wire. Considering the construction of my aftermarket 
+                    aircleaner doesn't have a means of attaching any vacuum, I'd 
+                    like to employ the pull wire instead. Do you know the part 
+                    number, or where I would start looking for this wire? I've 
+                    tried searching the 'net, but I've been unable to locate one.
+Rob 
+                    responded
+- It's very unlikely you'll find a replacement 
+                    pull-wire for the the assembly you want to install on your 
+                    72 Westy, but you can easily manufacture that part from the 
+                    stock throttle cable used on lawn mowers etc - a stiff inner 
+                    wire with coil/wound outer.
+The 
+                    really tricky part would be getting the control flaps with 
+                    the crank projecting out of the shroud under the generator 
+                    on the upright Bug engines - these were used on only the '68-'71 
+                    models and a lot of the control flaps have been ditched by 
+                    "knowledgable" experts over the years so are hard to find... 
+                    try
+Aircooled.Net
+,
+BFY 
+                    Obsolete Parts
+, and wreckers. I don't know if your '72 
+                    has the 1600cc upright engine or the 1700cc pancake Type 4 
+                    engine (in some countries the 1600cc upright engine was offered 
+                    as a cheap option right through the '70s), so I'm not even 
+                    sure if the control flaps are the same as for the upright 
+                    Bug engine.
+The 
+                    pull wire looped up behind the carburetor from the control 
+                    flap crank, up to the carburetor inlet. This method provides 
+                    only warm air (from the paper tube mounted running up from 
+                    the right cylinder head) when the engine is cold, and cold 
+                    inlet air once the engine has warmed up. The later vacuum-operated 
+                    method was better in that it provided mixed warm/cold air 
+                    via the temperaure sensor set in the air cleaner which controlled 
+                    the vacuum airflow to the flap mechanism in the air inlet. 
+                    Having said that, the pull-wire system does help with cold-climate 
+                    engine running - a faster warm-up and less stutters whilst 
+                    it is warming up.
+At 
+                    a pinch, you could also use a manual system to operate the 
+                    inlet flap. Any arrangment which would hold it closed for 
+                    warm-air intake in colder months will work fine. The engine 
+                    will be running on warm air all the time but that seems to 
+                    work okay too (I've used this on Bug engines with the pullwire 
+                    missing).
+* 
+                      * * * *
+Design by
+Erin

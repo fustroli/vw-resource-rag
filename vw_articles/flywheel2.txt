@@ -1,0 +1,29 @@
+Flywheel
+Flywheel
+~~~
+This article includes links to the following topics related to the flywheel -
+The Flywheel
+The Gland Nut
+Pinion Bearings
+Main Oil Seal
+Endplay/Engine Bearings
+Lightening the Flywheel
+~~~
+The above links consist primarily of questions and answers related to the flywheel operation, its removal, and its replacement, as well as discussion of the various components related to the flywheel as listed above.  Included in this will be discussion relating our experience with main seal failure due to excessive end play caused by failed bearings.
+~~~
+The Flywheel
+The flywheel is a heavy, machined steel wheel that is bolted to the end of the crankshaft.  The flywheel serves three purposes -
+The primary purpose of the flywheel is to store kinetic energy and maintain the revolving inertia of the engine through its cycles.
+Secondarily, the flywheel serves as part of the engine starting mechanism.  There are teeth all around the outer circumference of the flywheel; starter gear engages these teeth to turn the engine over for starting.
+And finally, the machined face of the flywheel acts as part of the clutch.
+The flywheel is attached to the front of the crankshaft by four dowel pegs ...for the stock flywheel, or 8 dowels for modified high performance engines, and very tightly secured (>254 ft-lbs) by a single central gland nut which also incorporates needle roller bearings for the gearbox input shaft.
+Note:
+We have written a very detailed
+Flywheel Removal and Replacement
+procedure that covers removal of the highly-torqued gland nut and the flywheel; removal, inspection and replacement of the main oil seal; replacement of the flywheel and associated gasket or O-ring; and checking the end play (with associated warning regarding excessive end play).
+~~~
+Commencing Removal of the Flywheel
+* 
+                    * * * *
+Design by
+Erin

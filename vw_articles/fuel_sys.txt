@@ -1,0 +1,61 @@
+Fuel System
+The VW Fuel System
+Below are links to various sub-topics related
+to the VW Fuel System.
+See also our list of
+Fuel-Related Procedures
+.
+~~~
+The operation of the fuel and ignition systems is closely interrelated.  It is difficult to talk about one or the other in isolation, but we will give it a go.  First we will address the operation of the fuel system, which will lead naturally into a discussion the ignition system and the interaction of the carburetor and distributor, usually referred to as "tuning."  To make sure that those relatively new to the VW world understand the more technical discussions that will follow, we will begin with a rather elementary discussion of the fuel system and how it works.
+To start -
+Open the engine lid and locate the
+Air Cleaner
+-- it is uppermost in the engine compartment, sitting right on top of that complicated-looking gizmo in the center of the engine with several levers and springs.  If the air cleaner is original (stock) it's a big, black clunky thing which uses either oil or paper to filter the incoming air.
+Note:
+The air cleaner may have been replaced by a previous owner (PO) with a little shiny chrome "aftermarket" one. If so, we would strongly advise going back to the stock air cleaner.  For more information about this recommendation, for which there is good reason, please see our
+Air Cleaner
+article.
+In any event, that complicated-looking gizmo under the air cleaner, in the center of the engine, is the
+Carburetor
+.  We will begin our discussion of the VW fuel system with this very important component.
+Links are provided below to discussions of sub-topics related to the main topics of
+Carburetor
+,
+Fuel
+and
+Fuel System Components
+.
+The Carburetor
+Air Cleaner
+Automatic Choke
+Carburetor Disassembly and Cleaning
+Float Needle Valve
+Carburetor Jets
+Accelerator
+Accelerator Cable
+Accelerator Pump
+Topics Related to the Carburetor -
+Air Inleakage
+Carburetor/Distributor Matchup
+Dual Carburetors
+Flooding
+Intake Manifold
+Vapor Lock
+Welch Plugs
+Fuel
+Octane Rating and VW Engines
+Leaded vs Unleaded
+Fuel Additives
+Water in the Gas
+Fuel Smell in the Cabin
+Fuel Economy
+Fuel Safety
+Fuel System Components
+Fuel Tank
+Fuel Line
+Fuel Filter
+Fuel Pump
+* 
+                    * * * *
+Design by
+Erin

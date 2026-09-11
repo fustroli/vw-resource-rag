@@ -1,0 +1,177 @@
+Starter
+Starter Problems
+~~~
+Following are some common problems with the starter motor.
+Loose mounting bolt(s).
+A click from the solenoid when you're trying to start.
+Slow cranking.
+Won't start when hot.
+A rriiiip sound as the starter spins.
+No click, no start.
+Loose mounting bolt(s).
+First and foremost, make sure both of the mounting bolts are 
+                tight. The upper one is also the top right engine mounting bolt. 
+                It should have a square or half-moon head to prevent it from turning 
+                when you are tightening the nut on the other side of the firewall. 
+                If a PO has replaced this bolt with a hex-head one, you will probably 
+                have a hard time keeping it from turning when you're tightening 
+                it. Best plan -- get the proper bold and save yourself lots of 
+                headaches (and bruised arms!).
+This is very important - a note in the "Idiot Book" says, ""If 
+                this bolt is loose your starter will stick." Voice of Experience 
+                here can verify that's true!
+A "Big Click" when you're attempting to start.
+The electrical path for the solenoid is from battery in the back, 
+                to the key and back to the solenoid - a long path with several 
+                connectors on the way, so poor connections or a broken electrical 
+                section of the key mechanism can cause this. The electrical section 
+                for the key is replaceable. If you can short the heavy wire on 
+                the starter to the thin wire connector with another length of 
+                wire (this is what turning the key does) and the car starter works 
+                OK, then it's probably in the key or the wiring to the key (car 
+                in neutral and hand brake on HARD for this test - you have to 
+                crawl under the car to get at the starter.)
+I found that there are THREE spade connectors on the starter 
+                solenoid. Two of them do indeed connect to the ignition switch; 
+                the third is an extension of the large bolt to which the wire 
+                from the battery connects. Naturally I had the wire from the ignition 
+                switch connected to the wrong spade connector on the solenoid.
+~~~
+FIXING THE "BIG CLICK"
+(The following is adapted with permission from Bob Hoover)
+The CLICK itself is your main clue. It tells you power is getting 
+                  to the solenoid. At that point the decision tree branches. Either 
+                  the contact bar in the solenoid is worn or corroded or otherwise 
+                  damaged so that it is not capable of doing its job (which is 
+                  to connect the battery to the starter) or the solenoid isn't 
+                  getting enough power to press the contact bar closed. There 
+                  are some variations on this theme but they have different signatures. 
+                  For example, CLICK! Whirrrr
+ means the pinion isn't engaging 
+                  the flywheel whereas CLICK! Groannn
+ means the pinion is binding 
+                  or the engine is seized or one of half a dozen other things.
+The above should make it pretty clear that diagnosis is based 
+                  on a complete understanding of how the system operates. It should 
+                  also serve to illustrate that diagnosis reflects a decision 
+                  tree.
+Aside - If you'll examine the workshop manual for any 
+                    modern vehicle you find it is largely devoted to depictions 
+                    of the diagnostic decision tree in schematic format. You'll 
+                    also see that virtually no space is given to telling you HOW 
+                    to do the mechanical aspects of the repair. Instead, they 
+                    tell you how to do the various diagnostic tests. When it comes 
+                    down to R&R, the removal & repair (or replacement) of the 
+                    component, the manuals assume you know how. Indeed, the WRENCHING 
+                    is the easy part. The hard part is knowing what to wrench 
+                    and you can only learn that by starting with the basics and 
+                    working your way up.
+The Big Click sez the problem is either in the solenoid or 
+                  that insufficient power is getting to the solenoid. We can test 
+                  for the latter by using a jumper cable from the battery lead 
+                  to the spade lug on the solenoid, thereby eliminating about 
+                  twenty feet of wiring and the possibility of a bad ignition 
+                  switch. But let me tell you right now this is a very dangerous 
+                  test. It should only be done when the vehicle is supported on 
+                  jackstands. Why? Because the engine is liable to start. And 
+                  if it does, it's liable to run over your ass.
+So leave the key OFF. That will prevent power from going to 
+                  the ignition circuit. Better yet, pull the HV lead out of the 
+                  coil. Then do the test. If you don't know which lead goes to 
+                  the battery, use your manual to figure it out. And if your solenoid 
+                  is the later model with the two spade lugs, figure out which 
+                  one goes to the ignition switch.
+Make a jumper with a female spade-lug connector one one end 
+                  and an alligator clip on the other. Detach the starter-switch 
+                  lead from the solenoid and replace it with the female spade-lug 
+                  on the jumper. To complete the circuit, TOUCH (do NOT clip) 
+                  the alligator clip to the battery cable connector. Do NOT touch 
+                  the copper stud nor the nut. The arc is enough to damage the 
+                  threads of the stud and will bugger the nut when you try to 
+                  remove it.
+Note:
+DON'T use that ohsokewl trick of shorting the 
+                  terminals with a screwdriver! Yeah, it works. It also damages 
+                  the terminals as well as the screwdriver.
+IF the jumper test causes the starter to engage and to crank 
+                  the engine, then the problem is in the wiring or the ignition 
+                  switch, with the higher probability for the latter.
+If the jumper test didn't help then you've narrowed the problem 
+                  down to the solenoid. Fortunately, the fix is pretty simple. 
+                  Start by removing the battery from the vehicle, then remove 
+                  the starter, dismantle the solenoid and file the contactor and 
+                  contacts smooth. You'll need to unsolder a couple of leads to 
+                  dismantle the solenoid. Use a bit of Solder Wick to get the 
+                  solder out of the holes. When you reassemble the solenoid be 
+                  VERY SURE to use RTV or other WATERPROOF sealant.
+Next time you go to replace the battery cable on the starter, 
+                  you may discover that the threads on the solenoid are buggered 
+                  all to hell; the nut won't come off (or it shears the copper 
+                  stud). You can't get a die onto them, even if you had the proper 
+                  die [which you don't] and you can't remove the old cable. You 
+                  have to remove the entire starter and chase the damaged threads 
+                  with a sixty-degree vee-file [see a set of Swiss pattern-maker's 
+                  files]. That is, assuming the threads aren't buggered too badly. 
+                  But if you've done that ohsokewl Idiot Trick more than a couple 
+                  of times, forget it -- you'll have to buy a new solenoid. Swell 
+                  idea, eh?
+In the same vein, DON'T go pounding on the solenoid with a 
+                  hammer. Yeah, this also works. And damages the solenoid in the 
+                  process.
+The usual reason for a solenoid to stick is due to rust on 
+                  the plunger. The proper fix is to remove the starter, dismantle 
+                  the solenoid and DEAL WITH THE RUST. If you just pound on the 
+                  thing you might jar the plunger loose
+ and you might not. The 
+                  odds are about 50-50. And of course, you'll only hear about 
+                  the successful tries.
+~ Thanks, Bob! ~
+~~~
+Slow cranking.
+Slow cranking is usually a sign that the battery is getting weak. 
+                This could mean a sick battery or a generator/alternator not charging 
+                properly. Please see our article on
+Fault-Finding 
+                the VW Electrical Charging System
+; this should help you track 
+                these faults if you have a voltmeter or multimeter.
+The engine won't start when it's hot.
+The engine not starting when it's hot (but you hear a click) 
+                is usually caused by the throw-out solenoid getting sticky with 
+                age and lack of lubrication. This solenoid forces the starter 
+                gear on to the flywheel and also provides the main electrical 
+                connection inside the starter motor. If it fails to start, but 
+                a tap from a hammer on the solenoid results in it working again, 
+                a sticking solenoid is most likely. (BUT - See Bob Hoover's note 
+                above regarding hitting the solenoid with a hammer!) You can buy 
+                new solenoids.
+A rriiiip sound as the starter spins
+but doesn't turn 
+                  the engine.
+this usually means stripped teeth on the flywheel which prevents 
+                the starter gear from engaging. This is an engine-out fix - the 
+                flywheel needs to be replaced (easy to do once the engine is out 
+                of the car). This problem isn't common in VWs, but it can happen.
+No click, or start -
+but only sometimes... .
+The electrical path for the solenoid is from battery in the back, 
+                to the key and back to the solenoid - a long path with several 
+                connectors on the way, so poor connections or a broken electrical 
+                section of the key mechanism can cause this. The electrical section 
+                for the key is replacable. If you can short the heavy wire on 
+                the starter to the thin wire connector with another length of 
+                wire (this is what turning the key does) and the car starter works 
+                OK, then it's probably in the key or the wiring to the key. (car 
+                in neutral and hand brake on HARD for this test - you have to 
+                crawl under the car to get at the starter.)
+The starter can be repaired by anyone handy with tools - there's nothing "special" about it.  The only part which needs an auto electrician is the spinning part itelf - if that is worn or has a broken coil section, it needs an auto electrician to fix it (but it's easily replaced as a whole component).
+Someone wrote that he often had to hit the starter with a hammer to get it moving.  He removed the starter and found that it was filthy.
+Rob wrote - A cleanout will certainly help.  Have a good look at the commutator section (the spinning copper segments) and the brushes - if these are dirty/pitted/worn then you need to have the commutator machined.  Do NOT try to clean it with sand paper etc - the right way is to get it machined and the plastic separators between the segments scraped lower so the brushes get good contact with the copper segments.
+The throwout shaft should be clean but not lubricated or it will tend to gather dirt and stick.  If you can regrease the bearings (does it have ball bearings?) it will help keep the starter in good condition.
+Dave Hall in the UK has a good article on his site for
+Rebuilding Starters
+(it's a Type 3 VW site, but the starters are the same).
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,15 @@
+Throttle Positioner
+Throttle Positioner/Altitude Corrector
+Someone wrote to ask - I am replacing the carburetor on my 1964 car (with a 1967 1500SP engine), but what is this thing on this carburetor?  Its a 30PICT/3.  (See the picture below.)
+Throttle Positioner
+~~~
+Rob shared his wisdom regarding the throttle positioner as follows - This is a throttle positioner (never used in Australia) - an early attempt at reducing emissions by slowing down the throttle movment as you 
+lift off the accelerator.  The throttle closes slowly rather than slamming shut as it normally would, reducing the huge "instant" vacuum under the throttle plate.  This and allows additional air to enter the intake manifold, reducing the amount of unneeded fuel sucked in through the idle and transfer ports. The result is that you get less unburned hydrocarbons emitted as you lift off the throttle, and less pollutants in the exhaust. you can probably hear the engine slow down a little more gently than expected if you rev it in neutral and lift off the throttle quickly.
+On 1968 and 1969 models an altitude corrector is built into the throttle valve positioner (see the illustration below).
+Note:
+If your state doesn't require the throttle positioner to be fitted you can removed it, plugging the vacuum port in the throttle body, with no effect on the engine's performance.
+Altitude Corrector
+* 
+                    * * * *
+Design by
+Erin

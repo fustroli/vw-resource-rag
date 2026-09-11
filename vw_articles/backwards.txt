@@ -1,0 +1,21 @@
+Distributor Backwards
+Distributor In Backwards
+~~~
+Dave asked -
+Quick question -- It's not possible to get the distributor accidently turned 180 degrees while out and then reinstalled wrong, is it?  The engine is running like its 180 degrees out, with a lot of lifter noise like the valves are way out of adjustment.  Like I say, if there's a wrong way ...   :-{
+Rob responded -
+The "blade" on the end of the distributor shaft is offset, so it will only go in one way, and to put it in backwards would need the cam shaft to be in 180 degrees out too.  This situation is very rare.
+Looking down the distributor shaft hole toward the fuel pump (sideways across the engine compartment):  With the engine at Top Dead Center, when the distributor driveshaft is seated, it should be perpendicular to the crankcase seam with the smaller segment of the notched driveshaft on the side towards the crankshaft pulley, per the diagram below.
+To check it, you can put the crankshaft at Top Dead Center (TDC) (with both #1 cylinder valves closed so you know it's TDC for #1 and not #3), then check that the rotor arm is pointing to the #1 cylinder plug lead, which should be in about 4:30 O'clock position.
+Slot in the Distributor Driveshaft
+~~~
+So - it's really not possible to put the distributor itself in backwards.  However it
+is
+possible to time it "backwards."
+Dave accidentally timed his spark on the #3 cylinder, and asked Rob if it possible to time correctly on cylinder #3 as well as #1.
+Rob responded -
+Timing is normally done on No.1 cylinder.  On cars up to 1970, the vacuum-only (no mechanical advance) distributors, the cam lobe for No3 cylinder was retarded 2-3 degrees to reduce the combustion heat in that cylinder just a fraction - it got the worst of the air cooling due to the convoluted cooling air path and the oil cooler in the left side cooling air stream.  So timing the engine on No3 is a no-no.  from 1971 onwards, with the larger fan and offset oil cooler of the "doghouse" engines, the distributor timing is even, but it's still normal to time the engine on No1 cylinder.  That works for ALL VW engines - any other arrangement only works for SOME engines.
+* 
+                    * * * *
+Design by
+Erin

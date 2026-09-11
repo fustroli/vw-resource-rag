@@ -1,0 +1,31 @@
+Bowden Tube
+Bowden Tube
+~~~
+The "Bowden" tube is the tube through which the clutch cable runs between two welded brackets in the body and the gearbox support arm.  These brackets force a "sag" or bend of about 3/4 to 1 inch below the straight line between the body and the support arm.  This sag or bend in the clutch cable guide tube is critical -- the friction it imposes on the cable minimizes clutch chatter.    If the sag is insufficient, the clutch will jump and shudder when you use it - mostly in first.  The Bowden tube allows the engine to rock on it's rubber mounts without pulling on the cable.
+John Henry has written an excellent article on the
+Bowden Tube
+on his Web page
+(The Bug Shop)
+.  We add here some of our experiences and some Q&As.
+~~~
+Someone wrote describing symptoms pointing to the Bowden tube - My Bug shakes violently when I release the clutch pedal in first gear.  I checked the clutch freeplay and there was none.  The clutch cable was extremely tight.  The Bowden tube was perfectly straight as well.
+Rob described the necessary "sag" in the Bowden tube thusly - Make sure the Bowden tube has the required 0.8 to 1-inch bend in it -- this is essential to allow the engine to rock on the mounts without tugging on the clutch cable.  Too little bend makes for great bunny hops when using the clutch.
+To adjust the bend in the bowden tube you insert C-washers just in front of the bracket on the gearbox -- C-shaped so they fit over the cable itself.  This also "shortens" the actual cable too - moves it further forward because of the increasing bend in the Bowden tube.
+Note:
+Clutch cable length varies a bit with the model year.  Make sure that you have the correct cable for your car,
+or you won't be able to adjust the clutch properly.
+Someone wrote to ask - I'm having trouble fitting a new clutch cable.  The problem is at the rear of the car, the cable outer cover between the rear end of the tunnel and the lug, has a large sag in it.  This means the cable won't run through it -- I know I need a small sag but the threaded end of the new cable won't run though it.  Can it be adjusted?  I can't see a way of shifting it.
+Rob responded - The part you are describing is the "Bowden" tube. The Bowden tube is removable; if you can't get the threaded end of the cable to go through it, grab it and push it towards the front to free it from the holding bracket at the rear.  You can then pull it rearward and remove it from the car completely.
+Note:
+Make sure the car is resting firmly on jackstands -- it will take some umph to compress the Bowden tube enough
+to get it out of the holding bracket -- the tube is very stiff and difficult to bend.  You certainly don't want to push the car
+off of its supports and down onto you!
+Reinstallation of the Bowden tube is the reverse.  First thread the new cable through the Bowden tube, then push the tube into the hole that it fits in at the front (body) end, then thread the cable through the holding bracket and push the Bowden tube forward so that it can be fitted back into the holding bracket.  Take a look at our
+Clutch Cable Replacement
+procedure to adjust the "sag" in the Bowden tube if need be.
+If clutch shudders persist after the Bowden tube is adjusted properly, it may be that the rear weld on the clutch tube has come loose.  Rob had this problem and reported that he had to remove the Bowden tube so he could move the clutch tube a little -- get it wedged back in place under the back seat -- and then weld the tube it to the tunnel again.  (A previous leak in the tranny seal made this job a real mess!)  But the result was good - nice smooth clutch again, and more adjustment left on the butterfly nut too.
+Rob reports a learning experience related to the Bowden tube - I couldn't get my Bug's clutch cable as tight as I wanted -- ran out of thread.  Scratched my head, did a few other jobs, went back under for another look, and finally it dawned, the Bowden tube had almost no kink, so it needed a couple of C-washers -- that "shortened" the cable a little and fixed the adjustment problem, as well as eliminate the slight clutch shudder on take off.
+* 
+                    * * * *
+Design by
+Erin

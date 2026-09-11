@@ -1,0 +1,114 @@
+Alternator Stand
+Alternator/Generator Pedestal
+~~~
+Bottom Line:  Get a good original-equipment alternator/ generator pedestal.  The cheap pot-metal ones on the market do not hold up.
+(See picture at the end of this article.)
+Also, see our discussion of the
+Oil Filler
+.
+~~~
+The saga begins ... Dave wrote to Rob - Just about the first thing we replaced in this car was the alternator pedestal.  
+It was cracked all the way around near the bottom, we discovered the problem when oil ran out all over the place when we put oil in the car.  
+Could this be a result of stress and strain caused by the fact that this engine ( a '71) is equipped with an alternator rather than the 
+generator that it's supposed to have?
+Dave replaced the alternator pedestal with another cheap one purchased from one of the VW parts catalogs.  This pedestal, like the first 
+one, was made of pressed powdered metal -- made in China.
+Two years later Dave had the same problem with the broken alternator pedestal!  He reported - I took the fan belt off  and started jiggling 
+things and found that the whole assembly was loose -- because the alternator pedestal is broken in two right at the base, just like before!  
+What concerns me most is the underlying cause.  There's got to be something basically wrong that is putting so much stress on the alternator pedestal.
+Rob responded - That IS strange.  Here's a thought -- there are several different fan backing plate shapes (the piece which bolts the fan to the shroud).  
+I don't know all the details, but even though they look similar, the non-doghouse one is different to the doghouse one (because the fan is 5 mm wider) 
+and the 38-amp generator (Buses/Kombis) plate is different again (that generator is longer).  I wonder if the Beetle generator and Beetle alternator 
+versions are a little different, and whoever overhauled your engine used the wrong one -- putting stress on the pedestal.  I can't see any other place 
+of conflict which would stress the pedestal.
+A few days later Dave found that all four of the fan cover bolts were totally MISSING!  Whether cause or effect, there's sure something wrong.
+Rob responded - Now THAT would certainly cause some stress on the alternator pedestal.  It has the spinning weight of the fan on one end, and the 
+downward force of the tightened fan belt on the other.  No wonder it cracked.  But I can't see you leaving four bolts out altogether, but then if they 
+were there, where are they now??? They have nowhere to go except inside the engine compartment.  Didn't have four spare bolts last time you dropped the 
+engine did you?
+Dave wrote - I haven't had time to have a thorough look -- they may be there inside the engine compartment.  You know, both bolts that hold the oil 
+cooler tin in place also vibrated loose, and this afternoon I also discovered the cause of the recent intermittent miss -- the nut on the positive side 
+of the coil had vibrated loose, and the wire was just loosely connected!
+Dave wrote to
+"Speedy Jim"
+- I have a very perplexing problem with my '73 SB ... For the 
+second time in our experience with this car (2-1/2 years), the alternator pedestal has broken in two -- a circumferential crack all around the base of the 
+pedestal.  This was the first of many problems that we have repaired in this car since we purchased it in June 1997; now it has happened again.
+By way of background -- this car (chassis no. 133-3001-550) was built late in the 1973 model year.  The engine in the car was replaced by a PO with a 
+1971 model (#AE320891) that is equipped with an alternator with an exterior voltage regulator (under the rear seat).  VW changed from a generator to an 
+alternator in mid-1973, so originally this engine had a generator rather than an alternator.  I don't know whether this change has somehow altered the 
+system so as to put excessive stress on the alternator pedestal, but it's a consideration.
+Not only is the alternator pedestal broken in two, but ALL FOUR of the fan cover bolts have worked themselves loose and are missing!  
+The bolts associated with the oil cooler tin have also worked themselves loose.  I don't know whether this is cause or effect.
+I am in the process of raising the fan shroud and pulling the alternator/fan assembly out of the car.  I have a new alternator with an internal 
+voltage regulator on order from
+Aircooled.Net
+, but I am very anxious for your advice before putting 
+the system back together to make sure that I have addressed the root cause of this problem so that it doesn't recur.  John Connolly has recommended that I 
+replace the fan, but I'd very much like to hear what you have to say about this situation before I proceed.
+"Speedy Jim" responded - I have
+never
+heard of a failure like this...never. Given all the other mysterious things happening (loose bolts), 
+I very much agree that the fan should be replaced.  There are two fans, one for non dog-house and one for dog-house coolers.  Are you also aware that 
+the alternator belt is different from the generator belt?
+Rob wrote - It's a weird problem, and I just can't think of why there would be stress associated with the fan to alternator, and alternator to pedestal 
+fixings which would a) loosen the fan mount bolts and b) crack the pedestal.  Where the bolts went is a big puzzle too -- maybe they are lodged behind the 
+induction manifold just below the fan plate, or maybe they are in the well under the engine pulley.  As I said previously, the only thing which comes to mind 
+is perhaps an incorrect fan mounting plate used on the alternator.
+Dave wrote a progress report - I AM going to have to raise the fan housing, even though the alternator is totally loose, so that it will clear the 
+intake manifold.  Hopefully that will become obvious when I get the alternator/fan assembly removed.
+Rob responded - I was wondering if you would.  That would be a "given" on the single-port engine (one-piece manifold) but I wasn't sure with the dual port.  
+But I guess the outer ends would be in the way (on the right side particularly).
+Dave wrote of continued progress - I went out tonight and took the alternator strap off, screwed in the two top bolts in the fan cover to hold the alternator 
+up (my concerns about the nuts being stripped were unfounded) and removed the broken alternator pedestal.  It's now sitting on my workbench in two pieces.  
+I'm not understanding this.  One would think that the fan cover bolts were inadvertently left off, causing vibration and stress ...
+Dave wrote to
+"Speedy Jim"
+- I'm pretty sure the problem lies with me.  
+I dug out a picture that I took of the engine after I had it all reassembled and cleaned up, sitting on the patio before reinstalling it.  
+I scanned the picture at 200% and took a close look at the two top bolts in the fan cover.  The blow-up is a bit fuzzy, but I'm pretty sure the 
+bolts were missing!  Apparently
+I
+neglected to put them in.
+Like Pogo said, "We has found the enemy, and they is us!"
+"Speedy Jim" responded - I don't think leaving all four bolts out would make any difference.   The cover is only there to keep the air inside and to 
+locate the shroud reference to the fan.  I don't think you're going to be able to take the blame for this! :-)
+Dave responded - But -- if leaving the bolts out isn't the reason the pedestal broke, what IS?  This is the second time this has happened in this car -- 
+there's got to be some underlying problem...  I keep coming back to the alternator itself.  This engine is 1971; VW didn't put alternators in Bugs until mid-1973, 
+yet this Bug (itself a 1973 model) has an alternator with an external voltage regulator.  Is it possible that this mismatch is somehow causing a problem 
+that is putting excessive strain on the alternator pedestal?
+"Speedy Jim" wrote - I would be looking for more clues, I guess, such as -
+Does the fan belt exhibit any peculiar vibrations through a range of RPM's?  (I assume it's not overly tight.)
+I'd try to rig up some way to spin the alternator at high RPM (without the engine running) to look for unusual vibration.
+After I got the fan out, I'd examine it closely for any signs of damage.  (By the way, you will need an impact wrench to get the fan off.)
+Rob wrote - I got this reply from my mechanic friend.  Couple of good points in it -
+Cracked alternator pedestals are not uncommon.
+Cheap pedestals crack far more readily than the genuine article.
+The 50amp alternator and 30amp generator fan mounting plates are the same, so that should not be a problem for you (there are several different ones -- 
+he mentions the 38amp genny (used in buses).
+Dave wrote to "Speedy Jim," John Connolly and Rob - Of course the alternator pedestal MUST be replaced.  I'm told that there are two qualities 
+available -- the el-cheapo made out of pot metal, which breaks easily, or the high-quality original VW part.  Given our history (two broken pedestals 
+in as many years), I want to get the good one.  The question is, WHERE?  All that I've seen are the el-cheapo ones.
+Aircooled.Net
+- If you need a genuine VW pedestal, I do NOT have them.  You will have to 
+get it used somewhere.
+Wolfsburgwest
+- This part does not appear in our catalog due to the poor quality 
+units currently available. Unfortunately, I do not have a source for an original unit, sorry. Try locating a used piece, that's your best bet.
+Russ' Recycling
+in Duarte, California is an all-VW wrecking yard, they may have one.
+Russ' Recycling
+- They sent Dave an original-equipment alternator pedestal for only $15!
+Dave wrote - We have a dearth of wrecking yards around here that have VW stuff, so this is a very valuable find!  I have ordered a used original 
+alternator pedestal from Russ' Recycling.  Once I have this "new" pedestal installed, then the reassembly will begin -- a new alternator and a new 
+CDI unit, with all associated parts (fan, etc.) cleaned and painted -- its gonna be gorgeous!
+Dave stripped the new alternator pedestal down to the bare aluminum, and it shines like a new dollar!
+New/Used Original Equipment
+Alternator Pedestal
+~~~
+The original-equipment alternator pedestal from Russ' Recycling has held up for more than five years now.  Dave strongly recommends that you do 
+NOT buy the cheap pot-metal pedestals -- they just do not hold up.  Get yourself one with the "VW" stamp clearly visible!
+* 
+                    * * * *
+Design by
+Erin

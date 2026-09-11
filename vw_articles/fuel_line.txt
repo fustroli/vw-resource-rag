@@ -1,0 +1,60 @@
+Fuel Line
+Fuel Line
+~~~
+Fuel Line Description
+There are six pieces in the VW fuel line, four of them rubber/braided. These rot after some years, and can swell inside and block, or else easily kink.  These rubber pieces, front to rear, are as follows -
+A short section of rubber/braided line under the fuel tank.  (In the Super Beetle, this short rubber section of fuel line has a filter in it.);
+Metal line from the fuel tank to the forward end of the transmission;
+A rubber/braided section connecting the metal line coming out of the body near the gearbox, and connecting to the engine metal line. This rubber section allows the engine to rock on it's mounts without tugging on the line (you can't use a solid line from body to engine).
+Final section of metal line near the gearbox and through the firewall and around the left side of the engine;
+A short rubber/braided section between the metal line and the fuel pump.
+A short rubber/braided section running from the fuel pump to the carburetor (may or may not have a filter in it -- which is not a good place for it.  See
+Fuel Filter
+for further discussion.
+Some VW owners have replaced the last section of metal line with a longer rubber line from the body line near the gearbox all the way to the fuel pump.  Whether the line is metal or rubber, our concern with fuel safety centers on the hole in the engine tinware through which the fuel line passes.  As the engine vibrates during normal operation, the fuel line rubs against the edges of the hole, and over time a hole in the fuel line may develop.  With the #3 spark plug and the hot exhaust manifold nearby, this is a major cause of engine fires.
+~~~
+Fuel Line Discussion
+Someone wrote - I had run a standard, automotive-grade, rubber fuel line (with a hose clamp, of course) from the end of the stock fuel line, through the firewall, to the fuel pump
+  I have always been concerned because of of the tremendous heat in this "cabin" and the fact that the line runs only a few inches above the #3 exhaust J-tube.
+Dave responded - Of most concern is the nearby ignition source.  The flash point of gasoline is VERY low and of course it is very volatile, which means that it will ignite very easily given an ignition source.  On the other hand, the autoignition temperature (the temperature at which gas will ignite without at ignition source) is quite high, so this is of secondary concern (though you certainly wouldnt want gasoline pouring over the hot exhaust tube!).
+Question continued - I'm assuming someone cut the stock line shorter.  In this case, what would you recommend I do?  Additional insulation, or should I thread a matching metal line to it?  I never took notice of the type of metal on the stock line, but it looks like it could be flared, with an o-ring and connector...
+Dave responded - I would simply replace the final section of metal fuel line, which connects at both ends with rubber/braided line.
+Aircooled.Net
+sells it for just $4.  Heres their blurb -
+This is that impossible to find steel line that routes the fuel thru the front (firewall) engine tin, to the fuel pump. It has fuel hose (5mm) at either end.
+Be sure to put a grommet around this where it goes thru the sheetmetal so the sheetmetal doesn't saw thru it (look at the one you have now). This is a MAJOR FIRE HAZARD, don't risk it.
+---
+The following problem was posed to Rob - I'm having a problem with my car. The other day I went down and washed my engine.  Now it won't start.  The ignition is working fine, so now I'm questioning the fuel system. The fuel pump is working fine... no gas is coming from the carburetor into the throat...  Also gas is coming out of the bottom of the engine from unknown location...  How could washing the engine screw this up so bad!
+Rob responded - Here's some stuff to check:
+Check all the rubber fuel lines.  It's possible that you disturbed an old piece of line with the cleaning (pressure  cleaner - brush etc.) and it's now leaking.  If the line near the gearbox leaks, the pump will suck air and won't fill the carby.
+You're sure the fuel pump is working?  Remove the line from the carby top, point it into a jar or away from the engine and get someone to crank for a few seconds.  Got a nice squirt-squirt of fuel?  Then the pump is working.
+Check the oil - is the level very high, or is there any smell of fuel?.  It could be that the diaphragm in the pump is holed and is leaking fuel into the sump.  If this occurs, replace/fix the fuel pump, drain the contaminated oil and and refill with fresh oil.
+Did you remove the rubber lines from the pump?  They are easy to get mixed up - try reversing them (if you didn't get any fuel flow). Many of the squat round fuel pumps are "reverse plumbed" - the inlet from the tank is on top and the outlet to the carb is the lower line.
+Regarding the "how could washing the engine screw it up" comment... Washing itself is a good idea, it's just that you might disturb something that was about to let go anyway (like old rubber fuel lines for example).
+Incidentally, the VW uses a thinner than normal fuel line -- DON'T try to use the normal 5/16th line. The genuine cotton covered VW type line is much better and with the cotton covering working like a clamp, you don't really need metal clamps either (that's how VW made them). You can, at a pinch, use 1/4 inch line but this is a very loose fit on the 5.5mm lines that VW use, so MUST be well clamped.
+The cotton covering on VW fuel lines is both great and problematic. It provides a natural clamp so you don't really need metal clamps.  Just try pulling the line straight off and you'll see how difficult it is -- you have to twist and pull at the same time.  But that covering WILL hide a rotting line until it's too late. Have a good look at the very end of each line - any cracking there will tell you it's time to change the fuel lines.
+It's always a good precaution to replace all four sections of rubber line about every five years.
+John Connolly
+(Aircooled.Net)
+advises-
+I strongly recommend cloth braided fuel hose.  Every 6 months, you should inspect it!  Bend it over 180 degrees, and if it cracks or is stiff, REPLACE IT.  Leaking fuel hose is the #1 cause of those smoldering VWs you see on the side of the road.  Don't be a statistic!
+---
+Rob relates the following experience - I've had a fuel smell in the car for a couple of days.  I decided it was the rubber line over the gearbox, since it was worse with the heaters on (drips near the left heat exchanger).  And the engine rubber lines are fine.  I was right -- it popped off on the way home on Friday night, just AFTER I passed the closed VW shop where I was hoped to get some replacement line.  And so I had to lie on the ground with cars whizzing past in the dark whilst I jammed the perished end back on, almost burned my hand on the heat exchanger, and had fuel pouring down my arm -- lots of fun!  I didn't have much fuel in the tank, and no money in my pocket, but got it on and got home with a sniff left in the tank.  I found a piece of plastic tube to use until I can get the right stuff.  The smell's gone.
+---
+Someone wrote - I got a new gas tank and decided to start my tank replacement project, but I can't find the fuel line anywhere!  I only find the piece coming out of the tunnel at the front of the car that connects to the tank...
+Rob responded - That piece should be poking out the top of the tunnel just under the tank.  You connect the two with the VW cotton-covered fuel line and you'll probably need to make a partial loop of rubber line so it's not curved so much it kinks (don't use the "normal" 5/16th rubber line -- it's too large and is difficult to clamp to the smaller VW lines).
+The person continued - I have no fuel line coming out the back...  I have crawled under the car and looked on the left side back by the transmission where it should be and don't see a thing.
+Rob responded - That's where is should be -- it comes out just to the left of the gearbox, close to the clutch cable.  There should be a hole there.  And the tube would PROBABLY be visible through the coupler hole under the back seat -- it should be under the clutch cable tube on the left side of the tunnel.
+Have a look at this site for
+pictures of the inside of the VW tunnel
+. This Web site shows pictures of two Bugs dissected (big pics so they may take a moment to download).
+Question continued - I read some stuff about how gas that sits for a long time gets gummy and decided that I should probably just change the whole fuel line.
+Rob responded - Yes, old fuel will go gummy.  If you can find the fuel line it can be cleared either with compressed air, or if really blocked, with a long length of piano wire or similar stiff wire.  Just poke it through or, if it's really blocked, grind one end to an angle (make a tiny chisel-end) and put the wire in a variable-speed drill and spin it slowly while forcing it through.  Once you have a hole of any size right through you can fill it with carburetor cleaner, cover the holes either end so it doesn't evaporate and leave it for a couple of days, then blow it out with compressed air or run the wire through it a few times to clear out any gummy residue.
+If you have to replace the line altogether, probably the best way is to use steel line under the car.  If you can, position it in the recess where the body/pan bolts are, then it will be quite well protected from rocks, etc.  Copper line would work too, but is softer so more subject to damage.  Use clamp/straps and very short neck (or self-tapping) screws dipped in grease, so -
+The screws won't project too far inside the car (hopefully the tips will be hidden under the carpet or else you might need to trim them with a grinder), and
+The grease will reduce any likelihood of rust starting around the holes.
+You need to end any new line near the gearbox (left side gearbox yoke is the best place) and run a rubber line to the engine so it can rock on it's mounts without pulling on a solid line.  You can either run the flexible line right to the fuel pump (with a protective grommet through the tinware) or use the original style steel line around the left side of the engine and just have a rubber section joining it to the body line and the fuel pump.
+* 
+                    * * * *
+Design by
+Erin

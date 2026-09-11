@@ -1,0 +1,151 @@
+Distributor Q&A
+Distributor Questions and Answers
+~~~
+Question -
+Ever since I came into the VW scene (about 2 yrs) I've been hearing people going on and on and on for the 009 distributor.  Where the heck did it come from?  Was it a stock part for certain VW's?  And what difference will it make on my 1969 1300cc single-port engine.  Oh yeah, and what's that "flat spot" all about?.  I'm VERY confused and I hope you fellow fweemers can sort it out for me (and other newcomers).
+Rob responded -
+VW built a lot of industrial engines (called Type 122 for the 1200 and 126 for the 1600) as well as those built for the Beetle itself.
+Industrial engines powering generators, compressors and such are near enough to constant speed, so only a simple distributor was all the engine needed.  So a centrifugal distributor was developed by VW, and later by Bosch.  This type of distributor increases the amount of advance as the engine speed rises, but can not sense the throttle position (engine load), because there is no vacuum input.  This is fine for engines operating at constant speeds, or at high power and high rpm (for VW racing engines for example, plus the previously mentioned industrial engines).
+When the first Type 2 vehicles (Kombi etc.) came out (1954 I think), they used the 1200cc VW engine and needed reduction hubs so that the tiny engine could push a heavy vehicle (with a top speed of about 85kmh since the reduction hubs meant it was revving it's heart out!).
+Because these engines in the Type 2 were working at high rpm and high throttle most of their life, the VW version of the centrifugal distributor was used on them too (but just try getting one off the line - they needed a lot of revs and clutch slip to avoid bogging down).
+Engines used in road vehicles operate at various engine rpm and load conditions, which requires a lot of variation in the amount of advance needed for optimum engine performance and economy.  So most road vehicles use vacuum sensing, or a combination of vacuum and centrifugal, to get the best timing over a wide range of engine operations.
+The early Beetles used single-vacuum distributors - no mechanical advance (SVSA). From 1971 onwards there were several double advance versions - some were single vacuum plus mechanical advance (called SVDA), and in the USA, from 71-73 a double vacuum plus mechanical version (DVDA) to meet their emissions rules, and from 1974 the USA also went to the SVDA single vacuum double advance.  This latter version could be seen as similar to the mechanical advance of the 009, plus an additional vacuum component.
+These distributors are quite expensive to build in comparison with the Bosch 009 (the Bosch equivalent of the VW centrifugal distributor).  So the cheap-to-build Bosch 009 distributor became a sort of "common" replacement distributor, since it IS cheaper, and it does work (sort of).  But it's a "one size fits all" distributor, so it's NOT ideal, and it can cause problems for some engine/carburetor set-ups.
+There was also the misconception about the 009 being better for racing, so it must be better for road cars too right?  Not so. Race cars are either idling or flat out, and the 009 style distributor works well in those situations (the spark advance is either minimal at idle or "all in" at speed), but it does NOT work well at the various load and rpm conditions that a road car operates in.
+To accelerate an engine smoothly, you need both extra fuel and a shot of advance.  The accelerator pump provides the extra fuel and the vacuum distributors provide the additional advance needed.  But a 009 distributor cannot provide any advance until AFTER the engine rpm starts to increase (actually from about 1200rpm) so, if the carburetor is set to run a little lean (LESS fuel), you get a hesitation or flat spot, which usually means the driver has to goose the throttle a time or two to get the rpm up to the point where the 009 distributor is starting to advance, then "feather" the throttle (and slip the clutch) so the rpm stays high, to avoid that flat spot.
+Then once cruising, the 009 must be limited to about 30 degrees maximum advance so the engine wont detonate/knock if you floor the throttle, but the vacuum distributors can provide up to 40 degrees advance for better economy, and will back-off if you floor it, until the rpms chatch up with the new throttle position. So in cruising conditions, the 009 is UNDER advanced - this increases fuel consumption.
+The most common technique to overcome the 009 distributor flat spot is to replace that "missing" advance with extra fuel - a larger main jet, maximum stroke on the accelerator pump, and in some cases filling in the air-bleed hole in the throttle butterfly. This reduces but does not normally eliminate the acceleration flat spot.
+That means that even when the engine does not need extra fuel, it is getting it, so your fuel consumption is increased and in fact engine wear increases slightly because the extra fuel results in some wash-down of the oil film on the cylinder walls.  Expect your oil to get black with soot sooner than when using a vacuum distributor.
+The earlier Solex carburetors (28PCI, 28PICT and 30PICT/1 and /2) are set to run a little on the rich side - according to VW guru Bob Hoover the VW engine actually likes 13.8:1 air/fuel ratio, where the ideal is 14.5:1).  So since these carburetors are set to run rich anyway, the flat spot is often not noticeable, or can be tuned out with minor adjustments.
+But in 1970/71 the emissions problem was becoming recognised and VW changed the jetting on the 30PICT/3 (1970 US only) and the 1971+ 34PICT/3, and /4 to run the carburetor leaner - closer to the ideal 14.5:1 air/fuel ratio (the California 34PICT/4 uses a main jet which is about 6 sizes smaller than "normal"!).
+So with this leaner running carburetor set-up, the 009 distributor flat spot becomes a real issue.
+You'll hear most complaints from folks who use the 34PICT/3, 34PICT/4 or the modern equivalent for the smaller carburetors - the Brosol H30/31 (which is almost identical to the 1970 30PICT/3) - all of which normally come with lean jetting.
+Your 1969 1300cc with 30PICT/2 carburetor is one of the older variety carburetors with slightly richer settings, so you would not notice the 009 flat spot so much (if at all).
+Another issue with the 009 distributor (touched on above) is the limited maximum advance.  The vacuum distributors can run up to about 40-42 degrees under the right conditions (light throttle and medium speeds for example) and this helps fuel economy.  But if you maintained that much advance with a full throttle and low/medium rpm, the engine would ping/detonate.  The reason is rather technical, but is mainly related to the amount of residual exhaust gases which are left in the cylinder compared to the incoming charge.  There is always SOME residual gases, since there's a head space above the piston.  At part throttle there is a proportionally larger amount of burned gases in comparison to the fresh stuff (throttled fresh mixture but same head space of burned stuff) - at full throttle there's a lower proportion of burned gases because you are letting in MORE fresh mixture for the fixed volume of head space.  This "contamination" of the fresh mixture alters the flame speed (the time it takes for the fuel/air mixture to burn) so open throttle needs less spark advance (burns faster) and part throttle needs more spark advance (burns slower) - at any particular rpm.
+Incidentally, this is part of the reason why the low compression 1200cc engines need more advance - usually 10 degrees BTDC compared to 7.5 degrees BTDC for most higher 1500/1600cc engines). Low compression means more head space (compared to the cylinder volume), and so there is more contamination of the fresh charge throughout the rpm range and that means a little more advance is needed so all the fuel is burned just as the piston starts it's descent.
+The vacuum distributor senses throttle position, so if you floor the throttle at low-medium speeds, the distributor is able to "back off" the advance until the engine speed catches up with the new throttle position (slowly allowing the extra advance back in as the rpm rises), but the 009 distributor can't do this, so it HAS to be set to "worst case" which is between 28 and 32 degrees at 25-2600+rpm. This is why we set the 009 distributor at 3000rpm - to make sure that the advance is "all in".
+Since the 009 distributor has been limited to 28-32 degrees compared to the vacuum distributor's 40-42, it's actually
+under-advanced
+for a lot of driving conditions, and this means worse fuel economy.  And because you need to set the carburetor to run rich to reduce the flat spots, fuel economy suffers even more.
+Because the 009 distributor is built very cheaply, the total amount of advance varies from one to the next. This means when setting the 009, it's important to set it's maximum advance at high rpm, not the mionimum advnace at idle, since the maximum advance is much more important for most engine conditions.  Always use as much of the 28-32 degrees as the engine can take without pining/detonating, as this will reduce any flat spots just a little becasue it's also advancing the idle advance just a little, and it will also help fuel economy just a little.  If it still pings at 28 degrees, always use a higher octane fuel, NEVER use less than 28 degrees because it means the engine is seriously under-advanced at higher rpm and will run hotter than it needs to.
+Once you have determined the maximum advance which works well for your 009 distributor, you can then measure the idle advance (which will probably be between 5 and 10 BTDC) and you can then use THAT setting for THAT 009 distributor to set it at idle or static if you want to.
+So you can see that the 009 is NOT ideal, but it will work.  For best performance under all engine operating conditions, you need a vacuum distributor.
+Hope all that makes sense.
+See our
+Tune-up Procedures
+-- these include information on both vacuum and 009 distributor settings.
+~~~
+Someone wrote -
+The other day I went down and washed my engine.  Now it won't start. I used my manuals and the coil's still strong, the distributors working. I pulled the spark plugs and replaced them all. I tested them out of the engine and they are sparking just fine. So now I'm questioning the fuel system. The pumps working fine. I pulled the air cleaner but no gas is coming from the carburetor into the throat. (I'm guessing the gas comes from that pipe from the top of the carburetor once the air cleaner is removed, the one above the first butterfly valve) I have a brand new battery and the starter is turning the engine over. Also gas is coming out of the bottom of the engine from unknown location. I tried to pore a little gas into the carburetor but no firing...  How could washing the engine screw this up so bad!
+Rob responded -
+VWs hate wet distributors and will leak the spark to ground very easily.  At night you can try getting a friend to crank the engine and look for sparks over the distributor cap (interesting when you see this - quite pretty!).  Try removing the center electrode from the cap and wiping around it with a dry cloth/tissue.  Same thing with the coil - make sure the area around the center connector is very clean and dry.  Replace and test for spark with the spark plug end of one wire and a spare plug - held against the engine casing (you'll need a friend to crank the engine a couple of times).  The spark is much easier to see in the shade or at night.  Be very careful you don't tangle with the fan belt/pulleys when working near a turning engine.
+If no spark, also check for 12 volts at the coil (on the (+) side).  If you don't have a voltmeter, just use any 12v globe and connect to the (+) side of the coil and to ground (engine case), and turn the ignition on.  If the light glows, then the coil is getting power.  If your car has reversing lights, this test can be done by putting the car in reverse and turning on the ignition, since the reversing lights get there power from the 12-volt connector on the coil.
+Also try removing the cap and wiping it inside with a dry cloth - even a tiny mist of water there will cause problems.  If there IS a little moisture inside, dry the points too (not as sensitive as the cap since the points only see 12 volts, and the cap sees 18,000 volts), but still useful sometimes to dry the whole thing with a hair drier etc if needed.  You could also try spraying copious amounts of WD40 around to disperse the water (WD40 means Water Disperant formula 40), but this will cause a mess in itself, and make a dust trap later on.
+~~~
+Someone wrote -
+The cam duration is marginally more than stock; will the distributor advance correctly?
+Rob responded -
+It should be okay, since as you say you will have a larger capacity feeding through the same carburetor.  You should have a good airflow for good vacuum signal.  With the SVDA type distributor you have, the vacuum is only providing about 8-10 degrees of the advance and the centrifgual part the other 30 degrees or so, so a fractional difference in the rate of advance should not be noticable.  It's certainly another reason for sticking to a mild cam though - too much overlap and you won't get that early vacuum advance kicking in properly.
+Question -
+My engine idles perfectly, if you step on the gas, the engine coughs and sputters before revving  up.  Could that be caused by the distributor?
+Rob responded -
+The distributor, or a combination of distributor and the carburetor.
+Question continued -
+I spent all day messing with the mixture screw.  It does it at every setting from as far in as the  screw can be while still running to the screw practically falling out of the carburetor.
+Rob responded -
+Do you get any variation in the idle when you play with the screw?  If not then the idle jets themselves may be blocked.
+Question continued -
+So I'm pretty sure the problem isn't the mixture.  I just changed the distributor from a 009 to a stock vacuum-advance, could the vacuum advance distributor be crap and be causing this problem?
+Rob responded -
+It's possible.  You can check the vacuum arm operation very easily - take the cap off the distributor so you can see the points plate, take the vacuum line off the carburetor, and suck on it.  The points plate should move and then stay put if you cover the tube with your tongue.  If it drifts back the diaphragm is holed and it won't pull in advance like it should (not as fast anyway).
+The vacuum distributor does not need as rich a mixture (it can use smaller jets) compared to the 009 distributor, but if the richer ones are in there, then you should not get the hesitation anyway.  You have the vacuum line connected to the port on the left side of the carburetor - just above the throttle arm?
+You should have the idle set at 10 degrees BTDC (static) for the vacuum distributor on that engine (1200cc).
+I presume the vacuum canister is the old variety, with an adjusting nut in the middle of it?  There are several types of vacuum canister, to suit the different vacuum signals from different sized carburettors. I'm no expert on the 36hp engine, but I know it had an adjustable vacuum diaphragm.
+If your car has a single-vacuum canister (only one vacuum line to the canister on the carburetor), then as I said above this must be connected to the left side vacuum port.  Any vacuum ports on the rear (rear of car) of the carburetor must be plugged - they are not used with single vacuum distributors (double vacuum distributors were used mostly in the USA and DO use a rear vacuum port on the carburetor).
+~~~
+Bob Hoover wrote -
+n a response about to a problem with a points replacement ignition module which was misfiring.  VW distributors are not well sealed.  There is always some amount of oil vapor inside the unit.  Combined with the carbon granules that wear off the central button in the distributor cap,over time this obscures the IR pickup on the optical sensor and results in misfires.
+Someone responded -
+Of course, VW did include a dust shield in their later distributors which would help the carbon granule problem immensely.  The Haynes and Chilton's manuals both show a plastic shield which sits on the rim of the distributor body, held in place by the cap.  The hole in the middle is hardly larder than the shaft of the rotor, and any carbon granules from the carbon button would have a hard time finding their way through the gap in between.
+However, my own distributor aside, I have yet to see
+any
+aircooled VW with its shield still in place (though admittedly, I  haven't looked under
+that
+many distributor caps.) They seem to fall victim to the "runs fine without it there, so throw it out" mentality at some point in most cars' histories.  Watercooled VW's have similar distributors, and guess what? They have the same dust shield too. In fact, the dust shield, distributor cap, rotor, and anti-static shield from many Watercooled VW's fit just fine on the later aircooled distributors.
+The caps I saw on the watercooled VW's at the local salvage yard were the exact same part number as the cap I already had on my distributor. The one actual rotor I brought back as a sample was somewhat different though.  Fits just fine, but has a resistance of 1K instead of 5K (this offset partly by the fact that extra resistance was designed into the spark plug wire connector at the distributor cap, and more by the factory use of carbon wires rather than copper).  John Connolly
+(Aircooled.Net)
+has mentioned that the stock rotor sometimes dies over time with the extra energy from a CDI.  I think one of the 1K watercooled rotors may survive better, and save the trouble of digging out the epoxy and soldering in a chunk of brass as John suggests.
+Rob's comment -
+John Connolly now recommends that if you have a distributor rotor with any plastic blob in the middle of the arm, and you use a points replacement module or CDI, you should scrape that blob off and the restistor under it, and bridge the gap with solder so there is no longer any resistance in the rotor arm. Either that or replace the rotor arm with one that has no resistor in the middle.
+Dave wrote -
+I'm guilty!  I'm a heretic!!  I did the unthinkable!  I put the 009 distributor back in!
+I static timed it and took it out for a test drive.  Pretty good -- better than the double vacuum distributor, I have to say.  So I backed it into and slapped the timing light on it.  It was just a tad advanced, so I turned the distributor back just a titch.  Revved it up, and right up to my 30-32 degree mark it went.  Took it out again -- the car has NEVER run better!
+Rob responded -
+Okay, so now we know there probably IS a fault in the double vacuum unit.  So is it the retard vacuum in the canister, or the points plate sticking?  I guess you could check the points plate by disconnecting the vacuum actuating arm and seeing if the plate moves freely through it's range of about 15 degrees (yes, 15 degrees - it spins at 1/2 engine revs so that makes 30 degrees at the spark plugs, and then you add the static timing).  If so, it must be the canister.  THIS should be findable (new of course -- second hand would be just asking for the problem again).  I can buy vacuum canisters over the counter here (pricey but available), so they MUST be available there somewhere.
+You could also try using the vacuum unit as a single vacuum, and see if that gets rid of more of the hestitation.  It still may not be perfect of course, because the carburetor tuning is really set up for the idle retard, but it might come very close. To do that, remove the RETARD vacuum line from the front (front is front of car) side of the canister, leaving that connection open, and plug the retard port on the rear of the carb.  Now time it to 7.5BTDC ststic and try it out.
+Dave wrote -
+I can go around a corner in second gear with out even touching the clutch -- not even a hint of hesitation.  It still revs a little before taking hold ...
+Rob responded -
+That's the 009 centrifugal-only advance for sure.
+Dave wrote -
+My conclusion from all this is that my vacuum distributor is defective.  That's the only conclusion that makes sense, because I remain convinced that the double vacuum distributor is the one that should be used with the 34-PICT/3 carburetor.  Maybe I'll be able to fix it, like Bob Hoover recommends, but junked VWs are almost impossible to find around here.
+Rob responded -
+As I said, if you can get a new vacuum canister, and the points plate works okay, that may be all you need.  Alternatively, Bob Hoover says the spacing washers from a 009 make dandy spacing washers to fix the free play in vacuum distributors. And a further comment - re your comment about the dual vac unit being the one to use with the 34PICT/3.  Well yes, but the 74 and later cars used the single vacuum double advance SVDA with the 34PICT/3 too. The 34PICT/3 just works better with some vacuum advance - better than the mechanical-only 009.
+Dave wrote -
+Well, I did it.  I ordered a Single Vacuum Dual Advance (SVDA) distributor from John Conolly
+(Aircooled.Net)
+...
+I backed the Bug into the garage and pulled the 009 distributor out of it.  Then I put the new SVDA distributor in -- a VERY tight fit.  I had to remove the bracket and then gently persuade it over the seal and onto the shaft, then push and push to get the shaft down into the hole.  This is good -- we certainly shouldn't be getting anymore oil leakage!
+How some ever -- I'm confused.  The #1 notch on the rim of the distributor ends up being at about 1 o'clock, which I've never heard of before -- it's supposed to be at 5 o'clock.
+Rob responded -
+Yes, that's correct -- should be about 5 o'clock.  But I seem to remember you saying the 009 had #1 cylinder in the 1 o'clock too, so it may be that the camshaft has been inserted wrong.  If this is the case it shouldn't matter so long as the plug leads are fitted appropriately.
+Dave wrote -
+I went ahead and attached the wires that way -- 1-2-3-4 around the distributor counterclockwise (opposite the way it runs).
+Rob responded -
+Firing order is 1432, so if you start at 1 o'clock, the connections on the distributor would be --
+Front of car
+2   1
+0
+3   4
+Rear of car
+I think that's the same as you described above.
+Dave wrote -
+Then I timed it statically, started it up and timed it with the timing light (the static timing was right on).  It purrs like a kitten in the driveway, but it doesn't run any better on the road -- in fact, I think it's worse -- it always hesitates when I goose it and when I let out the clutch after turning a corner.
+Rob responded -
+Could just be the tuning is wrong for the new distributor -- other than that I'm not sure.
+Dave wrote -
+There's got to be something basically wrong here that I'm overlooking.  The fact that #1 is at 1 o'clock on the distributor is weird and makes me very suspicious.  I think that the firing sequence is all screwed up, but I'm not smart enough to know how to test it and correct it.  I suspect I should pull the #1 plug and make sure it's at TDC when the notch on the pulley lines up with the split in the crankcase -- THEN put the distributor in and see where the rotor points.  I think I'm 180 degrees out of phase or something.
+Rob responded -
+That's possible.  Yes -- pull the #1 plug and the right rocker cover.  Find TDC with BOTH valves shut (loose) -- this will be the firing stroke for #1, and see where the rotor is pointing.  That will be your starting point.  Once you have #1 the others will follow the correct sequence.
+Dave wrote -
+It seems to be possible to put the drive shaft back in any old way, as long as it engages the crankshaft gear.  That would explain a LOT!
+Rob responded -
+Could just be the tuning is wrong for the new distributor; i.e., the carburetor settings -- it runs better with richer settings for the 009 distributor, maybe too rich for the single vacuum distributor?  Could try a little less squirt on the accelerator pump, and adjusting the volume screw (smaller one).
+Dave wrote
+to John Connolly
+(Aircooled.Net)
+- I have successfully installed the SVDA Distributor you sent me, and the car is running very well.
+However, I have a question -- I am confused by the fact that the notch for the #1 cylinder is at about 1 o'clock on the distributor rim -- according to the manuals it's supposed to be at about 5 o'clock.  I have verified that the #1 piston is at TDC with the pulley at the TDC mark and the rotor pointing to the notch on the distributor rim.  The valves are closed, so I know that #1 is at TDC.
+John responded -
+That distributor came out of a Type 4 engine, that's all.  Since there is no retard on #3, you just wire it up. Make SURE you don't have plug wires crossing one another, that's asking for trouble.
+Dave wrote -
+My distributor driveshaft is a little bit cockeyed, but I don't think that should make a difference as long as the spark plug wires are attached properly (counterclockwise from the notch, 1 2 3 4; firing order 1 4 3 2).
+I would appreciate any advice -- this situation seems a little strange (though the car is running better than it ever has before).
+Dave wrote to John -
+I found that #1 & #2 and #3 & #4 were crossed; I corrected that, and it DID make a difference.  I was not aware that that could be a problem, and I doubt that many VW owners are.
+John responded -
+Now I need to convince you to install the Pertronix and CDI.  Next step up in the running good process.
+Dave wrote -
+I've been interested in the Pertronix system for some time.  Is there some place on the Internet where I might learn more about it; e.g., performance, installation, etc.?
+John responded -
+Read the technical articles on our site
+(Aircooled.Net)
+, especially the bolt on modifications (the first one).  They are easy to install (about an hour total).
+Rob wrote -
+I had a chat with my mechanic friend at Intervolks this morning.  Apparently we can't get single vacuum distributors any more in Australia, although replacement vacuum canisters can still be obtained (just over $50).  The 009 distributor here costs about $130 (2006 prices!), which is about right with exchange rates and freight.  He didn't know the SVDA was available anywhere, so I told him about
+Aircooled.Net
+.  He's using a 009 distributor on his '69 1500cc with 30PICT carburetor; he says it runs great after altering the jets in the carburetor.  We know that story don't we!  As we know, the 30 series carburetors cope with the 009 distributor better than the 34 series carburetors anyway.
+* 
+                    * * * *
+Design by
+Erin

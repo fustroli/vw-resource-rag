@@ -1,0 +1,11 @@
+RPM
+RPM/Torque
+~~~
+Someone wrote with a question -- I have a 1977 restored 1600cc twin-port beetle to which I have fitted a VDO rev counter (tachometer).  What are the specs as far as RPM goes for maximum RPM and maximum torque?
+Rob responded -- I don't have the exact torque figures for a 77 1600cc, but maximum torque occurs at about 2600-2800 rpm.
+The VW engine can run all day at 4500 rpm with no ill effects (that's 88 mph/140kmh with the '77 gearbox, which is slightly above the top speed of the car), but above that the unbalanced crankshaft starts to bound on the bearings.  This doesn't get serious until over 5000 rpm, so THAT makes a good redline, and the engine won't suffer with the occasional burst up to those rpm, but in general, keep it closer to 4500 rpm.
+For information, with your gearbox, 60mph (100kmh) in 4th gear is about 3050 rpm, and 60mph in 3rd gear is about 4040 rpm (assuming stock diameter tyres), so you can rough-check your rev counter on that.
+* 
+                    * * * *
+Design by
+Erin

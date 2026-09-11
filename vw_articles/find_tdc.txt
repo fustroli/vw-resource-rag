@@ -1,0 +1,52 @@
+Finding TDC
+Finding Top Dead Center/
+Crankshaft Pulley
+~~~
+Two topics are discussed in this treatise -
+Finding Top Dead Center
+Crankshaft Pulley
+~~~
+Finding Top Dead Center
+A complete procedure for Finding Top Dead Center can be found in our
+Tune-Up Procedure
+(Step #6).  A snippet from this procedure reads -
+Remove the distributor cap and find the notch on the rim of the distribtor that marks the position of the #1 spark plug wire.
+Rotate the engine (19mm socket on the alternator nut) until the rotor is approaching the #1 spark plug position.
+Insert a plastic or paper drinking straw into the #1 spark plug hole until it rests on the top of the piston. (We used to say "use a pencil" but that CAN break and cause problems - a straw wont break).
+Move the crankshaft back and forth with the 19-mm wrench on the alternator nut until the point at which the piston is highest in the cylinder is found (i.e., the straw is at its furthest point out of the spark plug hole).  This is Top Dead Center; mark it clearly on the crankshaft pulley with white paint.
+Rob elaborates - There are usually a few degrees of rotation which still feels like TDC - use the centre of this 'dead zone' or 'null point' as TDC.  Your determination can usually be cross checked against any existing marks or notches on the pulley.  If the pulley has a single mark to the left, it should be 7mm to the left (this indicates it's a 5-degree ATDC pulley which was used on the double vacuum distributors).  So mark your TDC as described above.
+With the engine at TDC on either #1 or #3, the key in the crank pulley is at 9 o'clock.  Helps confirm the piston is at the top, rather than the bottom.  The 9 o'clock key position will just give you an indication you're in the ball park -- you still need the straw to accurately find the middle of the "null point" -- exact TDC. We use #1 for all timing though, not #3, because some older distributors have a small retarded ignition point for #3 cylinder. #1 is the same for ALL distributors, so we time the engine there, rather than anywhere else.
+If you have a pulley with a single notch that lines up with the split in the crankcase, then it's a 0-degree TDC pulley, and you can use that mark (it was used on some mid-late '60s 1500cc engines - usually with the semi-auto transmission), and mark 7.5 degrees BTDC 11mm to the right.
+If the pulley has three marks, the left one should line up as the TDC mark.  The two right ones are 7.5 degrees BTDC and 10 degrees BTDC (10 BTDC was used on the 1200cc enginess).
+The procedure continues -
+While you're at it, rotate the pulley 180 degrees and paint a mark on the pulley there.  You will use this point when you adjust the valves for #2 and #4 cylinders.
+From the TDC mark, also measure 11mm to the right on the rim of the crankshaft pulley.  If you don't already have a notch there, this is 7.5 degrees BTDC; mark this point also with white paint.  This is the point at which the centrifugal advance distributor (009) is timed, so it is very important that you mark it as precisely as you can.
+Rob elaborates - Remember that 009 distributors vary -- if set to the correct 30-32 degrees BTDC at 3000+ rpm, it should result in static timing of something in the range of 5-10 degrees BTDC - either side of that 7.5BTDC mark).
+The procedure continues -
+From the TDC mark, measure 46.5 mm to the right on the rim of the crankshaft pulley, around the pulley rim (not across).  This is 30 degrees BTDC; mark this point also with white paint.  This is the CENTRIFUGAL maximum advance point at 3000 rpm. you can also mark 49mm to the right of TDC (32 degrees) and 44mm to the right of TDC (28 degrees) if you like.
+Vacuum distributors can make up to about 40 degrees maximum advance under cruising conditions, but we dont try to set that in any way - we let the vacuum system do that by itself.
+~~~
+Crankshaft Pulley
+Wisdom of Rob Boardman
+There are at least six different VW pulleys, four of which are in common use.  They all fit on every crankshaft, so it's important to know what you've got!
+Following are the four types of pulleys in common use on aircooled Volkswagens -
+The one-notch pulley is 5-degrees ADTC (that's AFTER) and is used with the double vacuum distributors, 1971-1973.
+The dimple and notch pulley has a small dimple on the rearmost (rear of car) rim which is TDC and a notch on the front (front of car) rim which is 7.5 degrees BTDC.
+The two-notch pulley (only about 3mm apart) has no TDC mark; the two notches are 7.5 degrees and 10 degrees BTDC.
+The 3-notch pulley has a notch at TDC, then one at 7.5 degrees BTDC and another at 10 degrees BTDC.  The 7.5 and 10 degree notches are close together, and to the right of TDC.
+You have to find TDC for #1 cylinder (see our
+Tune-Up Procedure
+(Step #6), then look at the notches to confirm what you have.
+To summarize:  Turn the pulley so the notches/dimple/whatever is roughly at the top.  Remove the #1 plug (right front cylinder) and place a drinking straw in the hole (nothing hard down the plug hole, if you break something off it's a long job to recover it) and feel for the top of the piston. Rock the engine back and forward until you find the highest point, and this will be over several degrees, so you want the "null" point in the middle.
+Now look at the pulley. Is there a dimple near the split in the crankcase? If so you have a dimple TDC and you will have a notch to the right which is 7.5 degrees BTDC.
+Do you have one notch to the left?  If so, you have a 5-degree ATDC notch and you need to make a mark 7mm to the right for TDC and 18mm to the right (of the single notch) for 7.5 degrees BTDC.
+Both notches to the right?  Then it's a 7.5-degree and 10-degree BTDC pulley, and you can make a TDC mark 11mm to the left or the 7.5 degree notch if you want.
+One notch about on the split and two to the right - then it's a TDC,  7.5-degree and 10-degree BTDC pulley.
+Now you know what you've got, you can time it according to the distributor you have (009, single vacuum, double vacuum or SVDA) - see the our
+Tune-up Procedures
+-- all distributor types are covered.
+A reminder... if you have a 009 distributor, it must be set at 28-32 degrees at 3000 rpm. You can't accurately set the 009 distributor to an idle setting -- they vary too much (cheap build). 30 degrees is 46.5mm to the right of TDC around the rim of the pulley -- make a mark that you will be able to see with your timing light.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,143 @@
+Fan shroud Removal/Replacement
+Fan Shroud Removal/Replacement
+(Engine Removed from the Car)
+~~~
+Note:
+This procedure applies to the doghouse fan shroud.
+Fan Shroud Removal -
+Remove the engine from the car in accordance with the
+Engine 
+                Removal Procedure
+. The shroud CAN be removed with the engine 
+                in the car (see the separate
+procedure
+for removal of the fan shroud with the engine in the car), but 
+                the engine comes out so easily it's usually easier to remove engine 
+                first. Working on the engine is so much easier when it's sitting 
+                on the driveway or the workbench.
+Disconnect the two sparkplug wire holders from either side of 
+                the fan shroud.
+Disconnect the wire to the coil from the distributor and any 
+                other wires or hoses that might prevent you from lifting the fan 
+                shroud straight up.
+Remove the carburetor (the automatic choke interfers with the 
+                removal of the alternator). Stuff a clean rag into the throat 
+                of the carburetor and into the intake manifold to prevent foreign 
+                material from getting inside.
+Note:
+We have used the word "alternator" in this article, 
+                but the procedure works for older generator models, too. Not sure 
+                if yours is an alternator or generator? Easy -- generators have 
+                a constant diameter from one end to the other, whereas the later 
+                alternator is "fatter" at the fan belt end than on the fan shroud 
+                end.
+Remove the tinware from around the rear (rear is rear) of the 
+                engine.
+Using a long thin screwdriver in the notch in the alternator 
+                pulley to prevent the pulley from moving, and with a 19mm box-end 
+                wrench (ring spanner), remove the nut in the center of the pulley. 
+                Remove the alternator pulley outer half, then remove the fan belt.
+Note:
+Keep track of the number of spacer washers and 
+                other bits and pieces so that the assembly can be put back together 
+                just as it was taken apart. This is important -- you should always 
+                have the same number of spacer washers in total, either between 
+                the pulley halves or under the nut, otherwise the nut may not 
+                snug down correctly, making the fan belt either too loose or too 
+                tight. So don't lose any, okay?
+Remove the fillister head (cheese head) screws that hold the 
+                right air duct lower piece under the thermostat (there are screws 
+                on the crankcase, the heater box, and the cylinder cover plates).
+Unbolt the thermostat from its bracket and unscrew the thermostat 
+                from the connecting rod. If the thermostat bracket is to be removed 
+                from the side of the crankcase, scribe its location to simplify 
+                adjustment of the thermostat when it is replaced.
+Remove the oil cooler tin and the plenum that runs through the 
+                firewall from the front of the fan shroud.
+Disconnect the connecting link from the left side cooling flaps.
+Loosen the bolt in the alternator mounting strap, then slide 
+                the strap forward (towards the front of the car) and off of the 
+                alternator support stand.
+Remove the fillister head screw at each side of the fan shroud 
+                (the screw on the left side also supports the metal fuel tube). 
+                Then lift the fan shroud with the attached alternator straight 
+                up unti it is clear of the oil cooler.
+Throroughly clean the fan and the fan shroud, inside and out. 
+                Painting the fan shroud adds a nice touch. You can use any color 
+                you like on those engine parts that are NOT in contact with the 
+                hot oil, but for those parts in contact with the engine oil, black 
+                is the best color for shedding heat.
+Doghouse Fan Shroud Installation -
+Thoroughly clean the fan and the fan shroud, inside and out. 
+                Again, painting will make the fan shroud look very nice.
+Note:
+You 
+                can use any color you like on those engine parts that are NOT 
+                in contact with the hot oil, but for those parts in contact with 
+                the engine oil, black is the best color for shedding heat.
+Install the alternator fan assembly into the fan shroud. Make 
+                sure the four bolts that hold the outer fan cover to the shroud 
+                are securely tightened.
+Install the doghouse cover and the oil cooler vent (the vent 
+                will go through the firewall tin.
+Before attaching the thermostat connecting rod to the cooling 
+                vanes, slip it down between cylinders #1 and #2 and make sure 
+                it will move up and down without binding.
+On the rear of the engine, reattach the thermostat connecting 
+                rod to the right-side cooling vanes.
+Carefully place the doghouse fan shroud down on top of the cylinder 
+                cover tin, making sure that -
+The thermostat connecting rod slides properly between cylinders 
+                  #1 and #2 without binding;
+The oil cooler is not damaged during installation of the fan 
+                  shroud.
+Note:
+There are two engine tin screws on either side of the fan shroud, 
+                down at the base, that hold the shroud in place. You may need 
+                a flat-head screwdriver to pry open the cylinder tin slightly 
+                to accommodate the shroud. (The shroud tin goes INSIDE of the 
+                cylinder tin,
+all the way around
+.)
+If you have removed the generator/alternator, place the two 
+                cover plates back on and bolt them down with 10mm bolts (into 
+                captive nuts on the other side). Use Loctite and lock washers, 
+                as these bolts aren't something you want to lose inside the fan 
+                shroud.
+Note:
+The fan shroud should fit tightly over the cylinder cover tin. 
+                Screw it down on both ends of the shroud.
+Slip the alternator strap around the alternator and alternator 
+                pedestal tighten the 13mm nut.
+Spin the fan and check for rubbing. You may need to level the 
+                fan and alternator by adding a shim between the alternator pedestal 
+                and the alternator or loosening the hold-down strap a bit. The 
+                result will be a smooth spinning fan that can't rub on the shroud.
+During the installation of the fan shroud, observe 
+              the following points -
+Take care to assure that the thermostat connecting rod makes 
+                  its was down between the cylinders without binding. The rod 
+                  passes through a slot in the air control plate between the right 
+                  side cylinders. Make sure that these small flat plates are in 
+                  place between the cylinders on both sides of the engine -- they 
+                  are essential for directing air through the cylinder fins for 
+                  maximum cooling efficiency.
+Replace the cooling vane connecting link AFTER the fan shroud 
+                  has been installed.
+Replace the strap that holds the alternator to the alternator 
+                stand.
+Reinstall the fan pulley and the fan belt just as these components 
+                were taken apart. Note the order of the various washers and especially 
+                the number of shim washers. Make sure the small Woodruff key in 
+                the shaft is replaced properly.
+Following installation of the fan belt, check and adjust the 
+                fan belt tension. The belt should deflect about 10mm when depressed 
+                with your thumb. If necessary, remove the nut from the center 
+                of the alternator pulley and separate the pulley halves. Any spare 
+                shims are stored between the outer pulley half and the fas pressure 
+                washer under the nut so they are available should you need to 
+                replace the belt in the future.
+* 
+                * * * *
+Design by
+Erin

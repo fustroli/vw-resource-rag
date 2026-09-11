@@ -1,0 +1,414 @@
+Alternator/Generator
+Alternator/Generator
+The 
+                    following is mostly based on Dave's experience
+with the replacement 
+                    of the alternator in his '73 Super
+Beetle, with input from Rob and others, 
+                    and pertinent
+questions and answers added as appropriate.
+~~~
+The 
+                  material is subdivided as follows -
+Generator/Alternator/Dynamo 
+                    -- General Discussion
+Generator/Alternator 
+                    Output
+Generator 
+                    Polarization
+Generator 
+                    Troubleshooting
+Generator/Alternator 
+                    vs Model Year
+Replacement 
+                    of a Generator with an Alternator
+Alternator/Accelerator 
+                    Pump Linkage Interference
+Alternator/Generator 
+                    Stand
+Alternator 
+                    Pulley Installation
+Alternator 
+                    Rebuilding
+Alternator 
+                    Replacement
+Alternator 
+                    and Engine Compartment Wiring
+Alternator 
+                    Grounding
+"Idiot 
+                    Light" Problems
+Miscellaneous 
+                    Questions and Answers
+~~~
+Alternator/Generator/Dynamo
+-- General Discussion --
+A technical point 
+                  to begin with to clear any confusion -- generators and dynamos 
+                  are the same thing - direct current generators. An alternator 
+                  is different -- it produces alternating current, which must 
+                  be 'rectified' to direct current before it's used to charge 
+                  the battery etc. The word 'dynamo' is often used in the UK, 
+                  but not so much elsewhere -- most other countries call it a 
+                  'generator.'
+The 
+                  generator has the same diameter down its entire length, between 
+                  the pulley and fan housing. The alternator is the same diameter 
+                  to the generator in the area where it sits on the support stand, 
+                  but it is larger in diameter at the pulley end, where it overhangs 
+                  the support stand.
+A 
+                  common problem -- the battery goes dead. It has no charge, but 
+                  when the battery is 'jumped' the engine will start and continue 
+                  to run.
+A 
+                  problem almost everyone has experienced -
+Yesterday 
+                  I left my parking lights on all day (it was raining on the way 
+                  to work) and the battery was 90% flat when I got in the car 
+                  (dim dash lights - no cranking). Luckily the car park is on 
+                  a slight slope so I was able to push it, jump in and pop the 
+                  clutch, and away I went. I don't think the battery really had 
+                  enough volts for the ignition, but with generators, you only 
+                  need a couple of volts for it to self-energise and so if the 
+                  clutch popping gives you enough rpm the generator immediately 
+                  runs up to it's 14.5 volts and the coil says "great - sparks 
+                  are on the way". The alternators won't do that - they need almost 
+                  the full 12 reference volts (via the blue wire and the dash 
+                  light) before they can start generating power. So you are more 
+                  likely to need a jump start to get 12 volts from a good battery. 
+                  In other words, generators are more tolerant of the sick/flat 
+                  battery.
+A 
+                  new battery may solve the problem of the battery going dead 
+                  for a while, but then a few months later the car won't start 
+                  again. If jumped it works fine, but the battery doesn't seem 
+                  to be getting a charge.
+When 
+                  faced with this situation, take an electrical meter (see our 
+                  discussion of
+VOM operation
+) and first 
+                  measure the voltage across the battery. With the engine off, 
+                  set the meter to "DC volts" (15 or 20 volt range), then simply apply 
+                  the two leads from the meter to the two battery terminals. The 
+                  reading for a fully-charged battery is about 12.6 volts. A dead 
+                  battery will read ten volts or less.
+To 
+                  check the output of the generator/alternator (that is, to make 
+                  sure a charging current is going to the battery), start the 
+                  engine and read the voltage across the battery terminals as 
+                  before. As the engine speeds up, the voltage should increase 
+                  to about 14.2-14.5 volts. If it does, then the generator/alterator 
+                  is working properly and charging the battery as it should.
+If 
+                  you don't have a meter you can try the following (less effective) 
+                  test: remove the positive terminal from of the battery with 
+                  the engine running. If the engine continues to run, the generator/alternator 
+                  is okay. If the engine dies, there is a problem in the electrical 
+                  charging system.
+Note:
+Some have suggested disconnecting the wires from the (D+) and 
+                  (DF) terminals on the alternator/generator, then connecting 
+                  an ammeter across the terminals to check the operation of the 
+                  generator/alternator. To do this you would need to put a high-amp 
+                  ampmeter in series with the main red wire (D+) to read the amperage 
+                  going into the battery. The simple tests above are the easiest.
+If 
+                  the alternator/generator test shows an output of less than 14 
+                  volts or so, check the voltage regulator before writing off 
+                  the generator/alternator. If you have an external voltage regulator 
+                  it with be under the rear seat on the left.
+Note:
+Up until 1967 the voltage regulator was located on top of the 
+                  generator. From 1967 until 1974 it was located underneath the 
+                  rear seat on the left. From 1974 on the voltage regulator is 
+                  internal to the alternator. If the 6-volt Bug has been converted 
+                  to 12 volts, the 12-volt regulator is usually screwed to the 
+                  fan shroud just above the generator so the existing wiring can be used.
+The 
+                  function of a voltage regulator is to maintain a precise voltage 
+                  regardless of the current drawn by the load. With meter switched 
+                  to DC volts and probes on positive and negative terminals of 
+                  the battery, read the voltage as before (again, should be a 
+                  bit more than 12 volts). Then start the engine but don't rev 
+                  it up. Slowly increase the engine speed to maybe 2000 rpm. The 
+                  voltage should climb up to 14.2-14.5 volts and remain level 
+                  there. If so, the alternator/generator and voltage regulator 
+                  are good.
+If 
+                  the voltage does
+not
+go up as the engine speed is increased, 
+                  check to see that the generator brushes are not worn excessivly. 
+                  If you can, apply a little pressure on the brushes while the 
+                  engine is running and see if the generator lights goes out or 
+                  the voltmeter reading increases. If it does, the brushes may 
+                  be worn to the point that they don't exert enough pressure on 
+                  the commutator.
+Speedy 
+                  Jim
+gives a good method for
+testing 
+                  a generator
+on his Web site.
+Now, 
+                  if the alternator/generator and voltage regulator are both okay, 
+                  it is likely that there is a short somewhere in the system that 
+                  is draining the battery. Test for this as follows -
+Take 
+                    the positive cable off the battery.
+Connect 
+                    the VOM meter between the positive battery cable and the positive 
+                    post on the battery.
+If 
+                    set to DC Volts, the meter will respond to the slightest drain. 
+                    If it shows a drain, switch to DC milliamps. Any reading over, 
+                    say, 5 milliamps is suspect.
+From 
+                    that point you must disconnect things to find what is causing 
+                    the electrical drain. Start by removing the fuses one by one 
+                    until you find the culprit.
+Trace 
+                    the circuits associated with the offending fuse to find the 
+                    short.
+If 
+                  the car has been left out and not run for a period of time, 
+                  electrical problems could result. VW used fairly simple connectors 
+                  in the electrical system, and quite often just shining up the 
+                  contacts can fix problems. Connections to consider include the following -
+In 
+                    the case of a generator or alternator, clean the contacts 
+                    on the generator/alternator itself, and then the regulator 
+                    contacts under the back seat, left-hand side.
+There 
+                    is a heavy red wire from the regulator to the battery on the 
+                    other side. Brighten up the connectors on both ends of this 
+                    wire. If your car has had an alternator installed, you might find that a previous 
+		   owner has taken a heavy red wire from the alternator direct to the starter motor, 
+		   (connected it to the battery cable from the + post on the battery) 
+		   rather than through the wiring harness to under the rear seat.
+		   This usually works fine, but it does mean that the battery charging wire 
+		   is subject to the dirt and grime under the car.
+If 
+                    your car has no regulator under the seat, it's a later alternator 
+                    model which has the regulator inside the alternator itself. 
+                    On these models, there should still be a heavy red wire tracking 
+                    from the left side across to the battery, and this might have 
+                    some connectors on it -- clean them up. With the stock VW wiring, this is the wire which 
+                    charges the battery, and also supplies the car with power 
+                    from the battery.
+Also 
+                    look at the heavy red wires in the luggage compartment. The 
+                    red wire from the wiring loom on the left side leading to 
+                    the headlight switch is the main power lead, then two red 
+                    wires come from the headlight switch -- one to the ignition 
+                    switch, and one straight to the fuse block (this one works 
+                    those electrical things which operate even with the ignition 
+                    off, such as interior light, radio etc). Make sure all these 
+                    connectors are clean so the power can get where it needs to.
+There 
+                    is one additional wire (a thin one) from the alternator to 
+                    the "Gen/Alt" indicator light in the instrument cluster. It 
+                    is essential that this wire be in place -- otherwise the alternator 
+                    cannot charge. On alternator cars, even if the indicator light 
+                    burns out, the alternator can't charge -- it uses a tiny signal 
+                    current through this bulb to activate the alternator. 
+		   It's not the same situation with the older generator 
+                    models -- if the indicator light blows it can still charge.
+~~~
+Generator Polarization
+Questions 
+                  are often asked regarding the need to polarize a generator. 
+                  If the generator is charging (the battery stays charged) then 
+                  you don't have to polarize it. When a generator has been left 
+                  unused for a long time (months or years), the metal core looses 
+                  it's magnetism, and all generators NEED a little residual magnetism to 
+                  start the charging process. Polarizing just gives it enough 
+                  "boost" in magnetism to start it charging properly. When it's 
+                  being used, it keeps its core polarized so there is no need to do 
+                  it again.
+Note:
+Why do generators need to be "polarized"? Automobile generators 
+                  need some magnetism to get started. This "residual" magnetism 
+                  remains in the field pole pieces even after the engine has stopped. 
+                  The next time the generator starts up, the residual magnetism 
+                  creates a small voltage in the armature windings. Not enough 
+                  to charge the battery, but enough to allow the field windings 
+                  to draw current. As the field current increases, the pole pieces 
+                  create even more magnetism. That makes even more voltage in 
+                  the armature, and the cycle continues until the generator is 
+                  capable of producing maximum output.
+What 
+                  happens though to a generator which has been stored a long time 
+                  or is freshly rebuilt? The residual magnetism may have decreased 
+                  to the point where it can no longer get the generator started 
+                  producing voltage. In the case of a new generator or one which 
+                  has been mis-treated, the residual may even be of the wrong 
+                  direction (North and South poles reversed). Polarization is 
+                  a simple process used to restore the field pole residual magnetism 
+                  and ensure the magnetic direction is correct.
+To 
+                  polarize a generator, connect a jumper wire from the (DF) terminal 
+                  on the generator to the generator frame. Remove the fan belt, 
+                  then connect a wire from the positive terminal on the battery 
+                  to the (D+) terminal on the generator. The generator shaft should 
+                  start to spin.
+Note:
+Don't run the generator this way for more than a few seconds 
+                  to avoid overheating.
+The 
+                  generator will now be properly polarized. If the generator did
+not
+spin during this process, the generator is most likely 
+                  defective.
+Put 
+                  the fan belt back on and re-test the generator voltage with 
+                  the (DF) terminal grounded. If the output voltage is still low, 
+                  the generator is defective.
+Note:
+Voltage regulators
+do not need to be polarized -- they are not 
+                  polarity sensitive. Even if voltage regulator came with instructions 
+                  to polarize it -- these instructions actually polarize the generator, 
+                  not the regulator. The regulator manufacturer simply wants to 
+                  make sure that your generator will work properly so you don't 
+                  blame the voltage regulator.
+alternators
+never need to be polarized. Alternators use an electrical trigger 
+                  current to start the process of charging - electromagnetism, 
+                  so don't need any internal magnetism to begin with, the way a generator 
+                  does.
+That 
+                  trigger current is supplied via the alternator dash light (it's 
+                  a tiny current and won't make the light glow when the engine 
+                  is running) so if that bulb blows - the battery won't get charged 
+                  and it will go flat. Curious circuitry VW used, but it works 
+                  just fine. So that means that with an alternator equipped VW, 
+                  you should always glance at the dash as you turn the key and 
+                  make sure the Alt light does glow with just the key on, just 
+                  to make sure that that circuit is intact.
+~~~
+Miscellaneous Questions and Answers
+Note:
+Our
+Generator Troubleshooting
+article may be useful.
+Question
+- I have a 1972 Beetle with a red generator light permanently 
+                  on. I have changed the brushes and regulator, and still a red 
+                  light. A problem with further fault finding is the wiring isn't 
+                  all original, lots of do-it-yourself stuff. I have checked continuity 
+                  though and all seems fine. But could you please help deciphering 
+                  which contacts are which -- in my manual (D+), (D-) and (DF) 
+                  are all close together, yet well labelled. But unfortunately 
+                  the connections on my generator are positioned differently. 
+                  Two towards the pulley and one towards the front (fan). Do you 
+                  know which are which?
+Rob 
+                  responded
+- Does the battery go flat, or is it keeping 
+                  its charge? If it's going flat, then the red light is telling 
+                  the true story; but if the battery is being charged, then the 
+                  light is telling lies and IT'S at fault.
+On 
+                  my '71 engine, there are only (D+) and (DF) connections - there 
+                  is a black plastic connection block with two connectors for 
+                  wires. Some models do have a separate (D-) connection -- this 
+                  is the one nearest the fan, and should be a brown wire.
+The 
+                  (D+) connection has the thick red (or red/black) wire attached 
+                  to it -- it should be a large spade connector on the left side 
+                  of the connector block (in earlier years is has a brass bolt/nut 
+                  type connection). This is the main charging wire.
+The 
+                  (DF) connection (usually a thinner green wire with a smaller 
+                  spade connector) is on the right side of the connector block. 
+                  The (DF) connection supplies power to the field windings to 
+                  produce the magnetic field inside the generator.
+The 
+                  (D+) red (or red/black) wire goes to the upper regulator (under 
+                  the back seat) connection on the engine (rearmost) side of the 
+                  regulator. The (DF) green wire goes to the lower connector on 
+                  the same side of the regulator.
+On 
+                  the front end of the regulator, the upper connection (#61) should 
+                  have a thin blue wire attached. This blue wire goes to the "Gen" 
+                  warning light in the instrument cluster. The lower connector, 
+                  (B+), has two thick red wires -- one to the battery and one 
+                  to the headlight switch up front (which is used as a junction 
+                  box for the main power supply up front). There may also be a 
+                  thinner red wire connected there too -- I think that one goes 
+                  to the headlight dipping relay up front.
+Question
+- I want so much to have the generator of my Volkswagen reconstructed 
+                  or have the rewinding done.
+Rob 
+                  responded
+- The VW generator can be rewound by any 
+                  competent automobile electrician -- it works the same as any 
+                  older style generator, and most auto electricians can still 
+                  rebuild generators.
+Question
+- I've heard that generators needed a higher rpm to charge the 
+                  battery, like cruising speed, but that alternators need only 
+                  the idling speed to charge the battery.
+Rob 
+                  responded
+- That's partly true. Alternators can charge 
+                  the battery at idle rpm because they usually have a smaller 
+                  pulley, so in fact they spin faster than a generator for the 
+                  same engine rpm. That means they will charge the battery at 
+                  lower ENGINE rpm but the alternator itself is spinning faster 
+                  than a generator does.
+The 
+                  VW generator is called an "early cut-in" generator, so it starts 
+                  to charge the battery at speeds just above idle - from about 
+                  1000-1200 engine rpm. It will provide more current at higher 
+                  rpm of course, up to it's rated maximum of 30 amps (for the 
+                  12-volt generators).
+Question
+- In the case of a failing generator, would it be wise to convert 
+                  to an alternator instead of having the generator repaired?
+Rob 
+                  responded
+- You can do that if you want to, but it 
+                  requires a little alteration to the car's wiring.
+Speedy 
+                  Jim
+has the necessary changes to the circuits on his web 
+                  site.
+Question
+- Does a few Amperes make a difference?
+Rob 
+                  responded
+- The higher amperage of the alternators 
+                  makes no difference at all if you have stock VW electrics -- 
+                  it's only useful if you have spot lights, a big stereo and stuff 
+                  like that added.
+Question
+- The alternator that by Beetle has is rated at 45 amperes, 
+                  for Toyota cars. There's one available, specifically made for 
+                  the Beetle, rated at 51 amperes. Physically, the 51 amp alternator 
+                  looks about a third bigger and much heavier than the 45 amp 
+                  alternator. Maybe it gives more power? Will it put less strain 
+                  on the battery?
+Rob 
+                  responded
+- The beetle's wiring will handle the VW 
+                  50-amp alternator OK, but if you use a higher power alternator 
+                  than that ('75 VW alternators are available) then you might 
+                  need to increase the wire size for the charging circuit to the 
+                  battery.
+A 
+                  bigger size alternator won't reduce the load on the battery. 
+                  It's main load comes from using the starter motor, and that 
+                  won't change. A bigger alternator will recharge a flat battery 
+                  faster of course, but the 30 amp generator does work just fine 
+                  for most old VWs. The 50-amp alternator was added in 1973 when 
+                  they added fresh air fans and other extra electrical items to 
+                  the cars.
+* 
+                    * * * *
+Design by
+Erin

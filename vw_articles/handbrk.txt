@@ -1,0 +1,72 @@
+Handbrake
+Hand Brake Procedures
+(Also referred to as the "parking" brake and the "emergency" brake.)
+See our brief
+Hand Brake Discussion
+.
+~~~
+The following procedures are included in this article -
+Hand Brake Adjustment
+.
+Hand Brake Cable Replacement
+.
+~~~
+Note:
+The hand brake should be adjusted whenever the rear brake shoes have worn enough to allow you to raise the lever five clicks without noticeable braking action.  It is essential that the cables be adjusted so that the "compensating" or "balance" bar (immediately below the adjusting nuts on the hand brake) is horizontal when the hand brake is applied.  If the rear brake shoes are adjusted properly but the compensating lever isn't horizontal after adjustment of the hand brake cables, one cable may be stretched and, if left in service, will eventually break.  If only one of the cables is broken or damaged, you don't have to replace the other one, but one cable will be more stretched than the other.  It's easier to adjust two cables of the same age, so we recommend replacing both cables when one fails.
+~~~
+Hand Brake Adjustment Procedure
+Jack up the rear of the car and place it on jack stands.
+Adjust the rear brakes if necessary.
+Go to the front of the car and remove the rubber boot from the brake handle.
+Use two 10mm wrenches (spanners) to loosen the top nut on the top of the cable.  Hold the cable from turning with a screwdriver in the slot.  Loosen both sides.
+Pull the lever up three clicks.
+Turn the bottom nuts down on the cables until you can just turn each rear wheel by hand.  Braking effort must be equal on both sides.
+When you are four notches on the handle, the wheels should be stopped and you should be unable to turn the wheels by hand.
+Release the brake again and make sure that the wheels turn freely and that they are "balanced" -- both stop at the same time.  Readjust as necessary.
+When the brakes are tight at four notches and the lever and free when the lever is released, you have them right.
+When they are right, run the top nuts down on the bottom nuts.  Hold the bottom one with one wrench while you tighten the top one--this locks the adjustment.
+Reinstall the rubber boot.
+Lower the car to the floor.
+~~~
+Hand Brake Cable Replacement Procedure
+Block the front wheels to prevent movement.
+Fully release the hand brake.
+Back off the brake adjusters slightly.
+WITH THE REAR WHEELS STILL ON THE GROUND, remove the cotter pin from the castle nut on the rear wheel shaft. Mark both the nut and the end of the axle where the cotter pin went thru so you can torque the nut to the same place when replacing it. Break the rear axle nut loose with a 36mm (1-7/16" socket) on a 3/4-inch drive breaker bar and "cheater" -- a length of pipe about four feet long to slip over the breaker bar to give more torque.  The uts on both sides are normal treads - lefty-loosey, righty tighty. Remove the castle nut, then raise the car.
+WARNING
+-- Loosen the two castle nuts (one on each side) while the car is on the ground.  The castle nut should have at least 217 ft-lbs of torque on it -- the leverage needed to remove it is enough to topple a car off the jackstands.
+Note:
+If your car is equipped with spinners (like ours is), the castle nuts will not be accessible with the wheels on the car.  After removing the rear wheels, we had success with lowering the brake drums down onto large blocks of wood and firmly appling the parking brake.  This plus the weight of the car on the wooden block held the brake drums in place while we removed and later replaced the castle nuts.
+Loosen the wheel lug bolts/nuts and raise the rear of the car and place it securely on jack stands.
+Remove the wheel lug bolts/nuts and remove the rear wheels.
+Back off the brake adjusting stars if needed, then remove the brake drum from the splines in the rear wheel shaft.  You now have the inner workings of the rear brakes exposed.
+Remove the rubber boot from the brake handle (inside the car).
+Use two 10mm wrenches to loosen and remove the adjusting nuts on the top of the cable (two on each side).  Hold the cable from turning with a screwdriver in the slot.
+Remove the compensating lever.
+Return to the rear of the car and disconnect the bolt that attaches the hand brake cable to the backing plate (on the rear of the backing plate).
+Note:
+If you're replacing both cables, do one cable at a time so you'll have the other cable as a reassembly guide.
+Pull the rear end of the cable and cable guide and cable through the backing plate and pull the rest of the cable out of the guide tube.
+Clean the cable and guide tube.
+Note:
+On cars manfactured since August 1, 1966, the rear wheel track is wider.  These models have longer hand brake cables.  Compare the lengths of the new cable and the old cable to make sure you have the right replacement cable.
+Lubricate the whole cable with any multi-purpose grease. You can grease your fingers and slowly run the cable through your fingers - a bit messy but you need a nice coating of grease on the full length of the cable.
+Thread the front end of the cable through the guide tube and the rear end of the cable through the brake backing plate.
+Install the brake shoes and attach the hand brake cable to the lever on the rear shoe.
+Loosely install the cable adjusting nut and locknut at the hand brake lever.
+If you are replacing both cables, repeat the foregoing for the other cable.
+Reinstall the brake drum.
+Note:
+Since there are no bearing in the rear brake drums, installation is straightforward.  Simply slip the new drum onto the splines in the rear wheel shaft.  The only problem you may encounter is getting the new drum over the new shoes.  Back off the brake adjusting stars completely to provide clearance.
+Reinstall the wheels.
+Adjust the brakes according to the
+Brake Adjustment
+procedure.
+Adjust
+the hand brake cable in accordance with the procedure above.
+Carefully lower the rear of the car to the ground.
+Make sure the 36mm brake drum nuts are tightened to the correct 217 ftlbs, and the wheel bolts (lug nuts) are tightened correctly too.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,107 @@
+Front Wheel Bearings
+Front Wheel Bearings
+This procedure is based on the Haynes Manual,
+with notes from John Muir and Rob Boardman.
+~~~
+Topics included in this article -
+Wheel Bearing Repacking
+Wheel Bearing Replacement
+~~~
+Wheel Bearing Repacking
+Note:
+The front wheel bearings should be serviced every 30,000 miles and/or when the brake linings are changed.  Additionally, the bearings should be checked whenever the front of the vehicle is raised for any reason.
+Note:
+In the VW the front wheel bearings consist of an inner bearing and race and an outer bearing and race.  Each time the bearings are removed, they should be thoroughly cleaned and inspected, then repacked.  Bearings and races come as matched set -- old bearings should NEVER be installed on new races and vice versa.
+Loosen the lug bolts/nuts on the front wheels.
+Raise the vehicle and support it securely on jackstands.  Spin each wheel and check for noise, rolling resistance and freeplay.  The wheels should turn freely without binding.
+Grasp the top of each tire with one hand and the bottom with the other.  Move the wheel in-and-out on the spindle.  If there's any noticeable movement, the bearings should be checked and then repacked with grease or replaced if necessary.
+Remove the wheel.
+On the driver's side, remove the clip from the end of the speedometer cable.  On both sides, pry the dust cap off the hub with a large screwdriver.
+Loosen the spindle nut lockbolt with a 6mm Allen wrench.
+Remove the spindle nut and thrust washer from the end of the spindle and lay them aside for cleaning.
+Note:
+The left side spindle has left hand threads.
+Pull the hub assembly out slightly, then push it back into its original position.  This should force the outer bearing off the spindle enough so it can be removed.  The outer race remains in the hub.
+Remove the bearing.
+Note:
+It may be necessary to back off the brake adjusting stars completely.
+Pull the brake drum and hub assembly off the spindle.
+Note:
+Remove the brake drum without using excessive force to avoid damage to the wheel bearings, etc.  Gentle tapping around the rim with a rubber or copper-faced hammer, together with pulling by hand, will usually get the job done.
+Use a screwdriver to pry the grease seal out of the rear (inner side) of the hub.  As this is done, note how the seal is installed.  The seal must be replaced with a new one whenever the wheelbearings are repacked -- old seals should never be reused.
+Remove the inner wheel bearing from the rear (inner side) of the hub.  As with the outer race, the inner race remains in the hub.
+Using a small pan of clean solvent and a brush, remove all traces of the old grease from the bearings and hub .  Make sure no bristles from the brush embed themselves inside the bearing rollers.  Allow the cleaned parts to air dry.
+Note:
+Do not use compressed air to dry the bearings as it may cause damage.
+Wash the old grease and brake grit off of the spindle with solvent and wipe the spindle absolutely clean.  Check the threads and polished surfaces for signs of galling, heat discoloration, or cracking.
+The hub and bearing races must be cleaned of all trances of old grease before they can be inspected and repacked.
+Carefully inspect the bearings and races for rust, cracks, heat discoloration, worn rollers, or other visible damage.  Check both the inner and outer bearing races inside the hub for wear and damage.  If the bearings or bearing races are defective in any way, they must be replaced.  See the
+replacement instructions
+below.  Always replace both bearing assemblies on the spindle.
+Note:
+Make sure as you prepare to repack the bearings that they are absolutely clean and dry.  If they still have solvent on them (if you're replacing them, not putting new ones in), you cannot pack them until they have dried completely so put them in the sun and wait.
+Note:
+Do not mix old and new grease; the two may be incompatible and could damage the bearings.
+Repack both the inner and outer bearings with high-temperature front wheel bearing grease as follows:
+Take a clump of fresh high-temperature wheel bearing grease in the palm of your hand, about the size of large gumball. Take the wheel bearing that you want to pack grease into, and put it on your index finger like a ring, with the taper of the bearing going out away from you so that you will be working from the larger side of the bearing to the smaller.  Make a fist with your hand, with the bearing between your two knuckles.
+Chomp away at the edge of the grease clump over and over again, making sure that you are bringing the bearing all the way to the palm of your hand. After a short time, you will see the grease pushing through the top of the bearing.
+Rotate the bearing, and continue all the way around the bearing until the entire bearing has grease pushed all the way through it, completely. It takes a little time to get good at it, and no matter how good you get at it, you will still get messy.
+(Thanks to John Connolly,
+Aircooled.Net
+, for some of the foregoing words.)
+When you're finished packing the two bearings (inner and outer), keep them in a plastic bag until you're ready to install it in the hub and put the hub back on the car.
+Apply a thin coat of grease (the same grease used to pack the bearings) to the spindle at the outer bearing seat, inner bearing seat, shoulder and seal seat.  Grease the spindle lightly with high-temperature bearing grease just before reinstalling the bearings to keep out grit.  If the threads are damaged, clean them up with a thread-restoring file before greasing the spindle.
+Pack the hub full of grease.  It will take about 50 grams of wheel bearing grease, a small handful.  Start jamming the wheel bearing grease into the outboard end of the drum hub.  Covering the inboard hole in the hub with your hand, fill the whole hub completely.  Push the grease in really well. "Think of the 30,000 miles and smile." John Muir says.
+Note from Rob Boardman:
+The bearings are not sealed themselves, so the hub needs to be packed with grease.  This supplies a very large quantity of grease to the bearings, and so they last a long time.  If the grease is renewed about every 30,000 miles (the grease seal too) the bearings will last forever.
+If this process is done right, you'll probably find that the NEXT time you do it - there will be a small ridge of grease around the inside of the end (bearing) cap - close to the bearing.  This means that the hub was nice and full, as when it got warm and expanded, a little was pushed out past the outer bearing and the spinning wheel stuck it to the inside of the bearing cap.
+Place the grease-packed inner bearing into the rear of the hub and put a little more grease outboard of the bearing.
+Note:
+The grease seal is rubber coated, and has a spiral spring around a groove in the seal.  This spring keeps the inner sealing lip in contact with the axle as the wheel and seal rotate. This spring must face the inside of the bearing, so you only see the back of the seal when you install it.
+Place the drum on a clean flat surface - smear a thin coat of grease on the seal where is will slide into the drum. Place the seal on the drum over the inner bearing with the open side facing the bearing.
+Start the seal in its bore by thumb pressure.  Place a piece of smooth flat wood or a hockey puck over the back of the seal.
+Now tap the wood or puck lightly with a mallet or hammer to spread the impact load and avoid deforming the seal. Work gently around the perimeter of the seal so it goes in a little at a time.  It doesn't take a lot of force, but must be done evenly around the perimeter of the seal so it doesn't end up distorted.
+Seat the seal flush with the outer surface of the hub.
+Note:
+In our '73 SB we found that the seal, when pressed all the way in, does NOT seat flush with the outer surface of the hub.  Just make sure it is pressed in as far as it will go without distorting it.
+Get ready to reinstall the hub assembly on the spindle.  Lubricate the lip of the seal by running a greasy finger around it and over the surface of the spindle where it contacts the seal.
+Wipe your greasy hands clean, then remove any corrosion preventive coating from the brake drum flange and friction surfaces using isopropyl alcohol.
+With the brake adjusters completely backed off, carefully slide the hub assembly, with the inner bearing and seal installed, onto the spindle.  Take care not to cut the lips of the grease seal on the threads.
+Note
+from John Muir:  Help is nice at this point as you are trying to put the wheel on the axle while keeping grease in the hub with your third and fourth hands.
+As soon as the axle appears out the hub, push all the grease back into the hub that it will hold.  Push the grease-packed outboard bearing over the spindle into its race in the hub; this helps to hold the grease in.  Don't be so enthusiastic about shoving grease back that you push it out the back hole.  Just use all that it will hold.
+Note
+from Rob Boardman:  Any grease which get pushed out as the axle comes through is easy to push back in by running a finger round and round the axle.
+Install the thrust washer and spindle nut.
+Note
+again:  The nut on the left axle has left-hand threads.
+Snug the spindle nut down with the 12-inch crescent wrench while rotating the drum the opposite direction; you should feel the drum start to bind. This tightening, together with the rotation of the drum in the opposite direction, will seat the bearings and everything where it needs to be.
+Loosen the spindle nut until the binding is free, then HAND (or a very light hand on a wrench) tighten it until it is just touching against the washer (about 7 ft-lb) while you hand turn the drum in the opposite direction.  This turning will take the slack out of the bearing.
+Now loosen the spindle nut with the crescent wrench a little at a time until you can just move the thrust washer under the nut with gentle pressure of the big screwdriver blade.  Tighten the spindle nut again, then loosen it until you can just move the washer.  When the thrust washer first moves upon prying it, this is the point that gives the wheel about 0.001" of end play.
+Note:
+If you have to pry or twist the screwdriver blade to move the thrust washer, the bearing is too tight.
+Note:
+If the bearings are loose the wheel will wobble - even if you can't feel it - and wear the bearings out.  If they are too tight, there will be insufficient grease between each roller and the race and the bearings will run hot.  You ideally want between .001" and .005" of endplay.
+Tighten the spindle nut lock bolt with a 6mm Allen wrench to hold the spindle nut in place.
+Install the dust cap on the passenger's side, tapping it into place with a rubber mallet.
+On the driver's side, reach behind the spindle and push the speedometer cable through the (uninstalled) dust cap.  Then install the dust cap and reinstall the clip to hold the speedometer cable in place.
+Note:
+It is very difficult to get the square end of the speedometer cable in the square hole in the dust cap if the dust cap is installed.  Also, you may find yourself without the clip that goes onto the square end of the cable.  A piece of piano wire, twisted into the groove in the end of the cable, will work just fine.
+If your wheels require studs in the brake drums, make sure that the studs are tight and secured with Loktite.  Looseness will cause vibration and wearing of the threads in the brake drum.
+Install the wheel and tighten the lug nuts/bolts.
+Lower the vehicle and completely tighten the lug nuts/bolts.
+~~~
+Wheel Bearing Replacement
+Replacement of the front wheel bearings is done in accordance with the procedure above for repacking the wheel bearings, except that new wheel bearings and a new grease seal are installed.
+Some notes -
+Bearings and races come as matched sets -- new bearings should NEVER be installed on old races and vice versa.
+Make sure that the numbers of the bearing parts match or that the new parts are listed as acceptable replacements in the parts-interchange book at the auto parts store.
+If you are reusing the brake drum, you will have to remove the old bearing races (inner and outer) from the hub and install new ones.  Others have had success driving the old races out of the hub with a brass drift, then tapping the new ones in.  Here's what John Muir has to say -
+It is possible to install the new outer race yourself.  Clean the wheel hub thoroughly.  Hold the whole bearing up to the hub to make sure you know how it goes, with the heavy part in, then get the outer race started in the hole evenly all around.  Use two hammers, one on the race and one to tap it with.  Tap this race into the hub until it is inside the hub, then tap it in with a dull chisel until the race is seated on the shoulder of the hub.  You can tell by the solid sound when it's seated.  Now proceed to packing the bearings.
+- How to Keep Your Volkswagen Alive:  Step-by-Step Procedures for the Compleat Idiot.
+Personally, I find this a bit daunting.  I prefer to take the hubs to a machine shop to have the old races pressed out and the new ones pressed in.
+With the new races in the hubs, proceed to pack the bearings, replace the hubs, and adjust the bearings as above.
+* 
+                    * * * *
+Design by
+Erin

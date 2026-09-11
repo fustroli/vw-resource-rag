@@ -1,0 +1,45 @@
+SB U-Joint Shaft Replacement
+Super Beetle Universal Joint Steering Shaft Replacement
+~~~
+Note:
+The universal joint shaft can be removed without removing the steering column.
+~~~
+Raise the front of the car and support it securely on jackstands.
+Remove the fuel tank from the car (see
+Fuel Tank Removal
+procedure).
+Completely remove the M8 bolt and nut that hold the top universal joint to the steering column.
+Loosen (but do not remove) the two bolts in the slots in the bracket that holds the steering column tube to the underside of the dashboard.
+Pull the steering column and column tube up into the passenger compartment as far as possible (only about ½-inch or so) so that the top universal joint can be taken off the steering column.
+To remove the universal joint shaft at its lower joint, crawl under the car and remove the bolt and nut that attach the universal joint to the steering gearbox worm spindle.
+Place a large screwdriver in the slot in the lower connection and pry the two sides of the connector apart slightly to loosen the connector on the splined shaft from the steering gear box.  It may be necessary to pry with a suitable lever, being careful not to damage the plastic protector between the lower U-joint and the steering gear box.
+Note:
+If you take the splined washers off of the two ends of the steering shaft, note which goes where and their positions relative to the ends of the shafts.
+Installation of the new universal joint shaft is the reverse of removal.
+Attach the lower connection first.   Align the slot in the connector so that it is exactly in the center of the lateral groove in the splined shaft from the steering gearbox.  This will assure that the connecting bolt will pass easily through the connector and rest snugly in the groove in the splined shaft.
+Install the M8 bolt (use a new one if necessary) through the holes in the connector; attach a self-locking nut and tighten to 18 ft-lb.
+Set the front wheels so they are perfectly straight.  Also make sure that the steering wheel is in the straight-ahead position.
+Attach the upper U-joint connector to the upper portion of the steering shaft in the same way the lower connector was attached.  Align the slot in the connector so that it is exactly in the center of the lateral groove in the upper splined shaft.
+From inside the car, push the steering wheel forward so that the steering shaft slides firmly into the upper U-joint shaft connection.
+Install the M8 bolt (use a new one if necessary) through the holes in the connector; attach a self-locking nut and tighten to 18 ft-lb.
+With the steering in its center position, verify that the steering is properly centered by inserting a thin pointed punch through the centering hole in the drop (Pitman) arm; the point of the punch should center in the conical hole in the aluminum plug above the drop arm (or the boss on the steering gearbox).
+From inside the car, slide the steering column tube up or down to adjust the gap between the steering wheel and the steering column switch housing to 2-4mm.  When the proper gap is obtained, torque the two bolts in the steering column bracket under the dash to 11-14 ft-lb.
+Note:
+This would be a good time to refurbish the fuel tank (inside and out) if it needs it.
+Replace the fuel tank in the car, being careful not to damage the rubber sealing strip between the tank and the body (replace the sealing strip if necessary).  Make sure that the fuel hose at the bottom of the tank runs properly through the rubber sleeve to the underside of the car.
+Note:
+It would be wise at this point to replace all of the rubber fuel lines under the fuel tank and under the car.
+Reinstall the four retaining plates and bolts that hold the fuel tank in place.
+Inspect the fuel neck seal and replace if necessary.  Replace the fuel filler neck hose and tighten the large hose clamps.
+Reattach the ventilation hoses on the fuel tank (check them all carefully and replace them if necessary).
+Note:
+It is important that the connections leading to the tank are reinstalled correctly and in their original locations.  Errors can lead to fuel starvation, or to the improper venting of fumes.
+Reconnect the wire(s) from the fuel gauge sending unit.
+Reattach the fuel filter to the fuel hose at the bottom of the tank and the continuing fuel hose to the metal fuel line running to the rear of the car.  (Again, it would be wise to replace these rubber fuel hoses with new.)
+Replace the strut tower support bar (if so equipped).
+Replace the luggage compartment liner (in any).
+Reconnect the battery ground strap.
+* 
+                    * * * *
+Design by
+Erin

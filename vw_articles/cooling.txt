@@ -1,0 +1,50 @@
+Cooling
+Cooling
+A Bob Hoover Sermon
+(Used with permission.)
+~~~
+Someone wrote to the Newsgroup to ask - I think most of the VW people here would be interested in defining the best method of cooling a VW. I am thinking the pressure chamber and proper baffling of the cylinders to be most likely the best way.
+Bob Hoover responded - The interesting thing (or remarkable thing, depending on your point of view), is that there is really nothing to be defined with regard to the 'best method of cooling'... Volkswagen has already done that... it is inherent in the design of the engine.  The combination of air vanes, thermostatically controlled flaps, air dams and deflector plates that make up the stock VW cooling system are designed to direct the most effective flow of cooling air (ie, highest density & volume) toward the exhaust-valve areas of the heads.
+Volkswagen used a blower to provide the cooling air .  Aircraft normally depend on the ram effect of the aircraft's forward motion to provide the cooling air, incorporating procedures to control and direct that air flow which have been studied and defined since the 1920's.  To properly cool a VW engine we need only apply those proven aviation cooling procedures in a manner so as to provide the same cooling air flow, distribution and pressure the engine enjoys when installed in VW vehicles.
+The procedures involved in accomplishing this include a pressure type cowling, inlet area and location to satisfy the flow and pressure requirements, air dams on the engine in the same locations as found in vehicular installations, tighter lower shrouding and control of the outlet area, so as to insure adequate flow.   At the same time there are a number of things we should NOT do, such as use chrome valve covers or clot the engine with a thick layer of paint.  We can improve the air flow through the heads and provide tighter lower shrouding on the cylinders but all of that is pretty much common sense.  We can also give the jugs a THIN coat of flat black paint and do the same for any portion of the engine which contains oil, such as the crankcase, valve covers and push-rod tubes.  A larger oil cooler will be of benefit on climb out but it must have its own air supply -- if we steal it from the pressured plenum atop the engine we will cause a loss of pressure.  The less pressure, the less flow through the hottest fins (the hotter they get, the more pressure it takes to force air through them).  Some tinkering will be required due to the different manifolding arrangements but we have a wealth of examples at our fingertips, from the plenum-type cooling system of the Corvair to any of the certified designs using horizontally opposed engines and pressure cowlings.
+What I find confusing is how rarely I see these procedures applied to VW engine installations.
+~~~
+A Volkswagen Beetle carrying two people expends about 12 hp to travel 50 mph 
+on level ground.  The Volkswagen Bus, weighing a thousand pounds more, needs 
+only 15 hp.  Given reasonable air temperature, either vehicle could perform 
+at this level virtually forever.  But as the air temperature rises even these 
+light loadings can force you to reduce speed.. and when you increase the load 
+you can very easily overheat even in moderately cool temperatures.   (One of 
+the first things we discovered about Volkswagens when they were introduced 
+here in the western United States was that it was best to cross any really 
+hot stretches at night or run the risk of being forced to doddle along at 
+40mph in order to keep the oil temps within reason.  Nor should you be 
+mislead by myths of kubelwagens in the Sahara -- most of the African campaign 
+was fought in the coastal belt, hundreds of miles north of the true Sahara... 
+and much of Texas is farther south than Cairo.)
+To demand maximum output from the Volkswagen engine for a prolonged period of 
+time you would have to increase the fin area by as much as 300%, adding 
+greatly to the size of the engine (you would also have to increase the 
+PRESSURE of the cooling air as well).  Another approach would be to leave the 
+fin area fixed but increase the present 1360 sfm output of the blower to 
+something on the order of 4000 sfm.  Unfortunately, you would need up to 12hp 
+just to drive the blower (!) ...and a physically larger blower as well.  
+Within the definition of the system -- VW Bug or Bus -- neither solution is 
+especially pracitcal.   (As a point of interest, the heads used on the 
+Porsche aero engines have more than twice the fin area of those on the 1600cc 
+VW engines.  And yes, they are HUGE :-)
+The bottom line is that there's no such thing as a free lunch :-)  The 
+Volkswagen is a superbly integrated set of compromises.  Designed in the 
+mid-1930's for a northern European climate, the air-cooled engine was chosen 
+for its light weight and the fact it had nothing to FREEZE rather than 
+nothing to boil.
+The limitations of the VW powerplant are inherent.  Yet despite those 
+inherent limitations, 22,000,000 Volkswagen's-worth of experience has shown 
+that when operated within its designed envelope, the vehicle is perhaps the 
+closest we've yet come to the optimum personal transportation machine.
+And now we want to take it flying :-)
+- R.S.Hoover
+* 
+                    * * * *
+Design by
+Erin

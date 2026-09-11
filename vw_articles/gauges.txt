@@ -1,0 +1,57 @@
+Gauges
+Oil Temperature Gauge
+See our
+Oil Gauge Installation Procedure
+.
+Also of interest may be our general discussion of
+overheating
+.
+See Gene Berg's
+negative comments
+regarding gauges below.
+Dave installed an oil temperature gauge in his Bug,
+using an oil relief plug type sender.  See the
+Installation
+Procedure
+that resulted from this effort.
+~~~
+Temperature Sensors
+There are two types of oil temperature sensors -
+Oil Sump Plate Sensor
+.  This sensor will screw into the oil drain plug hole, but the sensor extends upward enough that it impinges on the oil screen assembly.  The instructions that come with this sensor say to drill another hole in the plate, to one side of the plug, thread it, and install the sensor there.
+Oil Pressure Relief Plug Sensor
+.  If your engine is equipped with a dual oil pressure relief system, you can replace one of the plugs (i.e., the forwardmost one) with an oil relief plug sensor and save yourself the hassle of drilling a hole in the oil sump cover plate.
+~~~
+Wiring
+Jerome shows the following
+wiring arrangement
+-
+~~~
+You may find that the wiring arrangement shown in the (VDO) gauge installation instructions is quite different.
+In the first place, the light socket at the top of the gauge has two connections.  The instructions show one of these going to the fuse box, and the other to ground.
+Then there are three wiring connections on the gauge itself:
+The (+) terminal goes to the fuse box (to a DIFFERENT fuse than the wire to the light socket);
+The (-) goes to ground;
+The third terminal (marked S) connects to the sender.
+The diagram also shows a ground connection from the sender.  This ground is provided by the fact that the sensor screws (directly or indirectly) into the engine case.
+~~~
+Wiring Notes
+It is not necessary for the light socket and the gauge to get power from two separate sources.  The wires can be simply spliced together and connected to the appropriate fuse (#11, for instance).  If you do this, the light in the gauge will come on whenever the ignition is turned on.
+The same applies to the ground wires for the light socket and the gauge - these too can be spliced together and connected to the same grounding point.
+Study the manufacturers instructions carefully - they are never very clear to me without a bit of study.
+"Speedy" Jim
+wrote regarding the routing of the sender wire -
+Lift the rear seat and locate the rearmost part of the pan where the sheet metal slopes upward.   Drill a small hole there to route the sender wire into the under-rear-seat area.  Be sure to seal the hole with caulking after running the wire through it.  From that point, route the wire forward along the tunnel, under the carpet.
+Rob added - It would be a good idea to make some kind of little support for the sender wire so that it doesn't droop and doesnt pull on the sender itself.
+If you don't want to disturb the glued carpet, you could possibly run the wire under the car all the way to the front, and then drill a hole there to get it into the luggage area.  If your car has the small slot in the bodywork just under and to the left of the fuel tank for a drain tube (I can't remember if the Supers have such a drain tube), then you could run the wire through that.
+~~~
+On the Negative Side ...
+Gene Berg
+says, "Most gauges are "horrible."  He continues -
+I hear daily of engines being destroyed by people relying on gauges. I have run hundreds of accuracy tests on practically every inexpensive aftermarket gauge under $125 offered. Practically all read low in the 212 to 260 degree range by 40 to 50 degrees on oil temperature... Oil temperature gauge readings would be 212 to 220 degrees on the gauge when the true test temperature was 240 to 260 degrees...  I swapped gauges with senders and got different readings. I found nothing in that price range I would wish on my worst enemy. Not one I tested could ever be properly calibrated or relied on in any way for any valid information or even as a comparison from day to day on the air cooled VW.
+Warning: If you want gauges as a decoration fine, but never rely on them. After all, if they provided reliable information I would be selling them to make a profit just like our competition.
+We have found the oil temperature gauge to be a good indication of increasing temperature at least, and the gauge we installed seems to be relatively accurate (against the "Gene Berg dipstick," for instance).
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,103 @@
+Dave Tune
+Dave's Experiences Tuning His 1973 Super Beetle
+~~~
+Note:
+The emphasis of this section is on Dave's experience with tuning his '73 SB.  A mystery plagued Dave's Bug for a long time; in Dave's words -  "Why does this distributor/carburetor setup want 7.5 degrees BTDC when it should want 5 degrees ATDC?  Theres no question," Dave says -- "I almost cant keep it running if its advanced any less, and even then it runs very poorly."  Also:  "Why does it want to idle so high?  If I turn the bypass screw in at all (idle lower than 1200 rpm) the engine dies."  With Rob's very able assistance, Dave worked on this problem over a period of several very frustrating years.
+~~~
+Bottom Line -
+Tuning of Dave's system proved to be impossible because of a severe air leak around the carburetor throttle shaft.  This leak, which remained undetected for a long time, caused the fuel/air mixture entering the intake manifold to be too lean, which meant that the idle had to be set excessively high just to keep the engine running.  This higher-than-normal idle made it impossible to time the engine properly.  See our article on
+Air Inleakage
+for more details.  A new SVDA distributor and a new 34 PICT/3 carburetor finally! solved Dave's problems, and now his beautiful little black Bug now purrs like a kitten and fweems down the highway without any hesitation.
+The following notes are a condensation of conversations between Dave and Rob as they attempted to resolve this problem.
+Elsewhere on this Web page we have included
+Complete Tune-up Procedures
+. It is with Step #5, "Adjust Idle," and Step #6, "Timing," that Dave had trouble.  In retrospect the solution to this problem is very obvious, but it took Dave the better park of three years to discover that he had air leaking into his system.
+There was a considerable amount of interchange between Rob and Dave (and others) about this problem; we will just touch on the highlights to give you a feel for this learning experience, hopefully to keep others from having to repeat it!
+~~~
+Documentation of Dave's Frustrations
+Idle -
+From day one Dave found it virtually impossible to adjust the idle on his '73 SB (34 PICT/3 carburetor, dual vacuum distributor) to the specified 800-900 rpm.  He found it necessary to set the idle at 1200 rpm or more just to keep the engine running at idle.  Rob pointed out that with the faster-than-normal idle, the retard vacuum would not be working and the airflow/fuel flow through the idle circuits would be incorrect, making it impossible to properly time the engine.
+~~~
+Timing -
+Dave went through three different distributors during this period, as follows -
+The car was originally equipped with an 009 centrifugal advance distributor; the correct timing for this distributor is roughly 7.5 degrees Before Top Dead Center (BTDC) (actually 28-32 degrees at 3000+rpm), with any vacuum ports on the carburetor plugged.   This means the TDC mark on the pulley will be about 11mm to the LEFT of the crankcase split.
+Later Dave installed a vacuum-advance distributor (two vacuum hoses), for which the correct timing is 5 degrees After Top Dead Center (ATDC) with the vacuum hoses attached.
+Finally, after much research and on the advice of experts like John Connolly
+(Aircooled.Net)
+, Dave installed a Single-Vacuum Dual-Advance (SVDA) distributor.  As with the 009 distributor, the correct timing for the SVDA distributor is 7.5 degrees BTDC, with the vacuum hose plugged to prevent air from being sucked into the carburetor during the setting of the timing.
+The 009 (non-vacuum) distributor
+Rob has repeatedly advised that when using the 009, it is the timing MAXIMUM ADVANCE that is the most important; this should be 28-32 degrees advanced at 3000+ rpm (the TDC mark 43.5-49.5 mm to the left of the split).
+There is a complex relationship between idle advance, maximum advance and the carburettor settings needed to get both a smooth idle and a smooth acceleration. The 009 is very limited in this regard.  Using this distributor also results in UNDER advance when cruising at part throttle. The vacuum distributors provide a maximum of around 40 degrees for that condition and can drop that back to around 30 degrees when accelerating. But you can NOT set the 009 more than about 32 degrees before you run into engine detonation problems with hard acceleration, especially at lower rpms.
+The timing at idle is not nearly as important as the timing at maximum advance - because of that detonation problem mentioned above.  If it will take 32 maximum advance without detonating/pininig, great.  Otherwise, the maximum advance must be reduced.
+So with the 009, you experiment a bit with the maximum advance.  Try 28, 30 then 32 (but don't go outside this range 28-32 degrees - and preferrably 30-32 degrees). This is the "safe" range for the beetle engine when there is no vacuum on the distributor to add any further adjustments to the advance. 28 degrees sometimes works better with the heavy bodied bus/kombis which are using the upright beetle style engines.  30-32 degrees will usually work OK with the lighter bodied beetles. (This relates to the amount of heavy throttle you need to get the vehicle moving). Never use less than 28 degrees maximum advance with a 0089 distributor - if it still detonates with high throttle low rpms, use a higher octane fuel.
+The 009 distributor will normally provide between 5 and 10 degrees BTDC with the maximum advance set at 28-32 degrees.  Dave and I were working through a problem with his car that we didn't quite understand at that point (after 20+ years with it we understand a lot more now :-), and SOME VW models in the US were originally timed at 5 degrees ADTC or TDC where the rest of the world used 7.5 degrees BTDC or 10 degrees BTDC for almost all models.  The retarded ignition with the double vacuum distributor on some US models (71 to 73) was one attempt by VW to meet stiffer US emissions standards. The "rest of the world" did not use the double vacuum distributor - in 1971 they went straight to the single vacuum double advance - SVDA - distributor which the USA got from 1974 onwards.
+~~~
+The foregoing is condensed to -
+The double vacuum distributor
+The double vacuum distributor should only ever be set with a strobe light, at idle, with both vacuum hoses connected, and the vacuum canister checked to see that the points plate will move in opposite directions when you suck on each vacuum line.
+The correct setting is 5 AFTER TDC with the engine idling at around 850-900 rpm.  It can NOT be set with the engine idling faster than that as the carburettor is designed such that at slightly higher than 900 rpm, the retarded advance drops out and the distributor should jump to about 7.5BTDC and advance normally from there using both vacuum and mechanical advance. The retarded idle advance was a setting designed to reduce emissions at idle speeds, where unburned hydrocarbons can sometimes be proportionally higher than at higher speeds. Think - idling in Los Angeles traffic!
+The 009 non-vacuum distributor
+The 009 distributor should be timed at 28-30 degrees advance at 3000+ rpm. THEN you check the static timing, which might be 7.5 degrees BTDC, but can end up anywhere from 5-10 degrees BTDC, because the 009s vary in the total amount of advance they make, and the FULL advance is much more important than the idle advance.  An initial 7.5 degrees BTDC should only be used as a rough starting point when setting up a 009 - close enough to get the engine running. Then you reset it, using 28-32 degrees advance at 3000+ rpm as outlined above, and after that you can check the idle advance if you like, and then use THAT advance for THAT 009 distributor on THAT engine to set it static in future, if you prefer to do it that way.
+And the MAXIMUM advance depends mostly on compression ratio and the available fuel.  If compression ratio is high or fuel octane is low, use 28 degrees maximum advance.  If compression is low or fuel octane is high enough, use 30, or 32 degrees maximum advance.
+Short story:  Try setting the maximum advance at 32 degrees advance.  If it detonates, back it off to 30, then if necessary 28 maximum advance. If it still detonates/pings at high throttle low rpms with 28 degrees, use a higher octane fuel. There is a long article
+here
+on octane numbers, pinging, leaded/unleaded fuels, oxygenated fuels and the like with regard to the VW engine if you are interested in finding out more.
+With the single vacuum distributors, setting the (static) idle meant the vacuum decides how much advance is introduced, and when.  These distributors can top out at around 40 degrees maximum advance under part load, but 40 degrees is way too much for full throttle high speed, where 30 degrees maximum advance is about right.  So the 009 distributor (which has varying amounts of internal advance based on RPM only) has to be carefully limited to around 30 degrees maximum advance so it will won't be over advanced in  "worst case" high load/low rpm conditions.  This means it's not ideal in part load conditions of course, so it's not quite as economical as the vacuum units either.
+So -- For the newbie with a 009 distributor,  set the advance timing with a stroboscopic timing light, 30 degrees BTDC at 3000+ rpm.  Then return to idle (850-900 rpm) and note the point on the pulley that crosses the split in the crankcase when #1 fires.  THAT is the idle timing point for that particular 009 distributor (hopefully about 7.5 degrees BTDC but is commonly somewhere between 5 and 10BTDC) and from then on it can be timed statically to THAT point. For info, 30 degrees is 46.5mm to the right of TDC, around the pulley rim.
+~~~
+Some of the conversations between Dave and Rob reflected Dave's frustration -
+Dave wrote - I absolutely could not time the car to spec!  When I tried it simply would not run.  I ended up setting it at about 5 degrees BTDC (10 degrees advanced from spec!), and it ran wonderfully, with no hesitation and lots of pep.  I fiddled and fussed with the timing, and finally gave up and just timed it where it ran the best (felt like I was emulating our meatball mechanic friend!).  I am more than a little bit confused.  It seems to want to run 7.5 degrees advanced (BTDC) at idle.
+Rob responded -  It will all come down to ONE faulty part you know -- PROBABLY the carburetor, from all the other things you've tried.  Sometimes,  Beetles being able to run when everything is wrong is a pain -- harder to find the problem than if it didn't work at all. (Rob's 2019 comment - the problem was a carburettor air leak stopping Dave setting the normal 850 idle rpm, and with the high idle he was using, the double vacuum distributor could not pull in the 5 AFTER TDC that distributor was designed for.  Frustrating - you bet!)
+Dave wrote - Yesterday afternoon I went out and painted the timing marks more clearly on the pulley -- one at TDC (distinct "V") one to the left at 5 degrees ATDC (7mm left of TDC), one to the right at 7.5 degrees BTDC (11mm right of TDC), and another to the right at 30 degrees BTDC (46.5mm to the right of TDC around the pulley rim).  According to the book, I should be timing the car at 5 degrees ATDC at idle (850-900rpm) and 30 degrees BTDC at 3000+ rpm.  The engine "wants" to run at 7.5BTDC at "idle", which it also seems to "want" to be 1100-1200 rpm.
+There is SOME advance mechanism in the (dual vac) distributor, because it advances very nicely to 30 degrees at 3500 rpm. I've verified that with the timing light many times.
+~~~
+Vacuum -
+Dave asked - There's a way to determine whether the retard vacuum line is inoperative, isn't there?
+Rob responded - Yes.  Take the cap off the distributor and suck on each of the lines in turn.  You should see the points plate move in opposite directions.  The retard line will only move the plate a mm or so - clockwise when viewed from the top.  The main advance vacuum line should make the points plate move anticlockwise 3-4mm or so.
+now assuming that you have timied the engine at 5ATDC with both the vacvuum lines connected, if you now pull the retard vacuum line off the rear of the carb (rear is rear of car) and plug the carb port, the timing SHOULD jump to around 7.5BTDC.  If that's the case, the retard line is working fine.
+Dave wrote - If I ever need to replace my distributor, I'll probably be going for one of these SVDA types too.  I suspect it will work just a little better than the dual vacuum unit I have at present.
+Rob responded - There definitely IS a difference in distributors.  I'm using a distributor with a small vacuum canister designed for the larger 34PICT/3 carburettor, but I'm using a smaller 30PICT/2 carburettor, and in fact I get a fractional hesitation off the line (like a mini 009 flat spot), which I've almost eliminated by setting the static timing at 9 degrees BTDC instead of the normal 7.5 degrees BTDC (as much as the engine can take without pinging).  We have a limited number of parts options for our bugs these days and have to adjust them a little differently to the original settings sometimes.
+~~~
+Vacuum Retard -
+Rob wrote - Plug the vacuum lines at the carburetor -- the distributor end doesn't matter.  Adjust the timing to 30 degrees at 3000 rpm. Reconnect the vacuum lines.  With the engine idling, check the timing -- it should be 5 degrees ATDC or thereabouts if the retard line is working OK. If it's something like 7.5 degrees BTDC, the retard line is not working.
+And this is the RETARD part of the test. Hopefully after this you'll fully confirm which parts of the distributor are working and which aren't, whilst the car is running (rather than just static testing).  Once it's confirmed that the retard line is working, slowly open the throttle and watch the advance with the timing light. It should change rapidly from 5 degrees ATDC to about 7.5BTDC as the retard line stops working.
+If the advance line is not working the change might be gradual (revs vs retard only). If the advance vacuum is working, I would expect it to be fairly quick (revs + advance vs retard). In either case, the timing should certainly go positive since we know your centrifugal part IS working.
+If the advance or retard are not working, you can either look for causes or start looking for a new distributor!
+Just one final test to see if the actual LINES are plugged (rather than the distributor being faulty) -- pull each line off at both ends and see if you can blow throw them IN BOTH DIRECTIONS. This will check for any internal fraying or loose flaps of rubber inside the lines.
+Then try sucking on one end of each with a finger over the other end to make sure they don't collapse under suction. Now THAT would be a "gotcha" wouldn't it! I don't expect any trouble here -- the Mike + Dave suction test indicates both lines are open (otherwise the retard suction would not have "stalled" against the advance suction). I'm feeling more and more inclined to think there is something amiss in the distributor itself like a lost screw under the points plate or something.
+Reset the idle to 850-900rpm and the timing to 5 degrees ATDC at idle if necessary.
+~~~
+Accelerator Cable -
+Dave wrote - I fiddled with the accelerator cable one more time. That 1mm of clearance between the throttle lever and the carburetor body is very important.  The problem is, if I adjust it that way it won't return all the way the the stepped cam (lowest point). I thought I had solved this problem when I found the throttle valve binding against the inside of the throat in the carburetor, but it's doing it again. I guess I'll have to pull the carburetor and see. Any way to tell visually whether there may be air in leakage around the throttle shaft (upon inspection with the carburetor off the car)?
+Adjustment of the accelerator cable is much more critical than I realized.  If it's too tight, the throttle idle screw won't return all the way to the stop, and it is impossible to adjust the idle, and thus the timing, correctly.  Once I got the accelerator cable adjusted properly, I found that the idle settings (which I had NOT changed during the engine removal process) were too low.
+THEN I tore into the idle and timing.  First thing I discovered was that the one reason the car was running so crappy was that the accelerator cable connection under the pedal was all screwed up.  That connection is a very poor design, in my opinion.  I bent the metal piece on the end of the cable around so that there's no way it can come loose from the pedal or get twisted around scroogy.  Then around to the back and readjusted the accelerator cable on the throttle lever for the umpteenth time.
+Note:
+See our
+Accelerator Cable Discussion
+for the correct attachment of the cable to the pedal.
+~~~
+Air Inleakage -
+Dave wrote - Here's my plan -- check for air leaks. (See our treatise on
+air inleakage
+.)  I'll spray around with starter fluid (ether) again, though I've never found leaks this way before.  Then Bob Hoover says to clean the area around the throttle shaft with a "cancer causing solvent" :-) and then smear on a THIN film of RTV compound and allow it to cure.  This sounds strange to me.  He's talking about right around the throttle shaft where it goes through the carburetor on both sides, right?  And the RTV will move with the shaft without tearing away, maintaining an air tight seal?
+Rob's note: yes.
+Then if a test drive improves the hesitation, we've found the source of our problem air in leakage around the throttle shaft.  Then it's time for new bushings (a job that's beyond my capability, I'm afraid) or a new carburetor (which I need a good excuse for anyway! : )
+NOTE: many folks have found tim@Volkzbitz.com does a great refurbishment of VW/Solex carburettors.
+This time we DID find air inleakage around the carburetor shaft, and we DID replace the carburetor with a new Bocar model purchased from
+Desert AutoHaus
+.  This solved all of our problems -- we've had no trouble setting the idle or timing the engine ever since.  That others may learn from our experience!
+~~~
+Notes -
+Some pertinent NOTES that came up during these discussions -
+The points should always be set BEFORE setting the ignition timing, as just a 0.004" alteration to the points gap makes a 3-degree change in the timing.
+It is preferable to set the timing on a cold engine using the static timing method.  Using a strobe timing light on a cold engine will result in alterations over the whole setting range.  The engine CAN be static-set when a little warm, so long as the oil temp is below 50
+C
+/112
+F
+.
+I'm not sure why this is -- the book doesn't say.  Maybe the gear lash increases with engine temp and affects the timing or something.  I presume the bit about using the static method in preference to a strobe light would be the effect of the vacuum.
+One thing I've discovered for sure--you must keep those electrical connections (distributor to coil, coil to cut-off switch and choke) clean and tight! We've had several problems in that regard -- all easily fixed once they were discovered, of course, but sometimes you look right past such things. I've replaced every one of those wires now.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,36 @@
+Gas in the Oil
+Gas in the Oil
+~~~
+Someone wrote - The engine is sucking gas into the oil pan. It is detectable by the smell of gas on the dipstick and the oil viscosity is thin. What could the cause of this be?
+And another - We were doing our first valve job and found about a cup of oil and gas mix in the right-hand valve cover.  There is definitely gas in the oil 
+  we have been told to replace the fuel pump, also that the carburetor may be at fault.
+Rob provided an excellent response.  He wrote -
+First of all -- DON'T run the engine with fuel in the oil for any length of time - the fuel dilutes the oil, resulting in increased engine wear, and there is always the danger of the fumes from the evapourating hot fuel that you'll end up with a fire.
+The usual cause of fuel in the oil is the fuel pump diaphragm starting to leak.  Usually replacing or repairing the pump fixes the problem (and of course changing the oil).  If you pull the pump and the undersides are fuel wet, or the grease in there looks runny rather than sticky, then you've almost certainly found the problem.
+A faulty carburettor won't leak fuel into the sump in any quantity -- it will just result in a rich or lean fuel mixture, which is burned, not drained into the sump at all.  The only way fuel from the carburettor could get into the sump would be past very badly worn valve guides, or badly worn piston rings, and either would result in the engine blowing a LOT of smoke -- you'd certainly notice it.  Even then, the leaked volume of fuel in the oil would be very small (in comparison to a leaking fuel pump).
+The valve cover area on the VW engine is arranged so almost all the oil in those areas drains back to the sump via the push rod tubes.  When you take the valve covers off, there is usually only a few drops of oil clinging to the inside -- nothing like a cup full.
+The only way I can see any volume of oil (oil/gas in your case) being in one cover is that either -
+The car was sitting at an angle, so the oil could not drain back to the sump, or
+The push rod tubes are bent or blocked, once again preventing normal flow back to the sump.
+Of course with gas in the oil the oil level would be much higher than normal, and so it would be easy for a slight angle on the car to result in the gas/oil mix to drain to the valve cover on one side via the push rod tubes.
+So have a good look at the push rob tubes first.  If they are straight, then get the fuel pump repaired/replaced, and drive the car, checking the oil level after a few miles to make sure it's not getting more fuel in the oil.  If the oil is okay, then check that side valve cover again just to make sure it's not filling up again.  If it's okay, then it was probably just an overfilled sump problem.
+* * * * *
+Recently (June 2007) Rob had an experience with petrol in the oil in a white 1974 VW Beetle.  He wrote the following about the experience (edited just a wee bit by Dave) -
+I'm a driver with Autotrans, (car-carrying trucking company in Australia) and I also have a special interest in VW beetles.
+I was in the yard when a white 1974 VW Beetle car arrived on a-semi trailer.  The car was loaded on top of the cab of the truck, facing backwards. Due to the design of the cab frame, this resulted in the Bug being at an angle of about 15 degrees tail-down, front-up.
+The VW beetle has always had an odd problem which can occur because of it's unusual design.  The low flat engine places the carburettor a little lower than in most other cars, whilst the fuel tank is mounted a little higher than in most cars - the top of the tank is almost level with the carburettor with the car on level ground.
+If the float valve in the top of the carburettor gets a little sticky (not uncommon after 30+ years of use) and the car is parked nose high, it can allow petrol from the tank to leak continuously through the fuel pump into the float bowl, down through the carburettor, into the inlet manifold, into whichever cylinder has the inlet valve open and then past the rings into the sump.
+This results in the sump slowly filling with fuel and raising the level of the oil/fuel mixture.
+Behind the engine pulley there are slots in the engine case which are designed to draw air into the crankcase to mix with any gases in the sump, up through the breather attached to the oil filler neck, into the carburettor to be burnt, rather than having oil fumes etc venting to the atmosphere.  Inside the case, just behind the slots is an oil slinger ring designed to keep oil from coming out through the slots when the engine is running.
+But with the front of the car higher than the rear, and the sump filling with petrol and mixing with the oil, it eventually seeps out through the ventilation slots and drips down under the engine pulley and out under the rear of the car.
+This is what occurred with this 1974 Beetle, and the result was a sump full of diluted oil and a truck with a windscreen covered in oil. The annoyed driver was scratching his head over this probem until I explained it to him.
+The fix is to take the air cleaner off, remove the top of the carburettor (5 screws and one throttle spring) and replace the brass float valve in the top of the carburettor - they are quite cheap.  At the same time, check the condition of the float itself, as a cracked float filling with fuel will have the same result as a stuck float valve - too much fuel in the float bowl.
+The float is easily lifted out, but you must care not to lose the plastic retainer (looks like a plastic staple or U shape with a curved spine), and also taking care not to lose the float bearing pin which is a loose fit through the float arm.  Hold the translucent float up to the light and check to see if it has any liquid inside.  Also give it a shake and feel for any liquid inside.  If it's OK (dry inside), then reinstall it into  the carburettor - making sure that the curved spine of the plastic U shaped retainer faces the side of the float bowl - away from the float.
+Note:
+If the float is white instead of the usual translucent brown, then replace it - the white version is notorious for cracking.
+Drain the sump and fill it with 2.5 litres of any good quality 20w50 mineral oil (for warm climates, 10w30 in sonwy climates). For information,  synthetic oils work just fine but are a waste of money in the VW engine.
+Incidentally, the fuel filter must be replaced.  The small clear fuel filters look almost empty when it's new, but as the filter cone starts to get blocked the fuel climbs higher to find fresh filter paper, so a full filter means the filter paper is starting to block up right to the top of the filter, and should be replaced.
+* 
+                    * * * *
+Design by
+Erin

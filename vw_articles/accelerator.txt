@@ -1,0 +1,39 @@
+Accelerator
+Accelerator Discussion
+~~~
+The accelerator 
+                  is really a combination of several related components. Assuming 
+                  that the engine is running, acceleration of the vehicle is accomplished 
+                  by the driver depressing the accelerator pedal under his or 
+                  her right foot (the longish black pedal on the right-hand side 
+                  of the pedal assembly). Depressing the accelerator pedal causes 
+                  the
+accelerator cable
+to 
+                  be pulled forward. This cable runs all the way back into the 
+                  engine compartment and connects the accelerator pedal with the 
+                  throttle lever on the left side of the carburetor, which in 
+                  turn connects with the throttle valve inside the carburetor. 
+                  Depressing the accelerator pedal opens the throttle valve and 
+                  allows more of the fuel/air mixture to pass into the intake 
+                  manifold and on to the cylinders, where it is burned, causing 
+                  the engine revolutions to increase and the car to accelerate 
+                  (if the transmission is in gear and the clutch pedal is not 
+                  depressed).
+If the accelerator 
+                  pedal is depressed sharply, linkage on the carburetor causes 
+                  the
+accelerator pump
+to 
+                  activate, squirting a spray of fuel directly down the throat 
+                  of the carburetor, causing more acceleration.
+Note:
+If the accelerator pump is adjusted incorrectly, it may cause 
+                  stumbling on acceleration. For proper adjustment of the pump, 
+                  see our
+Accelerator Pump Adjustment
+procedure.
+* 
+                    * * * *
+Design by
+Erin

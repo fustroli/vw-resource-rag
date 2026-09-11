@@ -1,0 +1,20 @@
+Voltage Regulator
+Voltage Regulator
+~~~
+Rob wrote - The voltage regulator is a box with a lot of wires coming out of it, either on top of the generator, bolted to the side of the engine compartment, or bolted to the body of the car underneath the rear seat.  It's function is to control the current and voltage to the battery and to act as a relay to operate the lights directly at night.
+Once the car has started, the generator/alternator supplies power back through the voltage regulator to the battery for charging purposes.  The voltage regulator protects the battery from being overcharged by the generator/alternator.
+Note:
+Most of the 6-volt generators and all the 12-volt generators have the voltage regulator under the left back seat (opposite side to the battery).  The really early 6-volt models had the voltage regulator mounted on the generator.  '71 and '72 alternators had an exterior regulator, and '73 up have the internal one.  Much simpler wiring.
+The generator regulator has 2 or 3 wires on each side of it, some coming out of the hole at the rear where the harness is.   On the front side of the regulator there is at least one wire (blue) rejoining the harness leading up to the front to the  instrument indicator light.  There is also a thicker red wire tracking over to the battery via the rear seat support rail -- this is the actual charging wire for the battery.  So -- the regulator should have at least a thickish red wire leading to the battery, plus another thickish red wire joining it from the harness just to the rear of it.
+Rob wrote of his voltage regulator failure - I put in a new battery a week ago, and the regulator under the back seat didn't like it -- started clicking furiously at about 1200-1500 rpm.  A voltage check indicated no rise in volts as the rpm increased, and there is evidence of a lot of heat on one spot on the regulator, so that means...  Time for a new voltage regulator.  I'll have to check out the price of a new one today :-(  Probably partly the reason the previous battery expired (though it was about 5 years old anyway so I can't complain -- but I will anyway).
+Rotten thing has only lasted 27 years!  Talk about designed obsolescence!  :-)  And $72.50 hurts!  Hopefully the next one will last 27 years.
+It only took about 15 minutes to install the new regulator, and now the volts go up with revs, not down as before -- yeah.  One problem fixed.  I noticed in looking at the regulator problem that the generator brushes are getting a little low, so that job's in the cards for another day (probably time for new generator bearings too....)  Always something -- but you gotta love 'em.
+We received a question - I replaced the generator and the voltage regulator in my '71 Bug).  I replaced the wires 
+in the same orders in which they were removed.  Now when the car runs the little "coils" on the back of the regulator heat up and smoke a little.  I went out and bought another regulator, thinking the new one was bad -- but the newer one does the same thing!
+"Speedy Jim"
+wrote - This may be normal.   The little coils are resistors used in the generator field circuit, and they give off some heat.  New ones tend to smoke a bit for several days.
+To be certain, measure the battery voltage with engine running. It should be around 13.5V to 14.5V at high idle.
+* 
+                    * * * *
+Design by
+Erin

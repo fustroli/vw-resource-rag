@@ -1,0 +1,219 @@
+Wiring
+Wiring
+Note:
+You will find excellent wiring diagrams for all makes, years and models of VWs at
+VW Wiring Diagrams
+.
+Also Note:
+Wire sizes on these and most other wiring diagrams are printed on the wire in mm
+2
+.  For Americans who express wire sizes in gauges, see this
+Wire Size Conversion Table
+.
+~~~
+This article includes the following subtopics:
+Engine Compartment Wiring
+Wiring Harness
+Wiring Insulation
+The Ignition Wire
+The Ignition Switch
+The Starter Motor
+Shorts and Re-Wiring
+(Dave's Experience)
+Fuses - General Discussion
+Fuse Layout - 1967-1972 Standard Beetle
+Fuse Layout - 1973 and Later Super Beetles
+What Causes Fuses to Blow?
+Miscellaneous Wires in the Engine Compartment - Discussion
+Miscellaneous Q&A
+~~~
+Engine Compartment Wiring
+(Follow the link.)
+~~~
+Wiring Harness
+Rob wrote concerning the wiring harness - One interesting thing -- the wiring loom.  I always understood that the wiring traveled up/over the door jamb -- past the interior light.  I found out that this was apparently true on the earliest VWs (6-volt maybe?) but on later models the main loom comes through from the engine on the left side behind the rear seat side panel, down to the floor (where the regulator sits on Generator models) and forward along a groove in the left door sill at floor level, then up through the sill (two holes) and up on the inside of the left front footwell (behind the carpet) to a hole through into the front luggage area.
+It'll be fun that's for sure.  I have a coloured wiring diagram, and I took some photos of the wiring mess before I pulled it out, but it's definitely the most daunting task of resurrecting my 1970 Bug.
+My mechanic friend can't get me the large rubber grommet where the wiring comes through into the luggage compartment -- just not obtainable anywhere.  I can't use a generic grommet -- the cable travels through the grommet at an angle so it sits flat inside the luggage area.  He has the WCM catalogue, and they don't have it either.  Might have to go with some electrical tape and mastic.  Pity, but can't be helped.
+Just a thought though, if I can find out who provides wiring harnesses in the US (there are one or two places making them) maybe they'd know where to get one.
+I've done some of the electrics, but it's slow work -- the colour diagram does not have each terminal numbered, but the B/W one does, and they are drawn to a different pattern, so I have to carefully examine and match the colour wires with the B/W terminal numbers before making each connection.
+One odd thing that
+Speedy Jim
+has referred to -- the headlight switch is a major junction for the thick red wire from the battery -- the power comes to the back of that switch and at least two other wires lead off to the ignition and fuse block.  Odd arrangement, though it obviously works!
+I'd love to redraw the wiring diagram with BOTH colour and teminal numbers, but it would be quite a task.
+I don't know exactly where the colour one comes from (I got it from vintagebus.com which has lots of them), but the B/W one comes from the Aussie repair manual I have -- printed in B/W only to save money I guess, so each wire has a code on it like gw for green with white trace etc., --  so it has all the info but is hard to follow.
+Trouble is each diagram has a different layout -- the colour one roughly follows the car layout, with headlamps at left, battery/generator/switches in the middle, and tail lamps at the right -- very sensible.  But the B/W one has things looking a little less organised, but makes for less crossing of wires etc so the actual wiring LOOKS simpler (which of course it isn't).  Hence the difficulty in avoiding confusion.  It wouldn't be so bad if the looms had been left roughly in place in the body, as you'd then have a rough idea where they went (fewer alternatives) but starting from scratch is rather confusing.  It's getting there though (slowly).  I just have to be double careful, getting it wrong could mean major burnouts, and it's not as easy to get RHD wiring looms as it is the LHD versions.
+I got some useful work done on my '70 Bug this weekend.  I managed to feed the dome light wiring back into the body (stiff wire fed down from the top and pulled the wire back up from the front) -- I was surprised at how well that went.  The first wire I tried was too thin and kept bending, so I found some stiffer stuff and got it through OK.  Had a minor problem finding the best path into the "window" channel - it kept getting stuck behind the hinge, but once I got it started it only took a minute to pull it through.
+I also put the headlight wiring harnesses through those pesky long rubber tubes under the fenders (rotten job - very difficult), and finally got the headlight looms wired to the fuse box.
+Dave wrote - Schematics are all well and good -- but I'd much rather have a wiring diagram that shows the actual layout of things, with good clear pictures.
+~~~
+Wiring Insulation
+Dave wrote regarding heat-shrink insulation - I went to the auto parts store the other day and got some shrink insulation stuff.  Have you ever used this stuff?
+Rob responded - I know what you mean -- Ive used it only in electronics -- never tried it on a car.  Just use the minimum diameter that will go over the wires etc and the heat (hair drier should do it) will shrink it tight -- it has a limited amount of shrinkage.
+Dave wrote regarding the wires in the engine compartment - I don't want a bunch of wires dangling back there.  It would be nice to put all of the alternator and CDI wires together in one bundle if possible.
+Rob responded - I've used electrical tape carefully wound around in a spiral on the wiring for the trailer coupling.  That looks quite good, but not as neat as heat shrink would.
+~~~
+The Ignition Wire
+So having determined that both the starter motor and the ignition switch are good, Dave turned his attention to the wire between Fuse #12 and the (+) terminal on the coil.
+"Speedy Jim"
+wrote - The Black wire in the harness *could* have been damaged, but I'd be surprised if it actually melted in two.  But insulation damage could have occurred on wires next to it.
+I think I would simply run a new temporary wire from up front to the coil.
+Dave asked - So I WILL have to replace that wire  it runs from Fuse #12 directly to the (+) terminal on the coil, correct?  With no splices or other connections or fuses in between?
+Jim responded - Yes, the wire runs directly from Fuse #12 to the (+) terminal on the coil.  You can route it along the tunnel under the mats.  Drill a hole through the package shelf in the back or, better, under the back seat, go through the grommet for the battery cable.  That will get you under the engine and then you can run it up to the coil.
+By the way, if it comes to replacing the wire, it's tough to route it the where the existing harness runs over the fender -- it's filled with foam.  Don't disturb the harness.
+~~~
+The Ignition Switch
+Regarding ignition switch replacement, Dave wrote - I searched our Web site and found that we have nothing regarding replacement of the ignition switch.
+"Speedy Jim"
+wrote - Vic has a nice article at
+VWHelp.com
+.  It's a pain in the backside to replace.
+Note:
+By the way, if you do have to replace the ignition switch, don't use any tools to remove the padded batwing horn "button".  Just use fingers to pull each of the four corners off.
+To test the ignition switch - Jim recommended simply running a temporary wire from Fuse #12 to the (+) terminal on the coil.
+Dave asked - Would I attach this "jumper" directly to the ignition switch?  Is the attachment point obvious?
+Jim responded - The Black wire from the ignition switch goes to Fuse #11, 12.  There is NO fuse in the coil circuit; those two fuses were just a convenient spot for VW to make the connection.  So, you could come off there.  You want the side of the fuses which has a small brass jumper between them.
+Dave wrote - It seems to me that running a jumper from Fuse #12 would be the more valid test.  If I hook it up this way and get 12 volts at the coil, then I know that the wire from the switch to the coil has been damaged.  If I STILL don't get power to the coil, I will have narrowed it down completely to the ignition switch.  There wouldn't be any thing else it could be. Does that make sense?
+Jim responded - Yes, that's a good test.  But, I think we can say that the ignition switch is okay (that is, the section that feeds the coil) because the "Alt" and "Oil" lights come on.  If that part of the switch were bad, they would not come on.  But it might narrow down where the break is.
+Dave wrote - I turned on the key and checked power at the #12 fuse, thinking there wasnt really any need to put a jumper between there and the coil.  I got 12 volts there at the fuse, which tells me that the ignition switch is GOOD, and either the starter motor is bad or there is a discontinuity somewhere in the wire back to the coil.
+~~~
+The Starter Motor
+The only real test you can do on the starter motor is to bypass all of the ignition switch wiring and test it directly by shorting out the little terminal on the starter to the big terminal (which in fact is what the ignition switch does).  This can be done in two ways (in both, make sure the car is in neutral and the hand brake is on) -
+The direct method -
+Place a screwdriver across the starter terminals. This is very awkward to do, and the car would have to be raised and the right rear wheel removed to provide access.
+Use a short length of wire (or perhaps a pair of pliers with the jaws slightly open) directly from the small wire contact to the large wire contact on the starter.  If the starter spins normally, the problem is likely to be in the electrical part of the ignition switch.  (See the discussion of
+The Ignition Switch
+above.)  If the starter is still reluctant, then it's the starter motor itself.
+The "under-the-seat" method -
+Note:
+Dave tried the following starter motor test first (recommended by
+"Speedy Jim"
+) because it's easier.
+Lift up (or remove) the rear seat.
+Locate the two-way splice with the Red/Blk wire coming out of the main harness by the door post, connecting to the Red wire that goes over to a grommet by the battery on its way to the starter.
+Remove the plastic insulation from this splice.
+Make a jumper with an alligator clip on one end and any kind of fitting on the other.
+Connect the alligator clip to the two-wire splice, then touch the other end to the (+) terminal on the battery.
+If you hear the starter motor running, it is good.  Otherwise it will have to be replaced.
+Note from
+Speedy Jim
+-
+Red/Blk *might* be plain Red. but I'm pretty sure on '73 it is Red/Blk.
+Dave was delighted when he ran this test to hear the starter motor spinning merrily.
+~~~
+Shorts and Re-Wiring
+Dave had an embarrassing "school of hard knocks" experience related to what can happen when the insulation on a wire rubs off, causing a "short."  He was tooling merrily down the highway one day when all of a sudden, while passing another car at 65 mph, the engine totally died!  So Dave dropped back into the other lane and of course slowed down; after several hundred yards the engine abruptly started back up again -- Dave didnt pop the clutch or anything.
+Then about two blocks from home, at about 25 mph, it did it again!  Only this time it also backfired!  Dave coasted to a stop at the curb in front of our house, and that was it.  The car would not start.
+So of course Dave stuck his head into the engine compartment and started poking around.  Suddenly he discovered that the wire to the backup lights was fried from the the in-line fuse back to the junction with all the others (from the ignition switch, which then provides power to the CDI unit, the electronic ignition, the idle cut-off valve, and the choke (see our article on
+CDI Wiring
+for wiring details).   The insulation on the backup lights wire was burned off from one end to the other!
+It didnt take long to discover the cause -- when Dave installed his new Pierburg carburetor he inadvertently (being born to learn the hard way) pinched several wires between the carburetor and the fan housing.  Apparently vibration and rubbing caused a short wore a hole in the insulation on the backup lights wire and burned off the insulation.
+Dave got busy and removed the ground strap from the battery, then got out his spare electrical wiring and patched in a new piece between the fuse in the back-up line (which amazingly did NOT blow!) and the connection with all the other wires (six in all -- see the table in the above link).
+But nothing.  The car would not start; it would not even turn over, and there was no solenoid click.  The two red Alt and Oil lights in the instrument cluster did come on when Dave turned on the key, and the turn signals, wipers, etc. worked, but that was all.
+"Speedy Jim"
+suggested - If you had power (12 volts) power to the coil, but no spark, I would suspect that the electronic ignition has been fried.  As a test, swap in a distributor with points/condensor.
+John Connolly
+(Aircooled.Net)
+agreed.  He wrote - If you have a CDI, then you don't have 12volts at the coil.  Do you have 12 volts at the Compufire?
+Dave responded - I presume that unless the wire from the ignition switch has fried, I should have 12V at the Compufire, since the pink wire that goes to it splices directly into the wire from the ignition switch.
+Of course I cant crank, so I dont know whether if have 12 volts at the Compufire black or not.
+Dave was initially Im leaning toward either wiring the electronic ignition directly (isolating the CDI) or just pulling the distributor and replacing it with his old 009, thinking that should tell the tale.  But, realizing that he didn't have power to the coil, there was no point doing either of these things.  Dave peeked into the distributor and found nothing looked amiss.  Dave narrowed the problem down to one of three things -
+The ignition switch;
+The starter motor or solenoid
+The wire between the ignition switch and the coil;
+~~~
+Fuses - General Discussion
+Dave wrote to Rob - When we bought our '73 SB a year ago one of the first things I noticed was that the fuse box was in a shambles -- several different kinds of fuses, wrong amperages, etc.  The previous owner said somebody had rewired it and it was all messed up.  So I got out the book and tested each fuse one at a time and found that it was wired correctly, the fuses were just wrong.  So I bought a complete set and replaced them all according to the book.
+I figured out which fuse goes to what for everything except the cigarette lighter.  I can't find it on any wiring diagram. I'm interested in the cigarette lighter because we plug a little heater/fan into it on frosty mornings to clear a little dollar sized spot on the windshield!  My son also plugs his CD player into it.  I just happened to notice that it does not appear on the wiring diagram, and considering the amps it must draw I wondered about the fuse.
+Rob responded - Most cigarette lighters use about 8 amps, so a fuse of 12-15 amps would be about right.  That should work for the mini heater too.  I've never seen anything like this which draws more than 8 amps (100 watts).
+~~~
+Fuse Layout -
+1967 through 1972 Standard Beetle
+For example, Rob's "Bradley" (1968) and "Bertie" (1970)
+#1 - 8-amp (white) -- Horn (except 1968), turn signals, brake lights (except 1969 and 1970), fuel gauge (except 1967).
+#2 - 8-amp (white) -- Windshield wipers, brake lights (1969 and 1970 only), horn (1967 only).
+#3 - 8-amp (white) -- Left high beam and high beam warning light.
+#4 - 8-amp (white) -- Right high beam.
+#5 - 8 amp (white) -- Left low beam.
+#6 - 8-amp (white) -- Right low beam.
+#7 - 8-amp (white) -- Right tail light (1967 and 1968 only), left tail light (1969 and 1970 only), license plate light (1967 only), left front parking light (except 1967).
+#8 - 8-amp (white) -- Left tail light (1967 only), right tail light (except 1967), right front parking light (except 1967),license plate light (except 1967).
+#9 - 16-amp (red) -- Radio (1967 only), dome light (except 1967), emergency flasher (except 1967), ignition warning light (1969 and 1970).  (This fuse is 8-amp (white) in 1967.)
+#10 - 8-amp (white) -- Dome light (1967 only), emergency flasher (1967 only), and radio (except 1967).  (This fuse is 16 amp (red) in 1967.)
+~~~
+Fuse Layout -
+1973 and later Super Beetles
+For example, Dave's "Black Beauty" (1973 SB)
+#1 - 8-amp (white) -- Left tail light, left front turn and parking lights, license plate light.
+#2 - 8-amp (white) -- Right tail light, right front turn and parking lights.
+#3 - 8-amp (white) -- Left low beam.
+#4 - 8-amp (white) -- Right low beam.
+#5 - 8 amp (white) -- Left high beam and high beam indicator.
+#6 - 8-amp (white) -- Right high beam.
+#7 - 8-amp (white) -- Unassigned.
+#8 - 8-amp (white) -- Emergency flasher.
+#9 - 16-amp (red) -- Dome light.
+#10 - 16-amp (red) -- Fresh air fan, rear window defogger, windshield wipers.
+#11 - 8-amp (white) -- Horn, brake lights.
+#12 - 8-amp (white) -- Instrument cluster lights, fuel gauge and turn signals.
+Note:
+Dave has his radio attached to fuse #8 so that the radio goes off when the key is turned off, reducing the
+draw on the battery.
+Note:
+This information regarding fuses in the following two lists is taken from the Haynes VW Automotive
+Repair Manual, 1954 - 1979
+And, as you say, there are at least two other in-line fuses, one for the backup lights in the engine compartment and one under the back seat for the rear window defogger.  I also found one under the dash amid the jumble of wires going to and from the fuse holder.
+~~~
+What Causes Fuses to Blow?
+The fuse value may be too low.  The fuses under the dash are usually colour-coded and you may have used one too-low in value (they also have the size stamped on them).  If your car is semi-automatic, there should also be a fuse in the engine bay for the clutch mechanism.
+Dirty wiring, dirty contacts or rubbing wiring can cause fuses to blow. These problems are sometimes hard to track down -- a careful look at all parts of the affected wiring will usually track down the cause of the blown fuse.  Again, for semi-automatics -- there is a switch in the gear shift lever which activates the clutch mechanism, and this wiring must move with the stick so is possibily rubbing on something.
+In Australia -- try to get hold of the Australian Gregories (formerly Scientific Publications) Car Manual Volume 45 for Super Beetles or Volume 46 for Standard Bugs.  Both have wiring diagrams in the back of the book.  It's out of print now but can still be found easily in old bookshops, swap meets and at many public libraries.
+(See
+Backup Lights
+).
+~~~
+Miscellaneous Wires in the Engine Compartment - Discussion
+Dave wrote - I'm going to mount a power connection block on the fan housing, to which all of the wires will be connected - power in on one side, all of the other various wires (to the CDI unit, Compufire, choke, idle cut-off, and backup lights) out the other.  It sure is going to spruce up my engine compartment!
+For more information, see Dave's article on
+Engine 
+              Compartment Wiring
+.
+Dave expressed concern about a dangling wire in the bundle coming down from the left side of the engine compartment that includes the hot wire to the coil.  Looks mighty suspicious!  Dave thought that perhaps it's supposed to go to the idle cut-off solenoid.
+Rob responded - The 12v wire which goes to the (+) on the coil should connect directly to the idle cut off and to the automatic choke, so they operate only when the ignition is on.
+On mine, the wire goes to the coil, and then loops round the carburetor to the choke and idle cut-off, in one continuous connection. (Might be slightly different on yours as, if I remember right, your idle cut-off is on the left of carburetor where mine (30PICT/2) is on the right.)
+Theyre basically the same.  The hot wire goes to the positive side of the coil, then branch lines run to the automatic choke, the idle cut-off (yes, on the left side on the 34PICT/3), and the oil pressure sensor.  I think the dangling wire originally went to the oil pressure sensor.
+Dave later learned that the dangling wire he was concerned about when to the diagnostic terminal in the engine compartment.
+Dave wrote - The in-line fuse in the wire to the backup lights is just sitting there, attached to the fan shroud (no fuse in it, of course), not attached to anything on either end. The schematic shows it coming from the ignition switch. The wire that goes on from the fuse to the back up lights is there, wrapped up with a tie and tucked away back behind the fan housing.
+~~~
+Miscellaneous Questions and Answers
+Someone wrote - I have a 70 beetle 
+ Im coming across wiring problems or rather challenges. Do you know of an online source for wiring diagrams?
+Rob responded -
+Type2.com
+has wiring diagrams for Buses and Bugs.  Also, you will find excellent wiring diagrams for all makes, years and models of VWs at
+VW Wiring Diagrams
+.
+The person continued - The bug has had different stereos and other obvious work in the dash area; so anything could have become unwired.  When I took the old wiper motor out there were four wires attached to the upper terminal strip and one wire connected to the single lower terminal.
+Rob responded - Those four wires all need to be connected -- you need all four to give you the two wiper speeds.
+Also visit
+Speedy Jim's Home Page
+.  Speedy is a VW electrical guru, and has lots of mini diagrams for each component.
+The wiper wiring is a problem area for me.  I'm slowly rebuilding my 70, and got hung up at this point.  I'm a "slow" electrician, so have to follow each individual wire to make doubly sure.
+That's not a LOT of help I know, but if you download the wiring diagrams, that should help.  If you find the colour diagram hard to follow (since those ones don't have the connector numbers on each component) download the aussie diagram on the Type2.com site (I provided it for the site) -- it's black/white, but DOES have the connector numbers.  Between the two you may be able to work it out.  The aussie one may not be exactly the same as yours, (US bugs had more features) but the connector numbers are identical, where used.
+Someone wrote - I have a 1970 bug 
+ I am trying to put her back together 
+ she's a nicely painted shell...  she has no wires.
+Rob responded - You can buy a complete wiring harness -- try John Connolly
+Aircooled.Net
+.  If John there hasn't got them he'll know where to get them -- his email is technicalquestions@aircooled.net.  You might also try
+Mid-America Motor Works
+and
+California Import Parts, Ltd.
+.
+Rewiring is a pain (I'm very slow at it) but there are good wiring diagrams at
+Type2.com
+. These colour diagrams don't have the connector numbers for each component marked, but if 
+  you also download the Aussie wiring diagram on the same site (I supplied that diagram to the site) it DOES have the connector numbers, so between the two the wiring is not too bad to do.
+The Aussie diagram does not have reversing lights or rear window demister, so it's not exactly the same, but the common components use the same connector numbers, so there only the "missing" components to head-scratch over.  The front headlight wiring may be slightly different too -- you guys had sealed beams and the parking lights were in the fitting on top of the fender with the blinkers if I remember right - we kept the bulb and reflector headlights which have the parkers built in to the main reflector (Europeans call them City Lights because they make the whole headlight glow but don't make any glare - used in some cities rather than the headlights themselves).
+* * * * *
+Design by
+Erin

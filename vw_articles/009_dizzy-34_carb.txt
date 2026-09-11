@@ -1,0 +1,118 @@
+Tuning the 009 Distributor/34 PICT Carburetor Combination
+Tuning the 009 
+                    Distributor/
+34 PICT Carburetor Combination
+This 
+                    problem is discussed in depth in our
+Hesitation
+article.
+See also our article on
+Carburetor/Distributor 
+                    Matchup
+.
+Miscellaneous questions and answers are featured here.
+~~~
+Someone 
+                  wrote with problems with the 34PICT/3 carburetor on his 1600cc twin-port engine (new manifold boots 
+                  and gaskets, new plugs and leads, 009 centrifugal-advance distributor).
+"I have read lots on the common "flat spot" problem (stumbling 
+                  at low-rpm acceleration) and have tried the adjustments, but 
+                  I still have the flat spot. I have opened up carburetor and 
+                  checked the float, needle valve and seat -- all okay. I also 
+                  cleaned and blew out all visible rubbish. The motor seems to 
+                  idle okay, but it spits and coughs when accelerating. If I up 
+                  the size of the main jet and idle jet by one size or two will 
+                  this help?"
+Rob 
+                  responded - "Carburetor troubles can be related to all sorts 
+                  of things -- fouled plugs, bad plugs, bad or weak coils, blocked 
+                  fuel filters, damaged accelerator pump diaphragm, etc., etc. But a significant source of "flat spot" 
+                  trouble stems from the combination of the 34 PICT/3 carburetor 
+                  and the 009 centrifugal-advance distributor. We discuss this 
+                  problem in depth in our article on
+Hesitation
+. 
+                  Also in that article is a reference to John Connolly's
+(Aircooled.Net)
+excellent article on
+Choosing the 
+                  Right Distributor
+. John recommends the single-vacuum dual-advance 
+                  (SVDA) distributor for use with the 34 PICT/3 carburetor. This style of 
+                  distributor was used outside the USA from 1971 onwards and inside the USA from 1974 onwards, on all 1600 twin port engines."
+Someone 
+                  wrote with a suggestion that many people try, but we don't recommend.  
+                  Here's what he says to do to get rid of the "flat spot - The answer to your problem is simple. If you 
+                  dont care about fuel consumption too much, run a 1/16th drill 
+                  bit through the main jet. Try it as it works, and easy to get 
+                  another jet if you dont like the fuel consumption. And as for 
+                  your 009 distributor, if you see a 050 for sale BUY it.
+Rob 
+                  responded to the jet drilling suggestion - "I 
+                  hope that "1/16th drill" wasn't serious??? That's X158.75 in 
+                  Solex jet size equivalent!!! The normal jet size for a 34PICT/3 
+                  with vacuum distributor is X127.5 and with a 009 distributor 
+                  is X130 or X132.5 at most. With an X158.75 main jet you'd have about 
+                  24% increase in fuel consumption!"
+The 
+                  guy responded (paraphrased) - "Yes, my suggestion to drill the 
+                  main jet with a 1/16" drill was serious. As I said, if you dont 
+                  care for the fuel consumption you will find that it works. Try 
+                  it -- its only a jet."
+Rob - " it's not "only" a jet!
+                  I wonder if you realise just how BIG 1/16th is (hence 
+                  the Solex size equivalent I noted.) If drilled to 1/16th" the 
+                  jet will supply so much excess fuel that you'll have...
+About 
+                    24% increase in fuel consumption -- worse than the average 
+                    5 litre carburetted V8.
+Serious sooty 
+                    plug fouling.
+Serious 
+                    wash-down of the oil film on the cylinder walls, resulting 
+                    in massively increased wear.
+Oil 
+                    dilution and contamination (more wear).
+A visibly smokey 
+                    exhaust (the cops may be interested).
+The VW engine was originally designed 
+                    for an engine life without major repairs of about 2,000 hours or about 100,000 km.
+                    You wont get anywhere near that if you wash the oil film off the cylinder walls and 
+                    add a load of absrasive soot to the cylinders with a super-rich mixture.Need 
+                  I go on?"
+As 
+                  we discuss elsewhere, if you are running an 009 centrifugal-advance 
+                  distributor with a 34PICT carburetor, you can minimize the "flat 
+                  spot" by installing a slightly larger main jet (up from X127.5 
+                  to X130 or X132.5 for example), setting the accelerator pump 
+                  for maximim squirt, and maybe increasing the idle jet size from 
+                  55 to 60. Then set the maximum distributor advance to as much 
+                  of the 28-32 degrees BTDC as it can take without the engine 
+                  detonating/pinging. We might need to increase fuel consumption a 
+                  little to compensate for the 009 flat spot, but only as much as needed, 
+                  otherwise you compromised your engine life, and add unnecssary polution to the atmosphere.
+Some 
+                  have recommended filling in the throttle butterfly bleed hole. This 
+                  should only be tried if the above modifications don't eliminate 
+                  the flat spot. Doing so results in the carburetor running extra 
+                  rich at low and middle speeds (butterfly closed or slightly 
+                  open), as it allows less air to "leak" through the throat without 
+                  sucking in fuel. So filling the hole mean less air for the same 
+                  fuel pulled through the jets. It won't harm the engine any more 
+                  than other run-rich methods needed to work with the 009 distributor, 
+                  but if you expect the engine to last a long time then be aware 
+                  that running rich (which you NEED to do with the 009), results 
+                  in oil wash-down in the cylinders which will speed piston ring 
+                  wear somewhat.
+For 
+                  best overall performance, we have found that the 34PICT carburetor/SVDA 
+                  distributor is the combination of choice. For more information, 
+                  please see John Connolly's article on
+Choosing 
+                  the Right Distributor
+. (John Connolly is the owner/manager 
+                  of
+Aircooled.Net
+.)
+Design by
+Erin

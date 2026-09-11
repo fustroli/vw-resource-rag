@@ -1,0 +1,130 @@
+Front Suspension
+Front Suspension
+The Following Topics are Covered in This Article -
+Functions of the VW Front Axle
+Torsion Bar Suspension
+Lowering the Front Suspension
+Conversations with Rob Boardman regarding the VW Front Suspension
+Miscellaneous Questions regarding the Front Suspension
+Miscellaneous Advice
+~~~
+Functions of the Volkswagen Front Axle
+The Volkswagen front axle has three basic functions:  suspension (springing), steering, and wheel alignment.  Tire wear and vehicle handling are good indicators of how well these functions are being fulfilled.  As Muir puts it, the car may wander mindlessly across the road, impulsively dart here and there, wear tires out in funny patterns or make nerve-wracking noises on dirt roads.  It is always best to service the front axle regularly to assure abnormal wear of tires or front suspension components do not affect the handling of the car.
+Rob's comment:
+Muir's experiences with bugs must be vastly different to mine.  I've never had a bug "make nerve wracking noises on dirt roads" and there are a LOT of them in Australia and I've driven a good many of them.  But you can't neglect the front suspension and expect the car to continue driving like a new car.  Handling and brakes are vital, especially in an old car with no airbags!
+~~~
+Torsion Bar Suspension
+All pre-1968 and many 1968 and later Standard Beetles are equipped with torsion bar front ends, which was the original design of the Beetles front suspension. Superbeetles were made from 1971 to 1975 and had MacPherson Strut front suspension.  Standard beetles with the torsion bar suspension continued to be made through that period too, and continued to be made in Germany until 1986. The last Beetles were made in Mexico in about 2003, and these still have the stock torsion bar front suspensions.  The earliest versions had grease nipples ("zerks") on the ball joints, but the ball joints were "sealed" after this time.
+On torsion bar models, the front axle is a rigid beam with pivoting members (see illustration on page 6-3 of the Bentley Manual) that provide suspension movement, steering movement, and rotational movement of the wheels.  This rigid beam is actually two large parallel steel tubes (torsion arms or Torsion bar tubes), one above the other, welded into a rectangular assembly with four stamped steel cross-members -- two cross-members on either side of the center point of the tubes, and one cross-member at each end of the tubes.  The axle beam is bolted solidly to the frame head and includes two mounting points for the car body.  These outer cross-members are known as side plates or "shock towers."  They also serve as the upper mounting points for the shock absorbers.
+Inside each of the torsion arms is a torsion bar, consisting of a set of ten spring-steel leaves (earlier models have fewer torsion spring leaves).  The leave spring sets are fixed at the innder end (bear the centre of the torsion bar tubes) and the outer ends of the leaf springs are designed to twist to provide the spring function. The torsion bars are solidly bolted to each end of the torsion arms with set screws.  Each half of each torsion bar has a torsion arm mounted at its outer end. In this way, all four torsion arms are sprung by only two torsion bars.
+This torsion bar system prevents the transferrance of road shocks from one front wheel to the other and provides excellent resistance to the transferrance of road shocks to the suspension parts, chassis, and passengers.
+Aside for a definition:
+A "torsion bar" is a part of the suspension consisting of a bar (or a set of spring-steel leaves) that twists, functioning as a spring and maintaining stability.  Instead of the tempered metal rod being coiled, this springing member is firmly anchored at the inner at the ends on the vehicle frame, and affixed to the ouiter ends on the suspension.  Thus, as the wheel moves up and down, the torsion bar twists, providing springing support.
+On pre-1966 models, the outer ends of the torsion arms are attached to the steering knuckle with a pair of link-pins; on 1966 and later models, the torsion arms are attached with ball-joints.
+Another definition:
+A "ball joint" is a flexible swivel  joint consisting of a ball within a socket.  Ball joints act as pivots which allow turning of the front wheels and compensate for changes in the wheel and steering geometries that occur while driving.  The ball joint is used primarily to connect the steering knuckle and tie rods to the control arm.
+These ball-joints at the ends of the torsion arms provide a flexible mounting for the steering knuckles at each wheel.  The ball-joints permit free vertical movement of the front wheels during bump and rebound and also allow the wheels to be turned around a vertical axis for steering.  Front wheel camber adjustments are incorporated in the upper ball joint mountings.
+The manuals state that the ball-joints are lubricated at the factory and rarely require further lubrication.  Further discussion of this will follow.
+The lower torsion arms are joined by a stabilizer bar that increases the front suspensions resistance to roll during cornering.  The shock absorbers are mounted between the lower torsion arms and the upper ends of the shock towers, (side-plates).  Again, see Figure 1-1 on page 6-3 of the Bentley Manual.  There are no springs on these shock absorpers as there are on MacPherson struts.  The stock VW shock is a one-way (not double acting) hydraulic (not air-over, etc.) shock. It has a cover tube over the exposed shaft - there is no spring visible.  The steering gearbox and steering linkage are also mounted on the front axle.  A horizontal hydraulic steering damper is linked to the right-hand tie rod to minimize the road shock transmitted to the steering wheel.
+Definition:
+Weve used the term "tie rod" a couple of times -- a definition is in order for clarity.  A "tie rod" is a rod attached to the steering arm on one end and the steering knuckle on the wheel on the other.  The tie rod controls the steering angle of the wheel.  We often speak of "tie-rod ends" when discussing the front suspension -- a "tie-rod end" is simply a bolt with a ball joint on top of it.  The bolt has a tapered shank and is pressed into a tapered hole.
+There are two tie rod ends in other end of the steering arm (drop arm) opposite the steering gearbox.  These are attached to tie rods which go out to the wheels to turn them.  The tie rods are attached to an arm on the wheel assembly with another tie rod end.  Also attached to the steering arm in the Bug is a tube that either goes over to the frame or over to a torsion tube.  This hydraulic thing is a horizontal shock absorber called the steering dampener and it stops the road shocks from coming up through the steering wheel to your hands.  If your car shimmies on rough roads, potholes, etc., or at about 45 mph, nine times out of ten its caused by a worn out steering dampener. (See our
+Steering Damper Replacement
+procedure.)
+The steering system of the VW terminates in an arm on the steering knuckle with a tie rod end.
+Check to determine the kind of front suspension you have.  Look at the arm where the tie rod is attached to the wheel itself (that is, to the steering knuckle).  If its a spidery thing with two ball joints attaching the wheel assembly to the torsion arms, your car has ball joint front suspension, which was put on all VWs starting about 1965-66.  If your wheels are attached to the torsion arms by two cylinders with horizontal torsion arm link pins with a vertical cylinder between them, a king pin, you have king pin front suspension.
+Models older than 1965 have king pin front suspension and the Super Beetle has something called MacPherson strut suspension; we will discuss the Super Beetle suspension later.
+From the Bentley Manual we learn that "If the axle, body or frame are bent or damaged in an accident, the entire front end can be unbolted from the frame head and removed as a single unit for replacement or repairs.  And because the tie rods have threaded ends, you can adjust front wheel toe simply by loosening the locknuts and turning the tie rods on their threaded ends.  However, many front suspension repair procedures require special equipment that car owners and small repair shops may not have -- a hydraulic press and precision measuring jigs, for example."  Bentley advises, "If you lack the skills, tools, or a clean workshop for servicing the front axle and steering, we suggest you leave such repairs to the pros."
+~~~
+Lowering the Front Suspension
+Someone wrote to say - I have a 1970 Beetle with 165/15 tires.  For aesthetic appeal (not to make it a drag car or anything) I purchased EMPI (non-offset drop spindles), which lowers the front by 2.5 inches.  Do I need to change the tire size in the front?
+Rob responded - The only reason for going to skinny tyres would be to avoid any rubbing under the front fender.  The skinny tyres will help to prevent  problems, but they will reduce road grip, too.
+Dave wrote - When I bought my Super, someone had lowered the front end by taking a torch to the springs on the MacPherson struts.  The car handled like crap - bottomed out when going over the slightest bump, and the tires rubbed against the inside of the fenders on every turn.  I had to replace the struts to rectify the situation.
+Quite frankly (IMHO) the "aesthetic appeal" gain from lowering is far outweighed by the resulting handling problems.  Our mantra has always been "Keep It Stock."
+Rob wrote - I don't like the look of a lowered front end, either, and it DOES change the handling for the worse.  If you HAVE to lower it, then lowering the rear end so the car sits level would be a better option, and at least it would put the front camber back to normal.
+Later in this article Rob writes -
+Drop spindles can be used to lower the front. They usually lower it 2.5 inches (6.35 cm). They replace the spindle (axle) assembly.
+When this happens and the back is still normal height, the angle of the ball joints becomes wrong, and the car won't steer properly.  So you can install camber adjusters to move one of the torsion bar tubes away from the car, so the angle between the two bars and the road is the same again. The camber adjusters replace the normal clamps which hold the torsion bars to the frame-head.
+~~~
+Conversations with Rob Boardman
+Regarding the VW Front Suspension
+Dave - I'm daunted by the front suspension work, but it's worth it to have it done.
+Rob - I don't do that part myself either -- ball joint for example are on a very tight taper, which means special pullers to separate them -- shop stuff.
+Dave - A front suspension question.  A reputable supplier recommends that the following parts always be replaced when rebuilding the front end ("all or nothing" approach):
+Control arm bushings
+Sway arm bushings
+Idler arm bushing
+Front strut inserts (I assume these were replaced the struts themselves were replaced).
+Ball joints
+Steering damper (I have already replaced this.)
+Another supplier sells the following parts --
+Suspension kit consisting of:
+Anti-sway bar bushing (4 pcs)
+Lower front A-arm bushing (inboard)
+Steering idler arm bushing
+Front shock absorber bushing (2 pcs)
+Again I have the same old problem:  which of the latter suppliers parts is the control arm bushing the first supplier says I should always replace?  Is that what the second supplier calls the "lower front A-arm bushing"?
+The thing that worries me the most about this front suspension work is finding somebody competent to do it.  I really worry about my son tooling down the freeway at 65 mph with the front suspension as loose as it is.
+Rob - I THINK the 'control arm' and the 'lower A-arm' are the same, but I'm not positive.  This should be the 'horizontal' arm between the frame head and the bottom of the front wheel/brake assembly I think.
+The anti-sway bar is definitely the round bar across the very front which angles back to link to the outer end of the control arm.
+Have a look at Bentley "Front Strut Suspension"  Fig 8-1.  It names the parts there -- but I don't see an 'A-arm'...
+The steering box adjustment doesn't take too long, and if this cures most of the play in the steering wheel, the suspension wont be too bad.
+If you don't have enough time, you could do replacements in two stages, the control arm and sway-bar bushings, then later the steering mechanism joints etc.  This would break it up a bit.  I've guessed that this would be the order, as the suspension parts would be the hardest working ones.  On mine, a ball joint (suspension) broke and the others were worn, but I haven't had to replace much of the steering components yet.  Hope that makes sense.
+Incidentally, you could get someone else to weld up that  steering box adjusting tool we spoke about.  Just find a bolt with a head the right size to fit the indented plug on the front of the steering box, have a look at the amount of clearance you've got just in front of the steering box to determine how short the bolt's shank should be, and get a workshop to weld on a handle, as I said, I used a piece of flat steel (about 12 - 15 inches long, by 1 inch wide, and about 3/16th thick.)
+Dave, regarding squeaky urethane bushings - Im not terribly concerned about the squeak.  I just want to tighten up the front suspension, as it just feels too sloppy to be safe right now.  Oh, and I went back and looked at the scanty information on whats been done to this car in the past -- the steering gear box was replaced in November 1995 -- little over 2-1/2 years ago.  I wouldnt think it would be worn out quite yet.  Im hoping for bushing replacement and steering box adjustment to do the job.
+A local place tire and alignment garage will replace the bushings if I provide them.  I told them I will supply the parts and all they have to do is disassemble things and press them into place.  They said they can do that.  So I guess I'll go ahead and order the parts and go get this done in a couple of weeks or so.
+Jon Chabot at
+TopLine Parts
+wrote - The front suspension kit does not include the idler arm bushing, as that is available ONLY as a genuine VW part right now.
+Dave - I got a call this afternoon from the alignment shop.  They got all the bushings into the front suspension okay (they replaced all of the control arm bushings, the stabilizer bar bushings, and the idler arm bushing) but when they went to do the alignment they found that the tie-rods and tie-rod ends are all messed up (I've been told this before) and they couldn't do the alignment and didn't want to adjust the steering until this problem is fixed.  (BTW - The guy who did our bushing work said our idler bushing wasn't all that bad, but since we had it we went ahead and replaced it so everything up under there is new.)
+So I called down to TopLine Parts down in Anaheim and tried to explain to the guy there what the guy at Leo's was talking about (they were calling the parts different things -- my old bugaboo), so I got out of the middle and asked the guy at my local garage to call the guy at TopLine, which he did.  Subsequently the guy at TopLine called me back and I ended up ordering a new pair of tie-rods and tie-rod ends.
+The Super Beetle front suspension is beautifully illustrated on page 8-3 of the Bentley Manual for the strut front suspension.  Both of the tie rods are the same length, it looks like, which is different from the Standard suspension (page 6-3) in which the left one is longer.  I can see where front end alignment would be a problem if these were messed up.  The guy at my local shop cautioned us to not drive the car any more than we have to until we can get the new tie rods installed, as with the new tighter bushings we'll chew up the tires pretty quickly.  He found that the tie rods and ends were so badly damaged that he couldnt align them at all.  He did tighten them up, he said, which would induce even more wear.
+Even with the alignment out of adjustment, the car drives 1000% better!  All of the slop that we had in the front end is gone, and there's not a hint of the infamous "superbug shimmies"!  Worth the cost (10% parts, 90% labor!  So why do us shadetree VW mechanics do most of our own work!?)
+Someone wrote - I understand alignment needs to be done by someone familiar with the Super Beetle suspension ...
+Dave - Hmm...  You're scaring me.  The place we took it to seemed to know what they're doing.  There's certainly no other place that is familiar with the SB suspension.  I don't even think the dealer works much on aircooled Beetles anymore.
+Rob, regarding tie rod lengths - Not being picky, but the 'overhead' view in Bentley 6-3 fig 1-1 is from the steering wheel (rear) side, so the right one is longer for you (left side longer for me).  I believe these are interchangeable for left/right hand drive too.  Clever VW planning if that's true.  Makes me wonder if they knew the steering/suspension geometry on the supers was likely to be more sensitive and HAD to have equal length tie rods to avoid the 'angular differences' which occur when the standard tie rods move left/right   the wheels don't move absolutely symmetrically because of the steering pitman arm to tie rod angle changes differently given the asymmetric tie rod length.  Interesting difference between the two anyway.  Might be something as simple as the different shaped spaces under the front between the two types of course.
+Dave - The front suspension work on the Bug all finished -- they replaced the tie rods and tie-rod ends, aligned the front end, and adjusted the steering.  I asked the gal whether they had been able to balance to wheels on the car; she didn't know, and the guy who did it was out on a test drive.
+About the steering adjustment:  they did adjust it but said that when they were done it was adjusted "to the maximum."  Does that mean we have a new steering gear in our future?  The present steering box was replaced in November 1995, about a year and a half before we bought the car.
+The new front suspension components made a world of difference in the way our car handles. The bushings are cheap --
+TopLine Parts
+is the best source I know of -- and most front-end shops can put them in.
+Rob's 2019 comment:
+This seems to be a broken link - I dont know if they are in business any more.
+~~~
+Miscellaneous Questions
+Regarding the Front Suspension
+Someone wrote to ask - How careful must the welder be when adding reinforcement to the rusted tower; in other words is it likely that he would damage the temper of the tube or its torsion spring?
+Rob responded - That's possible but not likely.  The springs are almost clear of the inside of the tube so a little welding shouldn't heat them too much, but brazing might be a better plan.  The thing I'd be more worried about is the grease inside the tube - it's fairly full of grease (or it SHOULD be).  There are four grease nipples (zerks) - two on each tube.  These must be filled with the wheels off the ground (weight off the car) so they fill correctly.  With your tubes out of the car and lying on the ground, this will work OK when you re-grease them.  Use lithium wheel bearing grease (Castrol LM, Castrol AXPT or similar).  Do the greasing AFTER any heating, and I suggest you remove the zerks before heating so any fumes/boiling grease can escape.
+~~~
+Someone wrote - I was adjusting my front brakes when I noticed in my front beam two center nuts, one upper and one lower. In the Internet I read that are adjusters for the front torsion bars, but I never saw or read about a beam with these factory built in, I always saw them installed by handy owners. These nuts I have in my front beam are the same as the ones that hold the torsion arms, even with the inner allen screw. I intend they are used to raise or lower the car in its front end. Actually I'd like to know how do they work since I'd like to raise my car about half inch in front.
+Rob responded - I think you might be talking about the screws which hold the centre of the torsion bars in place inside the tubes.  These can not be adjusted.
+The front can not be adjusted like the rear torsion bars, since the front ones are flat - not round with splines.
+I know a man here in Adelaide who has lowered his front suspension, but he had to cut both torsion bar tubes and rotate the tube itself a few degrees, then reweld the tube again.
+Drop spindles can be used to lower the front.  They usually lower it 2.5 inches (6.35 cm).  They replace the spindle (axle) assembly.
+When this happens and the back is still normal height, the angle of the ball joints becomes wrong, and the car won't steer properly.  So you can install camber adjusters to move one of the torsion bar tubes away from the car, so the angle between the two bars and the road is the same again.  The camber adjusters replace the normal clamps which hold the torsion bars to the frame-head.
+Hope that makes sense - I've never used them, so I don't know EXACTLY how they work.
+The front suspension on Type3 VWs (Squareback, Notch etc) do have adjustable front axles, but not the Beetles.
+~~~
+Someone wrote - I just recently put a new front axle beam and shocks on my '71 Bug, when I took it to the front end shop to get a wheel alignment they said the front end was sitting to high and needed to be adjusted. So far I have not found any info anywhere on adjusting (lowering) the front end. Is there something I'm missing or perhaps have I put the wrong axle beam in?? I would gratefully appreciate any help or info you have.
+Rob responded - Curious statement they made - "front end too high".  Is this a VW specialist shop, or just a general auto repair shop?
+The VW front end is "fixed".  It should result in clearance height (height from ground to the floor pan at the front) of about 7.5 inches from memory.
+The torsion bars (inside the two parallel tubes) which provide the actual suspension, are fixed in the middle of the tubes, and are not adjustable (they are on Type3 Squarebacks etc).
+Is it possible you have a sagging rear end, rather than a high front end.  The body should be level - a spirit level placed on the door ledge will tell you the story.
+The rear suspension IS adjustable, so not too difficult to do - there's a procedure for
+Sagging Rear Suspension
+on our web site.  VW realised that the engine weight at the rear would eventually cause some sag in the rear torsion bars, and designed them to be easily "rotated" to reset the ride height.
+There IS one common method of lowering a front end -- used by the boy-racers etc.  The method is to use "dropped spindles" which means that the torsion bars remain the same but the axle which mounts the front wheels is positioned higher on the brake drum assembly so the car sits lower.  The standard lowering height of these manufactured "dropped spindles" is 2.5 inches.  But I wouldn't recommend this if you want to keep your bug standard (and cope with spoon drains and normal curbs etc :-) - I'd be questioning what the shop means by "too high" and whether in fact it's the rear which is low instead.
+~~~
+Miscellaneous Advice
+Advice from John Connolly
+(Aircooled.Net)
+- Front suspension: Check to make sure your steering components are not worn out or sloppy.  If the front of the car is lowered, you MUST add caster shims between the lower beam tube and the frame head of the car (a 15-minute job) to correct front-end geometry.  This will also make the car run nice and straight at higher speeds; slightly increased steering effort is needed at parking lot speeds.
+Front and Rear Swaybars: Plan on 1 hour per bar. (Super Beetle front bar takes a little longer.) This modification applies to busses and type 1s. If you add swaybars, upgrade the one in front AND add one to the rear to keep the handling balanced. There are two types of rear suspension on VWs; IRS and Swing Axle. IRS should use a swaybar, but Swing Axles use something called a Camber Compensator.
+Muir advises, regarding tire rotation as related to the VW front suspension  Dont rotate your tires!  It takes about 500 miles for a tire to get used to its position on a car, and changing it around just messes up its head.  It will last as long or longer right where it is.  The reason I tell you this now is that changing the tires around will sometimes make your front end feel insecure when theres nothing wrong with it.
+- John Muir, "How to Keep Your Volkswagen Alive --
+Step-By-Step Procedures for the Compleat Idiot,
+1976 Edition.
+* 
+                    * * * *
+Design by
+Erin

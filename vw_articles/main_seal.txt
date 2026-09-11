@@ -1,0 +1,45 @@
+Main Sealk
+Mail Oil Seal
+~~~
+Topics discussed in this article -
+Main Oil Seal Removal
+Main Seal Reinstallation
+~~~
+Main Oil Seal Removal
+To get to the main oil seal, the flywheel must be removed.  Before the flywheel can be removed, the clutch pressure plate has to be taken off (see our
+Flywheel Removal Procedure
+).
+Rob wrote - Before replacing the main oil seal, take careful note of how far the old one is inserted, and the order of the parts which come out, and then replace in the same order and same depth.  I havent needed to do this myself, but I dont have any worries about it - quite straightforward I think.
+To install the main oil seal, I just use a piece of smooth timber placed flat across the seal, and tap with a hammer.  This should make it easy to see if it's going in straight (The wood wont be parallel to the engine case if it isn't), and prevents damage to the back of the seal.  A rubber mallet could also be used, tapping a bit at a time around the rim of the seal -- a bit harder to get it even, but still 'do-able'.
+You'll note when you get the main oil seal that it has a spiral spring inside it.  This has to face the engine.  Don't mix the shims if they come out -- put them in EXACTLY the same way (hopefully they will just stay in there for you).
+If you ever have occasion to dismantle the engine case, you should replace the main oil seal -- it's one of those 'replace if it's done some miles and you're in there anyway' jobs.
+If you are confident that the main oil seal was replaced when the engine was rebuilt, just have a really good look at the engine case halves below the seal, between case and flywheel.  If it's free of oil streaks, the seal should be OK, and of course it's not too old if it was replaced when the engine was rebuilt.
+Any suspect oil streaks and I'd be biting the bullet and replacing it.  But it will speed up your job (and SIMLPIFY it right?) if you don't need to remove the flywheel.
+Dave reported the beginnings of a major problem - While under there I had a close look at the oil leak.  It's been leaking more than I think it should be lately; I noticed that most of the leak is coming from the split in the crankcase just FORWARD of the oil sump.  I got under there with a couple of 13-mm wrenches and snugged up the crankcase bolts a bit (I was a little surprised that I could!).
+I backed the car into the garage and hoisted the rear end -- and soon discovered that oil is leaking quite profusely from the seam between the engine and the transmission, but only when the engine is running.  The leak stops shortly after the engine is turned off.  To me all of that says "main oil seal."
+So Dave dropped his engine one more time, and with the flywheel off (see our
+Flywheel Removal Procedure
+) he found found the main seal in shreds! "It's no wonder we had oil all over the driveway!" he said.  There were shreds of red neoprene all around behind (in front of!) the flywheel, and the spring that goes around inside of the seal was completely out of the seal and badly kinked.  Dave decided he had found the cause of his oil leak!  Dave also found that the oil must have been squirting past the seal, because the clutch was completely soaked with oil (thus the slipping clutch).
+Rob's experience wasn't quite so extreme -- he said it must have only been weeping out as the clutch was okay.  He changed out the clutch anyway, as he was experiencing some shudders in the clutch wasn't sure if the shudders were just the Bowden Tube or the clutch too.
+Dave said that the most disturbing thing he found when he removed the flywheel was that the metal of the engine casing forward of the flywheel was worn in a circular pattern about a 4-inch diameter area around the seal, and there were little shavings of metal laying around.  Dave later found that the wear in the engine case was the result of a spun bearing, which caused excessive end play and rubbing of the flywheel against the engine case.
+~~~
+Regarding Reinstallation of the Main Seal
+For more complete instructions, see our
+Main Oil Seal Replacement Procedure
+.
+Upon examination of the dowel pin kit that Dave ordered, he found that the kit included a gasket that fits over the dowel pins between the flywheel and the end of the crankshaft.  In fact, a note in the procedure says, Always use a new sealing ring (gasket) between the flywheel and the crankshaft."  He found no evidence of any such gasket when he first pulled the flywheel off and wondered whether there is indeed supposed to be a gasket there.  Rob pointed Dave to the Rocky Mountain Motor Works catalog, which shows both a sealing ring and a "4 pin" gasket in paper or metal (the gasket is for the 61-66 Bug).
+Dave wondered whether this missing gasket could possibly be the cause of the shredded seal, as without the gasket the flywheel would sit a little closer to the engine case. Possible if the old main seal was not pushed right in, it could have been rubbed until it shredded.  Rob wpoke to his mechanic friend, who said that the earlier Bugs did not have an o-ring seal in the flywheel, but used the paper gasket instead.  And these are now available with 4 or 8 holes so the earlier engines can be 8-dowelled.  For any engine which has an o-ring flywheel, a paper or metal gasket is not used.
+(Dave later learned that the damage to the main oil seal was caused by very excessive end-play (1/8th of an inch!) which in turn was caused by a spun bearing.  To fix the problem Dave ultimately had to replace the engine case with all new bearings.)
+~~~
+A few minor points -
+The procedure says to "Apply a thin film of sealing adhesive."  This is into the oil seal recess?  What kind of sealing adhesive?
+Rob responded - In the Gene Berg material it talks about putting the deal in dry on the outside (OD in the article) and lightly oiled on the inside, and this makes good sense on both counts.  Gene Berg notes lubing "the inside of any seal when installing it ..."
+Just rub a smear of engine oil around the inner surface with your finger, (same as wetting the rubber seal when changing the oil filter on your truck), so the seal is "pre oiled" when the engine is first started.  He then recommends keeping the outside dry - no sealing gunk or oil.  I'd agree with that - if it's dry it should stay put and not spin when in use.  Only the inner sealing lip is designed to slide (around the spinning shaft)  - not the whole seal.
+The procedure says that "The oil seal must be seated squarely in the crankcase recess." This scares me a little.  Having never done it before, it's worrisome.
+Rob responded - Just note how each piece comes out before you pull it, and look closely how far the seal is pushed into the case, and set the new one the same depth.  It shouldn't be hard to place a piece of wood etc across the back of the seal and tap it into place - or just tap it round and round so it's only moving a little on one side at a time.  The end result is that it needs to be square on to the shaft.  It's recessed about a 1/16th of an inch.
+The procedure says to "Inspect the dowel holes ... for wear.  See that the dowels fit tightly."  What if they don't?
+Rob responded - Hopefully that won't be a problem - it's more common in high power engines, where the flywheel is put under big spinning loads (hence the eight dowels - the normal flywheel needs only four dowels.
+* 
+                    * * * *
+Design by
+Erin

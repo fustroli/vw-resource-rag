@@ -1,0 +1,18 @@
+Warmup
+Warmup
+~~~
+Someone asked - Simple question -- what is the proper warmup time on a cold day?  I've heard a variety of different things.
+Rob responded - A lot of folks think that you need to run your engine at idle for a few minutes before you drive off, so the engine has a little heat in it before you start asking it to produce power.  The thought there is that a cold engine wears fast so warm it before you put any load on it.
+Problem is, VW designed the aircooled engine to be driven off as soon as it was started.  It was originally DESIGNED to live outside in snowy German winters (not many houses had garages in 1930s Germany) yet be driveable as soon as Herman had scraped the snow off the wind screen.
+The VW engine warms up faster with a light load than at idle.  This reduces wear better than idling, since idling burns little fuel and warming is slow.  Driving the car also gets heat into the heat riser faster, for better mixture control as the engine warms up.
+The choke is automatic on the Solex carburettor.  This means it opens up as the element inside heats up, and this is a TIMED function.  It's rate of opening assumes that you'll be driving the car and warming the engine quickly.  If you idle the engine first, it will be only 1/2 warm when the choke opens right up, so you are likely to have a stumbling start (running too lean for the engine temp) for a mile or two.
+Low rpm produces a low oil pressure, so idling takes a little time to circulate the oil. Driving off straight away ensures the engine rpm is higher and the oil pressure gets circulated as fast as possible.  The engine has one or two (depending on the model) oil pressure relief valves to make sure that the cold oil doesn't overpressurise the system.
+The cooling flaps are designed so that when shut, they allow about 1/4 the amount of air so there is SOME cooling - enough so the thermostat can sense the engine warming up open open the flaps at the right time.  If you idle the engine, that partial flow is enough to keep the engine from warming properly, so the engine stays colder and the opening of the flaps is delayed.
+A couple of quotes from my 1970 VW Owner's Manual - "Do not try and warm the engine by letting it idle with the vehicle stationary, drive off striaght away".  And "Do not race the engine while it is still cold."
+Muir* advocates starting the car, having a smoke, then driving off.  He was wrong (on two points) on this one -- smoking's bad for your health, and delaying driving away is bad for your engine.
+*How to Keep Your Volkswagen Alive -- A Manual of Step-by-Step Procedures for the Compleat Idiot, 1976 Edition, page 30.
+There you have it - hop in, start up, and drive off, but drive easy until the engine is warm.  If anyone tells you different, ask them if they are a VW engineer :-)
+* 
+                    * * * *
+Design by
+Erin

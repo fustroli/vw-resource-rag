@@ -1,0 +1,72 @@
+Heat Risers
+Heat Risers
+Please see our procedure for
+Clearing a Blocked Heat Riser
+.
+The following subtopics are included in this article -
+Description
+Blockage/Cleaning
+Discussion
+Removal/Replacement
+Flange Alignment
+~~~
+Description
+The manifold heat risers are the two tubes that run from the muffler or header on either side and then connect at the bottom of the intake manifold directly under the carburetor.  It is very important that the heat risers work properly.  Their function is to warm up the inlet manifold under the (center-mounted) carburetor to facilitate vaporization of fuel that is fed into the airstream by the carburettor.  The heat risers route heat from the exhaust gas to stop the vapourising fuel in the airstream from cooling the mixture so much is causes the water molecules in the airstream to freeze.  If this happens, a blockage would develop directly under the carburetor and the engine will eventually sputter to a stop until the ice melts.  It is VERY important that the heat risers function properly to assure that the engine will not suffer icing and stumbling on cooler days.
+If you have a look at just about any older watercooled car engine equipped with a carburettor, you'll find that either the inlet manifold under the carburettor is close-coupled to the exhaust manifold, or there are water pipes from the radiator moving warm water through a channel under the carburettor.  ALL carburettor equiped cars can suffer from icing under the carbuettor without some form of inlet manifold warming.
+Note:
+Dual-carburetor systems do not have heat risers. Since the carburettors sit directly over the hot heads, icing is not a problem under those carburettors.
+Humid days with temperatures a little above freezing are the worst for icing.  If the temperature is well below freezing, the air is already very dry, and with warm/hot summer temperatures the cooling effect of the vapourising fuel is not suffient to cause icing. But even in these situations the heat riser has an important function - it keeps the fuel vapourised in the long inlet manifold.  Otherwise it can reform droplets, and that makes for a patchy mixture inside the cylinders (since it is the vaporized fuel that burns, not the liquid).
+Icing usually shows up as serious stutters or lack of power when you accelerate -- after the car has run for a short time.  It won't show up the moment you start the car, as the fuel vaporising in the manifold takes a bit of time to cool it sufficiently to form enough ice to restrict the manifold.  It usually won't happen on REALLY cold days (snowy days) as the air will be drier anyway. Temperatures of about 5-15C (40-60F) and high humidity are the most likely times for icing, if the heat risers are not working properly. You will usually notice a layer of ice or dripping cold water under the carburettor when icing is occuring inside the manifold there.
+When the engine has been warmed up, the heat riser should be sizzling hot at the ends near the heads (burning hot to fingers!), and the main inlet pipe above should be warm to touch.  If it's working well, one of the heat risers (usually the right one) will be hotter than the other, which will be just very warm to  the touch -- depending on the muffler design. This is normal -- the original muffler design has a one-way flow of exhaust gases through the heat riser, so the "up" side will be a little hotter.
+The heat riser gets it's heat from the exhaust gases from the #2 (right rear) cylinder.  The hot gases travel right to left through the heat riser, and, on the 'original' type muffler, there is a pipe on the left side which curves around the front (front is front of car) of the muffler and enters the front of the muffler opposite one of the two peashooter exhaust pipes.  This arrangement ensures that the right side of the pipe is at high pressure and the left is at low -- making for a good flow of hot gas.  It should therefore be hotter on the right than the left, and quite hot to touch where it rises from #2 cylinder.
+a lot of aftermarket header style exhaust systems have attachment points for the heat risers welded on each side, but they don't drill them into the pipe itself.  This is so those headers can be also used on twin carburettor equiped engines, which, as stated above, don't need heat under the carburettors since they sit directly over the heads.  When used with the stock inlet manifold and single carburettor, you MUST drill through the heat riser fittings on the headers so you'll get exhaust gas flow under the carburettor.  With this design, the heat flow is not quite as efficient as its a back and forth pulsing flow between two exhaust ports, rather than a one-way flow of the original design stock muffler system.  It does work sufficiently well through, so long as those fittings are drilled through into the header pipes.
+Note:
+Manifold pre-heating is not necessary on engines with twin carburetors sitting over the heads; no ice can form since the inlet airstream is drawn straight into the hot heads.
+The to and fro pulsing heat can cause blocking up with carbon etc. more easily Than the original one-way exhaust flow.  This is more likely as the engine ages and more gunk comes out the exhaust.  And since BOTH ends are at high pressure with that pulsing design, the amount of gas moved through the pipe has to be lower than with the original one-way flow muffler arrangement, so in cold conditions, when you most need it, the aftermarket headers with the pulsing type heat riser can sometimes be marginal in providing enough heat to the manifold.
+Some after-market manufacturers have completely reversed the one-way flow.  Rob has a South African-made muffler that  has this design.  It works fine, but it is a bit difficult getting at one muffler/header mounting bolt on the right side - just 1/12th of a turn at a time with a ring spanner (box wrench).
+To drill through the flange down into the header/muffler pipe, the header/muffler MUST be removed from the car, since the heat risers will be in the way if you try to do it with the header/muffler installed.  Also, it is very important to note that the flanges on the header muffler are offset a bit from the centerline of the header/muffler pipe, so if you drill straight down you may drill through the wall of the flange.  You must angle your drill bit towards the center a little to drill the hole directly into the header/muffler pipe.
+~~~
+Blockage/Cleaning
+Note:
+If the engine is in good condition the heat risers should not become blocked.  The problem usually occurs the engine gets worn and starts to burn excess oil -- then carbon may start to build up in the heat risers.
+If the heat riser is only luke-warm or even cold, it's been blocked by crud in the exhaust gases and needs to be reamed out when you have the muffler off.  Removing the heat riser from Rob's car (one-piece with the inlet manifold attached) involves removing the carburetor, the tinware around the heat riser ends, and the inlet manifold and heat riser together.  It's quite a fiddle.  The three-piece manifold may be a bit easier.
+Cleaning it out if it's blocked is 'any way you can'.  You have to poke a stiff wire through the heat risers at a minimum. Please see our a
+Clearing a Blocked Heat Riser Procedure
+for more details.  Without removing the intake manifold you won't be able to do the "final" ream described there -- upending and soaking it overnight with carburetor cleaner -- but just a ream-out as described (if needed) will get good results.
+As a last resort you could try heating the heat riser by blowing an oxy-acetylene flame through it until it starts to glow, then switching off the acetylene and blasting through the riser with pure oxygen!  You'll get a volcano of carbon sparks out the other end  (take suitable precautions).  John Henry (and others) say this works.  However - this method will only work if there is already a small hole through the gunk - otherwise you will not get a flow of oxygen right through the crud.  And some folks say it will melt the inlet manifold before it burns the crud out, so it's probably better to try the piece of cable and battery drill described in the above link first.
+Keeping the engine in good condition and well tuned is the best prevention for clogged heat risers -- less crud in the exhaust.  Worn, oil burning engines tend to clog the heat riser much faster.
+~~~
+Discussion
+Someone wrote to say that his '73 Super with a 1600cc engine runs just fine around town, fine getting on the highway, fine on the highway, but as soon as I slow down, i.e., get off the interstate, engage the clutch, she stalls out on me.  I usually pop the clutch and get her running again.  Most of the time though, she won't even idle after I get off the highway.  It usually takes a few minutes for her to be back to normal.  I've tried adjusting the carburetor (Solex 34PICT), and adjusting the timing (009 distributor), to no avail.  Am I just not adjusting it correctly?
+Rob responded - Sounds like manifold icing.  Even in warm weather, if the riser tubes that heat the manifold are blocked, you'll get ice in the inlet, due to venturi effect (the mixture is forced into a smaller tube, it moves faster and cools the inlet).  You really need to take off you muffler, and try to clean out the riser tubes.
+Easy to check:  when it acts like it wants to stall, feel the inlet under the carb.  If its frosty, or really cold, you have a blocked heat riser tube.  (This is only really relevant to the Bug that has run on the highway for a while.)
+Also, check to make sure the heat risers are hot to the touch (careful - the right one may be VERY hot).  If they are not, you may have an aftermarket muffler or header with heat riser flanges that are not drilled through into the header/muffler pipe.  See our discussion of this situation above.
+~~~
+Removal/Replacement
+To remove and reinstall the heat risers (1600cc dual-port engine), it will be necessary to remove the entire intake manifold.  To do this, please see our
+Intake Manifold Removal
+procedure.  And see this discussion below regarding flange alignment.
+Regarding the flange gaskets - we have been advised by a reliable source that the holes in the gaskets through which the exhaust gases pass should be of different sizes.  The gasket with the smaller hole (a "restrictor" gasket) should be placed under the left heat riser to make sure that the gas "pulses" from one side to the other properly.  Dave found, however, that the size of the gaskets between the header flange and the heat riser flange doesnt make any difference.  Both of the gaskets supplied are larger than the hole in the flange, so the gasket provides no control over the way the exhaust gases flow.
+These gaskets are subject to full exhaust heat - in the order of 700-800C, and are made of asbestos or other similar heat resistant fibre.  Dave was afraid that the gasket material he had won't cut it temperature-wise and that it would be difficult to cut gaskets out of material that would handle the heat (if such gasket material is even available).  Given the dearth of parts from wrecking yards, he found it difficult to find a source for the gaskets, as well as for the little tin pieces that bolt around the heat riser flanges.
+Rob indicated that
+Mid-America Motor Works
+,
+BFY Obsolete Parts
+,
+Aircooled.Net
+, etc. would possibly have the gaskets -- they are a common replacement item.  The tin bits would be harder -- almost certainly a wrecker item; e.g.,
+Russ's Recycling
+.
+~~~
+Flange Alignment
+If you have removed the header/muffler, "doing it all up loose" before tightening anything is about the only way to do it.  There is invariably a little mismatch, and thus a problem with fitting everything up properly.  The heat risers are usually welded to the manifold pipe, making them difficult to move (though they may be bent a little if you are careful).  This mis-alignment may also be partly due to the header/muffler design - if it has been made "not quite right" the heat riser flanges and header/muffler flanges will be misaligned.  Attachment of these flanges is probably the most difficult part of the header/muffler reinstallation process, as you must align the gaskets as well as the flanges.  Dave uses a small phillips screwdriver to align the holes, plus a little "friendly persuasion"!  ("When all else fails, get a bigger hammer or pry bar!"  :-)  After you have the bolts through the flange holes, then you are faced with attaching the washers and nuts underneath.  (Good luck!  Don't let your wife hear the "blue" words!  :-)
+Since writing the foregoing we have received some excellent input regarding the alignment of the heat riser and header/muffler flanges.  Though we haven't had the experience, we have learned that prying the flanges to get them to align can cause cracking of the sleeve that holds the heat riser pipe against the bottom of the intake manifold.  This horror story is illustrated in the following picture.
+Cracked Manifold
+Someone gave us some very valuable information - Before this happened to my '65 Bug, I never gave it a second thought when bolting up a new/replacement muffler assembly to the heater boxes and heat risers.  If it didn't line up correctly, my usual recourse has been to run an awl or screwdriver through the connection points and "bend" the two components to make them line up!
+After I discovered this crack (see above) I went to my library of VW manuals and magazine articles to see what has been said about this issue.  Not much has been written about it (nothing that said anything about the possibilities of cracking).  The closest I found to a warning was located in my original 1965 Volkswagen factory workshop manual. On page 1 of section M-5 under the "Removing and Installing Intake Manifold with Pre-heating Pipe" it states:
+When the manifold is installed, all flange holes must align properly with the studs and threaded holes.  To eliminate stress, the pipes should be straightened.  If the pipe is heated, ensure that all scale is removed from the interior.
+I made sure to double check my alignment when I placed the new intake manifold onto the mating areas.  I did a little light bending of the tubes for alignment along with a small amount of filing using a round file on two of the manifold tube to exhaust/passenger side connection holes to eliminate any form of stress.
+* 
+                    * * * *
+Design by
+Erin

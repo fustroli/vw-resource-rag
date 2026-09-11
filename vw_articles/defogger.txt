@@ -1,0 +1,70 @@
+Rear Defroster
+Rear Window Defroster
+See also our
+Rear Window Defroster Procedure
+.
+~~~
+System Description -
+From our
+Rear Window Defroster Procedure
+-
+Locate the rear window defogger switch in the dashboard. It will have a white wire running to it from Fuse #10, a black wire leading to the relay, and a brown ground wire.  Confirm that the switch is wired properly.
+Trace the black wire from the switch back to the defogger relay under the back seat. There are five wires on the relay:
+The black wire from the defogger switch.
+A black wire that leads to an in-line fuse (8 amp).
+A brown ground wire.
+A blue/white wire to the analysis system.
+A white wire to the defogger in the rear window.
+Confirm that all of these wires are in place and in decent shape and that the in-line fuse is in place.
+Dave wrote to Rob (specific to the 1973 model with alternator) - I made an interesting discovery in the Bentley Manual
+  "For cars with alternators, see ... the current flow diagrams for the 1974 Sedan 113" - Schematic K.  So I turned over the page and found things looking a bit more like what I was seeing in the car.
+The actual wiring for the rear window defogger looks quite straightforward.  I may have to replace the relay, and I know that fuse #22 is missing  I've already noted the disconnected ends of the fuse holder under the back seat.  Maybe I'll hook it up, then turn on the switch and see if I've got juice at the input side to the defroster element.  If so, great; relay obviously is OK.  Then check to see if there is juice from the other end of the element to ground.  If so, great rejoicing!  If not, then it will be time to track down the breaks in the element.
+~~~
+Diagnostics/Tests -
+Once again, from our
+Rear Window Defroster Procedure
+-
+Turn on the key and the defogger switch and check the voltage at the point where the black wire from the switch connects to the relay. Should be 12 volts; if no voltage, the defogger switch is bad.
+If there is juice to the relay, check for voltage at the point where the black wire from the in-line fuse connects to the relay. There should also be 12 volts at this point.
+Check for voltage at the point where the white wire from the relay connects to the defogger grid. Should be 12 volts at this point also.
+If there is no voltage at any of the above test points, move upstream and correct or replace the faulty component.
+Turn off the defogger switch and the key.
+If you found voltage at the point where the hot wire attaches to the defogger grid, remove the wires on both sides of the grid and check for continuity across the grid. Also check each of the individual lines.
+If you have voltage to the defogger grid but no continuity across the grid, the grid will have to be repaired or replaced.
+Someone wrote - You can do a quick check with a resistance meter.  Disconnect the leads to the window, and measure the resistance.  It should read less than about 10 ohms to do much good (on a meter with a needle, that's to the *right* of the 10 ohm mark; make sure you zero the meter first).  If there's much more resistance, there may be a fair bit of damage to the wires.  Sometimes the bad areas show up once you have power there by demisting first, because the power depends on the resistance and it's greatest where the wire is thinnest.  You may find a bit of breath on the glass will be about enough to show these hot spots.  This will help you decide if a few spots repaired will do the trick before you spend big money.  Unfortunately, the condensation that appears on the back window (particularly when the car leaks water a bit) corrodes the fine filaments of the heater.
+Remember, you have (will have) some heat in the car when you sort the heater out, and a small 12V fan to circulate some of this warm air round the back window might be enough, and save big money.
+Dave wrote to ask - Is the relay the thing that I hear going "click" when the switch is turned on?  And if so, does hearing it click tell me anything about whether it works or not?
+Rob responded - Yes and yes.  That is the relay, and if you are hearing it 'click', it is working.  Check for voltage at the driver's side connection on the rear window.  If it's there, you've got a working system   except for the grid.  Fix the breaks in the grid, or replace the rear window with one with a working grid, and you are done.  At $300, replacing the window with the heater grid is pretty spendy.
+Another response - It's always a better bet to test a circuit with a bulb for example, rather than just look for voltage.  If there is a high resistance in the circuit, a voltmeter can still show 12 volts without the circuit being able to give any useful amount of power.
+Rob wrote - I haven't ever seen one of them on an Aussie beetle, but I understand the wiring runs under the back seat, and there is a fuse there too.  That would be the first thing to check.  Try disconnecting the window wires (if they have removable clips) and check the continuity with a volt/ohm meter.  Even if a wire or two are broken, there should be some current flow through the others.  Yes you can get replacement copper tracks to mend short breaks in individual wires.  They just stick on to the broken track I think.
+Check for 12 volts with the ignition and the heater switch on, from the fused wire (disconnected at the window) to earth.  This will tell you if the window is getting power. Also look for the grounding point -- probably close to one side of the window, opposite to the fused side.  They run at 8 amps or so, and need a good ground.  Check the switch connections behind the dash of course.
+I guess you tried several points, just in case they used a coating of some kind on the copper?  Seems a bit odd that ALL the wires should have gone bad, and without leaving any traces of breaks.
+Dave wrote to Rob - Now, Im no electrician.  I use my VOM rarely.  Im pretty sure I used it correctly, but help me out here.  I plugged the two leads into the unit, then set the dial to resistance (ohms).  Touched the two leads together, and the needle deflected all the way to the right --to zero -- indicating continuity, right?  Then I applied the leads to the two spade connectors on either side of the rear window -- the one on the right is the ground, and the one on the left had a white wire connected to it coming from the relay (I removed both wires before testing).  With the two leads touching the two spade connectors, there was no deflection in the needle at all, with indicates, if Im understanding this correctly, infinite resistance, and no continuity.  Did I do this right?
+Rob responded - Yes, I think you used it correctly, and thats why Im a little puzzled that ALL the copper tracks have failed.  If Ive got it right they are stuck to the inside surface of the glass, rather than buried in the glass (common on more modern cars).  If so, I guess large objects put in the back could easily rub/damage the demister, but I would have thought some tracks might have survived, and in this case, youd get a reading on the VOM.
+Dave wrote to Rob - I discovered that there's juice to the relay, for sure!  I was checking the voltage with my VOM when I must have cross connected what I shouldn't have -- fried the ground wire from the relay with an impressive cloud of white smoke!  I sure hope I didn't fry the relay, but I'm worried.  From the look of it I probably should replace it anyway.
+The experience gave me pause.  I went through all of my information on use of the VOM (John Muir has an excellent write-up in the "Compleat Idiot" book) and wrote a
+Procedure on VOM Operation
+.
+I made up a new ground wire with the appropriate ends on it and reinstalled it between the relay and the grounding point.  Also installed a new in line fuse holder, as the new fuse (7.5 amp rather than 8 amp) is longer and won't fit in the old fuse holder.  Then I turned the key and switch on and checked for 12 volts up at the defogger element -- nothing.  Then checked for continuity between the wire at the relay and the defogger (being careful to switch everything off first) -- again nothing (supposed to be a white wire -- it's black at the relay and white at the defogger end.  There's a disconnect somewhere.
+After I install the new relay I've got to trace down the wire from the relay to the heating element in the rear window -- it goes up through the frame of the car somehow.  Right now there is no continuity between the relay and the heating element.  And, of course, theres no continuity across the element itself, so I may be beating a dead horse.
+I'm anxious to figure out why the defroster in that window doesn't work.  The rear window costs $300 with the defroster in it (!), $100 without.
+Rob responded - First thing would be to pull one of the wires off the window connector and connect the multimeter (using any resistance scale) over the contacts on each side to see it there is continuity from one side to the other.  If there is - that problem has to be supplying power to the window.  If there is no continuity, all tracks must be broken - you might be able to see hairline cracks with a magnifying glass or something.  You CAN get repair kits for these tracks (provided they are on the surface and not imbedded).
+Dave wrote - I checked the defroster elements in the window for electrical continuity.  There is continuity in both of the strips on either side, but there is no continuity from one side to the other.  I would expect there to be resistance, as that's what causes the elements to warm up, but there has to be electrical continuity or the system won't work.
+Rob responded - Exactly - there should be about 1.3 ohms one side to the other (assuming the whole thing runs about 100watts (8 amps).  Higher resistance would indicate one or more tracks broken, but infinite resistance means all tracks are broken.
+I forget, are they on the surface, or laminated into the glass?  If the first, you could test along each track and narrow down the break points and then ask your autoshop for a copper track fixing kit - you gently clean the track either side of the break (denatured alcohol), then stick the new track on the top of it, and peal off the backing paper.  I haven't ever done this job, but read the packet when I saw it in an autoshop.
+The break points only have to be hairline cracks - very difficult to see.  Probably had some PO clean the window with BonAmi or somesuch - doesn't take much to damage the surface type wires.  Cleaning them should only ever be with a soft cloth, gentle detergent or water, and rub along the tracks - not across.
+Are the tracks straight and connected direct to the connector strips on each side? Even if you can only get a few of the wires fixed it would be enough to give you a strip of vision - each track will work by itself (unless VW used a "snake" of track back and forward across the glass  we don't have them in Australia so I've never seen one close up).
+Dave wrote - The tracks are on the inside surface of the glass.  There's a quarter-inch wide copper strip down each side of the window with a spade connector - the one on the left from the switch, and the one on the right to ground.  Then there are eight or so very thin copper wires running from one side to the other.
+Rob responded - Easy to test along each track to find breaks.  Getting even a few going would help with the vision.
+~~~
+Fixes -
+Someone wrote to the RAMVA Newsgroup - Chances are, the elements on the glass are broken/rusted through in more than one place, which you can get repair kits for. Comes with a small template and a brush/bottle of metallic goop to paint over the gaps. I've tried this in my bus but all that did was start popping fuses...
+Dave wrote to Rob - I ordered a relay for the rear window defogger.  The only one they had in the catalog was for a '72 '74 Ghia, but it turned out that it is an exact replacement, a Bosch unit (the old one was nondescript) with the connection numbers stamped right onto it to match the schematic.  Very easy!  Everything's wired up correctly now, but still no continuity across the element in the rear window.  Interesting  the element looks just fine -- I can't find any breaks in it at all. Wish I could drive the car into a big freezer to test it!
+I want to have a go at repairing the defroster wires before I put it back in.  I've taken a cursory look at the catalogs, but I haven't been able to find the repair kit yet.
+~~~
+Bottom Line -
+After all that, Dave found the element in the rear window so badly damaged that it was beyond repair.  The cost of a new rear window with the heating element was prohibitive ($300), so Dave bagged the idea of trying to restore the rear window defroster.  Some valuable experience, advice, and lessons learned resulted from all of this, which hopefully will be of use to someone else.
+* 
+                    * * * *
+Design by
+Erin

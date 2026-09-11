@@ -1,0 +1,74 @@
+Warning Lights
+Warning ("Idiot") Lights
+See also -
+Instrument Cluster
+.
+Alternator Warning Light
+.
+Alternator Light Stays On
+.
+~~~
+There are two "warning lights" in the instrument cluster on either side of the turn signal indicator.  On the left is the "Gen/Alt" light, and on the right is the "Oil" light.  When you turn on the ignition both of these lights should be illuminated; both should go out when the engine is running.  No "Gen/Alt" light when you turn the ignition on means that circuit is incomplete and you'll get no battery charging.  This may be okay for getting home, but you can't leave it like that for very long at all.
+Here's a scenario:  you're driving your Bug home from work one evening when the little red light to the left of the turn signal indicator comes on.  Don't make the mistake of thinking there's an oil pressure problem -- the light on the left is the "Gen/Alt" light (generator or alternator, depending).  When it comes on it is telling you that there is something wrong in the electrical charging system -- the battery is not being charged.  You must track this problem down immediately (like, stop right now!
+Following are the most common reasons for the generator/alternator light coming on -
+A broken fan belt -- this is the first thing to check.  If this belt is broken or loose, the alternator is not working and you're running entirely on the battery (which won't last long).  More importantly, if the generator/alternator belt is broken the fan inside the fan housing (on the other end of the generator/alternator shaft) is not turning and no cooling air is being provided to the engine.  Without a constant flow of cooling air, you can cook your engine in a few miles.  In either case,
+drive the car NO FURTHER
+until the generator/alternator belt can be replaced.
+Replace and retension the fan belt in accordance with our
+Fan Belt Adjustment/Replacement Procedure
+.
+Note:
+The correct belt size for all upright Type 1 (Beetle/Kharman Ghia/Thing/older Bus) engines (except 12V engines with alternators)is either 900mm or 905mm. The correct size for 12V engines with alternators is 11.3 x 912mm. The length is important because of the limited tension adjustment available in this engine design. You can make a larger belt "work," but using a larger belt slows the fan down and the engine will run hotter. Many cases of engine overheating are the result of the drive belt being the wrong size! Take the old belt to the parts store for comparison if you aren't sure.
+The other reason why the generator/alternator warning light may come on is that the generator/alternator itself is defective.  If this is the case, and once you have confirmed that the fan is be turning to provide cooling air, and you will be able to safely drive the car a little ways on the battery.  However, the battery will rapidly go flat -- maybe 6-8 hours with the headlights off and 2-3 hours (at most) with the lights on (both times allowing for a few engine starts which also flatten the battery of course).
+Note:
+If you have a bench charger, you can charge the battery up overnight and then drive the car okay the next day (you won't harm the alternator even if it's not working).
+Get the alternator fixed/replaced as soon as possible, as you won't be able to drive far on the battery alone!
+Usual reasons for the generator/alternor not charging the battery are -
+Something is wrong with the alternator.  They have small brushes under the cover plate -- you can remove this and check the condition of the brushes and the smooth slip-rings the brushes ride on.  If the brushes have worn down they may not be contacting the slip rings any more.
+Your alternator should have just two wires coming out of it - one small and one large.  The small one goes to your indicator light, so we know that one is working fine (if that bulb ever blows the alternator will stop working, so when you first turn the ignition on make sure it glows. You can always use one of the two speedometer lights (high on either side of the speedometer) as a temporary fix if it does blow).  So you could also try removing and cleaning the larger connector (which is the actual battery charging wire) and replacing it - see if this helps.
+This wire appears under the back seat on the left side where it branches off to the battery and to the electrics up front, so check the connection on the battery (this connection also has the fat red starter wire), and also check the connection up front - you can see it emerge from the wiring harness which comes into the floor of the luggage area on the left side and that thick red wire then connects to the headlight switch, and then two other thick red wires come off that to power the car (the headlight switch is used as a connection block for the main power supply).
+Clean up those connectors on the headlight switch (one at a time so you can put each back where it came from.  The headlight switch connectors are almost certainly NOT the problem, but worth checking anyway).  There is also a faint possibility that the internal regulator on the alternator has blown - unusual but it can happen.
+Also check the ground strap for the battery (flat braided wire usually).  Remove it from the body and clean the connectors both ends.
+There is also a tranny strap under the car at the nose of the tranny.  Remove this and clean the connectors and replace (it's the earth connection for the alternator).  Neither of these is the likely cause, but they CAN contribute to poor electrics on Bugs.
+Visit
+Speedy Jim's Home Page
+for lots of good stuff on alternators, etc. - he has a couple of test procedures which might pin it down.
+If you need a new regulator section for the alternator - I think John at
+Aircooled.Net
+has them.  You could also try
+California Import Parts
+and
+Mid America Motor Works
+.  Specify that it's an "internal regulator alternator" because there is an external-regulator model for '72-'73 bugs.
+Problems may arise with the warning lights because the instrument cluster has been wired incorrectly.  One case we heard of was that instead of the "Gen/Alt" and "Oil" lights coming on when the key is turned on, the turning signal indicator and the "Oil" lights came on. Only the "Gen/Alt" and "Oil" lights are supposed to come on when the key is turned on, NOT the turn signal indicator.
+To avoid such problems when working with the instrument cluster, be sure to make a drawing of the front (front) of the instrument cluster clearly showing each connection point and the color of each wire.  Then carefully label each wire as it is removed from the instrument cluster to assure that it will be reattached in exactly the same place.  Remove and test each of the little bulbs, making sure that they are properly reinserted.
+Please see our discussion of the
+Instrument Cluster
+for a drawing of the wiring configuration in our '73 SB.
+REMEMBER:
+If the "Alt" light is inoperable, the alternator will NOT work.  Make sure that all of the wires are firmly reattached.
+Some miscellaneous notes regarding possible sources of problems -
+Fuses.
+The oil pressure sender unit.  If the oil pressure sender fails, it's supposed to fail ON - as a safety measure.  Check the connections to the sender and the oil light itself - if the spade connectors are at all loose you can tighten them by squeezing (very gently - only needs a small amount) with pliers to flatten the female part so it grabs harder.
+The ground wire for the oil pressure sender is the transmission-to-body strap.  If this were bad, you'd get other electrical faults too, like hard starting.
+Also check any ground wires (brown) around the instrument cluster.
+You can check the oil pressure from the sending unit hole if you have a pressure guage which has the right thread to screw into the hole.
+For the red generator light - see our
+checkup procedure
+- all you need is a voltmeter.  This procedure will help you decide if a charging  fault is the battery, generator or regulator.
+Alternator Light Stays On
+Someone wrote with an interesting question about the alternator "idiot" light -
+My 1970 engine is equippedd with an alternator that has an internal regulator.  My problem is that the "alt" stays on when the key is off.  The light goes out when the engine is running. I have 13-14 volts at high idle.  What could cause the gen light to be on with the key off?  Please help before I start yanking wires!
+Speedy Jim
+responded -
+Remove the wire that is on the alternator  D+  spade terminal.
+Connect a small 12V test lamp from chassis (engine case) to the  D+  terminal.
+If the light comes On, one of the alternator diodes is shorted internally.
+You can solve the problem at least temporarily by adding a small diode - see the
+shematic
+on my Web page.
+Eventually, you'll have to pull the alternator and have the diode(s) replaced.
+* 
+                    * * * *
+Design by
+Erin

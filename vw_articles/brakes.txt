@@ -1,0 +1,124 @@
+Brakes
+VW Brakes
+Please see our specific
+Procedures Related to VW Brakes
+.
+Note:
+There are some great brake inspection tips on the
+Autohaus Arizona
+Web site.
+~~~
+Subtopics related to the VW Brakes are addressed in the following -
+Introduction and General Information
+Brakes Discussion
+Master Cylinder
+Wheel Cylinders
+Drums and Shoes
+Air in the System -- Brake Bleeding
+Brake Adjustment
+Pushrod Adjustment - System Pressurization
+Rear Brakes and Seals
+Hand Brake
+Disc Brakes
+Testing
+~~~
+NOTE!  Stopping is much more important than going!  Make absolutely sure that your brakes are in good working order.
+Take your time and do a good, slow, solid job on your brakes.
+~~~
+The sub-topics above are largely documentation of the experiences Rob and Dave have had, gleaned from their e-mails back and forth.  Much of the material is essentially stream-of-consciousness dialogue; this interchange often provided the background from which Rob and Dave's procedures were prepared.  We hope you find them informative, and maybe even interesting reading.
+~~~
+Introduction and General Information
+In the United States, Beetles, Super Beetles, and Convertibles have four-wheel drum brakes.  Disc brakes were installed on VWs in other countries in 1967.  Since 1972, Karmann Ghias in the United States have disc brakes at the front and drum brakes at the rear.
+Brakes in a VW are similar in most respects to those in American (and Australian :-) cars.  The heart of the system is the
+Master Cylinder
+, which is filled with brake fluid, an incompressible hydraulic fluid.  The master cylinder receives pressure from the
+Brake Pedal
+by way of a
+Push Rod
+.  In each of the wheels there is a
+Wheel (Slave) Cylinder
+.  The wheel cylinders are connected to the master cylinder by way metal and rubber tubes, also filled with
+Brake Fluid
+.  When you push on the brake pedal you pressurize the hydraulic fluid in the master cylinder, and this pressure is transmitted equally to the four wheel cylinders.
+Attached to the wheel cylinders are
+Brake Shoes
+(two in each wheel -- one forward, one rear).  The pressure in the wheel cylinders moves pistons which in turn move the brake shoes into contact with the
+Brake Drums
+.  The brake shoes and wheel cylinders are fastened to the
+Brake Plate
+, which is stationary.  The brake drums rotate with the wheels (the wheels are attached to the drums); the pressure of the brake shoes on the drums stops the car.
+On all later model cars (since 1967), each axle has its own hydraulic brake circuit.  A dual-chamber master cylinder provides operating pressure to both brake circuits.  In effect, this means that your brake foot is connected to two master cylinders (in one long piece), one for the front brakes and one for the rear.  If either of them fails, the other will do the job for both.
+The system is designed so that leaks in one circuit cannot affect the other circuit.  An electrical warning system in the master cylinder causes a red warning indicator in the instrument panel to right up if hydraulic pressure is too low in either brake circuit.  If you see this light while you are driving, it is imperative that the brake system be given a thorough check, even though braking action may still seem completely satisfactory.  Complete loss of pressure in one of the brake circuits will cause the pedal to fall closer to the floor during braking and will result in abnormally long stopping distances.
+The idea of adjusting the brakes is simple -- the intent is to move the brake shoes as close the brake drums as they will go without undue rubbing, so when you push on the pedal, the shoes have the shortest possible distance to travel.  You need a brake adjustment when the brake pedal goes half way to the floor before the brakes take hold.  If you have to pump the brake pedal to stop the car, an adjustment is overdue.
+The idea of bleeding the brakes is to remove any collected air in the system, because air is a compressible gas.  Brake fluid is relatively incompressible, and you want your fluid as incompressible as possible so that the pressure applied to the system by the brake pedal will be transmitted equally throughout.  You need to bleed the brakes when the pedal feels spongy under your foot or any time the system has been open.  The pedal should be firm and unyielding when you press on it.
+The stop light switch is a simple pressure switch that turns on the stop lights when the pedal is pushed.  It screws into the front end of the master cylinder.  Later-model cars with dual-circuit master cylinders have two stop light switches, either of which will turn on the stop lights.
+Because the front brakes are the leading brakes, they receive most of the braking action, and the front shoes wear out much faster than the rear shoes -- usually about 2-3 times as fast.
+As indicated, new VW models have disc brakes in front.  These are operated by the same hydraulic principles as the drum brakes, with the pressure forcing a pair of pads out of a caliper to apply friction to a disc which is attached to the wheel.  Just put your thumb and forefinger together and imagine you are squeezing a turning disc to stop it from turning, thats what disc brakes do.  There are still two parts to a master cylinder with the front part operating the front brakes and the rear part the rear brakes.
+Leakage in the brake system can be both ways:  air can leak in or fluid can leak out.  If youre having to bleed your brakes often, you either have a leaking connection at one of the wheels or your master cylinder needs work.  If your brake fluid is going somewhere, it is most likely that one or more of the wheel cylinders is leaking.  If you have a leaking wheel cylinder, you will see a wet spot on the inside of your wheel or tire where fluid is running down out of the brake drum.  If the wet spot is on a front wheel, it can only mean that the wheel cylinder is leaking fluid and must be replaced or rebuilt.  It is best to replace or rebuilt both wheel cylinders (front or rear) even though only one may be leaking.  See our procedure on
+Replacing Wheel Cylinders
+.
+If the wet spot is on a rear wheel, you have to decide whether the leak is brake fluid or transmission oil.  Either way its trouble, but you can tell by comparing the smell of the leaking fluid to the smell of fresh fluid.  If the smells are the same, you have a leaky rear wheel cylinder.  If they are different, your rear bearing seal is leaking.
+If you are experiencing leaking from the brake system and all of the wheels are dry, then your master cylinder is leaking. To check leaks in the master cylinder, first find it.  Crawl under the car and look up, immediately forward of the brake pedal.  Its that thing with the tubes coming out the side of it, with wires attached to either the front or the side of it.
+~~~
+Brakes Discussion
+Dave wrote to his son 
+We need to turn our attention to the brakes.  I am concerned about the excessive brake travel and the sponginess.  Some possible causes are:
+Excessive Brake Pedal Travel:
+Brakes in need of adjustment.
+Air trapped in the system.
+Insufficient fluid in the master cylinder.
+Master cylinder push rod out of adjustment.
+Partial brake system failure.
+Brake pedal feels spongy when depressed:
+Air in hydraulic lines.
+Master cylinder mounting bolts loose.
+Master cylinder defective.
+I would suggest that we first adjust the brakes all around (see our
+Brake Adjustment Procedure
+), then bleed them (see our
+Bleeding the Brakes Procedure
+), and then check the master cylinder push rod adjustment (see our
+Push Rod Adjustment Procedure
+).
+If these operations dont solve the problem, then I suspect well have to replace the master cylinder.
+~~~
+Questions and Answers
+Question - When I step on my brakes nothing (or almost nothing) happens.  What's up?
+Rob responded  There are several possible problems, each with it's own solutions.
+The first thing to do is
+Adjust the Brakes
+. You should have a little scraping on the front drums.
+Bleed the brakes per our
+Brake Bleeding Procedure
+, then
+Adjust the Parking Brake
+.
+If your problems don't disappear, then you need to look for leaking lines or wheel cylinders (there will be brake fluid running down that inside bottom of the tires).  Barring that, you need a new master cylinder.  Some will say that a master (or wheel) cylinder, if rebuilt carefully, can be just as safe as a new one. My response to that is two-fold:  1. Make your decision based on availability of parts and money, and 2. Weigh the savings against a possible failure of the system.
+Dave wrote to Rob  A few minutes ago I experienced sudden and significant increase in the brake pedal travel!  It was quite frightening when I pulled up in front of the house the other day and pushed the pedal almost all the way to the floor before anything happened!
+So, brake work definitely moves up on my priority list.  I've adjusted the brakes several times and bled them once, so it's got to be something else.  However, I'm going to start at the beginning and work through it so I can properly pin the problem down.
+First, I'll check the brake fluid level.  If it's low, then I'll probably have to bleed the brakes again.
+I think it's time I bit the bullet and pulled all of the brake drums, maybe the front ones first and later the back ones.  I can't figure what would make such a noticeable change all of a sudden.
+Rob responded  If the brake fluid is low, you've sprung a leak somewhere, or perhaps the seals are worn and some air has entered the system.  Air inside would make for a very spongy feel on the brake pedal.
+The first place to look for a brake fluid leak is the master cylinder, both inside the car near the actuating rod, and outside around the master cylinder itself.  If you don't find a leak from the master cylinder, then check each wheel (slave) cylinder individually.  Often a small leak will not show up as an actual leak, but a lot of slightly wet looking black brake dust around the cylinder.
+Either way it sounds like something has leaked somewhere, and that means it will require attention soon.  If you get a "real" leak inside the brake drums you can get fluid on the linings.  This is a pain.  They can be cleaned by soaking in gasoline overnight, scrubbed with a wire brush, dipped back in the gas and then burned off (placed in a metal dish and put a match to it to remove all trace of the gasoline), but I would never recommend that of course, because of the danger of using gasoline like that.  Methylated Spirits (denatured alcohol) can also be used -- and might be preferable for brake fluid, since these mix better than brake fluid/gasoline.  I had to do this job after a leaking rear wheel seal, so in my case it was hypoid oil (swing axles use the gear oil for the rear wheel bearings) and gasoline.
+Don't forget that you have a hand brake which works very well on Beetles, even if it is only the back wheels.  Unlike many other cars, the hand brake pulls on BOTH shoes in each drum, so it is quite effective.
+Dave asked - In addition to the master cylinder itself, I thought I would go ahead and replace the fluid reservoir, the two brake light switches, and the switch boots. I'm leaning towards going completely through the brakes, replacing the drums, the wheel cylinders, and the shoes.  Then I'll know for myself just what we've got, and my level of confidence will go up significantly.  The wheel cylinders and brake shoes shouldn't be too bad, as I had the front brakes redone two years ago.
+Is there anything else that it would be wise to replace and/or do while I'm doing this job?
+Rob responded - If the flexible brake lines near the wheels have not been replaced in recent times, they could probably be getting ready for it too.  I have never had trouble with mine, but apparently they can expand/rot internally after some years and partially block themselves.
+Make sure the master cylinder comes with a new rubber boot for around the pushrod, or include it separately if it isn't included in the replacement cylinder.  (The wheel cylinders usually come with their boots, but I don't know about the master cylinder.)
+The reservoir doesn't do any "work" and usually doesn't need replacing, but if it's inexpensive and/or has some "mud" in the bottom of it, it certainly won't hurt to replace the whole lot.
+And when replacing the wheel cylinders, note that the slots in the ends of the cylinder pushrods have an angle to the bottom of the slot, so they match up to the angled brake shoe ends.  You may need to rotate the pushrods 180 degrees to get the slot the right way round.  It will be obvious if they are wrong -- the shoe will not sit down in the base of the slot properly.  They are "loose" in the cylinder, so rotate very easily if needed.
+And when adjusting the brakes after fitting new cylinders etc (and after bleeding is completed), pump the brakes hard several times to centre the brake shoes before you start, otherwise you CAN end up with one shoe adjusted too little and one too much (meaning the pedal feels right but the shoes are fractionally off-line), leading to uneven wear on them (they will wear on one "toe" and one "heel" more than they should).
+Replacing the brake drums would certainly a good idea is you intend keeping the car for a long time, but machining them might be quite sufficient.  However, since you have one (or is it two) with stripped lug hole threads, I guess replacement does make sense.
+I have no idea how long front shoes last, but my front disc pads last about 50,000 miles, and my rear shoes have lasted about 80,000 miles each (I'm on my third replacement set.)
+After completing the brake work on his 73 SB, Dave reported - The brake pedal is about the same as it was before.  You'd think it would be very much improved, given the new brake shoes and wheel cylinders.
+Rob responded - I guess you had the old stuff pretty well adjusted then.  But you might find after you've settled the new parts in and readjusted the brakes (say in a hundred miles or so), the brake pedal travel may reduce and feel more solid.  I don't think it's ever going to feel like front discs though -- I seem to remember from my Dad's old 60 that the drum brakes felt like they needed more leverage to work -- slightly greater pedal travel once they started to bite.
+Dave wrote - I snugged up the master cylinder push rod, and with the new master cylinder that baby's got brakes!  I've been concerned about the brakes from the moment my son bought this car.  Now everything is new, including the master cylinder (well, the wheel cylinders and shoes on the front are a year old, but ...).  I'm very pleased.  (But Daves euphoria was short-lived.)
+Rob responded - The drum brakes SHOULD work well -- the linings are big enough for a light car.  A little more pedal travel than the discs I imagine -- drums tend to have a "soft" feel and discs a "hard" feel, but the drums only lose out in hard continuous braking as they can't shed heat nearly as fast as discs.
+Dave wrote - I took the car out and gingerly drove around the block a few times.  There is WAY too much pedal before braking begins, and when I stomp on it one of the brakes grabs and skids (I think its the right rear).
+Rob responded - So either that wheel is grabbing, or the other one is not braking enough so you press harder and the "good" one skids.  For me, the problem is usually the front discs getting a light layer of rust after sitting unused, and grabbing for the first few brake applications.
+The continuing saga of Dave's brake problems in documented in the links above.  The problem with excessive brake pedal was finally resolved with the installation of front disc brakes in August 2004, following a couple more goes at the drums and shoes.
+* 
+                    * * * *
+Design by
+Erin

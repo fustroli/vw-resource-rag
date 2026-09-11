@@ -1,0 +1,174 @@
+Master Cylinder
+Master Cylinder
+~~~
+Following are subtopics that follow related to the Master Cylinder -
+General Discussion
+Overview from Rob
+Brake Fluid Leakage
+Master Cylinder Replacement
+"Installing a New Master Cylinder" (article)
+Brake Lines
+Steel Brake Lines Repair/Replacement
+Brake Circuits
+Brake Light Switches
+Master Cylinder Interchangeability
+~~~
+General Discussion
+The hydraulic brake system on 1966 and earlier models is single-circuit -- one circuit operates both front and rear brakes.  All 1967 and later models are equipped with dual-circuit systems.  In the dual-circuit system, one circuit operates the front brakes and the other operates the rear brakes.  The master cylinder has separate reservoirs for the two circuits (later combined in one container), so in the event of a leak or failure in one hydraulic circuit, the other circuit will remain operative.
+Dave's Old Super Beetle Master Cylinder
+~~~
+On Standard Bugs (this may have changed in later models, I don't know) there is one brake line from the master cylinder to each of the two front wheels (i.e., TWO separate ports on the master cylinder for the front brakes).  There is a single brake line from the master cylinder which runs rearward and then splits in two to go to each of the two rear wheels.  Thus on the Standard Bug master cylinder there are
+three
+outlet ports for the brake lines, plus two for the brake light switches.
+~~~
+Overview from Rob
+It's clever how the master cylinder works.  There are two connections with the
+fluid reservoir - the main intake port and a tiny compensating port. 
+The compensating port is right next to the seal under the piston so
+that the working part of the master cylinder remains full of fluid but the port is
+shut with about 1-2mm movement of the piston...THAT's the reason the
+piston has to fully retract. If the pushrod it tight it will not allow the piston to fully
+retract and the compensating port will not get uncovered, so the master cylinder
+stays "pumped up".
+There is a double check valve (one inside the other) at the bottom of
+the master cylinder.  When you put your foot on the brakes the inner valve opens
+from the pressure supplied by your foot, and fluid flows to the wheel
+cylinders.  Then as you lift your foot off the inner check valve is
+shut by it's return spring but the outer one (which surrounds the inner
+one) lifts off the bottom of the master cylinder to allow fluid back into the master cylinder and
+up to the reservoir via the small compensating port. But because the
+outer check valve has the piston return spring (a coil spring) pushing
+down on it and that spring is under some compression even when the
+piston is fully retracted (foot off the pedal), that spring will shut
+the valve before all the fluid has returned to the master cylinder and reservoir,
+keeping a little residual pressure still in the lines.  The springs
+inside the wheel assemblies hold the shoes off the drums against that
+small pressure.  That residual pressure means that the system remains
+primed so the brakes are ready to work instantly when you next need
+them, and keeps the pedal movement to an absolute minimum before the
+brakes start working.
+So, for example, if you need to pump the brakes a few times to get them
+working after the car has been unused for some time - it's time to
+check the condition of all the wheel cylinders and the master cylinder - that
+residual pressure has leaked out someplace.
+~~~
+General Discussion (Continued)
+In the Super Beetle there are just two brake lines from the master cylinder -- one which splits and goes to each of the front wheels, and one which splits and goes to each of the rear wheels.  Thus both lines split in two to service the two wheels, front and rear respectively.
+There was originally a different master cylinder for disc brakes than for drum brakes (pressure bleed holes instead of valves to allow for the actuating rod to return with the released pedal), but I believe there is now a universal master cylinder which works with either, so the replacement (if you need one) may look just a little different to the original.
+It can be a little difficult to get rid of all the internal air after a rebuild or replacement of the dual master cylinder.  The best way is to "bench bleed" the master cylinder -- see our  procedure for
+Bench Bleeding the Master Cylinder
+.  Then once you have the master cylinder installed, you should bleed any residual air out of the master cylinder.  With two people, loosen each output line (one at a time of course) while the other person applies the brake to pressurize the system and drive any air out of the loosened fitting. Tighten up the fitting before the pedal is released.   The fittings don't need much loosening (1/2 turn or so) to 'leak' under pressure.  Be sure to bleed the brake light switch fittings as well.  This procedure makes a bit of mess because it's hard to catch the 'leaking' fluid, but does the job.
+Dave had a problem with excessive brake pedal travel.  Once in a while (not often) the pedal would go almost to the floor before there was braking action.  (See our article on
+Brake Pedal Travel
+.  Dave at first wondered about the condition of the master cylinder.
+Rob provided some good advice -- Check the fluid level in the brake fluid reservoir. It should be about 3/4 full.  If the reservoir is nearly empty you might be getting air into the lines.  Check for leaks -- pull up the floor covering around the pedals and look for any wet spots around the nose of the master cylinder (it has a push rod going from the pedal through a rubber boot into the cylinder, which bolts up to the body with two bolts under the brake pedal).
+Master cylinders aren't too expensive to replace.  Sometimes you can get repair kits (piston seals etc.) and these work for a while, but in worn cylinders they won't last all that long.  I've got Brazilian replacement rear slave cylinders on mine, and they work just fine -- about five years old, so no problems with the quality.  The Brazilian master cylinder might be okay too.
+Dave checked his brake fluid reservoir and found that it was NOT low.  Dave put a thin piece of cardboard down into the reservoir as a dipstick (not realizing at the time that there are two chambers), and it came up showing the reservoir to be full -- the fluid level was right at the seam between the top and the body of the reservoir, right where it is supposed to be.  If there were a problem with leakage or with one of the circuits in the master cylinder, there would be a drop in one of the chambers in the fluid reservoir compared to the other.  Dave deduced from his conversations with Rob that his master cylinder had gone south.
+Note:
+The master cylinder reservoir on Dave's '73 SB has two chambers and two fluid lines to the master cylinder.  Rob's '68 Bug has only one chamber in the reservoir and one fluid line down to the dual master cylinder.
+Rob was pleased to report that the master cylinder on his '70 Standard Bug is the original, and it seems to be in good shape - 248,000 miles so it's had lots of work.  Rob went on to say -- I must say I've always been impressed with the brakes on this car.  The disc calipers and slave cylinders have never been off the car -- it still has the original cylinders and rubbers in there and has never showed a trace of leaking.  The rear slave cylinders have been replaced once.  The disc pads have lasted over 50,000 miles and the rear shoes about 80,000 miles.  The weather here is kinder -- less slush and no road salt anywhere, so I guess the master cylinders last longer.
+~~~
+Brake Fluid Leakage
+Dave wrote to say that he didn't think the master cylinder on his '73 Super Beetle has worked properly since he bought it.  Might it have gone bad without leaking brake fluid?  What if the seal on the first plunger was shot such that the brake fluid was passing around the plunger as it was depressed?
+Rob responded - If the seal on the first plunger were shot it would have the effect you describe.  It would also result in a lot of fluid under the rubber cap around the pushrod (behind the brake pedal).  You could look for a lot of wetness around there and on the floor if this was happening -- under that cap is the only place that fluid could go, then when you lifted your foot off the pedal some would leak around the pushrod rather than squeezing back into the cylinder.
+Someone reported a strange situation -- Recently we noticed a clear oil leak.  I assumed it was engine oil since we had just had it changed and the oil was clear.  We finally found out that it was the master cylinder leaking.  The fluid actually ran down a channel in the center of the car and leaked out the hole in the center of the car, roughly under the rear seat.
+At first I was puzzled because the master cylinder itself was absolutely dry.  None of the fittings leaked.  Once I pulled it off, I could see the fluid between those two walls.  The master cylinder was leaking in the little space between the firewall and the inner wall where the master cylinder and brake pedal come in contact.  There is a cavity between the two walls about the width of the rubber boot on the master cylinder. When it did leak, it would run down a channel in the center of the car and leak out that hole.  If you look under your car, there is a section running down the middle that is about six inches wide.  The master cylinder reservoir would run completely dry, and the brakes would become mushy, but still stopped the car.  We did have to bleed the brakes after replacing the master cylinder.
+Another guy reported that the rubber gaskets/fittings on the top of his master cylinder that take brake fluid from the reservoir lines are moist/weepy. They were not gushing fluid by any means, but they were wet.  He bench bled the master cylinder as per instructions, then bled the whole system to bring up pressure. The system is working fine, he said, but he was wondering about that wetness at the fittings.
+We weren't quite sure how to answer this one -- the master cylinder should remain dry on the outside.  Just keep an eye on it -- if it continues to remain fresh-wet, and maybe the fluid level starts to drop in the reservoir, then you have a problem.  It may be just trace wetness that won't continue. If I remember right, the plastic fittings on the master cylinder are a push-fit, and can be rotated a little to line up the feed lines easily, so they should be just push-tight.  The important thing is that the brakes are working well and you can use the car.
+~~~
+Master Cylinder Replacement
+See our
+Master Cylinder Replacement Procedure
+.
+Dave wrote -- I didn't realize how bad the master cylinder on our '73 Bug was until I had it off the car.  The piston inside was badly corroded, and one of the metal tubes that the bolts run through between the body pieces was missing and the other one was badly bent.  I made new stainless steel ones out of a pushrod guide tube from a standard car.
+Dave was a little confused by the configuration of the two plastic fluid line nozzels on the top of the master cylinder.  He found that there wasn't sufficient clearance with the rear one facing the way it was.  Dave found that the nozzles turn quite easily and can be properly positioned to provide the needed clearance.  (Duh!)
+Rob said that on his original master cylinder, these inlet nozzles were screwed in with a locking nut, so they were easy to move.  Dave's were in rubber grommets, so they would just twist with a bit of force.  These nozzles only have a "head" pressure of about 18 inches of hose from the reservoir to contend with.
+Dave installed his new master cylinder, then bled it on the car as discussed above.  Dave found that bleeding the master cylinder with it installed in the car just didn't work.  A brakes professional helped him bench bleed the master cylinder, and as a result of this experience Dave wrote a
+Bench Bleeding Procedure
+.
+New Super Beetle Master Cylinder Installed
+~~~
+Dave found that his home-built spacers on the master cylinder mounting bolts did the trick.  He hoped that the distortion caused by the missing spacer might be the cause of his excessive pedal travel (thinking that the floor distorts a little without the spacers, and so the pedal travel/gets spongy), but this turned out to not be the case.  He decided to pull both rear brake drums and look the situation over carefully.
+Also, Dave noticed that when he depressed the brake pedal the brake warning light on the dash would come on.  This indicates that one of the two brake circuits may have failed.  The owner's manual says, "The other brake circuit will still operate, but a longer distance and greater pedal pressure are required to bring the car to a halt."  This describes Dave's situation exactly.
+Dave screwed the pushrod in until it was just touching the piston in the master cylinder, then backed it off a bit, per the John Muir instructions.  (See our
+Pushrod Adjustment Procedure
+.) Dave was afraid that he might ruin the master cylinder by having the pushrod improperly adjusted.
+Rob assured Dave that he wouldn't ruin the master cylinder -- To adjust the pushrod, you simply push it into the bore slightly and reduce the normal pedal travel somewhat.  Rob simply checks to see if the pedal has a tiny bit of real free play before it starts to push the pushrod -- use your hand at the top of the pedal -- it's easy to feel.
+It was at this point that Dave started having trouble with the pressure in the brakes system not relieving as it should.  His brake specialist was pretty well convinced that Dave didnt do a thorough enough job of bleeding the master cylinder, and when the air in there gets hot it pressurizes the system.  (The master cylinder is known to be difficult to bleed.)  But the problem proved to be the result of a maladjusted pushrod, not air in the master cylinder.
+Regarding this problem with
+Pressurization
+of his brake system, Dave wrote -- We've had this problem with two brand-new master cylinders, so I don't think it's a failed circuit (sure hope not!).
+Rob wrote -- I wasn't thinking that it was a failed circuit (but now you have me wondering!!!)  With two good circuits and the pedal working near the floor, a failed circuit would result in the pedal hitting the floor before the good circuit worked.  When one circuit fails the pedal has to push the "dead" piston down until it physically touches the "good" piston (or push BOTH pistons until the bad one bottoms out -- depends on which circuit fails but the effect is the same), so the pedal moves further down before you get any brakes.
+Dave asked -- Shouldn't a failed circuit have been evident when we bench bled the master cylinder?  Or if there's a break in a line or a bad wheel cylinder, wouldn't we be getting brake fluid leaking out and the level dropping in the reservoir?
+Rob responded -- In most cases, yes.  But I guess it would be possible for a bad piston seal in the master cylinder to leak fluid back up the line to the reservoir and you wouldn't see that.  Unlikely since you've changed it twice -- just thinking out loud.
+I was thinking about this driving home last night too -- you can check the rear brake circuit as follows:  with the car stopped, pump the pedal a few times and get a feel for how far the pedal moves.  Then pull the hand brake up hard and then try pumping the brake pedal again.  If the rear brakes are working properly, the hand brake will have removed any slack in the system and the brake pedal should work sooner (less freeplay) after a pump or two.  If the pedal feel does NOT change, then there may be a problem with the rear hydraulic circuit (rear piston in the master cylinder, lines or slave cylinders).
+You can't do this test with the front brakes of course, as there is no hand brake to take up any slack.
+Do take a look at our
+Pressurization
+discussion for more information about this exasperating problem.
+~~~
+Following is an excellent article by Erin Lassley on installing a new master cylinder in a '74 Super Beetle.
+-------------------------------------------------------------------------
+Installing a New Master Cylinder
+in a 1974 Super Beetle
+-------------------------------------------------------------------------
+By Erin Lassley
+When you've diagnosed that you need a new master cylinder on your VW it's time to get to work.  Jack up the front of your bug and put it on jack stands.  On a Super, I use the two big holes underneath the trunk area up front and use my wide footed jack stands in these holes.  Seems to work rather well.
+In attempting to locate the master cylinder, you'll need to visualize where your brake pedal is and then crawl underneath the bug and look in this area.  You should see a gizmo with metal lines leading to it as well as wiring and rubber lines.  That is what you are looking for.  Pull the two sets of three wires off of the master cylinder while you are down there.  They should pop right off if they aren't corroded too bad.
+Next, I siphoned out all the brake fluid from the reservoir so that when I disconnected the fill lines from the master cylinder, I didn't get a flood of fluid all over my face and arm.  Back down under the bug you go, armed with a metric flare wrench (I got away with a close match in a standard size.  I think I used a 3/8 wrench but once again, I don't look at sizes, just whatever wrench fits.  You will probably need a crescent wrench and possibly a flat bladed screwdriver and knife.  Using the crescent wrench, you can remove the brake light switches.  They have a big hex fitting on them so that you can remove them fairly easy with a crescent wrench.  Then using your flare wrench, remove the two brake lines entering in the driver's side of the master cylinder and above where the switches were at. After that is done, remove the two lines leading into the top of the master cylinder that run down from your fluid reservoir.  If these are stuck, you can use a flat bladed screw driver to work them off, a knife to cut off the lines (and replace with new ones later!) or you can just pop the whole nipple off the top of the master cylinder and removed the nipple later as your replacement master cylinder will already have the fill nipples on it.
+Next is a tough part.  You do well do get yourself a 13mm impact wobbly socket.  To make things easier, you may want to pull your front seat out because you need to get to two bolts directly in behind the brake pedal.  I used my impact wrench with the wobbly socket and the bolts zipped right out but the master cylinder stayed in.  I've done this with U-joints, sockets and wrenches before but it was a real pain in the backside!  If you noticed your master cylinder is loose while you are removing these bolts, put some rags underneath it so it won't fall of onto the pavement.  This baby was worth an $8 core to me and nothing if it got broken.  I got down underneath and wriggled the master cylinder loose.
+That's all there is to removing it.
+Putting in the new master cylinder is a little more involved. You will notice that down around where the master cylinder fits in, there is just two pieces of sheet metal between you and the outside world.  If you reinstall the master cylinder with no supports between the two pieces of sheet metal, you will actually squeeze the body together - tearing or stretching sheet metal in the process.  At some point in time, someone did this to my bug and so the metal is scrunched in a little bit.  I took a measurement of the space between each piece of sheet metal and cut me some aluminum tubing that was larger than the bolt hole in diameter and just long enough to fit between each piece of sheet metal so it wouldn't scrunch in any more.  It was very, very tough getting the little aluminum tubes in between the sheet metal while pushing the bolts through without dropping the little tubes down inside of the body.  (By the way: I used a magnetic pickup tool to attempt to look for the original ones and found nothing.)  I found that a little piece of wire wrapped tightly around the tubing and bent at an angle, let me hold the tubing inside the sheet metal gap while pushing the bolt through.  Once in, I held the bolt in tightly while pulling on the wire and it spooled right off of the tubing.
+Next you should really bleed the master cylinder before installing it.  My master cylinder came with little plugs (with hookups for the tubing) and tubes so bleed it.  I took the fluid reservoir out of the trunk and plugged it directly into the master cylinder and then ran my tubes from the plugs into the reservoir.  This forms a little recirculatory system to fill the master cylinder with fluid and not let any air in.  Putting the master cylinder in a vise, I was able to depress the plunger in the master cylinder with a bolt.  After a few pumps, it was bled.  I put in the orifice plugs (little green caps) back in the holes and later removed them one at a time while I hooked up the brake lines and switches.
+I put my reservoir back in and hooked up the lines to it.  I then had my grandfather hold the master cylinder up underneath the car while I attempted to thread in the bolts and center the actuating plunger rod into the master cylinder.  This was also tough because you are trying to thread bolts, center the plunger, and keep the bolts from backing out and dropping their little sleeves down inside the body.  Once we got these started, I loosened up the actuating rod on the brake pedal and backed it off so I wouldn't damage the internals of the master cylinder in case the rod was maxed out on the adjustment.  There are two nuts.  The one closest to the brake pedal merely locks the rod down so it can't move out of adjustment.  The one closest to the master cylinder, is the actual adjuster. Once you have the master cylinder snugged up and installed, you run the brake pedal with your hand and you should feel some freeplay and then a part where you meet resistance because the plunger rod is ready to actuate the master cylinder.  This gap between freeplay and the moving of the master cylinder should about 3/16 of an inch if I recall correctly from the manual.  Use the forward nut to make the adjustment (in or out) as needed, the rear most nut to tighten it down so it won't move.
+After the master cylinder is in, get back under the dub, hook up the fluid reservoir lines, your brake lines, and the brake light switches.  If your reservoir lines are moist and damp, you can replace them with suitable SAE rubber brake line hose available by the foot from your flaps.  I used hose clamps to make sure I wouldn't be losing any fluid as well.
+Now you must bleed the brakes.  I had help to do this - much easier this way.  Get all 4 wheels off the ground and remove all the tires.  Since my Super has drum brakes all the way around, the actual bleeder screw sticks out on the top backside of the drum at the top right next to the brake line.  I believe it's an 8mm nut.
+I filled the reservoir and then went around adjusted all the brakes. (this is a whole 'nuther procedure). Starting with the righ-rear drum, I bled the brakes in the order that they are farthest away from the master cylinder.  You do it in the order of right-rear, left-rear, right-front, left front so that you get all the air our of the lines and one line won't corrupt the other line with air after you have bled it.
+Using a tin can and rubber hose capable of slipping over the bleeder screw tightly, I puy my wrench on the bleeder screw, then the hose, and instructed my helper to pump the brakes until he got a little pressure. When he did get pressure, he kept pressure on the pedal, I loosened the bleeder screw, air and old fluid came out of my rubber hose and into the tin can.  Then my helper let me know when the pedal touched the floor. I tightened the bleeder screw and repeated the whole process until I had new fluid coming out from each line and no air.  It took a total of about three times around the whole car before we got it all bled properly because we had induced quite a bit of air in the system. Once you start generating fluid in your tin can, keep the end of the line in the fluid - you can see air bubbles this way and it prevents air from sucking back up into the brake system.
+After putting all the tires on and lowering the Super off of the jack stands, we took it for a ride and had much better brakes.
+~~~
+Brake Lines
+Dave noticed that the rubber portions of his brake lines were a bit the worse for wear, so he decided to replace them.  He said -- I can't bear to leave the old rubber brake lines -- they are starting to crack, and besides, they SHOW if you look behind the wheels!  :-)
+Rob wrote -- The rubber brake lines should be okay for the moment though.  If they swell internally (which does happen as they get past their use-by date) you'd be getting sticking brakes (not retracting) or uneven braking.  Or if they leak externally you'd see a mess of brake fluid around the area, and the leaking line would be dripping wet.
+Dave decided to replace his rubber brake lines with braided stainless steel ones.  The blurb in the
+Aircooled.Net
+on-line catalog says -
+Stainless Steel braided brake hoses provide nicer looks, and DO NOT SWELL (resulting in spongy pedal) like rubber ones do. These have a extruded teflon core, with a stainless steel cover.  They provide remarkably firmer pedal pressure under all braking conditions. Our hoses are booted on the ends, and are DOT approved!
+To this Rob responded -- Maybe they are trying to say the older style lines allow for some flex and a softer brake pedal.  Could be true I guess.
+Dave did install braided stainless steel brake lines on his front brakes.  Of this experience he wrote -- I found that it's easiest to leave the connections loose until the two ends of the assembly are tightened, otherwise it's virtually impossible to bend the lines around the way they're supposed to go.
+With regard to repair/replacement of the metal portion of the brakelines, see Tom Carrington's
+Tom Steel Brake Line Repair
+procedure.
+~~~
+Brake Circuits
+Back to Dave's problem with excessive brake pedal travel.  He wrote - My brake pedal goes a long way down before there is any braking action.  There is no sponginess.
+Rob responded - Check the fluid reservoir quick -- you might be on only one set of brakes.  It sounds like one half of the dual brakes is not working, as the symptom you described is exactly right for half brakes.
+Normally the rear brakes come on first (the piston inside the master cylinder closest to the pedal) and when the rears come on the continuing pressure from your foot pushes the rear cylinder a little further and applies fluid pressure to move the front piston down.  If the leak is in the rear, the rear piston moves forward until a "nose" on it contacts the front piston and applies the front brakes.  If the leak is in the front, the rear piston keeps moving down until the front piston bottoms out and the rear half then gets pressure from your foot.
+Either way, you get firm brakes with your foot near the floor, but on only rear or front drums.
+Dave asked - Is it possible that only one of the two circuits in the master cylinder is working, for some other reason besides a leak?
+Rob responded - Yes -- but that would simply prevent the fluid in that circuit from moving and so the pedal would go less distance, not more.  I guess it's possible that the few times you needed the brakes after it happened has not leaked much out of the reservoir -- just lowered the level a little.
+You can either go the whole hog, or just do it section by section.  For info, the rear cylinders on my car are Brazillian VW, and work as well as German stuff.  Been in the car for maybe 8-10 years, so they are lasting just fine too.  Some parts I won't touch from South America, but other parts seem just fine.
+For more information on the problem of excessive brake pedal travel, please see our article on
+Brake Pedal Travel Adjustment
+.
+~~~
+Brake Light Switches
+Concerning the brake light switches on the master cylinder, Rob wrote -- The master cylinder has two switches in it (I'm assuming the "modern" Mexican bugs have similar master cylinders to the older German beetles).  One switch for rear brakes and one switch for the front brakes, so if one brake line fails you still have half your brakes and your stop light still work.
+The switches are in parallel - either or both will work the stop lights  They screw into the master cylinder, and are easy enough to replace.  You just pull back the rubber protector boot, pull off the wires, unscrew the switches and replace them.  You will probably have to bleed the brake lines afterwards - some air will probably get into the lines.  A spongey feel to the brake pedal is a sign of air in the brake lines.
+Someone wrote regarding the brake light switches in a '70 Bug - The brake light fuse will blow as soon as the brake pedal is pushed in. What is likely the problem here?
+"Speedy" Jim
+responded - Go to my web site
+(Speedy Jim's Home Page)
+, to the Electrical section, Brake Lights/Tail Lights, and then to "Wiring of 3-prong brake light switches ('70 and later)."  The schematic there shows how the system is wired.
+To isolate the cause, disconnect the Red/Blk wire at the plastic splice under the hood.  That's part of a small harness that comes up from the master cylinder.  See if the fuse still blows.  If it DOES, one of the brake switches or (maybe) the warning light circuit is at fault.
+If the fuse does NOT blow, the problem is in the stop lights or the harness to the rear.
+~~~
+Master Cylinder Interchangeability
+Rob wrote -- If you are in the U.S., then the master cylinders for '69 through '73 should be identical (they are certainly interchangeable anyway).
+If you are in other parts of the world (like here in Australia) which got disc brakes up front from '67 onwards, then the ORIGINAL master cylinders for these are a little different (different compensator/relief valve or some such) to the drum-only models.
+BUT - the replacement master cylinders available these days are "universal" - they will work fine for both drum and disc brake models.  So even if the replacement looks a little different in detail, it should work just fine.
+My '68 Bug has only one brake light circuit for the master cylinder.  It was in either '69 or '70 that they introduced the twin switches, so it's just possible your's has only the one switch (if original).  If this is so, then a simple "parallel" wiring from one switch to the other fixes that problem.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,90 @@
+Doors
+The Doors
+No, we're not going to "Light Your Fire!"  :-)
+~~~
+The following material regarding VW doors was gleaned from conversations with Rob Boardman.
+Door Removal
+Correcting Door Sag
+Inside the Door
+Lock Mechanism
+Door Latch
+Door Striker Plate Adjustment
+Door Catches
+Door Repair
+Weatherstripping
+Door Replacement
+~~~
+Door Removal
+There are three screws for each of the two door hinges.  An impact wrench is required to remove them - they are, and have to be, VERY tight.  The bottom one on the bottom hinge is close to the door step, and a 1/2-inch socket extension shaft is needed on the impact wrench so you can get a really good grip on the tool while still keeping a shallow angle on the shaft.  If the outer screws have been painted over, it would be wise to dig all the paint out before attempting to remove the screws.  You need to make sure you use a bit which fits the cross-cut fairly well, too -- too  small and it will strip the cuts faster than you can hit the tool!  :-) Its a Phillips No4 bit - not all that commonly used, but most good hardware shops should have it.
+If you have an air powered impact tool (rattle gun) - great.  Rob used a hand held impact screw driver which you hit with a hammer. Use a heavy leather glove on your gripping hand so you can rest it on the door sill for the shallowest possible angle and pounding the tool didn't cause blisters on the back of your fingers from the door sill - your hand DOES move slightly fore-aft as the tool is struck.  These screws are REALLY tight, and there is a danger of stripping the cross-cut out of the screw head if you wack them at an angle, so take your time and use a heavy hammer (e.g., a 2-pound steel mallet) so you get really good blows - lots of small taps won't do it and just encourage the driver bit to damage the cross slots.  If you ruin the cross-cut in the screws it's an awful job trying to drill those screws out, and you risk damaging the thread in the captive plate, which is absolutely impossible to get at to replace (the bottom one anyway), so the problem is compounded.  Use new screws if there is ANY damage to the cross-cut.  Reinstalling the screws with a touch of grease on the threads so next time is a little easier.
+Once loosened the screws can be removed easily enough, and the threaded steel plate they screw into is captive so you don't need to worry about losing it.  Although it's captive it does move -- to allow for adjusting the door, so don't worry if the door "flops" a little when you get all the screws loose.
+Are the hinges so loose themselves that you need to remove/replace the pins?  If so the best bet is to remove the door, turn it upside down with the hinge on an anvil or similar, and get someone to hold the door whilst you punch the pins out from the underside of the hinge (which is now on top).  You need a good quality long punch for this, and it should be a close-ish fit in the hole - too loose and it's likely to score the sides of the hole because it can tilt a little.  The pins are an interference fit.  I think
+Aircooled.Net
+sells larger pins and the matching reaming tool to enlarge the hole.  If there is a special press for removing them that would probably work better.
+The door side of the hinge can not be replaced - it's welded to the door frame.
+~~~
+Correcting Door Sag/Door Adjustment
+The hinges on VWs are rather cheap -- a common weak point on old VWs -- and the doors tend to sag a bit over time.  And being welded to the door they are not easy to replace (I don't even know if it's possible).  But you can alleviate the sag to some extent by loosening the bottom hinge screws in the body (don't remove them altogether, just loosen them, and you MUST use an impact screw driver to get these loose -- they are REAL tight), and slip in a flat shim (made from a tin can) in between the hinge and the body.  This pushes the door up/out from the bottom, so it sits much better when shut.  You can't see the shim when it's in place, unless you get down and peer at the hinge itself.
+Some have recommended repair of the sag by opening the door and jacking up the corner of it with a trolley jack so that the weight of the car will bend it back up again.  This technique actually bends the hinges a bit.
+As indicated above, you can get oversize door hinge pins and reamers.  The pins are driven out upwards, the reamer inserted to enlarge the hole a few thousandths, and then the new pins installed.  This usually cures a sagging door.  Keep them lubricated too -- that helps reduce the wear. Use WD40 about once a week (at least regularly) -- you are supposed to use grease in the top with a special rubber nozzle, but I never had that, and so out with the WD40.  Had to be frequent with that stuff though -- it's very thin and evaporates rapidly (it's essentially just kerosene with a little drying-oil added).
+Someone wrote us with a problem with his newly-acquired '79 VW Beetle convertible.  It is in great shape with very low miles, but the guy was bugged by a gap between the passenger door and both fenders.  There was nearly a ½ inch gap between the rear fender and the door, he said, but hardly any gap at all in the front.  Unfortunately we were not able to advise him, not knowing of a method of adjusting the doors fore-aft.  We suggested putting some packing under the hinges where it screws into the door jamb, but this would give a few mm at best, nothing like 1/2-inch.  Sounded to us like the doors were too short for the hole they fit in to!
+Regarding painting the hinges -- Dave found the paint on them was worn down where the pieces move relative to each other, and they were rusty in there.  He just wondered whether it might not be a good idea to remove the pins and paint the two halves of the hinges separately.
+Rob advised leaving them alone if the hinges aren't wobbly.  If you remove them you'll have to ream and fit the larger pins, since the interference fit can't guarantee to grab properly a second time.  Just clean them up with a wire brush and solvent to remove any lubrication, and use a very sharp knife to break the new paint around the hinge movement so it doesn't pull the paint off the hinge itself.  It might not need breaking the paint line anyway -- depends on the paint and how they apply it.
+~~~
+Inside the Door
+Dave planned to completely refurbish all of the mechanisms inside the doors paint the inside flat black.
+Rob advised checking for signs of rust in the bottom, particularly in the front and rear corners.  And, he said, make sure that AFTER painting the two drain holes are open and not clogged with paint.  If your's don't currently have sound deadening on the inside of the outer skin -- get some stick-on engine bay deadener from an autoshop and stick some in there.  It doesn't have to cover the whole inside (though more is better than less) but stops a lot of road noise and stops the doors "drumming". The original VW padding was smallish squares of carpet pad style stuff stuck to the middle of the doors.
+Inside the door there are (or used to be) little pieces of carpet pad type material under the rod that runs from the door handle back to the latch.  This is material is there to prevent rattling.  There are also pads behind the winder and the door handles that prevent breezes from getting through the cracks.
+While you're there, clean up and lubricate the winding mechanism and replace the clean plastic tubing that the window cranking cable runs through.  Check around the inside of the door and make sure all of the little rubber inserts for the door trim clips are there.
+Regarding the door windows -- see our
+Window Rebuild
+discussion and our
+Door Window and Regulator Installation
+procedure.>/P>
+~~~
+Lock Mechanism
+The door lock mechanism tends to become very grimy over time, and one wonders whether it is working properly.  One side says the locks are ~27 years old and should be replaced just as a matter of course (this is a restoration, after all); the other side says, "These locks are perfectly workable (at least I think they are) - if it ain't broke, don't fix it!"  Rob leans toward the latter philosophy -- the locks are a very reliable part of the car, and at least you know that these do fit!
+Rob says he doesn't know of any way to test the mechanism other than to work it and look for any free-play; i.e., whether the parts slide smoothly etc. or wobble about on their bearings.  It helps to orientate the lock as it would appear in the car and then work out where each lever attaches, then you can follow the motion of the parts better.
+Rob simply washed the mechanism in kerosene, lubed it with a tiny amount of WD40, and dried off the excess with tissues (too much attracts more dust), then reinstalled it - and it works fine. There is a tiny hole in the back edge of the door near the lock mechanism which can be used later to blast WD40 through a straw at the lock - but Rob says he would leave that for a year of two until its needed - dust collection starts early otherwise.
+Since WD40 evaporates over time, Rob tried to think of some other lubricant -- maybe engine oil, but it has other stuff in it (detergents and anti-scuff agents and such).  Maybe chain-oil for chain saws/bicycles if you have any.  It's "clingy" so it won't run away, and it doesn't have a lot of additives, since it's a one-shot lubricant for the chain.  In colder climates, you could use light weight sewing machine oil - it wont thicken too much in cold weather.  In warmer climates you could try some GP grease if you can get it into the bearing areas properly.  Moly grease would work too - it's very good where parts slide against each other.  This would certainly work where the parts slide against each other too.
+(See our
+Door Latch/Lock
+procedure.)
+~~~
+Door Latch
+More than once we have heard worries about removing the striker plate on the door jamb -- especially that the plate would fall down inside the door and be lost forever!  Though it might give you pause the first time you do it, this plate actually will not "fall down inside the door and be lost forever."  This "plate" is acually an H-shaped metal leaf which is spot welded to the frame in the middle of the H leaving the "legs" with a loose fit around the plate to allow the plate to float for adjustment.
+Dave had a rather disconcerting experience -- While poking around the Bug one day he I discovered why the door on the driver's side of his car hadn't been latching well -- two of the four screws on the striker plate were missing!  VW special items, too -- difficult to find.  Dave finally salvaged some screws from a poor forlorn Bug at a local wrecking yard.
+(See our
+Door Striker Plate Adjustment
+procedure.)
+~~~
+Door Catches
+While working on his doors Dave found two screws in the side of the door that he hadn't taken out -- the screws for the door check mechanisms.  Dave took both of them out and found that the check wire was missing in one of the doors and broken in the other.  Dave hoped to either fix or replace the check mechanisms so the doors won't swing out so wide.
+Rob reported that his door catch mechanism is a short flat rod with "bumps" near the outer end, mounted to the frame.  In the door it slides through a "grabber" which hops over the bumps and holds the door open.  No wire in sight.  Best lubricated with "dry lube" (a stick of clear waxy grease) or similar so it doesn't leave greasy marks on dresses etc.
+Dave wrote -- The original design of the door catch consisted of a tongue that runs through the door frame and attaches with a pin to the door post -- to prevent the door from opening excessively, like in the wind or something.  The alternate design simply consists of a loop of wire with a rubber stopper on the inside, the wire looping through the pin on the frame.
+Dave's Super Beetle has "custom" one-piece windows "Cal-look"), and the window interferes with the door catch as it is rolled down.  Both designs of door catches have this interference problem.  The catch mechanism must be removed for the window to be rolled down.  Dave tried several methods of resolving this problem, finally gave up.  This is not a problem, of course, in cars which have the quarter vents.
+~~~
+Door Repair
+While preparing his doors for painting, Dave found a little crack in the body just at the top of the upper hinge.  Rob advised that is very important to have this repaired (welded) before the door is painted.  On Rob's old body, the right door had dropped because the bodywork had cracked just under the bottom hinge, allowing the hinge support plate in the frame to move a little.  So make sure the hinge plate and the body it's mounted to are carefully lined up when the welding is done as there is little room for moving the doors afterwards.
+I wonder, too, if this might be the source of the slight "droopiness" that I've noticed in the past.  I'm sure the hinge should be pushed up to close the crack before it is welded.
+~~~
+Weatherstripping
+The rubber seals that go all around the doors had Dave baffled for a while.
+J.C. Whitney
+is the cheapest - no description, just $18 for the pair.
+Mid-America Motor Works
+sells a seal that they call "OEM Quality" -- I should know what the means - "Original Equipment Manufacturer" I guess -- for $20 for the pair.  Then
+California Import Parts, Ltd.
+muddies the water with a "Quality Brazilian" seal for $30/pr, and a "German" seal for *$80/pr*!
+Rob wrote to say - I would tend to go with the $20 or $30 pair.  The OEM is as you say Original Epuipment Manufacturer, so should be OK.  The Brazilian stuff I've bought seems to be OK, so I guess the rubbers for the door would be too.  The German stuff would be top quality I suspect, but it's certainly very pricey.  Even the cheaper varieties should last some years though.
+~~~
+Door Replacement
+Rob wrote regarding reinstallation of the doors -- I can do it alone, but I think it best to avoid any possibility of scratching the paint.  One suggestion -- run some masking tape through your fingers to reduce the sticky (make it easy to remove) and stick it down the edge of the door jam until the hinges are fixed with the first screws (you only need one on each hinge to hold the door in place before lining things up).  This is the most likely area to get scratched if the hinges flop about whilst trying to get them in.
+My one-man method is to get the door almost to the right height sitting on some bricks with rags on top (so it doesn't scratch the paint underneath the door), and then use my foot to hold the underside near the outer edge whilst feeding the hinges into place.  Gives me 2-1/2 hands :-)
+Then snug up those super-tight screws. They have to both be moved upwards enough so the door doesn't scrap on the underside, and of course they have to be moved in-out enough so the weather strip sits snuggly all round.
+My (Rob's) suggestion would be to put the seats in first, and then the doors.  Gives you more "swinging" room when putting the seats in, and the seats won't get in the way when putting the doors in.  Well, maybe that lowest door hinge screw will be a slight problem, but you really need an extension shaft on the impact driver so you can get a good grip on it without banging your knuckles on the bottom door jamb.  And with the extension shaft on the driver, you can angle it outwards just a little to avoid the side of the seat anyway.  My impact driver takes a standard 1/2-socket extension shaft, which works just fine.
+Try and get the hinge screws tight enough so you have to bump the door with the heel of your hand before it moves.  A leather hammer or rubber mallet would work as well -- something that won't damage the paint.  Maybe even wrap a piece of soft rag over the head with some rubber bands -- just to be sure.
+* 
+                    * * * *
+Design by
+Erin

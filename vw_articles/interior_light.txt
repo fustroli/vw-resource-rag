@@ -1,0 +1,99 @@
+Interior Light
+Interior Light
+~~~
+The material that follows documents Dave's
+interior light saga in the Spring of 1998.
+(This is a LONG article. Interesting reading, though).
+Please see our
+Interior Light Replacement
+procedure.
+~~~
+Dave explained the problem -
+An owner before me has "customized" this car; part of this was a new headliner.  In the process they took out the interior light and installed the new headliner right over it.  (Dave initially wasn't even sure where it was located.)  As to the wiring -- even if I find where the light fixture goes, I don't know the status of the wiring and worry about whether I'll have to run new wires.  I don't even know if this is possible without some pretty extensive dismantling.  Then there's the problem of the switches in the doors.  They are both missing, and I have yet to figure out what problems I'm facing replacing them.
+Responses included the following -
+The interior light fitting is mounted above the left hand door (driver's door in the USA).  Feel the headliner and you'll find the cutout for it.  You'll have to cut away some of the headliner material to get it installed, it just snaps into place.  Brand new Mexican replacements are still available.
+Rob says - There are supposed to be THREE wires.  One is hot all the time, one ground from the door switches, and one ground to the chassis.  The dome light has a three-position selector switch, in one position the active ground is the one from the door switches, meaning, it'll only turn the light on when one of the doors is open and the switch completes the circuit.  One position turns the light on whether the door is open or closed, basically it grounds the circuit, bypassing the door switch.  The 3rd position keeps it off at all times.  As far as hooking up the wires, if I remember right the hot(12 volt) lead goes to the end of the bulb opposite the switch.  The two other wires(one to door switches, one to the chassis ground) hook up at the end with the switch. There are two terminals on that end of the light assembly.
+I would expect that if you feel around on the left side just above the door post, you'll find the roughly 1x3" hole that's cut into the roof sheet metal for the dome light. I also wouldn't be surprised to find the three wires for the dome light still tucked up in there somewhere.  New dome lights are pretty cheap -- about $4.00 or so. I would suggest getting the Bentley Manual and checking out the wiring diagram so you can hook the right color wire up to the right terminal.
+Can you put a tiny mirror, (maybe dental mirror) and a tiny light up there and see if the wires are there?
+One positive from the fuse box, (far right one, when looking at it from the trunk side), one brown going to the drivers side door pin, then traveling across the dash to the passenger side, and one brown one going straight to ground (usually a ground plate attached to one of the speedometer's mounting screws.) This way you can turn on the light even if the doors are closed.  If it has a switch of course. :)
+As for your interior light...  I do realize now that there is 3 wires to it.  2 grounds and 1 hot.  I think that if you look at the light, you will notice that one of the plug-ins on it is probably at one end, while the other 2 is on the other end.  The one that's by itself and not connected in any way to the other 2 will be for the positive lead.  The other 2 will be connected to the other end of the bulb, one at the time depending on whether you have the switch set to have the light on no matter if the doors are open, and the wire for the setting to turn it on when the door opens will have a lead that is a ground coming from the door switches.  It may take a little trial and error on the two grounds, to figure out your settings.
+If there is an Advanced Auto Parts store near you, they carry the light and the bulb.  As for the wiring, hopefully you can fish around through the hole (I assume they cut a hole for it.  If not, it's just above the driver's door) with a coat hanger.  There should be two wires.  Careful!  One may be hot if it hasn't blown your fuse already!  The ground wire is the one that goes to the door pin switches, so the positive wire is hot all the time.
+I just replaced the broken dome light in my '72 SB with a new unit, and found I had to do a bit a filing to get the new light in. Nothing major, but it's a situation you may or may not run into.
+And the most credible of responses -- from Rob Boardman :-) -
+I saw your post and some replies.  As they said, it's in the frame just above the left door.  Hopefully the wiring is just behind the hole.
+The door switches sometimes corrode a bit.  Remove them and clean the 'arrowhead' (if they are similar to mine) contacts.  Don't loose the lead down the 'black hole' in there though.
+The switches are about a foot off the floor level, and on the rearward facing part of the front door jam.  Just a squarish black rubber seal, with a push button switch in the middle.  Attached by one self tapping screw, and this screw also provides the ground connection to the switch.
+Hopefully the single brown wire to each switch is still lurking in the holes.  They are a grounding switch so just one wire, which is earthed by the switch to turn the light on.  The light itself is therefore a 'hot' fitting, has 12v+ to it all the time.
+Dave wrote to Rob -
+I have located the rectangular hole where the interior light goes, underneath the headliner (my son isn't terribly keen on my cutting through the headliner, but I 'splained to him that the new light would fill the hole and look okay, whether it works or not).
+I have no idea what condition the wiring to the interior light is in.  I do know that the door jam switches are both missing.  I found them in the WCM catalog, but it says they are for the '61 - '69 model years.  I suspect this is because the one in the left door jam in later models also controls the (ignition key?) buzzer.  I'll bet the '61 - '69 switches would work.
+ANYWAY, thinking about this has caused a few wakeful moments (a la John Muir), with attendant ponderating over the following questions -
+What if the wiring isn't there?  Am I going to have to pull out the headliner to do this thing?
+How in the world does one go about installing the door jam switches?  The button pokes through into the jam, but the switch itself resides inside the frame, virtually impossible to get to (or so it appears).
+Given the difficulty of installing new door jam switches, would it be possible to wire the light so you can at least turn it on?  (i.e., bypass the switches).
+Is it worth it?
+General note -
+Dave called West Coast Metric and ordered the backup switch and the interior light.  He talked to the guy about the door jam switches.  The ones they carry ('61 - '69) will work in our car; they don't have the provision for the buzzer.  He said that the switches can be installed from the front, through the hole in the door jam.
+Rob wrote - If I remember right, the liner is cut a bit smaller than the rectangular hole, then diagonal cuts are mde into the corners and the resulting flaps are folded around the lips (and probably glued).  The light fitting does not require a grounding to the body.
+The light fitting has a three position switch 'door, off, on', so even without the door switches, you can still use it.  It should clip in the hole by inserting the rear end, then 'snapping' the front end (switch end) into the hole.  The front end has a U-shaped flat spring for this purpose, and a 'cut out' in the plastic lip to allow a screwdriver to push in this spring for removing the light.
+Hopefully the wiring is just sitting behind the hole.  It uses a 10 watt (or thereabouts) festoon globe. An LED festoon bulb will work just fine too.
+Mine doesn't have the door buzzer, just one wire (brown) which is earthed by the switch when the door is opened.  They insert into the hole after connecting the wire, and are retained by one self tapping screw, which also provides the ground connection for the switch.
+Rob's responses to Dave's questions -
+What if the wiring isn't there?  Am I going to have to pull out the headliner to do this thing?
+Hopefully not.  As I said, the wiring should be sitting just behind the light switch hole.
+Is it worth it?
+I'd sure miss mine if it wasn't there.  At one point, the light fitting had been broken, and didn't work.  I was able to fix it (though it should be replaced), and I'm glad I did.  But then I live in a semi rural area, and so there are no street lights in some places.  I also carry a good torch at all times, but that's a pest to use if you've dropped something etc.
+Even if you can't locate the wiring behind the light, it should be possible to feed in three more leads as it's 'down hill' from there.  The three leads are 12+, and earth wire so the 'in light' switch will turn it on, and the door switch wire, which could be fed down the 'black holes' in the corners of the front luggage area (not so black in your car if the door switches are missing).  The 12+ wire connects to the far end of the festoon bulb, and the other two brown wires connect to either side of the switch.
+There should be two brown wires that go to the two spade connectors on the one end.  One of these runs to ground wherever -- somebody told me it's on the speedometer.  No problem.  The other one runs to the switch in the driver's side door jam, then on from there across under the dash to the other switch.  Thus the light can be grounded (and the circuit closed) in any one of the three switches.  The other wire, of course, is the positive lead from the fuse, which should be hot all the time.  I don't know what color this wire is.
+I daydream about cutting a slit through the headliner and finding all three wires laying there, then hooking them up, turning on the switch, and getting LIGHT!  What a trip to have such immediate success.  But I dream in vain, I'm sure -- things are never as easy as I would hope.  But we'll press forward!
+~~~
+Dave wrote to Rob -
+I went right down my little procedure -- cut into the headliner and cemented the flaps back around the metal lips of the rectangular hole.  No wires were apparent, so I made a little loop in a piece of coat hanger wire and went fishing -- no luck.
+So I went looking for the other ends and had more success.  First I found the wire to the switch on the passenger side, with the spade connecter still attached to the push-button portion of the switch.  I could see the end of the wire to the switch on the driver's side, but I was unable to pull it out.  There was a bundle of wires coming down through the door jam on the driver's side, with five wires in it.  Two are brown; I assumed the interior light ground wires.  (There is also a striped one, possibly brown/white, which, according to your revision, may be the ground wires that connects to the speedometer.)
+Most importantly, there was a red wire.  I took out the two screws the secure the fuse holder in place (what a jumble of wires back there!) and found the end of the red wire, just dangling there!  The fuse diagram shows that it's supposed to be attached to the #9 fuse.
+By the way -- I traced the wires from the cigarette lighter and found one of them going to the #8 fuse (8 amps -- I would think 16 amps would be more appropriate) and the other to ground (as I recall).  Looked like a (as you say) a 'jerry-built' job to me.
+So -- though my daydream didn't come true, I am encouraged.  As you say, it's all downhill from the light to the fuse box, so I'm going to make myself a bundle of three wires (hopefully appropriately colored) and thread it down into the door jam and out to the switches and fuse.  Looks do-able!  I put the light fixture in the hole so it would at least LOOK finished off.
+By the way -- I found the picture showing the interior light wiring that I told you about -- it's in the Owner's Manual...  The picture is black-and-white, but it confuses me a bit.  It shows the darker wire (red?) going to one of the two spade connectors on the switch end, and the other two lighter ones (grounds?) going to the other connector on the switch end and to the single connector on the other end.
+According to my understanding (and reaffirmed by your note), the correct wiring is as follows - please let me know if this is right:
+The positive wire (red) to the single spade connector opposite the switch.
+A brown ground wire from one of the two connectors on the switch end (it doesn't really matter which, does it?  They are electrically connected, as I recall) to the switch in the door jam on the driver's side, proceeding on to the switch on the passenger's side.
+A brown/white wire from the other of the two spade connectors on the switch end, proceeding directly to the ground plate on the speedometer cluster.
+Like I say, I'm encouraged (I hope rightfully -- I told my son I would soon have his interior light working!).  Gotta get the door jam switches ordered -- I found them in the RMMW catalog (now
+Mid-America Motorworks
+).
+Rob wrote regarding the light fixture -
+Yes, the light fixture does look a bit flimsy, and mine has cracks in the plastic on either side of the switch.  It works OK, but it tries to fall apart when I take it out. Another item I have to replace sometime.  The spade electrical connectors on VWs is another 'el-cheapo' point.  They are made of cheap metal, and do loose their grip and occasionally break.  I guess it's inevitable, since the cars were made as cheap mass produced cars, rather than 'quality'.  The wonder is that the quality is so good -- but then the Germans are renowned for their meticulous design.
+Dave asked -
+A brown ground wire from one of the two connectors on the switch end (it doesn't really matter which, does it?
+Rob responded -
+No, it doesn't, but the switch might be on-off-door instead of door-off-on as in the Owner's Manual.
+Dave wrote to Rob -
+I know the wires are in there (unless a PO cut them off at the frame, which I doubt).  I'm worried that they're clogging the channel, which means I'll have to take the bundle that comes out of the door frame apart and cut those three wires out.
+I don't suppose it really matters where it grounds, does it?  Getting to the ground ring on the bottom of the speedo cluster is a bit "fiddly" with all the wires and the speedo cable attached.  Couldn't I take the lazy way out and find a convenient screw someplace?
+The lens has "Hecho en Mexico" embossed on it, which I assume means "Made in Mexico."  I'm sure it will be adequate -- it's just very flimsy.  But then what can you expect for $3.95?
+In looking closely at the fixture and the operation of the switch it is very obvious that the way you have described the wiring configuration is correct.  The single connector on the end opposite the switch is the for the power wire; the other two on the switch end are for ground wires.
+Rob wrote -
+One possibility if the three-wire bundle wont go through easily, is to feed through a 'feeder wire'.  Something stiff like smooth fencing wire.  Bend it over at the leading tip so it wont catch any sharp edge, and also if the bent (fattened) tip will go through then the three wire bundle is bound to fit.  When you can see the leading tip come out into the luggage compartment,  bend over the trailing end into a loop and attach the three wire bundle   pass it through the loop, double it back on itself for 3-4 inches and wrap it tight with electrical tape.  This makes for a smooth bundle which is not too bulky.  You should then be able to pull it through from the luggage compartment (or the reverse if you prefer -- might actually be more room in the cabin to pull the feeder wire out, rather than the luggage compartment).
+It shouldn't matter at all where it's grounded, so long as it's attached to the main body, and not to a fender bolt etc (which might not give you the best grounding.)  And make sure you don't screw it through where someone will catch their knee on it from the front seats.
+Dave wrote to Rob -
+I was successful in pulling the wires through with a "feeder wire" made out of a coat hanger.  I took a hint from previous wire pulling experiences in the house.  Quite difficult, as I said -- scraped up the side of my hand pretty good.  I was finally successful, but I had to remove the defroster tube to do it.
+I checked out my speedometer cluster wiring diagram and found a very convenient grounding point on the upper left.  Worked great.
+I've checked the fuse diagrams in the Haynes and Bentley manuals as well as the Owner's Manual -- all show that only the dome light runs off of the #9 fuse.
+I expect the light switch to wear out fairly soon, as it is really very flimsy.  And frustrations here, too.  The festoon bulb WCM sent me for the fixture was just a little bit too short.  So I went down to get a 211 bulb (the US spec) from the auto parts store.  They had it all right, but the connections on the ends were wrong.  Made them work, but it was a pain.  Then when I went to attach the wires:  the positive lead attached just fine, but the main spades for the grounds were too wide.  Fortunately they were split down the middle and I was able to squeeze them together a bit.  With so many little problems the endorphin rush when the light came on was especially gratifying!
+Rob wrote -
+Regarding the bulb length -- is the light fitting different after all?  Mine has the bulb supported by two coil springs, which allows some variation in bulb length.
+Dave wrote -
+The bulb chamber consists of a springy piece of thin metal on each end with holes in them for the ends of the bulb to fit into -- no coil springs as the illustration in the Owner's Manual shows.  The bulb WCM sent would have worked just fine, except it was about 1/4" too short.  The bulb I bought locally was the right length, but the fittings on the ends were wrong (little wire loops instead of the pointy ends need to fit in the holes).  I had to get ingenious with a couple of lengths of copper wire to hold the bulb in place...
+I also have the door jam switches coming from Rocky Mountain Motorworks (now
+Mid America Motorworks
+). Before I put the new switches in I've got to drill a couple of holes in the door frame and re-route the speaker wires.  My coat hanger hook will come in handy again -- sure makes pulling the wires, even that short distance, a lot easier.
+(Later, regarding installing the door switches) -- Again, too easy.  And a bit of a rush -- the system works!  Now we have light in the car when the doors open.  I can't imagine why a PO would have disabled this system (and so many others) on this car.
+The interior light is "cheap," but it works well.  It sure is nice to open the door and have LIGHT!  That was just about the first thing I noticed when we were looking at the car in the PO's driveway in the evening -- no light in the car.  Sure was a pain to restore it, but we did it!
+Rob wrote -
+After mine broke I was pleased I was able to fix it up (NEED that light), even though it's only held together by inserting it in the hole.  It's actually the original German one, which spring lamp holders at each end of the festoon bulb.  I remember the trouble you had getting your's working right.  I have an 18watt globe in it too (from a trailer stop-light) -- makes PLENTY of light inside, but would heat the fitting up a lot if left on too long.
+Dave wrote to Rob -
+(18 watts)  That's a few lumens!  Our bulb is only 5 watts, and we were lucky to find a bulb that would fit at ANY wattage.  I think, though, that 5 watts is about standard.  I wouldn't mind having a bit more -- I'm on the lookout for a 10 watt bulb.
+* 
+                    * * * *
+Design by
+Erin

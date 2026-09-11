@@ -1,0 +1,197 @@
+Air Inleakage
+Air Inleakage
+(See 
+                        also our article on
+Hesitation
+.)
+~~~
+Topics 
+                        covered in this article -
+General Discussion
+Testing for Air Inleakage
+The Fix
+Re-Bush Alternative
+~~~
+General Discussion
+We'll lead in to this discussion of air 
+				inleakage with a question from a reader -
+I have a 1973 Type 1 with a 1600cc 
+				dual port engine.  The distributor is an 009 centrifugal advance.  I replaced the left head because it 
+				blew out a spark plug.  After replacing the head the engine would not idle, so I had the carburetor rebuilt.  
+				It runs better but still will not idle correctly - it idles okay, then it speeds up by itself for about 
+				30 seconds.  Then it idles down and stalls unless I tap the gas - then it recovers, idles high for 
+				a moment and goes to low idle or stalls. I replaced the fuel pump, but no difference.
+Rob responded - Your problem sounds like an air leak in the inlet manifold. 
+				You have all the classic symptoms - poor/erratic idle, stalling, but runs when you use throttle 
+				(the accelator pump gives it extra fuel).  Since you replaced the left head the most likely place is the joint 
+				between the head and the twin port manifold end-piece.  It's sometimes hard to get these to sit exactly flat 
+				before tightening them down.  Some folks find it easier to tighten the nuts there with the engine out of the 
+				car, rather than struggling to get a wrench/spanner on to it whilst it's in the car...not enough room.  If you 
+				need to do it with the engine in the car a wobble drive and socket usually works.
+Other possible places are the inlet manifold rubber boot or boots (left and right) 
+				and another common place is the throttle shaft - left side usually.
+~~~
+Leakage 
+                    of air into the intake manifold can be an exasperating problem. 
+                    This phenomenon occurs because the pressure inside the intake 
+                    manifold is lower than atmospheric pressure. If there are 
+                    any holes in the manifold or at any of the connection points, 
+                    then air can be sucked into the manifold, causing the fuel-to-air 
+                    mixture to become too lean. Air being sucked into the intake 
+                    manifold can cause -
+The 
+                        car acts like it's not getting enough fuel; i.e., running 
+                        too lean.
+The 
+                        car may run well at highway speeds, but the engine dies 
+                        at idle and will only idle at higher than normal rpm (e.g., 
+                        >1200 rpm).
+Our 
+                      experience:
+At 1200 rpm the engine would start 
+                      running rough, and below that it would die altogether. We 
+                      had to set the idle at 1200 rpm or above just to keep the 
+                      car running.
+The 
+                        engine hesitates and dies when you take your foot off 
+                        the throttle, or hesitates when pulling out of corners 
+                        at low rpm.
+Difficulty 
+                        in properly tuning the carburetor (actually tuning will 
+                        be impossible).
+Since 
+                        the carburetor cannot be tuned correctly, the timing cannot 
+                        be properly set.
+You 
+                        may get engine "looping" (alternating between high and 
+                        low rpm).
+The 
+                        engine may backfire.
+In 
+                      this regard, Rob has written -- Backfiring in Beetles usually 
+                      means running lean. On the overrun, it fails to burn properly 
+                      so the exhaust system fills with unburned fuel mix, and 
+                      then a successful spark and the hot exhaust gases sets the 
+                      stuff in the muffler off with a bang.
+Lots 
+                        of frustration!
+Air 
+                        inleakage can occur at the following (certainly not all 
+                        inclusive) -
+At 
+                          either or both ends of the carburetor throttle shaft 
+                          (at the base of the carburetor);
+Note:
+A carburetor can wear a lot during a quarter century of 
+                        use, and one of the major wear points is the throttle 
+                        shaft bore hole(s) through the bottom of the carburetor. 
+                        An out-of-round throttle shaft bore is often the source 
+                        of air inleakage. A worn throttle shaft bore could present 
+                        some of the symptoms listed above.
+At 
+                          the carburetor/intake manifold flange;
+At 
+                          the outer ends of the manifold where it attaches to 
+                          the cylinder head;
+At 
+                          various points along the intake manifold (e.g., pinoles 
+                          rubber connections in the dual-port manifold);
+From 
+                          simple oversight, like failure to prevent air from being 
+                          sucked into the carburetor and/or the intake manifold 
+                          by not plugging unused vacuum port(s).
+Air 
+                    inleakage shows up first in the idle. Inability to set the 
+                    idle speed at the specified rpm indicates improper fuel/air 
+                    mixture (too lean) or a fault in the ignition system -- usually 
+                    the former.
+Note:
+It doesn't take much of a leak to affect the performance of the 34 series of carburetors.  They seem to be much more touchy than the smaller carburetors (Rob has an original 30PICT/2 with almost 300,000 miles on it and still working well).
+~~~
+Testing for 
+                      Air Inleakage
+There 
+                    are a couple of good tests for air inleakage -
+The 
+                        first is the "blip" test. Rev the engine up to about 1500 
+                        rpm, then pull the throttle lever back and immediately 
+                        release it. If the engine promptly dies, or if it hesitates 
+                        whenever the throttle is pulled back quickly, it is likely 
+                        that you have air leaking into the intake manifold.
+You 
+                        can pin down the location of the air inleakage using the 
+                        "starter spray" test. You can use ether-based starter 
+                        spray (probably the best) WD40 or even LPGas from an unlit 
+                        propane torch. The idea is to use something that is very 
+                        volatile and very flammable that can be eaily sucked into 
+                        the intake manifold at the leak point. With the engine 
+                        idling (whatever it takes), alternately spray both ends 
+                        of the carburetor throttle shaft, the carburetor/intake 
+                        manifold flange, the outer ends of the manifold, and various 
+                        points along the intake manifold. Listen for any increase 
+                        in engine speed as the extra "fuel" is sucked into the 
+                        system. (Alternatively, use a dwell-tachometer to see the 
+                        momentary increase in engine speed.)
+If 
+                    you get ANY increase in engine speed during this process, 
+                    you have an air leak, and you'll never be able to set the 
+                    carburetor correctly until you get it corrected.
+Note:
+Dont use Carburettor cleaner for this test - 
+			many of them do not contain any "fuel".
+~~~
+The 
+                      Fix
+If you have the carburetor off 
+                    the car, look carefully for any excess sideways/up down movement 
+                    in the throttle shaft i.e., is it a real sloppy fit in the 
+                    carburetor? You should not be able to detect any lateral movement; 
+                    if you do, it is likely that air is leaking into the system 
+                    at this point, and all of your attempts to correctly set the 
+                    fuel/air mixture will be in vain.
+A test and temporary 
+              fix: It pays to verify any problem before replacing/repairing the 
+              part. To verify that there is air inleakage around the throttle 
+              shaft, first remove the throttle arm, then clean the area around 
+              the shaft with MEK, acetone or toluene.
+When the area is clean and dry, 
+              smear on THIN film of RTV compound (silicone) and allow it to cure. 
+              Make sure the shaft is dry so the stuff will stick, but make sure 
+              the edge of the leaking shaft hole is oiled so it WON'T stick to the shaft.
+              Put a small fillet of sealant around the shaft - up against 
+              the hole - before putting the the throttle arm back on. The idea 
+              is to make a flexible sealing fillet around the shaft - a temporary 
+              gasket - which would slide round the lip of the hole as the throttle 
+              arm rotates the shaft.
+Plan your moves ahead of time and wear disposable gloves--RTV 
+                    is messy when smearing.
+If this temporarily solves the problem it is good evidence you need to have new throttle shaft bushings installed (re-bush) or replace the carburetor.
+A worn bushing where the shaft 
+                    comes through the throttle body is not uncommon, and can be 
+                    fixed by drilling out the hole and inserting a brass bushing (commonly called "re-bushing"). Re-bushing a throttle shaft bore isn't all that difficult, we're told. 
+                    Solex provides kits for this (if you can find them). We've 
+                    heard it said that the throttle shaft is the same diameter 
+                    as a valve stem, so you can use a piece of valve guide as 
+                    the bushing, but we have no first-hand experience with this.
+If the throttle shaft is worn, it is likely that the carburetor is worn in other areas as well. An aftermarket replacement carburetor is the best fix for this problem.
+Note:
+See information regarding re-bushing and carburetor replacement below.
+Note:
+Don't forget, a new carburetor is not likely to work perfectly 
+                    straight out of the box, particularly if it's a Brosol (Brazilian) 
+                    model. From what others have said, it sounds like the Brosol 
+                    carburetors need a careful cleaning and tightening up, and 
+                    they might need the jets altered to suit your car, etc. Don't 
+                    throw out the old carburetor until the new one is running 
+                    right. Some parts off of the old carburetor might be useful.
+The new Pierburg carburetors are said to be superior, in that they have more precise machining and so on. A while ago Dave purchased one and installed it on his '73 SB. The new carburetor has been working very well, but now, after just under three years of service, it appears to have become worn around the throttle shaft to the point that air is leaking into the intake manifold.
+~~~
+Re-Bush Alternative
+The original throttle shaft bushings are "garlock" split style bushings made of relatively soft aluminum, which wears after a short while and permits air to leak in around the throttle shaft, essentially making the carburetor useless.
+A cheaper alternative to buying a new carburetor is to have the carburetor rebushed.  Here's what a friend of Dave's who has done carburetor re-bushing has to say -
+The problem can be cured by milling out the old aluminum bushings and inserting much better wearing brass bushings. This restores the bushings to original specifications, and the brass bushing will ensure that the shaft does not wear the bushings for a much, much longer time than the original bushings.
+Here's a picture of Dave's worn out bushings -
+Worn Out Throttle Shaft Bushings
+* * * * *
+Design by
+Erin

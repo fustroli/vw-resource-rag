@@ -1,0 +1,21 @@
+Points
+Points
+~~~
+Please see our procedure regarding
+Distributor Tuning
+(Cap, Rotor, Points, Condenser)
+~~~
+Rob wrote - My Bug is telling me that it needs a little TLC -- just a slight tendency to run rough at idle.  I'll bet it's a "hill" growing on the points, a common problem with mine.
+This "hill" has the effect of reducing the advance -- sparking later -- and if left to get too bad it will cause it to "miss" the occasional spark altogether.  I keep a "points file" (like a flat nail file) handy for taking care of this problem.  Here's how it's done -
+With the points closed (off the cam), push them open and insert the file between them.
+Then, letting the points spring hold the two sides of the points against the file, give the points a few gentle rubs.  About two minutes and it's done.
+Alternately, run a piece of folded emery paper (abrasive side out of course) between the closed points, followed by a piece of clean white paper.  This cleans the points and then removes any abrasive.  It's often the simple things which stump us, and a speck of dirt on the points could be the problem.
+Note:
+Since emery paper is non-metallic, anything left behind will act as an insulator, which occasionally causes it not to fire until you pull something else between the points and wipe them clean.  The points file, being metal, doesn't have this problem.
+Electronic ignition provides the advantage of eliminating the points altogether, thus no wear or "hill" buildup on the points, and no wear on the rubbing block either.  See our discussion of
+Electronic Ignition
+.
+* 
+                    * * * *
+Design by
+Erin

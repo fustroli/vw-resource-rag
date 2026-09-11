@@ -1,0 +1,18 @@
+1641 Engine Upgrade
+1641 Engine Upgrade
+In April 2007 the engine in Dave's 1973 SB completely seized up while he was doing an advance timing test. Once again his wife flabergasted him when she suggested that he just get a new engine! Before she had a chance to think about it too long, Dave purchased a new 1600cc dual-port longblock from
+Aircooled.Net
+. Then he had the "fun" of "building up" the longblock, which means installing all of "ancillary components" and loading it into the car. In the process Dave also replaced the crankcase pulley, the fuel pump, most of the engine tin, the intake manifold, the oil cooler, the starter (and "D-bolt" - quite a
+story
+there!), the muffler header and muffler, and the battery!  So it was virtually a new engine, and when Dave was finished the car never ran so well.
+In Dave's obsessive way he documented the entire process and prepared a comprehensive
+Longblock Buildup Procedure
+- which is very long and includes 30 sub-procedures, all included in the
+Index.
+The car ran beautifully with the new engine, but Dave's euphoria was short-lived.  After having a great time building up the new longblock, he took the car out on the road for a test drive, on a very hot day (95F).  He drove 100 miles on the freeway down into Oregon through Pendleton and then up into the Blue Mountains by way of "Cabbage Hill," which rises about 3000 ft in six miles.  When he stopped at a rest stop at the top the engine was so hot he couldn't touch the dipstick (the poor man's test for overheating).
+The car ran like crap all the way back home.  Despite everything Dave could do the car's condition got much, much worse - backfiring and belching black smoke.  Finally it wouldn't run at all.  So reluctantly Dave bit the bullet and took the car to the one-and-only aircooled VW shop in town, where he was informed, to his dismay, that he had completely fried his brand-new  engine.
+The problem was with the thermostat, but it wasn't the thermostat's fault.  The longblock didn't come with the stud that the thermostat bracket attaches to, and the longblock wasn't even threaded for one.  Dave's tap and die skills are very poor, and he did a lousy job of installing a stud in the block.  As a result, the stud came loose and the thermostat pushed down instead of up, locking the cooling vanes closed.  Of course Dave was totally unaware of the situation, reveling in the fact that the Bug crested the top of the hill in 4th gear at 55 mph.
+The mechanics at the shop completely rebuilt the engine (only the case was salvagable).  In the process the engine was upgraded to 1641cc, with new pistons and cylinders, dual-port heads, camshaft, bearings, the whole nine yards.
+* * * * *
+Design by
+Erin

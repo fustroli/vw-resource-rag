@@ -1,0 +1,12 @@
+Welding
+Welding
+~~~
+Dave wrote to Rob - Tell me about MIG welders.  I read about them in John Henry's notes a lot, but I have no idea what they are.
+Rob responded - They use a roll of thin wire (several sizes, and types available).  The wire feeds at a preset speed through the handle (you set the speed), and has a thin coating which ablates and provides a neutral atmosphere around the weld.  Much lower amps than the "home welder" with flux coated rod (which I use now), so it can weld thin stuff without blowing holes.  You can also mount argon gas bottles to them so you can weld aluminium in a "dead" atmosphere.
+The welders are about $400-500 compared to maybe $150 for the rod-welders.  A roll of welding wire is not much more than an equivalent pack of rods, and of course you don't use the wire at the same rate as it's used on thinner material do doesnt deposit as much.
+Dave wrote - Im sure a bit of training and practice would be necessary before you could successfully use it.
+Rob responded - I've had a go with them and they seem to be easier to use (smoother welds) than using a rod welder.  It's a bit of an art getting the wire feed at the right speed for the job, but a bit of practice seems all that's necessary.  I'd love one (and a good metal lathe, and and and...)
+* 
+                    * * * *
+Design by
+Erin

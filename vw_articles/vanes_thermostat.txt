@@ -1,0 +1,151 @@
+Vanes & Thermostat
+Cooling Vanes and Thermostat
+~~~
+Subtopics related to operation of the cooling vanes and thermostat include -
+Sermonette from Bob Hoover
+Operation of the Cooling Vanes and Thermostat
+Should I Remove the Thermostat?
+"Not Needed" Philosophy
+Flaps/Thermostat Missing
+Effects of Having No Cooling Vanes or Thermostat
+Restoration of the Cooling System
+Mexican Thermostat
+Questions and Answers
+~~~
+A Humorous But Dead-Serious "Sermonette" from Bob Hoover Regarding the Thermostat
+Remove the thermostat?  Do it! (Not!)
+The thing will run without it, the better the climate, the better it will run. And if you're running a full-flow oil filter the main bearings will last about as long. But that's it; that's the limit of the 'benefits' you'll receive from re-designing the Volkswagen engine, because that's what you've done; you've told generations of superbly qualified engineers to stick it in their ear, you know a better way to do it. Unfortunately, without the thermostat your jugs will wear like a bitch, as will your valve guides; you'll burn more gas, suck a lot of oil and have a hell of a time passing your smog check. Of course, all the experts in the VW-specific rags say no thermostat is a wizard idea, along with blue coils and yellow wires and itty-bitty fan pulleys and all the other bitchin' tricks that made them rich and famous as builders of fine automobiles. What? Oh. Well, then make them famous as builders of winning racers. What? Gee... you mean all they do is TALK about it? Ummmmm.....
+Put the thermostat back in. To a real mechanic, anyone who builds an engine without a proper cooling system -- and that includes a thermostat and air-vanes -- is like a guy going around with his fly unzipped.
+Here's how to do it.
+You need a blower housing with a working set of air-vanes.
+The connecting-rod across the front of the blower housing connecting the air-vanes together. Plus the spring that holds the air-vanes OPEN.
+The right-side set of air-vanes must have a thermostat link-rod.
+Under the engine you need the thermostat bracket and the thermostat.
+To install, make sure the thermostat link-rod slides down through the head and projects between the push-rod tubes under the engine. Secure the blower housing and generator (I'll assume you took the opportunity to replace the modified intake manifold).
+Under the engine, reach up and thread the thermostat onto the link-rod. Run it all the way up. Now put the thermostat bracket onto the thermostat. Make sure the base of the thermostat fits the opening in the bracket, which is flat-sided to prevent the thermostat from unscrewing itself as it expands and contracts. Now pull DOWN on the whole assembly and fit the bracket over the stud on the side of the sump. Install a flat washer, a warpy washer and a nut. Pull DOWN on the assembly until the air-vanes are fully closed. Don't over-do it. Tighten down the nut securing the bracket.
+I'll assume you tested the thermostat before you did all of this, and that your engine has all its tin-ware. The lower tin provides a plenum that insures the thermostat is bathed in heated air from the cylinders and heads.
+The bottom line is that your engine warms up faster, idles better, runs sweeter and lasts longer.
+On the other hand, you may wish to make your personal style statement to the VW world! :-)
+- Bob Hoover
+~~~
+The balance of this treatise is largely from Rob Boardman, edited and adapted by David Pratt.
+Operation of the Cooling Vanes and Thermostat
+Does your Beetle still have the thermostat and cooling control vanes?  The cooling vanes (often referred to as "flaps") sit in a frame inside the upper cylinder tin, at the very bottom of the fan shroud.  Their function is to control the airflow as the engine warms up.  The frame also has fixed plates, and it's these which direct the flow of air more to the heads and cylinders.  When fully open, the movable flaps stand up and down, parallel with the fixed plates.  When closed, they mostly block the flow of air from the fan down around the cylinders and heads.
+If you follow the 'path' of the air as it leaves the fan -- it is forced to the outer edges of the shroud, and the fixed plates help prevent is 'spilling' back towards the crankshaft, so the heads get more air, and the cylinders a bit less.
+You can feel for the cooling flap hinges and linkage on the front (front is front of car) of the fan shroud.  That is, between the shroud and the firewall, and under (lower than) the fan.  Without them, you'll simply feel a few holes in the tinware where the pivots poked through to the (missing) linkage bar.  This linkage bar is just a flat  strip of steel which links the right and left sets of flaps.
+Cooling Vanes
+This picture is looking up into the fan shroud on either side, where you can see the moveable cooling flaps. The connecting rod is also visible; this rod is moved upward by the expanding thermostat to gradually open the cooling flaps. Whether open or closed, the flaps properly direct the flow of cooling air over the engine cylinders and heads. Please dont remove the cooling vanes and thermostat -- they provide a very important function.
+~~~
+If you haven't got cooling flaps -- GO GET THEM from a wreckers etc, as the engine will NEVER get properly warm in your climate without them.  Some misguided folks think the engine will run fine without them.  It will..... but not for long as a cold engine wears fast.
+The thermostat is a cylindrical copper-colored bellows-shaped device which sits under the right cylinders and has a pushrod going up between the cylinders.  The thermostat is easily visible from under the rear of the car.  First of all check to make sure the thermostat is there.  Than also check it's condition.  The bottom end of the thermostat clamps to the side of the engine case by a bracket and one bolt, which can work loose.  The thermostat should be compressed  -- short -- when the  engine is cold.  Short means each section of  the bellows is almost touching the one next to it -- it looks like a stack of large-diameter copper coins.
+Old-Style Thermostat
+This is the stock bellows style thermostat, shown installed. These are not longer made and are becoming increasingly rare.
+~~~
+The thermostat is attached at the top to a small-diameter control rod, which runs from the top of the thermostat up between the #1 and #2 cylinders.  It's upper end attached to a horizontal control bar which runs in front (front) of the fan shroud and connects all of the cooling vanes together.  At the temperature of the air running over the thermostat increases, it expands.  Since the bottom of the thermostat is fixed, it can expand only in one direction -- upward.  As it does so it pushed the control rod upwards, gradually opening the cooling vanes and allowing more cooling air to be directed over the engine heads and cylinders.
+If the thermostat fails, air gets in and it expands (lengthens) to it's rest position, which means it supplies full cooling air (like it wasn't there), and you get a cold running engine.
+In older models, the thermostat also controls the carburetor pre-heat air through a pull-wire which loops around behind the carburetor to a flap in the air cleaner intake.  This pulls warm air up through the paper tube from near the cylinder head until the engine warms up.
+If you don't have the thermostat or cooling vanes, you're going to have a big problem in cold weather. So many people remove the thermostat, and its a big mistake!  What the thermostat does is to close the cooling vanes when the engine is cold, thus limiting the amount of cooling air flowing around the engine.  That way the engine warms up faster, and as it does, the warm air flowing over the thermostat expands it, pushing up on the connecting rod to the cooling vanes, and opening them to supply the necessary cooling air.  Warm air into the cabin sooner is a nice side benefit.
+Note:
+Even fully closed, the cooling vanes still direct a flow of air to the places around the engine and cylinder heads where it is needed.  Without the vanes, this function is lost.
+The problem with a missing thermostat is that the engine warms up more slowly, because with the cooling vanes fully open the fan is blowing very cold air by the cylinders and heads.  But the automatic choke opens normally, since it is electrically driven.  The choke was designed to open at the same rate that the engine warms, assuming that the thermostat and cooling vanes are present and operative.  Without them, the choke warms up faster than the engine does, which means that the choke butterfly opens too quickly, and the fuel/air mixture becomes too lean.  The stepped cam on the left side of the carburetor rotates down too fast, the idle drops, and the cold engine dies.
+The bottom line is -- the VW engineers included the thermostat and cooling vanes in the engine design for a very good reason, and they designed the automatic choke to operate in concert with the engine as it warms up.  If your thermostat (and possibly even your cooling vanes) are missing, make it a priority to replace them, especially as colder weather approaches.
+The stock thermostat is almost impossible to find.  Our Mexican friends have adapted the thermostat from the Type 4 VW for use in the Type 1, and it works very well (even better than the original, in our experience).  Take a look at it at
+California Import Parts, Ltd.
+.
+~~~
+"Not Needed" Philosophy
+A prevailing philosophy in the VW world regarding cooling vanes and thermostats is summed up by Rob -- "The (stupid) engine builders here (in Australia) all say "you don't need them - we junk them" "you don't need them" in a warmish climate.  This is the attitude of many engine rebuilders and (unfortunately) many VW owners in the United States.  Some engine rebuilders take the 'easy route' of not bothering to reinstall this stuff -- it takes more time for them, and the engine will wear out a bit quicker and get the customer back again.  :-)  The 'experts' know better than the VW engineers.
+"What idiot would want to put the thermostat back in after I've so carefully torn it out and thrown it away!"
+It's very hard to find cooling vanes in Australia now (most were chucked out years ago), and new ones are unobtainable - except via the US.  I've been asking at every opportunity, but haven't found a set yet.
+Many VW shops these days have come to realize these days just how important the cooling vanes and thermostat are, but in the past there was such a culture of "we know best", and most have been junked.  :-(
+Some time ago the popular magazine
+VW Trends
+reported that -
+Here in Southern California, you are correct in assuming that most of the thermostats have been disconnected.
+~~~
+Flaps/Thermostat Missing
+Dave wrote to Rob regarding his missing thermostat - My inspection of the thermostat situation was discouraging.  The area between the tin and the pushrod tubes on the right side is totally bare.  Not only is the thermostat itself missing, but so is the linkage rod.  I can't tell whether the cooling flaps are there or not -- they should be inside the fan housing, and I couldn't get to them.  But the thermostat is GONE, as is the L-shaped tube and the pre-heater tube to the air cleaner.  I can't imagine why anyone would go to the trouble of removing them completely -- simply deactivating the system does the damage!  Sigh.
+Rob wrote to discuss how to determine if the cooling vanes are also missing - If the cooling flaps are gone there will probably be no connecting rod between the two sections, and you can check this quite easily.  It's a flat connecting rod on the front of the fan housing, between the housing and the car body (front of housing).  It's horizontal, and at the bottom of the fan shroud, just above the cylinder tin.  Stand on the right side of the car and put your hand down between the engine lid and the body, down past the fan opening, and see if you can feel the flat horizontal link that runs along the front of the fan shroud between the two sets of flaps.  It should be just under the fan opening, and perhaps a little towards the center of the engine.  If the linkage is there, the flaps must be there for it to link onto.  You may even be able to feel the holes in the side of the fan shroud above each bank of cylinders where the connecting levers for that pushrod should be poking through the fan shroud.  Got holes and no horizontal pushrod   then you've got no cooling flaps.
+Also, on mine, you can see the flap pivots from the rear (carburetor side) of the engine, just where the fan shroud meets the engine tins.  They are mounted inside the top of the engine tins, but there are small holes front and back through the tinware for the pivots (and of course at the front the pivots also include a 'crank' for the horizontal link.)
+It is a little more difficult to see/feel on yours because the doghouse cooler takes up some space on the left side in front of the fan shroud.  I can shine a torch down there on mine and see the horizontal link mechanism.
+~~~
+Effects of Having No Cooling Vanes
+or Thermostat
+Rob wrote - If the thermostat and hook-up is disconnected or not adjusted or the thermostat is not functioning properly, then the baffles that control the amount of fresh air to the engine are probably wide open and you will not heat up your engine properly and will not have heat as soon as you would if it were working correctly.  Nor will you engine maintain a proper operating temperature.  This will shorten the life of the engine as well as lower the optimum amount of heat that could be used for warming up the cabin.
+Someone asked - Help me interpret Bob Hoover if you will.  He says, "Without the thermostat your jugs will wear like a bitch, as will your valve guides."  Am I to understand that by "jugs" he is referring to the cylinders?
+Rob responded - Yes.  Jugs are cylinders, and he's referring to running the engine cold.  You can 'just' get away with it in a place like Florida (so long as the flaps are still there), but the warm-up is very extended in cooler climes without the thermostat hooked up.
+Much less stutters etc with the flaps etc hooked up too, as the warm-up more closely matches the opening of the choke...
+Incidentally, with the hole in the tinware open that the pre-heat tube passed through, you are getting some used cooling air recirculating into the engine compartment.  Not a problem in cold weather, but in summer this means the engine will be sucking in some hot (used) air for it's cooling and the carburetor   not the best.  VW went to great troubles to keep the top of the engine sealed from the bottom so there would be no mixing of the used air and exhaust with the upper side cooling air.
+I think you mentioned a bit of an exhaust smell in the car?  This could result from that hole.  Exhaust gases from under the car can get sucked up into the cooling fan, which also supplies cabin heating!
+~~~
+Restoration of the Cooling System
+Rob wrote - If you plan to restore the cooling vanes and thermostat (good for you!), you'll need the thermostat bellows, mounting bracket, thermostat push rod, cooling flaps, horizontal connecting rod, anti rattle spring (mounts near the right end of the connecting rod, and also ensures a fail save flaps open position if the thermostat fails), carburetor pull wire (and maybe the small retaining clips for each end of this).  'L' shaped metal tube, paper tube, two clamps for the paper tube, and a rubber ring to seal the hole in the tinware (goes around the metal tube). I think that's all.
+The whole cooling flap system can be installed (see our
+Cooling System Restoration Procedure
+) without taking the engine out, although it's a bit easier to get at it all if the engine is out of the car.  It's a bit fiddly to remove the fan shroud with the engine in the car, because you have to take off the carburetor, generator/alternator, and possibly the center section of the intake manifold.  There isn't a lot of room to juggle these bits out (fan shroud especially).  (See our
+Fan Shroud Removal Procedure
+.)  Underneath the engine on the right side there is removable section of the tinware (four screws to the case and other tinware) so you can install the thermostat and push rod.
+Removing the fan shroud is easy with the engine out.  Just loosen the generator/alternator attachment to the pedestal, remove the screw at each side of the shroud (outer edges -- above the heads) where it attached to the cylinder head tins, and lift it straight up. On yours there maybe an extra bit to remove around the doghouse cooler.  The shroud with generator/alternator attached comes away as a unit.
+Note
+re fan shroud removal - First unscrew the thermostat from the activating rod, then remove the doghouse shroud.
+Many of us not from California would wonder what the heck is causing the shroud to not come off and pull like crazy,
+bending the rod and ruining the thermostat, and maybe the cooling fins themselves...
+Dave's experience - When reassembling the fan shroud onto the engine, Dave found that with his doghouse oil cooler the fan shroud wouldn't go back on with the connection bar in place -- it wouldn't clear the oil cooler.  The connecting bar has to be put on with the shroud installed.  Dave also discovered that the hole in the connecting bar for the return spring was in the wrong place -- he had to drill a new one.
+Dave wrote - I'm going to have to pick up some little circlips -- the connecting rod attaches to each of the cooling vane assemblies in two places, and each of them requires a circlip to hold the rod in place.  The vane assemblies didn't come with any attaching hardware -- I'm glad that I ordered some "cheese head" bolts to install the stuff with.
+Of interest to me are the two connecting points (vane to rod) on each of the cooling vanes.  There seems to be a little spring on the end of the rod that pokes through the hole in the connecting arm.
+It looks to me like I need to run the connecting rods on the cooling vanes through the holes in the connecting rod, then slip on each a little washer, an appropriately sized spring, another little washer, and finally the circlip into the groove around the end of the connecting rod.  I am surprised that all of the hardware wasn't supplied with the cooling vane assemblies and stuff.  Of course I had to order each piece separately -- maybe I overlooked some of the necessary hardware in the catalog.
+I noticed from the pictures that I probably won't be able to connect the connecting rod to the vanes until after they are installed inside the fan housing, as the pivot rods/connecting points (whatever!) must pass through holes in the fan housing.
+Rob responded - Yes.  I seem to remember the pushrod is inserted from underneath to link to the flaps which are already installed.  It also has to poke through the air deflection plate [small flat plate between/under the cylinders which forces the cooling air descending between the cylinders THROUGH the fins, rather than between them]   easiest from underneath.  It then just hangs there until you screw on the thermostat (which is probably easiest to do after  you reinstall the engine -- unless you can lift the engine for access below -- don't tip it unless you've drained the oil!)
+Dave wrote - The connecting rod has a crook in the end that inserts into a fitting on the right cooling vane assembly.  Seems to me it would be easier to stick it down through from the top, but it will undoubtedly become more clear to me when we get the system apart.  The rod in first, then flap assembly on top, then connect the two.
+We put the cooler vane assemblies into the fan shroud.  Then we the connecting bar on, but discovered that the fan shroud won't go back on with the bar in place -- won't clear the oil cooler.  It has to be put on with the shroud installed.  I also discovered that the hole in the connecting bar is in the wrong place; I had to drill a new one...
+~~~
+"Mexican" Thermostat
+Please see also our
+Mexican Thermostat Installation and Adjustment Procedure
+.
+Dave purchased the Type 1 Mexican Thermostat Conversion Kit that John Connolly
+(Aircooled.Net)
+sells.  John says, These (kits) have everything you need (including the new thermostat) to convert to the Mexican design.  It's completely compatible.
+New-Style Thermostat
+Mexican Thermostat Kit
+~~~
+As Dave was considering the Mexican thermostat, he wrote - Before I fork out fifty bucks for this conversion kit, I am very anxious to learn what (if anything) I could have been doing wrong that has caused two thermostats to fail.  Any insights would be very much appreciated.
+Bob Hoover responded -
+The thermostat push-rod only moves about half an inch from fully closed to fully opened.  Takes a fair amount of pressure -- twenty pounds or so -- to overcome the spring because the push is on the end of a lever.
+You may not have done anything wrong in the installation.  I've heard stories similar to your's from a couple of guys.  One of them said his the bellows-folds of his thermostat had cracked at the bottom of the fold.  The other said the folds were 'corroded' (no details).
+California Import Parts, Ltd.
+, the Canadian outfit, also sells the replacement kit ($29.95).
+Unable to find either the bracket or the bellows, a local machinist used some kind of greenhouse window-opener as the thermostat on a new engine he has built on a stud-less Mexican case.  The actuator looks like a strap hinge, about 8" long.  It lays horizontally, fastened to a brackect secured to the lower in-war 'ears' on the sump.  When it gets hot, the 'hinge' opens itself up... and in doing so, pushes on the connecting rod to the air vanes.  Seems to work.
+Dave did install a "Mexican-style" thermostat in his '73 SB with very good success.  Again, please see also our
+Mexican Thermostat Installation and Adjustment Procedure
+.
+~~~
+Questions and Answers
+Dave wrote - I want to make very sure that it's going to contract on cold mornings and pull the connecting rod down and close the flaps in the cooling vane assemblies, thus assuring that the fan blows relatively warm air through the heater boxes and on into the car.  My major driver for removing the engine from the car was to get those cooling vane assemblies installed and connected to a working thermostat.
+Rob responded - Just take a look at it with the engine cold.  Even on a hot day it should be compressed   flaps shut.  Then after the car is warmed up it should stretch out.  If it's doing this, it's working.  Then as a double check, after the car has had a run you should still be able to touch the dipstick without it burning your finger (it will feel hot though)   if this is OK, the engine is getting enough cooling.
+I imagine that in REALLY cold climates the flaps may not open much at all, but they will always allow SOME cooling air through, (otherwise there would be nothing to activate the thermostat when needed   if you follow me).
+So this would make sure the heads (and therefore the exhaust headers) get up to a good temp, so the cabin heaters should be much better.
+Dave related the following horror story - What a night!  We just got back from our "shake-down" run (after reinstalling the engine with new cooling vanes and thermostat).  The car ran just beautifully for about 50 miles -- then all of a sudden when we left the freeway I noticed that the oil light was on.  So I pulled into a gas station and discovered that the engine was extremely hot -- so hot that I burned my fingers on the dipstick.  I knelt down and took a look at the thermostat -- it was not expanded AT ALL!  Which meant that the cooling vanes had been totally closed the whole way!
+We drove slowly to my mother's home and ran the two right wheels up onto the curb in front of her house...  I took off my tie and laid a cloth out under the car and pulled out the thermostat.  Once it was out the return spring opened up the vanes and the rod moved up, just like it's supposed to.
+I discovered that the wire from the oil pressure switch had a burned spot, probably from the hot intake manifold, and the insulation was burned through, causing it to short out.  This was what caused the oil light in the instrument cluster to come on.  An easy fix before returning home -- no more red oil light.  We drove home without incident.
+Tonight I'm going to do the little test the John Muir (or maybe it was Bob Hoover) suggests  put the thermostat in a Pyrex measuring cup and then fill the cup with boiling water.  The thermostat should expand; if it doesn't, it's defective.
+I tested the thermostat last night -- put it in a pot of water and heated it to boiling -- the thermostat hardly budged.  It's supposed to expand to 1-3/16".
+I called RMMW and got connected to their quality control person.  I told him my tale of woo with the thermostat and stressed that even in water at a rolling boil the thermostat refused to expand.  They guy was very good about it and is going to send another one (hopefully one that works this time) to our daughter's address by overnight express.
+Rob responded - I can't see anything wrong with the procedure.  And if the flaps opened OK when you removed the thermostat, there doesn't appear to be any problem with the linkage sticking.
+The Muir test (thermostat in hot water) should work OK.  Of course, if it's a defective thermostat, it should be expanded -- roughly 3 inches long, as this is it's 'rest' condition.  That is, it should fail in in the expanded condition, not the compressed condition.  It has a special low boiling point fluid in it (about 85c), and all air extracted, so when cold and the fluid is condensed, it has a vacuum drawing it closed.  But when hot, the fluid vapourises, allowing it to expand to it's natural length.
+If the Muir test shows it's OK, another on car test which might help is to blow a hair dryer (hi heat setting) on to it whilst mounted in the car.  If this works (never tried it myself   just thought of it), you should see the pushrod working.
+Pushrod not binding on the hole through the air deflector plate between the cylinders is it?  If the thermostat is defective, it should be expanded.  But yours definitely seems to be defective, but it is completely contracted.  That is odd indeed -- I wonder if it missed out on the liquid it should have inside.  This would explain the slight expansion (partial vacuum -- leaving a few air molecules to expand).
+One other small check as you install it -- make sure the brass top (the threaded tube where the push rod screws in) doesn't bind/rub on the small cut out in the top of the bracket.  The design should prevent this happening, but there is just a little play in the bracket mount as you tighten it (on mine anyway), so check to make sure it doesn't rub.
+Dave wrote regarding thermostat types - I checked
+Aircooled.Net
+and found Part #ESM0002 with two options:
+A 65-70C unit that is indicated as being original equipment on 61-74' Type 1s -- for $22.95.
+A 80-85C unit that is recommended for "earlier" engines -- for $24.95.
+A question regarding operation of the Type 1 thermostat - Weve gone through two thermostats in our 73 SB in the past few years.  The first one we found deformed almost into an S-shape; the second one (removed recently) was completely expanded even when cold.
+I dont know what Ive been doing wrong, but a couple of things come to mind -
+Is the connecting rod hanging up and causing the thermostat to press upward to hard that it deforms itself?  Just how far up and down does the connecting rod go from the vanes completely closed (down) to the vanes completely open (up)?
+Is it possible that the thermostat could have hung up on the bracket and possibly become punctured?
+* 
+                    * * * *
+Design by
+Erin

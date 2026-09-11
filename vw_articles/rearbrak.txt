@@ -1,0 +1,77 @@
+Rear Brake Shoes and Cylinders
+Replacing the Rear Brake Shoes and Cylinders
+~~~
+The following procedures are included in this article -
+Rear Brake Drum Removal
+Wheel Cylinder Replacement
+Brake Shoe Replacement
+Finish Up
+~~~
+Caution:
+Older brake linings contain asbestos, which is a health hazard if inhaled.  Wear a face mask when working on drum brakes to avoid inhaling asbestos particles.  Keep dust levels down; do not blow or vigorously brush accumulated material from brake parts.
+~~~
+Rear Brake Drum Removal
+Block the front wheels to prevent movement.
+Fully release the parking brake.
+Back off the brake adjusters slightly.
+WITH THE REAR WHEELS STILL ON THE GROUND, remove the cotter pin from the castle nut on the rear wheel shaft. Mark both the nut and the end of the axle where the cotter pin went thru so you can torque the nut to the same place when replacing it. Break the rear axle nut loose with a 36mm (1-7/16" socket) on a 3/4-inch drive breaker bar and "cheater" -- a length of pipe about four feet long to slip over the braker bar to give more torque.  Remove the castle nut, then raise the car.
+WARNING
+-- Loosen the two castle nuts (one on each side) while the car is on the ground.  The castle nut should have at least 217 ft-lbs of torque on it -- the leverage needed to remove it is enough to topple a car off the jack-
+stands.
+Note:
+If you car is equipped with spinners (like ours is), the castle nuts will not be accessible with the wheels on the car.  After removing the rear wheels, we had success with lowering the brake drums down onto large blocks of wood and firmly appling the parking brake.  This plus the weight of the car on the wooden block held the brake drums in place while we removed and later replaced the castle nuts.
+Loosen the wheel lug bolts/nuts and raise the rear of the car and place it securely on jack stands.
+Remove the wheel lug bolts/nuts and remove the rear wheels.
+Back off the brake adjusting stars, then remove the brake drum from the splines in the rear wheel shaft.  You now have the inner workings of the rear brakes exposed.
+Disconnect the parking brake cable from the lever.
+Disconnect the bolt that attaches the parking brake cable to the backing plate (on the rear of the backing plate).
+Pull the parking brake cable guide and cable through the backing plate and detach the cable from the guide.
+Disconnect the lower return spring with a pair of pliers (wear goggles!)
+Remove the hold-down cups and springs.
+Tip:
+While holding the pin in place with your finger (rear of the backing plate), compress the spring by grasping either side of the hold-down cup with pliers, then press the cup inward and turn it to line up the pin with the slot in the cup.  Then release the pressure so that the cup, spring and pin with come apart.  Sounds simple, but until you get that technique down you will probably turn the air rather blue!  :-)
+Remove the brake shoes, connecting link and upper return spring. Note carefully the way the connecting link fits into the shoes so you can re-install it correctly.
+~~~
+Wheel Cylinder Replacement
+Note:
+Never replace only one wheel cylinder--always replace in pairs (front or rear).
+Remove all dirt and foreign material from around the wheel cylinder (a toothbrush works well for this).
+Unscrew the brake line fitting.  Don't pull the brake line away from the wheel cylinder yet.
+Remove the wheel cylinder mounting bolt(s).
+Detach the wheel cylinder from the brake backing plate.  Immediately plug the brake line to prevent fluid loss and contamination.
+Place the new wheel cylinder in position and install the bolt(s) loosely.
+Connect the brake line, but don't tighten it yet.  Tighten the wheel cylinder bolt(s) securely, then tighten the brake line fitting.
+~~~
+Brake Shoe Replacement
+Gently pry apart the ends of the retaining clip and transfer the parking brake lever to the new rear brake shoe.
+Note:
+Dave found this to be a little tough.  It's hard to "gently pry apart" the ends of the clip without ruining it.
+Fit the new brake shoes into the slots at either end of the wheel cylinders at the top and into the slots at either end of the adjusters at the bottom.
+Install the connecting link and the upper return spring (wear goggles).
+Reinstall the hold-down cups, pins and springs.
+Note:
+Hold the pin in place with your finger (rear of the backing plate), then install the spring over it.  Grasp the cup on either side with pliers, line up the slot in it with the head of the pin, then press inward to compress the spring.  Turn the cup so that the pin goes through the slot in the cup and then is perpendicular to the slot, thus keeping the spring compressed and the brake shoe firmly in place.
+Connect the lower return sping with a pair of pliers (again, wear goggles!  If the spring comes loose there's no telling where it will go!)
+Reinsert the parking brake cable guide and the cable through the backing plate.
+Reinstall the bolt on the rear of the backing plate that attaches the parking brake cable to the backing plate.
+Reattach the parking brake cable to the lever.
+~~~
+Finish Up
+Reinstall the brake drum.
+Note:
+Since there are no bearing in the rear brake drums, installation is straightforward.  Simply slip the new drum onto the splines in the rear wheel shaft.  The only problem you may encounter is getting the new drum over the new shoes.  Back off the brake adjusting stars completely to provide clearance.
+Reinstall the wheels.
+Note:
+You can install the wheels after bleeding and adjusting the brakes if you want to.
+Bleed the brakes per the
+Brake System Bleeding
+procedure.
+Adjust the brakes according to the
+Brake Adjustment
+procedure.
+Carefully lower the rear of the car to the ground.
+There - you're done.  You should now have smooth operating and well adjusted brakes.  It's a good idea to re-adjust new shoes after a hundred miles or so - they do "settle" a little at first.
+* 
+                    * * * *
+Design by
+Erin

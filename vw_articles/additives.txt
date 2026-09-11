@@ -1,0 +1,262 @@
+Fuel Additives
+Fuel Additives
+~~~
+Additives 
+                    discussed in this article include -
+Tetraethyl 
+                        Lead
+Methyl 
+                        Tertiary Butyl Ether (MTBE)
+Ethanol
+~~~
+In 
+                    the USA there is a lot of possible variations in fuel additives 
+                    because lead has been replaced first with MTBE and later with ethanol (alcohol), but this is not 
+                    true everywhere. Some history -
+~~~
+Tetraethyl 
+                      Lead (TEL)
+Tetraethyl 
+                    lead (TEL), colorless, poisonous, oily liquid, Pb(C
+2
+H
+5
+)
+4
+, 
+                    was added to gasoline for internal-combustion engines as an 
+                    antiknock agent. TEL needed ethylene dibromine and ethylene 
+                    dicloride scavengers mixed in to prevent an excess of lead-oxide 
+                    build up in the engines, and although the story revolved around 
+                    lead - it was as much for the scavengers that lead was removed. 
+                    BUT - along comes the MTBE (methyl tertiary butyl ether) alternative, 
+                    and the need for higher proportions of aromatics (benzene 
+                    etc). MTBE itself tends to increase the NO
+x
+levels 
+                    in the exhaust (although it reduces carbon monoxide and hydrocarbons). 
+                    It also results in a slight increase in fuel consumption since 11% 
+                    MTBE results in 2% used oxygen in the fuel, meaning that there is slightly less enegry 
+		   in each litre/gallon of fuel.
+In 
+                    the final days of lead in the late 80s they were adding only 
+                    0.2 gm/litre (down from 1.05 gm/litre - the practical limit 
+                    was 1.1 gm/litre), and this reduced the halogen scavengers 
+                    too, so the last leaded fuels were not nearly as nasty as 
+                    they had been 20 years previously.
+LRP 
+                    (lead replacement petrol), which contains MMT (methylcyclopentadienyl 
+                    manganese tricarbonyl) has been used in aome countries, including Australia, but 
+		    has proven to be a poor substitute 
+                    -  it causes spark plug fouling with resultant 
+                    hard starting and rough running. It is not popular, and lots 
+                    of folks with older cars which needed lead are using unleaded 
+                    with additives instead (some of which contain MMT so go figure!)
+According 
+                    to the lengthy FAQ on fuel I have, there is some variation 
+                    in the US brands due to the no-lead rules and the resulting 
+                    substitutes for higher octane fuels. (I don't know if different 
+                    'cheaper' brands or "name" brands would be better.)
+The 
+                    FAQ I have indicates it's usually better to stay away from 
+                    additives, apart from a bit of upper cylinder lubrication. 
+                    Most of these are just kerosine-based anyway, so I wouldn't 
+                    bother. The VW engine doesn't need extra upper cylinder lubrication 
+                    because the valves don't have valve seals (they slope down 
+                    at the spring end so excess oil runs away from the cylinders), 
+                    and since they don't use valves seals they get plenty of lubrication 
+                    from the oil on the tappet end -- it works it's way up the 
+                    valve stems by capilliary action. The cylinders get plenty 
+                    of oil too, so it's not needed for the rings etc.
+In 
+                    the United States lead additives have been completely banned, 
+                    and compounds such as Methyl Tertiary Butyl Ether (MTBE), and more recently Ethanol, are 
+                    added to raise octane rating and promote cleaner combustion.
+~~~
+Methyl Tertiary Butyl Ether 
+                      (MTBE)
+MTBE (Methyl Tertiary Butyl Ether) 
+                    is an oxygenate that was introduced as a gasoline additive 
+                    in the US in the 1980s to replace TEL while remaining harmless to catalytic converters. 
+		    The US fuel laws allowed up to 2% 
+                    total oxygen in the fuel -- that's 11% MTBE. This varies a 
+                    bit from State-to-State, and summer-to-winter. I don't think 
+                    all states actually used it, and there are definitely different 
+                    amounts in some areas where it IS used. Much of California 
+                    had up to 11% MTBE, and Denver too, but areas outside Denver 
+                    had a different fuel formulation (lower MTBE or no MTBE)-- 
+                    some Denver folks filled up outside the city when they could because 
+                    the car runs better.
+Since MTBE is oxygenated, an 11% concentration makes carburetted cars 
+                    run 2% lean.  The slight hesitation that many VW owners experience is almost 
+                    certainly a lean burn condition for a number of reasons, one of which was MTBE. 
+		   VWs like a fractionally rich mix, which is part of what killed 
+                    them off in the US (higher emissions). It is very difficult 
+                    to sufficiently control the emissions from an aircooled engine, because the 
+		    engine temperature varies a lot with engine load, 
+                    and they don't like lean burn conditions.
+Cars with engine-management computers 
+                    cope with MTBE by upping the fuel delivery for correct mixtures, 
+                    but older carburetted cars can't adjust themselves on the 
+                    move.
+Hopefully a slight choke adjustment will help this, or you may increase the size of the main jet (say from X125 to X127.5 -- more than enough to compensate for 11% MTBE in the fuel).  So if your car is stuttering  on acceleration and running a little hot when cruising, increasing the main jet by one size might be the fix that is needed.
+Just a change of the brand of fuel might help, too.  Some companies use more aromatics (which have natural high octane ratings) and less MTBE to 
+                    get the right octane number. The 60 page FAQ and California 
+                    EPA documents I have on it says there is enough variation 
+                    in fuels in the US to make it worth experimenting with brands. 
+                    They also say you should be prepared to change brands winter/summer 
+                    if you do find an improvement, because the formulas change 
+                    winter/summer.
+California is requiring reduced 
+                    aromatics because they also result in more pollutants, but 
+                    this is a double whammy. You then need more MTBE or Tertiary Amyl Ether (TAME) or 
+                    one of the other oxygenates to increase the octane number, 
+                    and then you burn more fuel in the computerised cars, which 
+                    increases total pollution anyway. Fascinating.
+MTBE doesn't do anything for 
+                    the valve seats. With vintage and classic cars the loss of 
+                    lead is not a huge problem -- they do only small mileage, 
+                    and valves seat damage usually only occurs when the valves 
+                    are running really hot (engine working hard), so going for 
+                    a car club cruise in your 1930 MG once a month is not usually 
+                    a problem.
+But for many of our cars on the 
+                    road, being used every day, and still having cast iron heads, 
+                    it's a REAL problem. They really do need the lead coating 
+                    (or a substitute) on the exhaust valves to prevent a problem called Valve Seat Recession (VSR).
+MTBE doesn't help there -- 
+		    it's only an octane booster. In some countries Lead Replacement 
+                    Petrol (LRP) is available which has lead subsitutes (MMT mentioned above) to protect 
+                    the valve seats from valve seat recession, but fortunately 
+                    for VW owners the VW engine has hardened steel valve seats 
+                    in the aluminium heads so valve seat recession is not a problem. 
+                    The VW engine does NOT need lead or lead substitutes in fuel. 
+                    In fact if you have LRP additives in your country -- DON'T use it in 
+                    the VW engine. The VW engine runs hotter than it's water-cooled 
+                    cousins, and burning LRP in them tends to bake the LRP residues 
+                    onto the spark plugs, causing rough running and hard starting.
+MTBE is falling out of favor 
+                    in the US -- it's being found everywhere in the environment, 
+                    with what effect I don't know, as a result of leakage from 
+                    service station sites and tanker spills, etc. It mixes readily 
+                    with water, so it easily contaminates ground water and so 
+                    on. And of course since it contains "used" oxygen there's 
+                    less "fuel" in the fuel, so fuel consumption INCREASES, which 
+                    increases the total exhaust emissions and so on. California 
+                    has moved to ban the addition of MTBE by 2002.
+Until recently we hadn't gone 
+                    down the MTBE path in Australia, and I was in hopes that we 
+                    wouldn't. However now (March 2003) Woolworths (a large supermarket 
+                    chain in Australia which has an associated fuel outlet) began 
+                    selling a fuel called Woolworths Petrol Plus. Their web site 
+                    indicates that this petrol (imported into Australia, not refined 
+                    in here) contains up to 7% MTBE, and an average of between 
+                    2 and 3% MTBE -- but not in Western Australia or South Australia, 
+                    where oxygenates are banned.
+2-3% MTBE causes no problems 
+                    for the VW engine, but 7% MTBE will run the engine about 1% 
+                    lean, which might be noticable in some cars (hesitation, running 
+                    hot). So if your Australian bug has a tank full of Petrol Plus 
+                    and the engine feels a little sick, try switching to one of 
+                    the other brands and see if that helps. If it does, then you'll 
+                    now know WHY it helps, as no other brand in Australia uses 
+                    MTBE laced petrol.
+Folks in Australia are getting REALLY 
+                    confused!
+With MTBE or gone and the aromatics like methyl benzine 
+                    (toluene) being reduced too (because it's carcenogenic), 
+                    it's going to be hard to get the octane number high enough.
+~~~
+Ethanol
+Ethyl 
+                    alcohol (ethanol) is added to fuel in many places to reduce 
+                    costs and to extend the life of our oil reserves. It also encourages clean burning of the gasoline,
+		   and has a high natural octane number.
+		    Ethanol is soluble in gasoline, and in some countries it's common 
+                    enough to see 10% ethanol blends. In Australia for example, 
+                    a common mix is E10 (10% ethanol), and E85 (85% Ethanol) is also available.
+There has been lots of discussion about how the addition of 
+                    ethanol helps the combustion process and how it will help farmers.  
+		    In the USA the main source of Ethanol is from corn.  In Australia it's often made from
+		    sugar grown in Queensland and northern New South Wales, where they make it from otherwise 
+                    excess molasses.
+However, 
+                    no one has picked up the subject of older carburetted cars. 
+                    The addition of ethanol to gasoline causes big problems in 
+                    a VW engine, as ethanol makes the engine run 4% leaner.  To compensate for 10% ethanol in gasoline (E10),
+		    you must increase the main jet by one or two steps (e.g., from X125 to X127.5 or 130) and possibly 
+		   the idle jet by one step (from 55 to 60), although sometimes just adjusting the Volume Screw on the
+		    carburettor will be enough to adjust the idle mixture.
+Another 
+                    consideration -- production of pure anhydrous ethanol is difficult 
+                    and expensive, as it forms an azeotrope with water on distillation 
+                    -- resulting in about 96% ethanol. This 4% or so of water will require 
+                    an increase the jet sizes just a little to cope with the water 
+                    (main jet maybe 185, and idle maybe 80-82 for an ethanol-only 
+                    fuel).
+Ethanol 
+                    attracts water of course, so storage in a car's fuel tank 
+                    in the open weather means it will absorb condensation, and 
+                    you won't know it's happening until the engine starts to sputter.
+Some 
+                    VW enthusiasts wonder if they can run their 1500cc or 1600cc engines 
+                    on ethanol. They envision the ability to produce ethanol on 
+                    their own from substances that don't release hydrocarbons 
+                    when burned (such as corn and other biomass). It's all part 
+                    of a hope to have a bio-Bug, a totally enviro-friendly Bug.
+It 
+                    would be easy enough to run a VW engine on ethanol. The main 
+                    thing is that using ethanol would require fuel jets approximately 
+                    200% bigger in cross section than gasoline needs, because 
+                    ethanol contains a lot of "used" oxygen which is no longer 
+                    available as fuel.
+So 
+                    if you have a 34PICT/3 carburetor with size 55 idle and 127.5 main jets, 
+                    you'd need to increase those jet sizes to about 78 idle, and 
+                    the main jet to about 180.
+For information, the sizes indicate 
+                    the hole size in mm, so 127.5 jet has a hole size of 1.275mm. So 
+                    a hole size of 1.8mm has about twice the cross section of 
+                    a hole size of 1.275mm - hope that makes sense.
+I really don't 
+                    know what size you'd need the air correction jet though - 
+                    whether larger (for leaner at high speed) or smaller (for 
+                    richer at high speeds) I don't know. I'd GUESS smaller (for 
+                    richer, since you need MORE fuel with the ethanol), but that's 
+                    only a guess. So it if the air correction is normally about 
+                    an 80, you could try a 60 or something like that.
+I 
+                    think the engine itself would cope okay, so long as you weren't 
+                    asking for bags more power - just what the standard cam etc 
+                    gives you.
+The 
+                    engine would tend to run much cooler than running on gasoline, 
+                    since it has a much higher latent heat of vapourisation (it 
+                    cools a lot as it evapourates). So a cylinder head temperature 
+                    guage might be useful (before the change too, to get an idea 
+                    of normal temperatures) so you could perhaps partly block 
+                    the fan intake (a circular piece of metal with a hole in the 
+                    middle would be the way to do it) to keep the operating temperatures 
+                    near normal - otherwise the wear rate on your cylinders and 
+                    pistons would accelerate.
+Ethanol 
+                    is about 115 octane (using the US AKI measurement) so you 
+                    could increase the compression ratio to about 10:1 to make 
+                    use of it. That's a lower compression than burning ethanol 
+                    in a water-cooled car because the VW runs hotter and so must 
+                    use a lower compression for the same octane rating. For that 
+                    sort of compression you'd have to make sure your engine had 
+                    case savers, and it would be wise to use the 10mm head studs 
+                    with 14mm case savers, rather than the 8mm studs and 12mm 
+                    case savers. The larger case savers will give more protection 
+                    from studs pulling out with the higher combustion pressures 
+                    (if you increase the compression).
+If 
+                    you did increase the compression, you should normally reduce 
+                    your amount of ignition advance a little, but the higher octane 
+                    number of ethanol would indicate more advance, so you may 
+                    have to play about with that one.
+* * * 
+                      * *
+Design by
+Erin

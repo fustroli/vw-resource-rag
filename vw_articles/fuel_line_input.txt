@@ -1,0 +1,17 @@
+Fuel Line Input
+Fuel Line Input Problems
+Someone wrote to ask - I located an H30/31 PICT in good shape and cleaned it up.  Only problem is, the brass fuel inlet fitting is loose and leaks when under pressure.  I can actually pull in out by hand.  Can I use a tool to tap this in  tighter or could I use some sort of sealant to stop the leak?  I'm not sure why it is looser than normal - perhaps the hole is worn slightly?  Any suggestions?
+Rob responded - Yes, the brass inlet spigot pipe in the top of the carburetor coming loose can be a problem.  My brass inlet spigot worked loose, too. I "knurled" the section which is pushed into the carburetor so it can't work loose again. (To "knurl" means to produce "a crossgrained protuberance.")
+My "knurling" solution is very easy.  Here's a little procedure -
+Pull the brass pipe out of the carburetor.
+Place it on a smooth piece of timber or a plastic bread board - something like that.  Not metal please - it must be a firm but forgiving material.
+Get a large flat file which has filing teeth along the edge too - hopefully the file is about 6mm thick so the teeth on the sides are that wide too.  Place this edge on the brass pipe about 4-5mm from the end which will be inside the carby top (so the end isn't marked but the sides of the pipe near that end are marked).
+Apply some pressure to the file and roll the pipe under it just once around, raising small "teeth" marks around the pipe's diameter.  The outer end of the pipe must remain smooth so the rubber fuel hose will still seal on it properly, so just one circle of knurling should be enough.  If you roll it on a metal surface the raised knurling will be pushed back down to some degrees - that's why you need a timber or plastic block to roll it on.
+Tap the knurled end into the carburetor top with a block of wood or hard rubber mallet, until that end seals in the bottom of the hole.  Those raised "teeth" should hold the pipe in place very firmly.
+Note:
+It's very important not to mark the actual end of the pipe inside the hole, as this is what seals against the fuel pressure, so keep the knurled section about 4-5mm back from the end of the pipe.
+Also note:
+Don't
+place a fuel filter between the pump and the carburetor - the extra weight flapping about on that inlet pipe will increase the likelihood of it coming loose again.  The filter should be BEFORE the pump so it gets fed with filtered fuel.
+* * * * *
+Design by ERin

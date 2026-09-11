@@ -1,0 +1,36 @@
+Temperature-Sensing Dipstick
+Temperature-Sensing Dipstick
+~~~
+In his Tech Tips on "Why We Don't Sell Gauges," Gene Berg
+Gene Berg Enterprises
+states that oil temperature gauges "practically all read low in the 212 to 260 degree range by 40 to 50 degrees."  In his article on "How To Know When Your Engine Is Hot," Gene recommends the use of a "slick little temperature sensor that goes into the dipstick hole and hooks up to the oil light switch... When the temperature reaches about 225F, the oil light flickers. Hotter temperature turns the light on steady."
+Dave purchased one of these temperature-sensing dipsticks and installed it in his '73 Super Beetle.
+The following about the temperature-sensing dipstick appeared in
+VW Trends
+magazine; we have adapted the article here.
+~~~
+Gene Berg's Temperature Dipstick
+As I am sure you are all aware, the Volkswagen relies on not only air but also oil to keep the operating temperatures at an acceptable level. Once the oil temperature is too high, let's say over 230F (110C), the oil begins to lose its lubricating and cooling properties, thereby dramatically decreasing the life of the bearings, pistons, cylinders and other internal parts.
+Most high-performance guys run an aftermarket cooler to help with keeping oil temperature down... This is all well and good, but how are you going to know if your cooler is doing its job and keeping things cool? One way would be to install an oil temperature gauge and monitor it, but that can be a bit pricey by the time you buy a quality gauge, sending unit and wire it all up.  (See Gene Berg's note above regarding the accuracy of gauges.)
+Gene Berg Enterprises
+has come up with a nifty little dipstick gauge that automatically turns on the oil-pressure warning light in the instrument cluster when the oil temperature reaches a certain pre-determined setting, 220-225F (104-107C)
+There is a spring inside the dipstick that rotates and grounds the shaft inside the dipstick  when the oil temperature reaches the 220-225F setting.  The shaft grounds when it rotates around enough to touch the post that is connected by a wire to the original oil pressure sending unit.  When that happens, current is sent to the oil-pressure warning light, causing it to flicker and ultimately stay on continuously as the temperature continues to rise.
+These units have actually been around since the early '70s, and they are easy to install. If you can check your oil, and can crimp on a solderless electrical connection, then you can install the temperature dipstick with ease...  Give Gene Berg a call - (877) 568-BERG (568-2374); it may be the best gift you ever buy for your beloved VW.  The price is around $20.
+Rob's 2019 comment: I dont know if these dipsticks are still available - I haven't heard of them for a few years now.
+More detailed installation instructions -
+Pull out your old, original dipstick.
+Before installing the Gene Berg dipstick, score the level marks on the new dipstick, comparing carefully with the stock dipstick (Dave used the edge of a file to do this).
+Note:
+Since the new dipstick is made of brass, the oil level doesn't show up as readily.  You'll have to look close when checking the oil.
+When attaching the wire to the grounding post, make sure to aim the wire at the "9 o'clock" position (facing toward the front). That way, if the temperature is below freezing, the insulating wire will stop the grounding arm from turning counter-clockwise and contacting the back side of the grounding post.
+The Dipstick Installed
+~~~
+The other end of the wire attaches to the stock oil pressure sending unit.  Attach an adaptor to the connection point on the oil pressure sending unit so that both the wire from the dipstick and the stock wire to the "idiot" light and be attached.
+Connection to the
+Oil Pressure Sending Unit
+~~~
+That's all there is to it.  We have both the Berg dipstick and a VDO oil temperature gauge in our Bug, and we have found indeed that the indication on the gauge is low.  We have yet to run the car on a very hot day (it gets over 100F here occasionally); when we do we will report the relative readings here.
+* 
+                    * * * *
+Design by
+Erin

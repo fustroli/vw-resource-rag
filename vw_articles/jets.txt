@@ -1,0 +1,319 @@
+Jets
+Carburetor Jets
+See John Connolly's excellent article on
+How to Jet Your Carburetor
+.  (John is the owner/manager of
+Aircooled.Net
+.)
+~~~
+The following topics are discussed in this article -
+Why Jet?
+Carburetors As a Function of Engine Size
+How Jets Work
+The Main Jet
+Main Jet Removal/Replacement/Cleaning
+The Air Correction Jet
+Auxiliary Fuel (Power) Jet
+Pilot (Idle) Jet
+Idle Cut-Off Valve
+Emulsion Tubes
+30 PICT and H30/31 Carburetor Jetting
+Adjustable Main Jet
+34 PICT/3 Carburetor Jetting
+Jetting With the Centrifugal-Advance (009) Distributor
+Jetting With the 1776cc Engine
+Fuel Consumption/Performance
+Questions and Answers
+~~~
+Why Jet?
+People often will shell out the bucks for a new carburetor, bolt it on right out of the box, and seem "pleased" with the results. Others are upset by a backfiring, or smoke belching monster. In either case, spending the time to properly jet your carburetor is a very worthwhile task.  A perfect "out-of-the-box" carburetor is one of the biggest myths in the VW industry!
+So why worry about the jets?  Well, if the fuel/air mixture is too rich, the extra fuel will wash the film of oil off of your cylinders and wear out your pistons, cylinders, and rings quickly.  Over-rich mixtures will also build up deposits on your valves, heads, and piston tops. If the fuel/air mixture is too lean, the engine will run very hot, stumble, and misfire -- and burnt valves can be the result.  It's important that you get it right.
+And fuels! much has changed in recent years.  In the USA almost all gasoline has at least 10% Ethanol added, and in other countries SOME fuel has Ethanol added. Ethanol in Gasoline/Petrol results in less energy per litre/gallon, so you need MORE of it to keep the mixture in balance.  That's fine for modern cars with engine computers which can adjust the mixture on-the-run, but what about our old fixed-jet carburettors?
+(Adapted from John Connolly's article on
+How to Jet Your Carburetor
+.  Many thanks, John!)
+Note:
+All of the following material originated with Rob Boardman unless otherwise indicated.
+~~~
+Carburetors As a Function of Engine Size
+The 28PCI and 28PICT carburettors were used on 1200cc and the first 1300cc engines.  The 30PICT/1 carburetor was used on most 1300cc engines (about 1964 to 1967, and in some countries, up to 1970).  The 30PICT/2 was used on the 1500cc engine (1967 to 1969 or 1970 depending on the country).  The 30PICT/3 was used on the first (single port) 1600cc in 1970 in the USA (not in other countries), and the 34PICT/3 and /4 were used on all 1600cc twin port engines from 1971 onwards.  The /4 version was used in California and had additional features to reduce emissions.  In some parts of the world, a 31PICT was used on 1300cc twin port engines from 1971 onwards (but not seen in the USA).
+The modern H30/31 carburetor replaces the 28, 30 and 31 series carburetors and can be used on 1200cc, 1300cc, 1500cc and 1600cc engines with appropriate jetting.  On the twin port engines, it has to be used with a 30/34 adaptor, since the twin port manifold has a larger mounting flange than the single port manifold.  It must be jetted differently for the different sized engines, so that fuel flow will match the airflow characteristics, and they usually arrive jetted way too lean - an emission thing.  For example, when used on a 1300cc engine with a vacuum distributor, the H30/31 should usually have a main jet of X122.5 and an air correction jet of about 140Z; but when used in a 1600cc single port engine, it should have a 125 main jet and a 125 or 130 air correction jet.
+The 34PICT/3 carburetor is usually used on 1600cc or larger engines. Assuming a vacuum distributor, the 34PICT/3 carburetor is usually jetted with a X127.5 main jet, and 100Z -120Z air correction jet.
+For the 1600cc engine, you need more fuel flow, so a larger X127.5 main jet and 100Z or 120Z air correction jet are needed.
+Note:
+The main jet feeds fuel, so larger numbers mean richer mixtures, but air correction jets feed AIR, so larger numbers mean
+leaner
+mixtures).  "Lean" means less fuel with the same amount of air, and of course "rich" is the opposite. The optimal stiochiometric (balanced) ratio is 14.5:1 -- that is, 14.5 parts air to one part fuel.  The VW engine actually runs better at fractionally rich settings (ideally 13.8:1 rather than 14.5:1 according to Bob Hoover).
+~~~
+How Jets Work
+Note:
+The number which indicates the jet size is the size of the hole in the jet in milllimeters.  Thus a size 55 idle jet is 0.55mm, size 125 is 1.25mm, etc.
+Jet Function As Related To Engine Speed
+RPM
+Idle
+Main
+Air
+Power
+1000
+xxx
+...
+...
+...
+2000
+xx
+x
+...
+...
+2500
+x
+xx
+...
+...
+3000
+...
+xxx
+x
+...
+4000
+...
+xxxx
+xxx
+...
+5000
+...
+xxxxx
+xxxx
+xxx
+More x's mean that jet is working more.
+~~~
+The main jet provides fuel from about 1500 rpm right up to maximum rpm.  The air correction jet prevents the mixture going over-rich at high rpm (again, smaller numbers means richer for this jet).
+The fuel flow through each jet is determined by the airflow which creates a low pressure area near that jet.  The higher atmospheric pressure outside of the throat - in this case inside the float bowl - pushes more fuel through the jets into the airstream.  The effect is not linear though, so as the airspeed increases, the main jet will start to deliver a richer mixture (too much fuel), so the air correction jet is needed to add air and stop the mixture going over-rich, then the air correction jet starts working too well at higher airflows (engine revs) so the Power Jet (Aux jet) is need to add more fuel again.  It's a complex problem that faces ALL open throat style carburettors.
+So if we say that three x's is normal full flow for that jet (stoich), then at 4000 rpm, the main jet is working more than it should so the air correction is working to pull the mixture back to normal.  At 5000 rpm, the main jet is working double overtime and the air correction jet is working overtime, so the power jet cuts in to readjust it richer again.  Nothing is exactly that linear of course as the jets are all different sizes, but maybe it helps visualise the problem of keeping the fuel flow balanced at different rpm/airflows.
+To summarize:  idle jets operate from idle to 2500-3000rpms or so. Main jets are primarily from 2500-4500rpms, and Air jets affect the engine from 3500/4000 on up. Lastly, you have emulsion tubes to change "where" it's rich, lean, etc. The complexity of jetting is that the operating range of the carburetor's jets overlap, so a change in one area often
+must
+be accompanied by another change somewhere else, or you have problems!
+~~~
+The Main Jet
+Note:
+Regarding "drilling out" the main jet, please see our article on
+Tuning the 009 Distributor/
+34 PICT Carburetor Combination
+.
+Paraphrasing from John Muir* -
+The standard carburetor with standard jetting as originally furnished on your car is usually the most economical and dependable.  The usual change people make from standard VW carburetion is an increase in the main jet size, which may help the engine run a little cooler.  Main jet sizes run through a range from X110 to X150 (1.1 - 1.5mm diameter).
+(The jets are made in 2.5 increments, so it goes X127.5, X130, X132.5, X135 etc.  The jet has the size stamped on it, which you may or may not be able to read without a magnifying glass.)
+So how do you know which to use?  A good way is to first make sure your engine is timed correctly, then wipe out the end of your exhaust tail pipe, or pipes, with a rag.  Run about 100 miles and then look at the tail pipe.  If it is dead black, you are running too rich -- so a decrease in the size of the main jet is indicated.  If the color of the deposit is tan or brown, you are running too lean and the main jet size should be increased.  If the color is rich grey, you're about right.  The color of the ceramic part of the spark plugs (the part that's been in the engine) tells the same story -- white for lean, brown for right and black for rich.
+*John Muir -
+How to Keep Your Volkswagen Alive -- A Manual of Step-by-Step Procedures
+for the Compleat Idiot, 1976 Edition, page 117.
+Rob wrote
+in this regard - See our article on
+Reading Spark Plugs
+.  The center electrode should look quite clean and grey/white. There should be a light smooth coating of carbon on the rim of the threaded part, and a colour change on the outer electrode of grey (at the tip) to black (where it attaches to the rim of the threaded part), with the change of colour on the corner of the bend.  All this indicates a good mixture and correct heat range.
+Rob's note regarding modern fuels:
+There are two major issues with modern fuels.  First - Muir above was writing in the 1970s, before the USA changed their octane rating system, and also before Ethanol became common in fuels. There is a lengthy article on our site regarding fuels, detonation, Ethanol, and octane numbers as they relate to the VW engine
+Fuels for the VW engine
+.  Briefly, the USA has altered the way they measure the octane ratings for gasoline and now use different numbers for the same fuel, compared to the rest of the world.  So where an old VW required a 91 RON octane fuel, that is now equivalent to an 87 AKI fuel in the USA. 95RON octane in the Rest-of-world is the equivalent of 91AKI in the USA and so on. And the second issue is the presence of Ethanol (alcohol) in gasolines.  Most gasoline in the USA now has at least 10% Ethanol added (E10), and in other countries, SOME fuel grades have 10% ethanol added.  There are a few fuels which have up to 85% ethanol in them (E85). Ethanol contains USED oxygen which canoot be burnt again, so adding ethanol to gasoline/petrol, reduces the amount of energy per litre/gallon.  That means that the jetting requirement for any VW using ethanol-added gasoline/petrol is different to those using straight hydrocarbon gasoline/petrol.  Ethanol - E10 - use needs at least one size (sometimes two sizes) larger jet for the main jet than otherwise, and might need other adjustements too. E85 - forget it for the aircooled VW engine!
+Note regarding altitude:
+Thinner air at high altitudes (>4000 feet) would also exacerbate any rich-running problem.  An altitude of 5000 feet is roughly equivalent to a one size main jet difference.  For example, the X130 main jet is a tad rich for the vacuum dizzy at sea level, so if the car is to be operated at a high altitude it will be running very rich, and you might get a smoother engine and less exhaust soot with an X127.5 or even an X125 main jet (the "right" size for 5000 feet altitude).
+The 1200cc engines usually used a X120 or X122.5 in the 28PICT carburetors, the 1300cc engines used either X122.5 or X125 in the 30PICT carburetors, the 1500cc engines usually used a X125, and the 1600cc engines usually need a X127.5 in either 30PICT, H30/31, or 34PICT, but MIGHT get away with an X125 in the smaller 30PICT and the H30/31.
+Rob notes -- I have a 1500cc single port engine with it's original 30PICT/2 carburetor.  The carburetor has a 55 idle, X125 main and 125 air correction jet.  I've used this particular carburetor with a 1600cc dual port engine and it works fine with the same main jet, but seems to like a fractionally larger X130 air correction jet (it runs a little rich with the X125 air correction jet). Others might find that the 30 sized carburetor on a 1600cc engine works better with a larger X127.5 main jet.  There is enough variation in fuel types, wear and tear on engine and carburetor, altitude and so on that you might need to experiment a little.  All suggestions here are just that - suggestions.
+When you work out the area of the hole in each jet, the steps are roughly 2% increase in fuel flow for each size up (X125 to X127.5 for example).  But engine sizes have much more variation, 1200cc to 1300cc is about 8% more, 1300cc to 1500cc is nearly 14% more, and 1500cc to 1600cc is about 7% more.  You'd think the jet sizes would follow the capacity more closely, but they don't.
+All Solex carburetors tend to run lean at high power settings (high rpm and open throttle).  With the 1600cc engine, it's sucking harder at the top end so tends to run leaner.  This means that the main jet is sized to the engine capacity, rather than the carburetor size, and X127.5 is the more common size for the 1600cc engine, rather than say the X125.
+Bentley (page 20 of the 'fuel' section -- table of 'carburetor setting and jets') says the X130 was normal for '71-'72 34PICTs, and X127.5 was normal for '73-'74s (non-California models).  We have heard it said that the X130 (or X127.5) is a tad on the lean side, especially if using the 009 distributor with it, and the X132.5 gives a fractionally rich mix (which VWs have always liked better than lean).
+The X127.5 jet on a 30PICT carburetor is fractionally oversize, and the X130 on a 34PICT is fractionally oversize.  As indicated previously, the VW engine actually runs better at fractionally rich settings (ideally 13.8:1 rather than 14.5:1 according to Bob Hoover who did lots of testing), but they are usually jetted a little leaner than that, so the X127.5 is really a minimum jetting for the 1600cc engine.
+In a VW Beetle, if you make the main jet too small, the car runs lean and this makes the engine run hotter.  Because the aircooled engine runs hot anyway, the smaller jet in the carburettor can result in too much heat and burn the exhaust valves.  You can also get detonation (pinging/knocking) if the engine gets too hot.
+~~~
+Main Jet Removal/Replacement/Cleaning
+The main jet is accessed by removing the big brass bolt on the left side of the PICT carburetor, right at the bottom of the carburetor bowl.  Unscrew this bolt and look at it -- if there is a jet screwed into the bolt (older models), you can deal with it in hand, so to speak.  But if you find a solid brass bolt, the main jet is further in the float chamber (later models) but still right in the back of it on the right-hand side.  In these later models, you can easily change the jet with a medium screwdriver either with the top of the carburetor removed or with the carburetor completely off the car. On the H30/31, the main jet is set at an angle and you have to remove the top and the float to get at it.
+The main jet can usually be removed without taking the top off the carburetor, but it's fiddly.  Remove the brass plug with a hex head on the left of the carburetor -- bottom of the float bowl (all the fuel in the carburetor will rush out).  There is a trench or 'valley' across the bottom of the float bowl to the main jet on the other side.  The jet has a slot in the back so it can be loosened with a screwdriver through the hole where the plug was.  The fiddly bit is pulling the jet back through the hole.  It's actually much easier to do if you remove the top of the carburetor and the float.  Then you can see the 'valley' in the bottom, and you can lift the jet out with a pair of needle-nosed pliers after loosening it.
+Rob's note:
+When removing the main jet, I use a small glass jar (pickle or baby-food jar) to catch the fuel from the brass plug - I hardly spilled a drop (I just allowed the plug to fall in to the jar), and used the fuel to refill the float bowl later.  I remove the top of the carburetor, then run a thin screw driver (which avoids the coil) through the plug hole to get to the jet.  Once the jet is loose it sort of falls on it's side, so then  I use the screwdriver to nudge the jet out along the trench to the plug hole in the side (rather than using needle-nose pliers).  Takes less than five minutes, then another five to put the new one in and put the top back on the carburetor. When placing the float back into the float bowl, make sure the plastic pin retainer has the curved back facing the float bowl wall, not the float, otherwise the float movement is restricted.
+Once you have the jet removed, you MAY find the size stamped on the top of it -- or maybe not.  Dave bought a Pierburg model 34PICT/3 carburetor from
+Aircooled.Net
+, and none of the jets had the sizes stamped on them.  The proprietor of Aircooled.Net thinks the main jet is a size X130, and the idle jet is size 50.)  
+Dave replaced the main, idle and air correction jets so he knew what he had. Dave jetted his new carburetor as follows: main jet - X130; idle jet - 55; air correction jet - 80Z.
+Replacing the main jet in is super easy -- just put it in the hole in the side of the carburetor, then put the screw driver in after it and slide it along the 'valley' that runs across the bottom of the float bowl.  Look down into the top of the carburetor to make sure that the screwdriver is squarely in the slot in the jet and that the threads line up squarely, then just screw it in (the small screw driver sits deep in the slot in the jet and helps line it up).
+It's possible to develop partial blockage in one or more jets.  There are three (or four) removable jets.  Unscrew the idle jet from the carburetor and the cut-off solenoid, and blow through it.  Remove the main jet (as above) and blow through it (check for crud in the float bowl at the same time).  Have a look at the size stamped on it too.  Recommended sizes are given in this article.
+~~~
+The Air Correction Jet
+As the airflow through an "open venturi" (Solex type) carburetor rises, increasing vacuum starts to draw too much fuel through the main jet, so it starts to run rich at high air flows.  To compensate for this, an air correction jet is inserted in the fuel delivery circuit after the main jet, which starts to add air to the fuel emulsion as the airflow increases.  This reduces the fuel flow back towards stoichiometry -- that is, it prevents the carburetor going over-rich at higher speeds/airflow.  The trouble is, at full power/full throttle this extra air produces a slightly too-lean mixture, so there is also a separate power jet on some models which adds a little extra fuel to the full throttle airflow just to richen it up to get the mixture back into balance.
+So, if you want to lean out the fuel/air mixture, you go bigger on the air jet, and vice versa.  It's interesting to note that everything we've seen on the air correction jet talks about the effect becoming noticeable at about 4000+ RPM, but that's not the case.  The effect is clearly noticeable from 3000 RPM upwards (just under 60 mph), and probably a little lower than that.  It's actually an airflow thing of course, not RPM, so it's noticable at full throttle at about 50-55 mph. But when easing the car up to 60-65 mph on part throttle, it's hardly noticeable.
+Note:
+The air correction jet size is very important when using a smaller carburetor on a larger engine (e.g., a 30PICT on a 1600cc DP engine).  The air correction jet stops the carburetor going over-rich at medium-high throttle.  The 1600cc DP can flow more air than the 1600cc SP and smaller engines. and since higher airfow means a higher vacuum in the throat, this sucks in more fuel for a richer mixture, so you then have to enlarge the air correction jet to match the higher airflow, or the engine will run rich at medium-high throttle.
+The air correction jet is also changeable.  Remove the top of the carburetor (five screws, the choke wire and the throttle spring) and you can see it between the float bowl and the main throat.  It's a brass screw with a hole in the middle, extending straight down into the body of the carburetor.  Be careful pulling it out -- it's about an inch long.  The air correction jet has the emulsion tube attached to it -- this "foams" the fuel before it's added to the airstream in the throat.
+The air correction jet doesn't affect idling very much since it helps control the mixture at higher rpms, but worth a look to see if you have a fuel blockage problem in the carburetor.  What you are mainly looking for is the condition of the carburetor.  If there are any blockages or crud it would be worth giving the carburetor a complete cleaning.  See our
+Carburetor Overhaul Procedure
+.
+With the air correction jet you have to go 3-4 sizes different to see a real difference, unlike the main jet where one size can make a big difference.  Air is much less dense than gasoline, so that makes sense.  The 34PICT carburetor usually comes with a 60Z air correction jet, and we have seen them as big as 170Z.  So there is a HUGE difference in hole size compared to the main fuel jet.
+Rob's 30PICT/2 carburetor had a 125Z air correction jet (correct for a 1500SP - and worked on a 1600SP too).  Rob replaced the air correction jet with a 140Z, and at low-middle speeds there is no discernible effect.  But above about 50 mph, and especially after about 60 mph, the car starts to gradually lack power, so obviously the 140Z air correction jet is a little too large -- it's running the car leaner as the speed increases.
+The larger 34PICT carburetor should have the larger X127.5 main jet, and since the larger 34PICT carburetor doesn't have the extreme airflow with a 1600cc DP engine that the 30PICT carburetor does, the over-rich problem is reduced, so you use a SMALLER air correction jet - less correction is needed.
+~~~
+Auxiliary Fuel Jet
+(Also referred to as the Power Fuel jet.)
+Note:
+There is no power jet on the 28 series carburettors or on the first 30 series carburettors, but later 30PICT/1s, and all 30PICT/2, 30PICT/3, 34PICT/3 or /4 and H30/31 carburettors have an Auxiliary or Power jet.
+The auxiliary (power) fuel jet is a small brass jet screwed into the right side of the carburettor, sittin in a protrusion running up to the top.  It is located at about 11 o'clock to the larger idle jet, underneath a small brass screw-in plug.
+The power jet only works at higher throttle positions and higher rpms.  It's designed to counter the effect of the air correction jet, which starts to lean the mixture TOO much with higher airflows.
+To explain, the main jet supplies the fuel, and it supplies too much as the rpms increase (a function of the increasing vacuum in the main venturi).  The air correction jet starts leaning the mixture to bring it back into balance, but as the rpms (airflow) rises to near the maximum for that carburettor, the air correction jet works
+too
+well, running the engine lean.  The power jet counters the leaner condition at higher rpms, richening the mixture back into balance again.
+Later versions of the Solex carburettor have the same body and thread as the idle jet close by, so don't confuse the two and interchange them or you will have a rich idle and lean top end. The most common power jet size on all Solex carburettor versions is 65 (except for the H30/31 which usually has a smaller power jet - around 47.5).  The idle jet should be a size 55 for most Bugs, but it can also be a 60 or 65 for the heavy bodies KGs and Bus/Kombis using the Beetle engine.
+Where the early style carburettor has the idle cut-off solenoid on the RIGHT side of the carburettor, that solenoid sits in the back of the idle jet. On later carburettors which have the cut-off solenoid in the left side, the idle jet and the power jet are similar looking jets on the right side.  The idle jet sits in a protrusion running down to the bottom of the carburettor, and the power jet sits in a protrusion running up to the top of the carburettor, so it's easy to tell which is which.
+~~~
+Pilot (Idle) Jet
+(Also referred to as the auxiliary idle speed fuel jet.)
+There is an pilot (idle) jet on all carburetors too - these are normally left at 55 for most carburetors (28, 30, H30/31 and 34 series), on any engine size (since it's only feeding the engine at small throttle settings anyway).  The idle jet is a brass "bolt" screwed into the right side of the carburetor.  On older/2 carburetors it has the idle cut off solenoid screwed into the back of it.  On the /3 and /4 carburetors - it looks like a bolt with a tiny silver plug in the center.  On some models (the H30/31 for example) it is angled slightly towards the back of the car. On the H303/1 it is often oversized too - a 65, used to stop the engine stalling at low rpm as the main jet supplied with these is often VERY lean 117.5 or 120.
+The carburetor idle circuit controls how much fuel you have at idle. Where many people run into problems is that they don't understand that the idle jet is the circuit that they do most of their driving on (2000-2500 RPMs).  This jet is critical to engine flexibility and economy.
+Most carburetors come out of the box with a 55-60 idle jet. Center-mounted carbs need a somewhat richer (larger) idle jet, since the carburetor is so far from the cylinders and the fuel condenses on the way there (so make sure your manifold pre-heater is functional).
+If your car is having a problem with spitting/sputtering/cracking, this is an indication of the fuel/air mixture being too LEAN. The speed of the engine (RPM) when it's doing this tells you which jet you need to change.  If the engine is stumbling at 2000 RPMs and lower, then you need to richen up your idle jet (go to a larger size) - but check carefully for air leaks around the throttle shaft first!. If the problem occurs at higher RPM (2500-4000), then you need to richen up your main jet.  (Some of this material was adapted from John Connolly's article on
+How to Jet Your Carburetor
+.)
+Idle jets are available in small increments. Normally, shops stock them in round sizes of "5"s, like 50, 55, 60, etc. You can find 57s, etc. if you look around to
+really
+get it right on! If you have a significantly larger idle jet (e.g., 70 or so), John Connolly recommends going down until you can not get a good engine response with the mixture screws anymore. Idle jet sizes of 70 or so will "run" on anything, but they don't run WELL (unless fouled plugs or 12mpg are your idea of "well"). In addition, if you have a problem with a 55/60 idle jet, and you have the right main jet, and
+still
+have a hesitation regardless of accelerator pump adjustment, you need to play with your idle air bleed (what the fuel from the idle jet mixes with).  Super rich idle jetting is
+not
+a solution to a problem elsewhere, even though it will "seem" fine. 
+Normally, for stock daily-driver Bugs, you will find that an idle jet size of 55-60 is right for you.
+~~~
+Idle Cut-Off Valve
+(Also referred to as the "electro pilot jet" and the
+"by-pass air cut-off screw.")
+The idle cut-off valve is not strictly a "jet," but this is a good place to discuss it.  The idle cut-off valve sticks out the left side of the carburetor on H30/31 and 34 sries carbs (but on the right side on 30PICT series) and has an electrical connector on the end.  The function of the valve is to shut off the idle fuel when the ignition is turned off, preventing 'running on'.  It provides fuel at low medium revs too, so if it's not working you'll get a rough idle and lean mix at lower revs.
+The idle cut-off valve receives power from the positive (+) terminal on the coil (#15) -- see the
+schematic
+which shows this wiring arrangement.  "N" on the schematic is the coil.  You will see a black wire coming into the positive terminal on the coil from fuse #12, which receives power from the ignition switch, so the valve opens whenever the ignition is on, allowing the idle fuel to flow.
+Note
+the three black wires leading from the positive terminal on the coil -- one to the backup lights, one to the automatic choke, and one to the idle cut-off jet.  That terminal on the coil is just a convenient place to obtain power to these components.  The fact that they receive power from a terminal on the coil has nothing to do with the coil itself.  The three wires could each go up to fuse #12 individually, but that would be very inconvenient.  So VW chose this configuration.
+You may have to get creative about how you attach so many wires to the single terminal on the coil.  Any auto supply store can sell you a little T-shaped adaptor that will fit on the terminal, with three "wings" (if you will) to which the three black wires can be attached.
+Please be sure to use black wire for this purpose -- black means "power when the ignition switch is on" in the VW world.
+If the idle cut-off valve fails in the shut position, the car will still run (roughly) on the main jets but will stall as soon as you take your foot off the throttle.  If the valve sticks in the open position, the idle fuel circuit will remain open, so if the engine is still turning it will still draw fuel through the idle jet, resulting in running on if there is a hot spot in one or more cylinders.  With the idle cut-off valve working correctly, hot spots in the cylinders don't occur as readily, since there is no fuel available to keep the engine running once you turn off the ignition.  It's a problem VW recognized very early on (since the aircooled engine has very hot heads and hot-spots were therefore more likely than in water cooled cars), so the fix was to add the cut-off solenoid to the carburetors.
+It is very easy to check the idle cut-off valve to make sure it is functioning properly.  Turn the ignition on (but do not start the engine).  Disconnect the electrical lead from the valve, then touch it to the connector again.  If it's working, you'll hear a clicking sound as the relay pulls in.  If you do not hear this clicking sound, it's time to replace the idle cut-off valve.  They are cheap enough.
+When replacing the idle-cut off valve in the carburetor, don't screw it in too hard ... it has fine brass threads and it's screwed into the soft metal of the carburetor.  Also check that the valve hasn't worked loose in the carburetor -- they do sometimes, and then work only intermittently.  And of course make sure that it's properly connected electrically to the connection on the coil where power is provided (the + connection) -- the lead can break off.
+~~~
+Emulsion Tubes
+The emulsion tube mixes air from the air corrector jet with fuel from the main jet, and controls the mixture from the discharge nozzle at all engine speeds that the main jet is working. Basically, the emulsion tube changes the diameter and location of small holes in it's body.
+~~~
+30 PICT and H30/31 Carburetor Jetting
+We can only give a guide here, as engine age, type of fuel, carburetor wear, etc. all make a difference in how our old engines run, so you might need to experiment a little.
+For information -- the 1200cc engines originally came with a 28 PCI or 28 PICT carburetor, both of which have a 22mm throat.  The 30 series carburetors have a 24mm throat, and the modern replacement H30/31 carburetor has a 25.5mm throat.  The 30 and H30/31 carburetors were designed primarily for the 1300-1600cc single port engines, but you can get slightly better performance with the larger carburetors on a 1200cc engine, but only if they are set to run properly with the smaller engine.
+The standard jetting that the 30PICT/1 & 2 carburetors came with is size X122.5 or X125 main, size 55 idle, and size 125Z air correction jets. The 30PICT/3 and the H30/31 carburetors came with size X112 main (super lean), size 65 idle, and size 125Z air correction jets, which made them very difficult to tune. The larger size 65 idle jet helped the 30PICT/3 and H30/31 carburetors overcome the very lean main jet at idle and low speeds, and thus help to reduce the "bogging" problem.
+When using the 30PICT or H30/31 carburetor on a twin port manifold and any vacuum distributor, change the jets to X125 or X127.5 main, 55 idle, and leave the air correction at 125Z. Try the X125 main before you try the X127.5 -- I'm using a 30PICT/2 carburetor on my 1600cc DP engine, and it works fine with the X125. But engines do differ a little, and the sizes above are "ball park" figures rather than definitive.
+Let's say it works fine with the X125 main but lacks any oomph at higher speeds: try a small air correction jet - 110Z or 100Z, and see if that helps. (See the discussion of the air correction jet above.)
+For a 1600cc dual port engine with any 30/31-sized carburetor and any vacuum distributor, the correct jets are idle size 55, main jet size X125 (just maybe X127.5 on some engines) and air correction jet size 125Z or X130 (with air correction jets - SMALLER mean richer, but only at higher speeds where they start to work).
+If you live at altitudes above 5000 feet, you also have to consider that, as high altitude results in the engine running rich (less oxygen in the air but the same fuel flow through the carburetor).  It this case you would definitely need to reduce the main jet size to say the size 122.5 or the 120.
+On the H30/31 carburetor, there are two brass jets on the right side (right is right of car).  The angled one (points slightly towards the rear of the car) is the idle jet. The other one (pointing straight out to the right side of the car) is the power jet, which feeds additional fuel at high throttle/high rpm. The power jet is needed to correct a tendency for the air correction jet to work TOO well at max airflow - it leans the mixture off too much and the power jet corrects this.
+If you look at the two jets you can see that the (angled)  idle jet sits in a protrusion (channel) which continues downwards under the jet, towards the idle and transfer ports in the throat near the butterfly.
+Here's a picture of the jets in the side of an H30/31 carburetor.
+The power jet sticks straight out to the side, and sits in a protrusion nearer the top of the carburetor  - if you remove that jet you can see a drilling straight through the carburetor body to the air correction jet/emulsion tube where the the main fuel supply is delivered into the throat of the carburetor.
+The idle jet is usually a size 55 (when the main jet is normally a size X125 or X127.5) but it might be a size 65 if the main jet is a X122.5 or smaller.
+With the larger main jet, you might also need to consider a size 50 idle jet in lieu of the normal 55. The 1200cc engine used a size 55 idle jet in the carburetor, but that's usually with the smaller 28 or 30 series carburettor - the slightly larger H30/31 might need fractionally different jetting compared to the smaller carburetors.
+The power jet is usually a size 65.  In most cases you can just leave the power jet alone. It only works at full throttle and high RPMs ? the size 65 power jet should work fine for those conditions.
+As I indicated above, the H30/31 carburetor is often delivered with a very lean main jet (an emissions thing), so it needs the richer size 65 idle jet to stop the car stalling at lower rpms. If it has the small main jet, then you'll get better performance and easier tune-ups if you change it to a size X125 (for 1200/1300/1500cc engines) or a size X127.5 (for 1600cc engines) and change the idle jet to a size 55.
+Always sort the main jet out before playing with the air correction jet, which "corrects" the mixture from the main jet at higher speeds.  If it seems a little rich at higher speeds (plugs sooty after a plug read) then try the 130Z air correction jet.
+I've been running my '68 Bug with the X127.5 main jet in the smaller carburetor, and he's running a tad rich.  The exhaust system peashooters started turning black inside as soon as I put the larger jet in. I haven't run enough through the tank to get a real idea about consumption yet, but since I don't notice any huge difference in performance I'll probably be going back to the X125 soon. Useful experiment anyway.
+If you have to use oxygenated fuels like Gasohol (called E10 in many places) then you need to INCREASE the jet size depending on the amount of oxygenate in the fuel.  E10 usually needs a larger main jet and might also need a larger idle jet.
+Some tests to  help you determine proper jetting. Take the car for a run at a modest speed - say 35-40mph.  Use a steady throttle - minimum acceleration.  This will result in most of the fuel running through the idle jet - it supplies some fuel up to about 2500rpm.  Then remove a spark plug and read it (see our
+Spark Plug Reading Guide
+).   A sooty plug means the idle jet might be a little large.  A clean plug with a light grey/tan look means the mixture is about right.  The try the same test at a higher speed - a steady 55-60mph.  This will have the main jet supplying the fuel, and read the plug again.  Soot will indicate the main jet is a little too large.
+If you have a 009 (centrifugal advance) distributor, you may find that the spark plugs still seem a little dry/burnt looking at medium speeds , or the car lacks acceleration in the mid ranges.  If this is the case, try a larger size main jet -- size X127.5 1200/1300/1500cc engines. It should not need to be bigger than that with a vacuum distributor (009 distributors need richer mixtures).  For 1600cc engines, use an X130 main jet.  In both cases, when running the 009 distributor, set the accelerator pump for maximum squirt.
+Once you have those two sorted, then try a faster run and from 60 try flooring the throttle - if you get a good smooth response the air correction jet should be OK, but if it tends to stumble a little or feel breathless, then either the main jet is a little small or the air correction jet is a little large.
+None of these tests are definitive - just indicative.  The only method of getting it exact is to run the car on a dynomometer with an exhaust gas analyser in the exhaust pipe.
+Adjustable Main Jet
+We have vaguely heard of adjustable jets but have never seen one or had it described.  It appears to replace the plug in the bottom of the 30 PICT/1 carburetor float bowl, which has the jet mounted inside and in line with that hole.
+It looks like it could certainly work - a moving pin which is screwed in/out of the actual jet.  Just start off with a larger than normal size (150 maybe) and use the screw to increase/decrease the actual hole size.
+Interesting.
+Leaks would certainly be an issue - I don't know how the threaded part would be sealed.
+The adjustable jet would work with any of the Solex carburetors which have the jet mounted horizontally inside the carburetor.  Some of the replacement carburetors (H30/31 and 30PICT/3 maybe???) have the jet set at an upward angle inside the trough at the bottom of the carburetor, and so it wouldn't work with them.
+It would be interesting to try using one an adjustable main jet, but there are some dangers too ? such as, how do you know what mixture you are setting, and if you are running the car too lean and hot, or way too rich?  The performance would tell you some of the answer, but inexperienced folks using one might get themselves into trouble where using a fixed (normal) jet and changing it for a larger or smaller one would give you a known change in fuel flow.
+We need to do some research regarding the adjustable main jet.  As we learn more, we will include it here.
+~~~
+34 PICT/3 Carburetor Jetting
+The standard jetting for a 34PICT/3 carburetor with vacuum distributor is about size 55 idle, size X127.5 main, and size 100Z-120Z air correction jets. All three of these jets can be changed.  Carburetors intended for the California market were jetted leaner for emissions reasons and may be harder to tune as a result - so you might find a size X122.5 main jet and size 140Z-170Z air correction jets.  A loss of power is the result -- about 58hp instead of 60hp.
+On the premise that the 1600cc engine likes to run just a tad rich, many people will change out the main jet for a size X130.  Dave has done so with good success.
+See the discussion of
+jetting with the 009 distributor
+below for needed revisions to the jetting of the 34 PICT/3 carburetor in this application.
+Following are the jet and other specifications for the 34PICT/3 carburetor -
+1971-1974 34PICT/3 Carburetor
+Venturi:  26mm
+Power (Auxiliary) Fuel Jet:  60
+Main Jet:  X127.5
+Float Needle Valve Diameter:  1.5mm
+Air Correction Jet:  75Z (80Z for Ghia)
+Float Weight:  8.5 grams
+Pilot (Idle) Jet:  55
+Accelerator Pump Feed:  1.3 - 1.6cc/stroke
+Pilot Jet Air Bleed:  147.5
+Fuel Pump Delivery Pressure (max):  3 - 5 psi
+Accelerator Pump Jet:  50
+Delivery Capacity (min):  400cc/min @ 4000 rpm
+The jets in Dave's 34 PICT/3 carburetor are -
+Main jet - X130
+Idle jet - 55
+Air correction jet - 80Z
+~~~
+Jetting With the Centrifugal-Advance (009) Distributor
+The 009 centrifugal-advance distributor can not sense throttle position (engine load), only engine revolutions, so it's not ideal in all circumstances.  Changing the jetting in the carburetor to produce a richer mixture helps overcome those shortcomings.  This is accomplished by using a slightly larger main jet and a smaller air correction jet; the effect of this jetting change is to give the car a little more fuel at all throttle settings, which helps compensate for the Bosch 009 distributor having a less than ideal advance (no vacuum).
+While it is necessary to enrichen the fuel mixture when running an 009 distributor, you don't want the any richer than necessary since it will use more fuel.  Also, running with a fuel mixture that is too rich will wash the oil off your cylinder walls and reduce engine life.  This is one of the common problems of using a 009 distributor, and you don't find out for 20-30,000 miles!
+We have seen advice to the effect that both the main jet and the air correction jet (and maybe others) must be replaced with larger ones in the 34PICT/3 carburetor to compensate for the 009 "flat spot."  This is not correct.  The air correction jet must be SMALLER to enrichen the mixture.  Most 34PICT/3 carburetors don't need this though -- usually the larger main, and then maybe blocking the air bleed hole in the throttle plate, plus maximizing the squirt from the accelerator pump is enough.
+Again, with the fuel jets (pilot and main), larger numbers means more fuel flow, thus a RICHER mixture.  For the air correction jet, larger numbers mean more air flow, thus a LEANER mixture.
+The smaller jets WILL NOT work with the 009 distributor.  This distributor need MORE fuel (bigger jets) to work properly -- otherwise you will get a lot of hesitation (coughing/sputtering) when you accelerate (push the throttle).
+The air correction jet has to be the right size for the same reason.  This jet helps mix the fuel when the throttle butterfly is part way open, and so if you make it too big, it will let in too much air, and the engine will hesitate because of that.
+So a 34PICT/3 carburetor with an 009 distributor should be jetted with an X130 or X132.5 main jet, and an 80-100Z air correction.  Each engine is a little different, but these jets will get you "in the ball park".
+Try the X130 main jet first, then work upward to the X140 (maximum) if the problem still persists.  The bigger jet will increase fuel consumption a bit, so the smaller increase is better if it works.
+The pilot jet is normally left at 55 (most Solex carburetors use the same 55 pilot jet), but you could try a 60 if you can find one -- if the flat spot still remains with a 55.  Once again, try the conservative approach first, then get richer only if you have to.
+Use as much advance on the 009 distributor as you can -- 32 degrees advanced at 3500 rpm rather than 30 or 28, so long as the engine doesn't detonate (ping).  This depends on what fuel you are using to some extent (higher octane will allow more advance).  The extra advance helps reduce the 009 flat spot just a little.
+Also make sure the accelerator pump is set for full squirt, and is squirting straight down the throat past the opening throttle plate - not splashing on anything on the way.
+If you are using a 009 distributor with a 30PICT carburetor on a 1600 cc DP manifold, the main jet should be X130 or X132.5 and the air correction reduced to about 100Z.  This will richen the mixture and help eliminate any 009 flat spots.  You also set the accelerator pump for maximum stroke when using the 009.  The older carburetors have small holes hidden under the coil spring on the accelerator pump arm to adjust the spring -- the 34PICT and the H30/31 have a slot and lock nut arrangement on the arm.
+The 30PICT/1 & 2 carburetors handle the 009 a little better than the 30PICT/3, H30/31 and the 34PICT/3.  The last three carburetors are more sensitive, and so the lack of vacuum advance on the 009 makes more of an impact.
+~~~
+Carburetor Jetting With a 1776cc Engine
+Regarding the 1776cc engine:  the stock 34PICT/3 carburetor with a fractionally larger main jet and a fractionally smaller air correction jet to suit the higher air flow being asked of the carburetor should suit nicely.  The 34PICT normally has a X127.5 main and a 140Z or 170 air correction jet.  So with a vacuum distributor, using a 55 idle, X130 or X132.5 main and about a 100 - 120Z air correction jet should provide good mixture for a 1776, without affecting fuel economy to badly (fuel consumption WILL be a little higher with the larger capacity though).
+For a 1776cc engine with 009 distributor, 55 idle, X132.5 or X135 main, and air correct around 80Z should be close to the mark.
+Change the main first and do a plug read as above.  This will tell you if it's running rich or lean at speed and then you can set the air correction jet accordingly (smaller air correction means richer mixture - is delivers air so it works the opposite to a main jet.  The air correction jet affects mostly the high rpm -- not much effect on low-middle rpm).
+Try to use the leanest main jet you can -- too rich will only result in the cylinder oil film being diluted more, and this means higher cylinder wear.
+~~~
+Fuel Consumption/Performance
+Regarding fuel consumption as a function of jet size -- The 1600cc Beetle should get about 10-12km/l (24-28mpg).  If it is any lower the choke may be staying on too long, or it may be stuck on and won't open at all.  (See our
+Automatic Choke Discussion and Adjustment Procedure
+.)
+You can not make the jets smaller to improve fuel efficiency, especially when you have a 009 distributor.  You must do the opposite -- make the main jet a little bigger (X130 or X132.5) to stop the engine from hesitating when you accelerate.
+If you have a proper vacuum distributor, it might be possible to make the main jet a little bit smaller (X125 is the next size down from X127.5), but this will not make very much difference in the fuel consumption.
+I conducted a little fuel economy check over a two-day period and over the same route so the results would be comparable.  With a leaner 140Z air correction jet in the carburetor) I got 11.6 km/l (27.5mpg US).  With the richer 125Z air correction jet I got 11.8 km/l (27.9mpg) -- no real difference. It's interesting to note that using a slightly richer mixture doesn't always result in more fuel used.
+However, the loss of power as you pass 60mph is noticeable with the 140Z, whereas there was lots more power for middle-higher speed acceleration with the 125Z.  Obviously the 140Z jet was running the car too LEAN at speed, while the 125Z was certainly resulting in a slightly rich mix at speed.
+~~~
+Questions and Answers
+Someone wrote - I was advised to use a X125 main jet and 130Z air correction jet in my carburetor.  Rob responded - If you still have a vacuum distributor - yes.  For the 009 distributor and the 30PICT/2 carburetor, you need a X127.5 or X130 main jet and a smaller air correction jet - about 100-110Z.
+Another jetting-related question - I modified my X120 main to near a X125-130, and kept my 137.5Z air correction jets. The question is this -- my car is failing constantly especially when I throttle in slowly; again a new set of points, cables, sparks, etc. No blue fumes, so the piston rings are well installed. I played with the timing, the volume screw, almost everything, I even found a X120 main jet and tried that as well, but she's still failing.
+Rob responded - A X120 main jet would make it run leaner, and it sounds like it is too lean already.  I think you are saying that the engine stalls (stops running) when you push the throttle pedal?  If that's the case you need to make sure the idle cut-off solenoid is working (a nice click when you touch the wire on the connector) and that the idle jet (which it screws into) is not blocked.
+The 137.5Z air correction jet is too big -- it's letting in too much air.  If you can't find one at about 125-130Z, try a smaller one, say 110Z.  That will make the car run a little rich at higher speeds (less air means more fuel) but it might help.
+Another question - The car runs terrible but it runs.  All the plugs look the same -- black and fluffy, telling me a rich condition.  Rob responded - Yes, that sounds like a rich mixture.  Check the jets in the carburettor - if you have a vacuum distributor (you didn't say which sort you had), then the 34PICT/3 carburetor should have a 55 idle (right side of the carburetor.  There is also a 65 power jet there too) a X127.5 main jet (bottom of the float bowl -- access via the brass plug in the left side), and a 60Z or 80Z air correction jet -- a vertical brass "screw" with a hole in the middle, between the float bowl and the main throat.  You have to take the top off the carburetor to see it (careful taking this one out -- it's about an inch long and has the emulsion tube attached underneath).  The sizes are stamped in tiny numbers on the heads of each jet.  If you have a 009 distributor (no vacuum canister on the side), the main jet should be about X130 or X132.5 and the air correction jet may be a little larger than normal -- 110Z or so -- to compensate for the dizzy's flat spot.
+Another - You mentioned a bigger jet -- are they available?  Or should I open what I have or rob from a newer model?  Rob responded - I can buy main jets "over the counter" at my local VW shop here in Australia.
+Aircooled.Net
+has them, and I think
+Gene Berg
+in the US has them too.  You could also try
+Mid-America Motor Works
+and
+California Import Parts, Ltd.
+if you have trouble finding them.
+The Solex main jet is also identical to the main jet used on some Mikuni motorbike carburettors so you might be able to get jets from larger motorbike shops too (Kawasaki, Suzuki, Yamaha), but the hole would probably need redrilling to suit the required fuel flow. (Solex jets are marked with the hole size in mm, so a X127.5 jet has a 1.275mm hole - I'm not sure what numbering method Mikuni use).
+Air correction jets are harder to find.  I have 4-5 I've collected over the years, and the smaller ones can be re-drilled to the larger sizes.  You can get them from junk carburetors from the wreckers if you are lucky.  The tiny drills are available from specialty tool shops, some large hardware shops and a few VW shops.  They might be available individually or in a set.
+Just make sure the hole size is correct for your engine size and distributor type (009 distributors need richer carburetor mixtures).  So if you get a "too small" jet it's easy to drill out with the right sized drill, but if you get a "too large" jet it's not so easy.  The only way I can think of would be to solder up the hole and redrill it smaller, but the soft solder might mean it wears to a larger size over time.  I've never had to do this so don't even know if it would work well.
+A detailed question:  I have a Type 2 Bus, with a 1600cc single-port engine.  At the beginning I started to use a Solex 30 PICT-2.  It worked quite well, although the idle wasn't very accurate.  The carburetor was a little "leaky" around the shafts.  So I replaced it with a 30 PICT-3 carburetor in a good condition.  The biggest problem I have with it was the fuel consumption. I managed only 22 mpg on a highway (around 50-55 mph), and 19 mpg when I was driving around 60-65 mph.  Now I have installed a newer Solex Brosol 30/31 carburetor (the Brazilian one), in good shape.
+Could you help me with the jetting?  I have main jets: X117.5 and X127.5  and as far as I remember currently in the carburetor is a X125.  The air corrections I have are 125z, 170z and in the carburetor a 135z.  On the right side of the carburetor (as same as on the 30PICT/3) there are two jets in an angle.  The back one (pilot?) to the back of the engine, in an angle) is a: g f 50 and the other: g f 50.  Which one is which one?  I couldn't find it in any book.  And I have the by pass air cut off valve (12V thing) on the left side (as same as on the 30 PICT-3, which I have seen on pictures in books, but the by pass air cut of valve were always shown on the right side).
+My distributor is a vacuum advance (with a centrifugal?).  The numbers are: 231 168 015, and 043 905 205 L in the second line.  The condenser is 1 237 330 251.
+Could you help me with a few tips?
+Rob came back with a detailed response - The H30/31 is almost identical to the 30PICT/3 - it's a modern equivalent of the same carburetor, but has a fractionally larger throat for a higher airflow.  The H30/31 is the largest carburetor you can use with the normal single-port manifold.
+When used with the heavy bodied Type 2 vehicle and a vacuum distributor, it should work well with a 60 or 65 idle jet, 125 (or just maybe 127.5) main jet and a 125 air correction jet.  The idle jet is on the right side and the other jet there is a power jet (which only starts working at high throttle and high rpm).  I can't remember off-hand which is which, but the power jet is in a vertical protrusion on the side of the carburetor which leads up to the outlet for the power jet in the top of the carburetor...the other one is the idle jet.
+The idle jet is normally a little larger when used with the heavy bodied Type 2 and Karmann Ghias - in a Bug you usually use a 55, for a Type 2 or Karmann Ghia use a 60 or 65...this gives you a little more power at low and medium speeds.
+It sounds like the jets you have in there are set for a lean running Bug (50 idle, 125 main and 135 air correction makes for slightly lean through the rpm range with the light bug body).  With lean jetting you are likely to need more throttle and have slightly worse fuel economy - using the slightly richer settings I'd suggested above will give you a little more power and a cooler running engine, so hopefully fuel economy will improve a little, but don't expect too much - fuel economy with the heavy Type 2 body is never very good.
+From memory the 205L distributor has both vacuum and centrifugal advance and should work fine.  The 205L number is a Bosch number, the other one is a VW number.
+The 30PICT/2 carburetor has a fuel idle cut-off in the right side of the carburetor but the 30PICT/3 and the H30/31 should have an air idle cut-off in the left side for the carburetor (same as the larger 34PICT/3) -- that was part of the change to the /3 carburetor version -- moving the idle cutoff valve to the left side.
+* 
+                    * * * *
+Design by
+Erin

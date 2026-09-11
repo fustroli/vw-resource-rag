@@ -1,0 +1,48 @@
+Misfiring
+Misfiring
+See a more exhaustive discussion on the subject of
+Misfiring
+in our article on
+Ignition Wires and Spark Plugs
+.
+~~~
+Note:
+Before doing anything else, make sure the spark plug wires are securely attached at both ends; i.e., to the distributor cap and to the individual spark plugs.
+Dave wrote - It's amazing how poorly the Bug runs on three cylinders! I drove the Bug to work today and was appalled at the way it was performing.  During lunch I drove to my favorite sandwich shop in a neighboring city -- I couldnt believe, after all I had done, that it was running so badly.  I couldnt get it above 50 mph on the highway.
+When I got it home I opened the engine lid, and lo and behold!  The #3 spark plug wire was completely disconnected from the distributor cap!  Can you say, Doh!?  I took the cap off the other afternoon to tighten up the forward carburetor nut, and I guess I dislodged the #3 wire in the process.  And didnt notice it, of course!  I usually take a quick glance at all of the connections every time I open the engine lid, but I guess I was in a hurry this time.
+Im glad it was something so simple.  I was afraid that something major had gone wrong.
+Rob received a query regarding misfiring - During change out (of distributors) I got some of the wires mixed up and had a couple of miss fires but I believe they are all correct now.  During the fire up the engine would barely run -- it had a bad miss on one side.  Upon further investigation I found the # 4 cylinder is not firing.  All others seem to be working fine.  I checked all the wires -- all are in the correct order and appear in good condition.  I even checked the ohms to the other wires and they are the same.
+Common sense tells me I got gas I got fire -- what is wrong with this cylinder?  I even pulled the valve cover and all of the valves seem to be going up and down OK.
+OK - let's start at the top and work through it.
+Your tests are good so far (valves working, leads give similar ohms...).
+Which cylinder is what
+:
+front of car
+3          1
+4          2
+rear of car
+Distributor
+:
+front of car
+3          2
+o
+4          1
+rear of car
+(The o is the centre wire to the coil.)
+Firing order
+:
+1-4-3-2
+First check the points gap.  That sounds too simple to make sense, but if it hasn't been checked in a while you might find that the gap has closed to almost nothing and so is occasionally missing opening - thereby missing that spark (I've been there, done that).
+Check that the valves are properly gapped - if they are tight they will leak the cylinder gases past the valve(s) and this will cause a misfire.
+The engine in question is a single port 1500cc engine (though all aircooled VW engines use the same cylinder order and firing order).  It is pertinent to know whether it has been converted to twin port.
+If the single port heads have a loose manifold attachment (air leak), BOTH cylinders on that side will misfire.  With the twin port heads, it's just possible for a manifold air leak to one cylinder only (though it's still more likely that both cylinders on that side will misfire).  The twin port manifolds do need some careful attention to make sure they bed down correctly on the head so that they seal against the flat gasket. Single port engines use a circular copper gasket at the head/manifold joint, which is less prone to leakage.
+After checking that, check the plugs - swap plugs if you don't have a spare handy.  Does the misfire move with the plug?  I've had two Bosch plugs bad out-of-the-box, so I changed to NGK's several years ago - B5HS for the short thread heads or B5ES for the long thread heads.  NGKs are excellent plugs, very reliable, and they seem to last longer than the Bosch (sorry Mr. Bosch!).
+If the misfire doesn't move with the plug, then get a spare plug and connect the #4 lead to it and lie it down touching the engine case, and get a friend to spin the engine on the starter whilst you watch that spark plug - any spark? (sparks are easier to see at night or in the shade).  If you have a series of sparks then the plug still in the head is suspect.
+No spark?  Then try another lead (completely swap leads to the cylinders on one side if necessary).  If the misfire moves with the lead - the lead is toast.  If the misfire stays at the same cylinder, then maybe the distributor cap is toast.  Make sure all wires are seated properly on the cap, make sure it's clean (sparks can cross fire through dirt and crud left on the cap), both inside and out, and check for hairline cracks in the plastic of the cap.  Have a look at the posts inside the cap - do they all show similar burn marks where the spark jumps from the rotor arm to the post?  Maybe there is too much gap on the #4 post (bad cap?).
+Note:
+Don't use "Never Seize" or similar products on the plug threads - that stuff can cause conductivity problems in the hot-running VW heads.  So long as you remove and install plugs when the engine is cold you won't have a problem with seizing, and you'll also avoid stripping plug threads.  Hot heads make the threads very tight on the plugs, so let the engine cool before removing them.
+~~~
+* 
+                    * * * *
+Design by
+Erin

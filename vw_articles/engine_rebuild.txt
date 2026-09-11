@@ -1,0 +1,110 @@
+Engine Rebuild
+Engine Rebuild
+We are not engine rebuild experts; we generally leave this kind of work to the professionals.  However, we do have a few notes to share from our experience that may be helpful to others.
+The best Web site we have found regarding the rebuilding of a Volkswagen engine is
+A First Timer's 1600cc Engine Rebuild
+by Ron Van Ness.  It's a lengthy article covering a FULL engine rebuild.  There are some useful bits in there, and a list of various components and their cost and the names of some VW suppliers.
+With this basis, specific topics covered in this article -
+Signs That You May Need An Engine Overhaul
+As You Contemplate the Job
+Rings
+Valves
+Head Removal
+Piston-Cylinder-Ring Kit Installation
+Crankshaft/Bearing Replacement
+Engine Case Replacement
+New Engine
+Run-In
+Dual-Port to Single-Port Conversion(and vice versa)
+1300cc to 1600cc Conversion
+~~~
+Signs That You May Need An Engine Overhaul
+When your engine starts to get tired, one of the first symptoms will be blowing smoke. Leakage past worn piston rings and the resulting excess oil film in the combustion area of course, (and worn bearings resulting in more oil splash at the back of the pistons which resulted in more oil on the cylinder walls for the worn rings to miss), and then he described the effect of worn valve guides (they wear mainly because the rockers work them at an angle, so side-load the valve stems a little), and once you get worn guides, you tend to get a lot of burnt gases getting into the rocker covers and from there to the sump, and from there to the breather and so you get a lot of oily/burnt air being fed down the carby, so it smokes from there too.  In other words, you cant always pick on any one cause for a smoky exhaust -- it could come from several directions.
+~~~
+As You Contemplate the Job
+Don't underestimate the amount of work involved in rebuilding your engine.  You have to take the engine out, remove a heap of tinware (the cooling shrouds etc), the inlet manifold, the heads themselves, the cylinders, the pistons, then start the process in reverse, making sure each piece is clean and fits right.  And maybe your heads will need work or replacing   you wont know for sure until you remove and inspect them.  It's straightforward, but it DOES take time, so you can't just say, "I'll do it next weekend" and expect the car to be back on the road on Monday.  As a first time effort -- there will ALWAYS be something that bogs you down (a part you hadn't thought of, or the heads needing work for example).  But if you are prepared to take your time, and go carefully at it, and be prepared for the inevitable frustrations it will bring, it can be done by anyone with a small amount of mechanical knowledge, and who has a few essential tools, such as a good set of box-end wrenches (ring spanners), a torque wrench (absolutely essential), and various screw drivers, pliers etc.  And read the relevant parts of the Bentley or Haynes workshop manual too.
+If your engine needs an overhaul, a ring-only job is just a temporary fix, because the pistons and cylinders will be worn too.  Since a complete set of matched pistons/cylinders is less than $200 in the US, it's a good investment in long engine life.  The only trick is getting the RIGHT sized set, since they come in 77, 83, 85.5, 87, 88, 90.5 etc mm for different capacities.  Some are difficult to find (83mm for example). Some are completely interchangeable (83 and 85.5, 87, 88 for example) -- some require cylinder head work to fit, so you would need to take at least one cylinder head off and measure a cylinder diameter so he can get an identical set.  85.5mm is the most common size for the 1600cc engine, but COULD be any of the others, since VW engines and some components are so interchangeable. If money is a problem, you could go for a set of rings only, but expect them to last only about 10-20,000 miles.  And you'll still have to do exactly the same amount of work to replace the rings as to replace the cylinders -- no savings there.
+~~~
+Rings
+Using new rings will help fill the grooves in the piston, but not completely as the grooves actually widen slightly from the rings pounding against the upper and lower sides of the groove as the piston moves up and down, so the fix isn't total on old pistons.  And to compound it, the cylinder will be worn too (from the rings scraping on them), so the piston becomes a sloppy fit and more gases  can squeeze down the sides; plus the fact that the rings are pushing out against a slightly larger (worn) cylinder, so the gap in the rings is bigger than it should be.
+All this means that new rings in old cylinders/pistons will help, but not for very long, and the compression still won't be as good as fitting new cylinders/pistons.
+The VW engine is great for this job though.  In most cars, you have to get the cylinders in the block machined to an oversize, then fit oversize pistons and oversize rings to match.  With the easily replaceable cylinders/pistons in the VW, you save a lot of time -- which equals money if you have to have it done at a shop; and you CAN do it yourself because no machining tools are needed.  Bonus either way.
+With the heads off, try wiggling the pistons sideways and up/down.  They should move just a fraction inside the cylinder (aluminium and steel expand at different rates when hot, so a small allowance is made for that) but should not be a sloppy fit.  If they are, a cylinder/piston set is needed. The correct clearance between piston and cylinder is between 0.0014 and 0.0020" for the 1200 and 1300 engines, and 0.0016" and 0.0024" for larger engine sizes. This is done by measuring both the piston and cylinder separately, not by poking a feeler gauge between piston and cylinder.
+Then remove at least one cylinder (maybe #3), carefully remove the top ring from the piston, and insert it in the cylinder.  There should be a small gap between the ring ends -- 0.0012"-0.0017" for the compression rings and 0.0010"-0.0015" for the oil scraper ring (all engines). If there is an obvious big gap, or the ring looks thin, replace ALL the rings in all cylinders as a minimum.  Of course a piston/cylinder set would be better (around $200 US), but ring replacement will get you another 10-20,000 miles or so before the cylinders have really had it (provided the pistons weren't too loose).
+A hose clamp of about 3.5-4 inches makes an excellent ring compressor (if you don't have a compressor tool) when reinstalling the cylinders over the pistons.
+It is NOT recommended to change the piston rings on their own - they won't last very long, and will make the worn cylinder wear even more quickly. With the VW engine, you get a much better result if you replace the cylinders, pistons and rings as a complete set. That way you get maximum mileage for your money.
+~~~
+Valves
+One of the basic tenants of VW repairs is "Replace the Exhaust Valves at 50,000 miles or when you take the heads off if sooner".
+The exhaust valves are probably the hardest working component of the VW engine, and they are not too pricey to replace.  Since a dropped valve can do an awful lot of expensive damage, replacing them when the heads are off is good insurance.  The inlet valves don't need it nearly so often -- they run much cooler and so don't stretch/break like the exhausts. Use only high quality exhaust valves -- stainless steel is not necessary, but no JC Whitney stuff here please.
+While you've got the heads off I would strongly recommend that you have the valves done, and while you're at it take a close look at the rings.
+A few words on valve clearances.  VW originally recommended .004" for all valves.  But that small clearance did require that the valve clearances be checked often - preferably at each oil change. That way, any stretching (titghtening) of the exhaust valve would be picked up before it became a problem.  But any lazy maintenance could lead to problems, so from 1971 onwards, VW started recommending 0.006" valve clearance for ALL engines, to allow some leeway in maintenance before any exhaust valve problems occured.  You can still use 0.004" for ALL engines if you check your valve clearances regularly, and it will give you a slightly quieter engine.
+~~~
+Head Removal
+Replace a broken exhaust stud without removing the heads if that's possible, and then use expanding push rod tubes to fix the oil leaks. Re-torque the heads before you put the engine back in, to make sure the cylinder-to-head seal is good.
+If you have to remove the heads, be very careful cleaning the carbon out so the cylinder seating area is not damaged, and replace the heads on the same side so there is less chance of leaks. If you have to remove the heads, you can use the original push-rod tubes if they are OK - just stretch them a few millimeters and use new end-seals.
+~~~
+Piston/Cylinder/Ring Kit Installation
+If the crankshaft and other internal parts are in really good condition you can just put a new cylinder/piston set in and away you go.  My very first "rebuild" was to do this (which also turned my 1500 (83mm) into a 1600 (85.5mm) since I used the 1600 cylinders and pistons - they are a straight swap and fit both the case holes and the heads), but the next time the cylinders were worn out, the whole engine needed a complete rebuild because the internal case parts were also very worn by that time.  That engine now has nearly 400,000km, and it was getting very tired again just before the accident which squashed my Bug.  He's being very slowly rebuilt, but I think the engine will need another complete rebuild once I get him going again (or a new engine).
+~~~
+Crankshaft/Bearing Replacement
+(See our article on
+Bearings Replacement
+.)
+~~~
+Engine Case Replacement
+With the new (rebuilt) engine case Dave got a new engine number -- AD 2,059,089R, as opposed to what it used to be - AE 320891.  In Rob's
+"Changes Through the Years"
+article it says --
+Engine AD 0,000,001 - AD 0,360,022 50bhpDIN 65bhp SAE 1600
+Engine AE 0,000,001 - AE 0,558,000 47bhpDIN 60bhp SAE 1600(USA)
+Obviously that DOESN'T mean we have more hp now, since that is determined by the displacement, etc.  The "R" at the end of the engine number is probably an added "rebuild" symbol -- VW didn't use letters at the end of the number.  Strange though - the AD numbers ended with 990,000 in 1973!
+Rob's note:
+The AD series engines were not sold in the USA, as they are a "non emissions" engine, so Dave's AD engine case probably originated in Canada or somewhere else.  The USA used mostly the AE lower compression engine at that time. The AD case was also the usual 1600 engine supplied in Australian bugs from 71 to 73.
+~~~
+New Engine
+You might just put some money away every week and when you have enough just buy a Mexican-built brand new engine.  I believe that they are very good, and this means it's only a day to replace the complete engine, and your bug is back on the road again.  Those engines come as carburettor or fuel injection models, so you just choose whichever suits your bug.
+The cost of a new engine is about the same as a complete rebuild of the old one.
+When you are in the market for a new engine, you will run across the term "long block."  A "long block" usually means a bare engine which is complete -- including the heads.  You then install the tinware, inlet manifold, distributor, fuel pump and exhaust from the old engine.  There would still be plenty of work to do, but quite straight forward "bolt it on" stuff -- nothing which needs an engineering degree to figure out.  A long block would include a reground crankshaft, new main bearings, conrod bearings, oil seals, valves and so on (which your engine wouldn't have if you only did the cylinder/pistons).  Around $550 (in 2006) is an average price.
+~~~
+"Run-In"
+A full run-in is needed to harden new cam lobes - at first start go straight up to 2500 rpm and hold it there for 15 minutes, then change the oil.  This sounds counter-intuitive, but it works.  The high revs are at no-load so it does not harm the ring seating, and it WILL make your camshaft lobes last longer. Then gentle driving for 500 miles and change the oil again, then it's finished. Don't lug the engine during this intial period, use higher revs and a lower gear when climbing hills rather than lower revs and a heavy throttle. Towards the end of that period, a few short runs at high revs and a few harder accelerations are fine. After that you can drive it normally.
+If you're only replacing the engine case, that means the cam shaft, pistons, cylinders, heads, valves etc. are all the same, so running them in is not necessary.  But the crankshaft bearings will be new, and a little gentle running till they settle in is wise.
+An oil change at about 100 miles, just to flush out any metal particles which may be in there from the internal work that has been done, is useful.  Then at 500 miles if you want too (to be a bit Irish...to be sure to be sure), then normal 3000 mile oil changes.
+The mechanic who replaced Dave's engine case and crankshaft said that run-in wouldn't be necessary.  He put all of the parts together with oil, he said, so a preliminary spin wouldn't be necessary.  And he said it wouldn't be necessary to change the oil for 3000 miles.  Rob said, It's only precautionary, a hundred miles is enough to dislodge any tiny fragments of metal which are always likely after a rebuild of any sort, no matter how careful you are/he is.  I'd rather flush away a sump full of good oil than risk anything staying in there for 3000 miles.
+And a quick check of the valve clearance when you first change the oil to make sure nothing has tightened up and they should be fine.
+~~~
+Dual-Port to Single-Port Conversion
+(and vice versa)
+You can do it either way.  The only difference is two of the cylinder studs (upper centre ones) are shorter for the dual-port heads, and the inlet manifold and upper cylinder tinware are different.
+The 1600cc pistons and cylinders will fit straight into the case holes of a 1300cc or 1500cc beetle, but if you try to use the 1300cc heads the compression ratio will be too high -- about 8.4:1, and you would need higher octane gasoline/petrol -- so ideally you also need a set of 1600cc single-port or dual-port heads (depending on which inlet manifold you have).  With that, you have converted the engine to a 1600cc with normal 7.5:1 compression ratio, and horsepower will rise from about 44 to about 56hp for the 1600cc single-port or 58-60hp for the 1600cc dual-port.  You can continue to use the 30 or 31 sized carburettor with the 1600cc engine, but you'll probably need to change the jets to suit the higher airflow.
+I've heard two stories about using the 1300cc heads.  It was my belief that they would actually fit on the 1600cc cylinders without modification, but others have said "you need to fly-cut the heads".  Whether the fly-cutting was to change the combustion chamber volume (re the compression ratio issue) or whether it was because the TOP of the 1600cc cylinder is different to the BOTTOM (since the bottom definitely fits into the same case hole), I don't know and the folks saying "fly-cutting is needed" won't say. I haven't tried this particular modofication myslef, having only ever owned 1500 and 1600 bugs.
+In any case as the result would be very high compression and replacing the heads with 1600cc heads (larger combustion chamber) is a better option, so you dont have to use high octane fuel.
+The smaller 30 series carburetors will sit on a dual-port manifold (on a 30/34 adaptor) but the larger 34 won't sit on the smaller single-port manifold, so with a single port engine, the carby of choice is usually the 30 or 31 series, since it will work OK with 1200/1300/1500/1600cc engines (although it's at it's limits with the 1600cc engine).  The 1600cc dual-port engine really needs the doghouse fan shroud, but you can get away with the older 1300/1500cc shroud with the 1600cc single-port engine with its few less horsepower.
+It's amazing what a mix-n-match engine the VW has.
+~~~
+1300cc to 1600cc Conversion
+Someone wrote to ask about installing a 1600cc kit on a 1300cc engine.
+Rob responded - Both the 83mm (1500cc) and 85.5mm (1600cc) cylinders will fit straight into the 1300 case without any machining.  All three sizes have the same ouside diameter but have different wall thicknesses, so they all fit in the same cylinder holes in the case.
+The oversize 87 (1641cc) and the original 88 (1679cc) cylinders will fit too, but these have very thin walls and can sometimes warp. There is a more recent devlopment there though.  The "slip in" 88s have VERY thin walls and should be avoided, but you can buy "machin in" 88s which are thin at the bottom to fit into the unaltered case, but stepped above the case for nice thick cylinder walls so they will last as ling as the stock 1600 cylinders.  But the top of the cylinder is now a slightly larger diameter, so the 1600 heads need flycutting a little so they will fit over the cylinder tops. You might then find that the slightly increased compression ratio (up from 7.5:1 to about 7.9:1) might need a slightly higher octane fuel to avoid detonation/pinging.
+You can use the 1300 cylinder heads on a 1600 engine, but there are two problems.
+The valve sizes are a little small, which will restrict breathing for a 1600cc.
+The compression ratio will jump to about 8.4:1, since you are squeezing more cylinder volume into the same head space.  This needs about 98 RON octane (about 95AKI in the USA) to stop detonation.
+I have 1600cc P&Cs (pistons and cylinders) in my 1500cc engine and I use the 1500cc cylinder heads (a straight swap), but this has a more modest increase in compression ratio, about 8:1 and this needs 93 RON octane (about 89AKI in the USA) gasoline.
+For best results, you need a set of 1600cc single port heads to go with the 1600cc P&Cs.  This results in 7.5:1 compression ratio and you've effectively built yourself a stock 1600cc single port engine.
+You'll also find that the gearing might be a little on the low side for a 1600cc engine -- very good acceleration but not much extra top speed.
+The 1300cc uses a 4.375 final drive and 0.98 4th gear which gives about 3400rpm at 60mph (and the car has a maximum speed of about 75mph).  The 1500cc and 1600cc single port engines used a 4.125 final drive and the same 0.89 4th for about 3200rpm at 60mph and these cars have a top speed of about 80mph with the taller gearing.
+For you information, the 4.375 and 4.125 final drive crown wheels and pinion are a straight swap in the same gearbox.
+Carburation is another thing to think about.  If the 1300cc carburetor is original, it will have a 30PICT/1.  This size will JUST handle the 1600, but with some rejetting (see our article on
+Carburetor Jets
+) and it might run a little lean at higher speeds since these carbs did not originally  have a power jet -- that came with the 30PICT/2 version fitted to the 1500cc engines. Some later versions of the 30PICT/1 DID have a power jet, and these would work better than the original 30PICT/1 - about the same as the 30PICT/2.
+But the modern replacement H30/31 carburetor is a good match for the 1600cc single port engine.  It has a slightly larger throat than the 30 series for better breathing, it fits on the same single port manifold, and it can be jetted for any size engine from 1200cc to 1600cc.  If you live higher than 5000' above sea level you have to consider that in selecting jet sizes too.
+Timing with this 1600cc single port engine will be 7.5 degrees BTDC if you have a single vacuum distributor.  If you have a 009 distributor, set it to as much of 28-32 degrees max advance at 3000+rpm as it will take without detonating and let the idle fall where it may (009 distributors vary -- they are cheaply built, and maximum advance is more important that idle advance with these distributors).
+If you leave the engine with the original in-shroud oil cooler arrangement there is a chance the engine will run a little hot.  This hasn't proven to be a problem with my 1500cc converted to 1600cc (which has the same fan as the 1300/1500), but it MIGHT be a problem depending on your climate, carburetor jetting, altitude and so on, so just keep an eye on it. You MUST use all the correct tinware pieces to ensure you get the maximum cooling. If you need to improve cooling with the existing fan and in-shroud oil cooler I can make some suggestions.
+You would get the best cooling results if you can convert the cooling system to the doghouse cooler and shroud. This fan is a little wider for more overall airflow, and the oil cooler is moved out of the main airstream so the left cylinders get nice cool air for their cooling.
+The oil pump can stay the same.
+Don't forget to get your brakes in good condition -- stopping before you hit something is a better idea than hitting it at a higher speed :-)
+* 
+                    * * * *
+Design by
+Erin

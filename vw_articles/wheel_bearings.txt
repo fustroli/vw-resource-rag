@@ -1,0 +1,61 @@
+Front Wheel Bearings
+Front Wheel Bearings
+See our procedure on
+Repacking the Front Wheel Bearings
+.
+~~~
+Dave expressed apprehension over replacement of the front wheel bearings.
+Rob wrote - No need to be apprehensive, they are no problem at all.  The outer bearing in each wheel is smaller than the inner bearing so can't be put in wrong, and if you don't need to replace the outer races then the inners will go in only one way. If you do need to replace the outer races, they knock out of the drum from the opposite side and the new ones just tap into place.  Just make sure they are the right way round so you can see the face of the ball race -- so that the bearing itself will slip inside the outer race.  The grease seal at the inner end of the spindle just presses into the drum and the nut on the outer end is tightened until it starts to bind, loosened and then finger tightened before the grub screw it tightened to lock the nut in place.  The big washer under the nut should have a "key" which fits into a slot cut through the threads on the spindle so it won't spin under the nut.
+Dave wrote - This morning I went out and lifted the front the of the car and pulled both front wheels off.  I figured I might as well re-pack the front wheel bearings, since I had to take the outer race out to get the right drum off anyway, so I went ahead and repacked the bearings with lithium grease before putting the drum back on.
+The outer races looked really good, so I repacked them and just smeared a new layer of grease over the inner ones with my finger and let them go at that.  It's been many years since I've done that little job.
+It looks to me like the only thing that holds the wheel on is that center nut with which you adjust the wheel bearing.  That seems way insufficient -- can you enlighten me?
+Rob responded - The bearings are tapered so they take the side loads of cornering.  Same deal on the disc brake models.  Now that I think of it -- removing the discs DOES involve the outer bearing races coming off with the wheel.  In fact I think I have to remove bearing cage of the smaller bearing before I can remove the disc from the axle (don't do it too often to remember exactly you understand).  So the whole drum (or disc) is held in by the one locking nut on the axle.  I guess that's why there is a substantial lock on it.  I'm assuming it's similar to mine -- a grub screw arrangment through the split nut so when tightened, the grub screw clamps the nut to the axle threads.
+And subsequent to that thought, I just remembered why the larger bearing comes off with the drum -- there is (on the discs, and I'm assuming on the drums too), a grease seal which holds the larger bearing cage in place.  You can replace the grease seal by tapping from through the drum with a piece of hardwood and a hammer (see more detail below).  You work round and round, moving the seal a mm at a time.
+If there is any evident of grease getting past this seal, or the soft lip of it looks worn/damaged, it's a good plan to replace it.  The bearings (races and cages) are original on my car, and the outer races ARE very tight in there.
+Later Dave wrote - I'm thinking seriously about replacing the brake drums, which I suppose also means I will have to replace the front wheel bearings.
+Rob responded - You don't necessarily have to replace the bearings at the same time as the drums.  My bearings are all original -- even after 245,000 miles.  I just clean them out about every 5 years and repack with Castrol LMM (Lithium) grease (the nearly empty 1-lb grease pot is about 15 years old!)  Then once a year I adjust the front bearings to check for any looseness (snug the lockable nut tight, then loosen it a little until the wheel spins without dragging).
+Dave asked - If I replace the brake drums, will I need to take the new drums to a shop to have the new bearing races pressed into the hub?  I suspect so -- the Book says the larger inner bearing races and the small outer bearing races must be pressed into the new hubs.
+~~~
+Instructions from "How to Keep Your Volkswagen Alive --
+Step-By-Step Procedures for the Compleat Idiot,"
+by John Muir (with Rob's comments)
+Muir writes -
+They have fixed it so that it takes a special press tool to do this job.  Any hydraulic press will do it, but if you don't have one, you certainly need to take it to a shop.  They usually use a special puller which makes the job easier.  So pay them and thank them nicely, then go home and start below.
+Rob -
+Muir doesn't say anything about the grease seal.  Once the inboard inner race is pressed into place, a new grease seal must be pressed in.
+This you CAN do yourself.  The grease seal is rubber coated, and has a spiral spring around a groove in the seal.  This spring keeps the inner sealing lip in contact with the axle as the wheel and seal rotate. This spring must face the inside of the bearing, so you only see the back of the seal when you install it.  Place the drum on a clean flat surface, then  smear a thin coat of grease on the seal where is will slide into the drum, place it on the drum and place a piece of smooth flat wood over the back of the seal.  Now tap the wood with a mallet or hammer, gently working around the perimeter of the seal so it goes in a little at a time.  It doesn't take a lot of force, but must be done evenly around the perimeter of the seal so it doesn't end up distorted.
+Muir -
+The VW people have an odd idea about packing wheel bearings and it is their car, so we go with them.  They pack the hub full, as you probably discovered when you cleaned it.  In the American cars the bearings are packed, not the hub.  The Type I ... take(s) 50 grams of wheel bearing grease, a small handful ... then it'll last 30,000 miles.
+Rob -
+The bearings are not sealed themselves, so the hub needs to be packed with grease.  This supplies a very large quantity of grease to the bearings, and so they last a long time.  If the grease is renewed about every 30,000 miles (the grease seal too) the bearings will last forever.
+Muir -
+Start jambing wheel bearing grease into the outboard end of the drum hub.  Fill the whole hub with your other hand covering the inboard hole.  Push the grease in really well, think of the 30,000 miles and smile.  Untangle yourself from this situation long enough to pack the outboard bearing the same way, then put it in an unsullied place, ready to hand.  Wipe your greasy hands clean again, grab the (brake drum) and push it onto the axle.
+Help is nice at this point as you are trying to put the wheel on the axle while keeping grease in the hub with your third and fourth hands.
+Rob -
+Any grease which get pushed out as the axle comes through is easy to push back in by running a finger round and round the axle.
+Muir writes -
+As soon as the axle appear out the hub, pick up the outboard bearing and push it on, as it helps to hold the grease in.  Don't be so enthusiastic about shoving grease back that you push it out the back hole.  Just use all that it will hold.
+Rob -
+If this process is done right, you'll probably find that the NEXT time you do it there will be a small ridge of grease around the inside of the end (bearing) cap, close to the bearing.  This means that the hub was nice and full, as when it got warm and expanded, a little was pushed out past the outer bearing and the spinning wheel stuck it to the inside of the bearing cap.
+Muir -
+When the axle is out as far as it will come, tap the outboard bearing into its race and the hammer and dull chisel.
+Rob -
+The race has been fitted previously of course, so this just means inserting the bearing cage over the axle.
+Muir -
+Lift the wheel straight up with your foot so you can tap the bearing in.  Clean up around the place with a 
+little rag or rags, then go to the next step and adjust the bearings.
+Put the washer on the axle, then the ... nut (left axle has left hand threads).
+Rob comments -
+Good point that one.  Designed so that if the allen key is not tight enough, the rolling wheel/drum will tend to do the nut up, rather than loosen it.
+Muir -
+Use the crescent wrench to run this nut up pretty tight (7 ft-lb) while you hand turn the drum.
+Rob comments -
+Nice and snug -- as I've mentioned before.  You should feel the drum start to bind.  Keep turning the wheel/drum as you do this to help the bearing seat all the way in.)
+Muir -
+This turning will take the slack out of the bearings.  Now loosen the nut with the crescent a little at a time until you can just move the washer under the nut with the big screwdriver.  Tighten it again, then loosen it until you can just move the washer.  When that washer first moves upon prying it, this is the point that gives the wheen about .001" of end play.
+Rob -
+I haven't done it exactly this way. I've just tightened it up until it started to bind, loosened it until the binding was free, then HAND (or a very light hand on a wrench) tightened it until it was just touching against the washer.  Then I've grabed the upper and lower edges of the drum and push/pull to check for any play (look closely at the grease around the small bearing/washer/nut to see if it "bulges" as you push pull).  Re-do the tightening sequence if necessary.  If it's loose the wheel will wobble -- even if you can't feel it -- and wear the bearings out, and if it's too tight, there will be insufficient grease between each roller and the race, so the bearing will run hot.
+* 
+                    * * * *
+Design by
+Erin

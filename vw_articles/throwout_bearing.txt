@@ -1,0 +1,43 @@
+Throwout Bearing
+Throw-out Bearing
+Note:
+Also known as the
+Thrust Bearing
+and the
+Clutch Release Bearing
+.
+See also our
+Throw-out Bearing Replacement
+procedure.
+~~~
+Discussion
+Dave wrote - This little bearing concerns me.  It has a clip on either side with a springy-loopy wires that secure the bearing to the little arms that stick down from the release shaft.  I had a fairly difficult time getting these wires hooked in right, and I never was sure that I had the bearing the right way to.  The wires were much looser than I thought they should be, thus my concern.  Do you have any suggestions that might help me install this new throw-out bearing correctly?
+Rob - I crimped those wire clips a little tighter before I installed them -- the last time I did this job was when the clutch plate went bad (two of the fingers went soft and bent slightly), resulting in much clutch shudder and one of the clips being thrown completely off the pin. The poor old throw-out bearing was jumping about on the remaining pin, and needed replacing big time.  Those same (rebent) clips are still in the car and doing fine.
+The inner section (the free spinning part) of the throw-out bearing must of course face the clutch plate.  So long as the clips are firm (don't need to be real tight) you wont have any problems.  They just prevent the throw-out bearing from "leaving" the throw-out fork, they don't take any load at all.
+Also check the inner ends of the clutch plate fingers -- these should be bright near the ends where the throw-out bearing touches, but not worn thin -- into a step -- or does yours have a slip-ring (my name for it) on the inner ends of the fingers?  I forget which is which -- earlier and later models of clutch are different here -- one has "free" fingers, and one has a ring for the throw-out bearing to touch.
+Note:
+1973 and later models have the clutch plate with the "free" fingers.
+Dave - No, it has the diaphragm spring fingers that impinge on the throw-out bearing.  If worn thin (into a step) I suppose it will be necessary to replace the pressure plate.
+Rob - Yes, though a small amount of wear will not be a problem.  I thought about my comment later and decided that the earliest VWs had the ring on the clutch plate side.  The earlier VW throw-out bearings were a carbon ring which needed a smooth surface on the clutch side on which to slip -- no ball bearings or grease here (you didn't "ride" this clutch if you wanted the throw-out bearing to last!).  My original clutch was like this (it also had the nine coil spring clutch plate rather than the diagphram type), but I replaced it with the later type about 78 or so, when the first clutch plate wore out.
+Dave - There seems to be a bit of a buildup on bearing surface
+  Should I try to clean it off and then put on a light coating of grease before putting it back in?
+Rob - A clean-up wouldn't hurt, but it should not need any grease on the rubbing surface, as, when you use the clutch, that surface should almost instantly spin up to the engine speed and then be stationary against the clutch fingers (not actually stationary of course, but spinning with the clutch plate).  It does very little 'sliding' to need any lubrication. Any loose grease in this area is SURE to find it's way on to the clutch plate, and then heelloo slippy clutch.
+The bearing should be easy enough to rotate in your hand, and not notchy or lumpy as it rotates.  If in doubt -- replace it.  This bearing will age faster if the driver has a 'resty' foot which constantly finds the clutch pedal a convenient place to perch.
+Also check the inner ends of the clutch plate fingers.  These should be bright near the ends where the throw-out bearing touches, but not worn thin -- into a step (clutch riding shows up here too).  Or does yours have a slip-ring (my name for it) on the inner ends of the fingers?
+Dave - The new bearing came from
+Aircooled.Net
+yesterday, and it has the little wire clips attached on either side.  My problem before was that for some reason I took the clips off of the ears on either side of the bearing, and I wasn't sure that I'd reattached them properly.  With the clips in place on the bearing, this new one should be very straightforward to install.  I guess the little hook-end clips over the flat arms which project from the operating shaft.
+Rob - I think I have the spring clip set-up.  My 70 Bug originally came with the old style coil spring pressure plate, but I changed that at about 70,000 miles (from memory that's how long the first clutch plate lasted) with the then "new" diaphragm pressure plate and ball throw-out bearing.  The original throw-out bearing on Bertie was a carbon ring which rubbed on a chrome coloured ring on the pressure plate -- no ball bearing at all.
+New Throw-out Bearing - '73 Super Beetle
+~~~
+Dave - Is the thrust bearing design the same in both your 68 and 70 Bugs?  There must have been a change right about then, as my parts supplier sent me the wrong one once.
+Rob - They are different.  My 68 Bug has simple shaped horseshoe clips and round ears which sit in the operating arm.  My 70 Bug has the flat ears with funny shaped wire clips ('73-'74 gearbox I think).
+Dave - My 73 SB has the latter (see picture above).
+Rob - Yes, I thought so.  Your description didn't sound like the thrust bearing in my '68 Bug; then when I pulled the engine out of my 70 Bug I could see better what you'd described.
+Dave - When I was first dealing with the bearing I was confused by the fact that it just flops around in there, even with the clips properly installed, but I guess once things are all reassembled it fits in snugly.
+Rob - The thrust bearing in my 68 Bug doesn't flop much (except what the operating arm allows).  I found that the 68 style wire clips are harder to install than the 70 variety, though I once had the thrust bearing in my 70 Bug spring one loose (TERRIBLE clutch shudder and noise!) so I guess the redesign had a purpose.
+The thrust bearing is physically pushed into line when you put your foot on the clutch and force it onto the fingers -- since the operating arm works in an arc it has to be free to rotate a little to match the fore-aft motion of the clutch plate fingers.
+* 
+                    * * * *
+Design by
+Erin

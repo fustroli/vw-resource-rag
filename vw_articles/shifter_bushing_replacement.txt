@@ -1,0 +1,62 @@
+Shifter Bushing Replacement
+Shifter Bushing Replacement
+Note:  This procedure was developed from experience with a 1973 Super Beetle, but the techniques are generally applicable.
+~~~
+Parts Needed -
+Bushing and clip
+Coupler and associated hardware
+Shift rod hanger (if bracket is excessively worn).
+Procedure -
+The night before starting this job, crawl under the front of the car and apply Kroil penetrating oil to the eight bolts that hold the "crash plate" to the frame head.
+Note:
+If you will not be removing the shift rod you will not need to remove the "crash plate."  There is sufficient room in the Super Beetle "nose" to slide the shift rod out of the bushing without extending it out of the front of the frame head.
+Remove both of the front seats to provide more convenient access.
+Move the floor mat around the gearshift lever out of the way.
+Remove the rear seat.  Underneath it in the center you will see an inspection cover that is held in place with a single screw.  Remove this inspection cover; there you will find the back end of the shift rod and the coupling that connects it to the transmission shaft.
+Run the shift lever through the gears (including reverse) and note the position of the coupling in each gear for future reference.
+Put the shift lever in neutral.  Mark the position of the stop plate in relation to the ball housing flange to ensure proper alignment during installation.  Incorrect alignment of the stop plate in the shift lever assembly can cause shifting problems.
+Using a 13mm wrench, remove the two M8 x 20 bolts that hold the gearshift assembly to the tunnel.
+Remove the shift lever, ball housing, rubber boot and spring as a single unit.
+Before removing the stop plate, note the orientation of the raised tabs on the stop plate.
+Note:
+Regardless of the design of the stop plate, the important thing to remember is that the stop plate must be reinstalled with the tab(s) oriented exactly the same way they were before removal.  If the stop plate is put on backwards when you reassemble things, you will not be able to get the car into reverse.
+Inspect the rubber boot, the shift lever collar, stop plate and shift lever ball socket in the shift rod for wear.  Replace any worn parts.
+Disassemble the shift lever assembly.  Sand and paint the shift lever if it  needs it.
+Note:
+While you're there, this is a good opportunity to spruce up the handbrake lever and heater control levers if they need it.
+Look down into the hole where the shift lever was; you will see a cup.  Stick your finger in the cup and rotate it side to side.  If it has any play up and down or side to side, the shift rod bushing (sleeve guide, per Bentley) is worn and should be replaced.  Rotating the shaft should be easy, with no play.
+Move to the rear end of the shift rod. Move the rod back and forth and side to side, just as you did in the front.  If there is any play in the coupling, you will need to replace it.
+Remove the little square-headed bolt from the back part of the coupling.
+While holding the tube that runs through the coupling with pliers on the other side, remove the self-tapping screw that goes through the coupling and the shifter rod.  Turn the coupler as necessary to gain access.
+Crawl under the front of the car and remove the deformation element ("crash plate") that is bolted on the front of the frame head with eight bolts.  This will provide access to rectangular hole in the frame head through which the shift rod must pass if you plan to remove it.
+Working from the shift lever hole in the frame tunnel between the front seats, grab the shift rod with a regular pair of pliers (opened to the wider opening) to pry the shift rod forward and separate it from the coupling in the rear.
+Apply grease liberally to the rod right in front of the bushing and pry it back and forth to lubricate the bushing--this will make it easier to slide the rod through the bushing.
+Continue to pry the shift rod through the guide bushing toward the front of the car.  This will be slow going, as you will only be able to pry it forward an inch or so at a time, but persevere.
+Note:
+Rotate the shift rod so that the cup is pointing downward before prying it forward, otherwise it will run into the forward captive nut on the hanger bracket and other internals in the tunnel.
+Once the rear end of the shift rod is clear of the guide bushing, move to the front of the car and reach in to the hole in the frame head to find the front end of the rod (it won't be sticking out of the hole).
+Pull the shift rod forward through the tunnel and out the hole.  Remove the cover plate in the nose apron under the front bumper and pull the shift rod out.
+If you take the shift rod completely out, inspect it for distortion.  Replace it if it's warped or damaged (a bent shift rod can cause hard shifting and/or loss of first and third gear).
+Clean the shift rod up as best you can (most easily done by removing it completely from the car).  If the shift rod has a lot of surface rust on it, it may be difficult to slide it back into the new bushings; you may want to wire brush it a bit.  You especially want the rod to be very smooth in the area where it rests in the bushing.  Use a wire brush and fine emory cloth if necessary.
+Remove the old worn bushing from the bracket by pulling it--and the "clip"  (actually a rubber O-ring on the replacement bushing) out the shift rod hanger bracket with a pair of pliers (fingers work well also).
+Inspect the bracket that held the bushing in the shift rod hanger.  If it has become egg-shaped it will have to be replaced.  This will involve drilling out the six spot welds (three on either side of the shift hole) and then rewelding the new hanger in place.
+Note:
+The hanger has captive bolts on the bottom side, front and back, that hold the whole shift lever assembly in place.  However, the hanger must be spot welded in place before the shifter assembly is installed so that the shift rod can be pushed through the bushing.
+Install the bushing, smaller end first, into the shift rod hanger with the slot pointing to the left of the car.  The flange on the bushing should be on the FRONT side of the bracket, with the clip immediately behind the flange (in front of the bracket).
+Apply a good lithium (white) grease liberally to the end of the shift rod and the interior of the bushing, and start the rear end of the shift rod through the bushing.  Repeat the prying potion with the pliers, only in the opposite direction.  Smear grease onto the rod as it is pushed back through the bushing.  The fit will be snug and difficult with all the grease, but hang in there.
+Work the rod almost all the way back to the rear, raising the rear end of the rod as you go to clear the rear footwell cable tubes in the tunnel.
+Install the coupling onto the rear of the rod by inserting the tube through the coupling and the hole in the rod from one side and screwing in the self-tapping screw from the other.  You must hold the rod with pliers on one side and push/turn the screw on the other--a bit tricky.
+Just before pushing the rod back the last inch or so, smear a lot more grease around the rod where it will be in the bushing.
+Clean all shift lever parts thoroughly and re-assemble the shift lever assembly.  Lubricate all moving parts with multi-purpose grease.  Pack the shifter cup and the bottom of the shift rod assembly (where the spring is) with grease.
+Install the shift lever assembly.  Make sure the shift lever locating pin (if there is one) engages the slot in the ball socket and the stop plate seats in the hollow central part of the ball housing.  If the shift lever is installed and seated properly, it will be vertical when it is in neutral.
+Install the ball housing flange bolts loosely.  Match up the alignment marks of the flange, stop plate and tunnel.
+Before tightening the shifter bolts, confirm that the assembly is positioned so that the shift lever is vertical in neutral.  Then tighten the shifter bolts.  Recheck the position of the shift lever and readjust as necessary.
+Go to the rear seat area, and while guiding the new coupler onto the transmission shaft, push the shift lever forward into either first or third gear and push the coupler onto the transmission shaft.
+Replace the square-headed bolt (a 10mm hex head bolt in the new design) on the top rear of the coupler, making sure that it screws into the indented hole in the transmission shaft..  Make sure all fasteners are tightened securely.
+Replace the access panel under the rear seat and put the seat back in.
+Replace the "crash plate" on the front of the frame head if it was removed to allow removal of the shift rod.
+Replace the tunnel mat, carpeting, and the front seats.
+* 
+                    * * * *
+Design by
+Erin

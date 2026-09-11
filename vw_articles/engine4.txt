@@ -1,0 +1,79 @@
+Engine Removal Procedure
+Engine Removal Procedure
+See our
+Engine Reinstallation Procedure
+to do that job.
+Also see our
+Discussion Regarding Engine Removal
+.
+~~~
+Materials Needed -
+Small trolley jack.
+Four jack stands with supports to give a total rise of 30 inches.
+Jack pedestal consisting of six 3" independent layers; top 15" x 24".
+One piece of 3/4" plywood, 15" x 24."
+Wheels, blocks, boards, bricks, etc. to make two engine pedestals, 24" high.
+~~~
+Engine Removal Procedure -
+Disconnect the grounding strap from battery.
+Loosen the lug nuts on the rear wheels, as they will need to be removed.
+Raise the front of the car as far as the trolley jack allows and support it securely on jack stands.
+Note:
+Take note of the jack stand height and any supports under the jack stands at each stage of the process so it can be duplicated on the way down. The top of the jack stands must ALWAYS be higher than the lowest point of the jack when all the way down.
+Take the trolley jack to the rear and raise the rear of the car as high as the jack will allow (with the jack on the floor) and place jack stands under the rear torsion bars.
+Remove the rear wheels.
+Return to the front of the car. Elevate the trolley jack using the jack pedestal described above with the 3/4" plywood piece on the top. Note the  number of 3" layers used at this step. Before raising the car, make sure there is ample room in front of the jack on the plywood for it to move forward.  Raise the front of the car as much as possible and extend the jack stands or place blocks of wood securely under them as needed.
+Return to the rear and repeat the process. Continue raising the front and rear of the car until it has been raised high enough for the fan shroud to clear the lowest point under the rear of the car as the engine is pulled out (resting on the creeper)--about 28 inches.
+Remove the jack pedestal from under the car temporarily.
+Remove the air cleaner and any emissions hoses from the fan housing.
+Carefully remove the fresh air hoses and lay them aside where they will not be damaged.
+Note:
+Lay all of the bits and pieces and associated hardware aside is a safe place such that it can be easily identified and retrieved.
+Remove the alternator/generator wires.
+Disconnect the wiring harness in the engine bay--coil, idle cut-off solenoid, automatic choke, backup lights (if your car has them), oil pressure switch.  Secure the wiring up to the left and out of the way.
+Disconnect the accelerator cable and pull it from the front through the fan housing.
+Remove all of the rear tinware from around the engine pulley, and the small "box" shaped tinware pieces near the outer ends ot the heat riser tube.
+Remove all of the rubber from around the rear of the engine (you can remove the engine with the rubber in place, but you risk damaging it as the engine is lowered past it).
+If your car is equipped with a vacuum-advance distributor with the silver vacuum canister on the side, loosen the distributor clamp with a 10mm socket and turn the distributor all the way to the left to get the vacuum chamber out of the way, otherwise it will hit the rear apron as the engine is lowered.
+Remove the muffler as follows:
+Remove the cover plates over the intake manifold preheater pipe connections. [Dave - If I'm not mistaken - these must already have been removed to move the lower rear tinware - I think they are screwed to that rear tinware aren't they - working from memory here.]
+Unbolt the preheater pipes from the muffler.
+Remove the nuts, bolts, and clamps that join the heat exchanger outlet pipes to the flanged pipes on the muffler.
+Remove the four nuts (two on each side) that hold the muffler to the rear cylinder heads. Note that on most VW models, there is a piece of metal carburettor preheater tubing on the right side (close to the cylinder head finning) which is attached to one of the exhaust flange studs.
+Pull the muffler to the rear and off of the car.
+Note:
+If you have a standard muffler set-up, it can remain in place and the peashooter exhaust pipes make good "handles" for manouvering the engine. If you have a non-standard muffler, you may need to remove it to avoid interference with the body during engine removal.
+Crawl under the car and remove the heater cables from the lever arm assemblies on the heater boxes and the flexible tubes off of the heater boxes.
+Remove the fuel line from the fuel pump and stuff a pencil into the end.  Pull the fuel line forward through the firewall and attach a hose clamp firmly onto the engine end. Tie the fuel line back out of the way of the engine tinware.      It helps to have the tank nearly empty to reduce any leaks from the fuel line.
+Note:
+The foregoing assumes that you have a flexible fuel line around the left side of the engine to the fuel pump. The original fuel system has a metal pipe sticking forward through the engine tins, and coming to a point near the fuel pump (around the left side of the shroud), so that only short lengths of flexible tubing are needed at each end to connect to the body fuel line, and the fuel pump. With this set-up, you need only pull off the forward flexible tube near the gearbox (leaving the tube on the body fuel line) and plug that.
+Rebuild the pedestal under the center of the engine and place the trolley jack on top of it.
+Make platforms of blocks and nominal 2-inch wood on either side of the pedestal that the jack is resting on, underneath the heater boxes. Total height of these platforms will need to be a couple of inches higher than the low point     of the jack after the engine is off of it so that the jack and pedestal can be removed, leaving the engine resting on the two block/wood platforms.
+Place a piece of 2x4 across the trolley jack, centered under the oil sump. Snug the jack up with the wood across the engine case for added support.
+With the engine supported by the jack with a piece of 2x4 under the oil sump, remove the four nuts/bolts that connect the engine to the transaxle.  Each of these connections is different; they are described as follows:
+Upper right: This is a free bolt which also serves as the starter motor upper bolt. It is most easily disconnected by removing the nut inside the engine bay, in front of the fan shroud on the right-hand side, using a 17mm box-end wrench (ring spanner). Once the nut is removed, just pull the bolt forward and leave it in place.
+Upper left: This is also a free bolt located just inboard of the clutch lever at the top of the transaxle. The nut in the engine bay is captive on "doghouse oil cooler" engines, so the bolt must be removed from the front, as there is no access in front of the fan shroud. This is best done using a 6-inch extension on a 1/2-inch rachet with a 17mm nut. Approach the bolt with the long extension above the clutch cable. A good light up under there is a great help.
+Access is easier on the older "internal oil cooler" engines, as the nut is available in front of the fan shroud just as on the right side.
+Lower right and left: These two connection points are studs which come out with the engine. The nuts are located at the ends of the frame forks on the lower side of the transaxle. They are most easily removed with a 17mm box-end wrench (ring spanner).
+Pull the engine back on the trolley jack; wiggle it up and down and back and forth if necessary. Lower the engine VERY slowly while pulling it back enough to clear the gearbox drive shaft; don't lower it too much until the engine is clear of the gearbox drive shaft.
+Note:
+There is JUST enough room for the generator/alternator pulley to clear the rear apron. Be careful not to put any weight on the gearbox drive shaft, as it can be bent and ruined. If you are stuggling for room to move the engine backwards, you can remove the generator/alternator pulley nut and rear-half of the split pulley wheel to gain a little extra manouvering room - but not much, as the generator/alternator shaft is still projecting to the rear. This may be useful if you are leaving the rear engine bay sealing rubber in place, as the rim of the pulley wheel tends to catch on the rubber as the engine is lowered.
+Lower a bit, pull back, lower a bit, pull back, etc. Support the engine with one hand on the fan housing to keep it from tipping either from front-to-back or side-to-side as you are lowering it.
+Note:
+You'll need to look past the front of the engine tinware to make sure that you can see the gearbox shaft and that the engine is clearing it. If the rear corners of the tinware are square and the engine bay is round, clearance may be VERY tight. (The shape of the engine tin at the back of the engine changed in about 1973, but the earlier engine tinware will still "sort of" fit.) It may be necessary to tilt the engine to one side, then lower it so that the tinware clears on that side, then skootch it in that direction and tilt it the other way to get the other side clear.
+All of a sudden you'll find the engine is supported only by the trolley jack.
+Gently lower the engine so that the heater boxes are resting on the block/wood platforms.
+Carefully raise the engine again and remove one block from each side, then lower the engine onto the side pedestals and lower the jack pedestal by one tier. Repeat the process until the engine is lowered as far as possible with the jack (it will still be resting on about three or four blocks). Remove the jack and any remaining jack pedestal pieces.
+Run the creeper about half way under the engine.
+Manually lift one side of the engine and remove one of the remaining supports. Repeat on the other side and so forth until the engine is resting on the creeper.
+Note:
+If you don't have a creeper, lower the engine onto a sheet of plywood or similar. It can be pulled backwards, sliding on the plywood. It's heavy, though -- about 200 lbs, so a creeper makes the job a lot easier. DON'T try to slide it on bare concrete - you'll make a mess of the alloy attachment points for the underside tinware screws, and maybe the oil drain cover plate too.
+Pull the engine (on the creeper) out from under the car so it can be worked on.
+~~~
+See our separate
+Engine Reinstallation Procedure
+.
+* 
+                    * * * *
+Design by
+Erin

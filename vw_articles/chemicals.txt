@@ -1,0 +1,108 @@
+Chemicals
+Automotive Chemicals
+and Lubricants
+A number of automotive chemicals and lubricants are available for use during vehicle operation, maintenance and repair.  They include a wide variety of products ranging from gasoline and motor oil to lubricants, cleaning solvents and degreasers, and protective sprays for rubber, plastic and vinyl.
+~~~
+Please note:
+To work with chemicals safely, it is imperative that you understand the nature and degree of any hazards that may be associated with them. For instance, the nature of gasoline is that it is flammable and volatile; the degree of these hazards is VERY in both cases.
+All chemicals sold in the United States have associated with them a written Material Safety Data Sheet (MSDS) that tells all about the chemical. You can request an MSDS for any chemical you purchase from the supplier.  Similar material regarding chemical hazards is found on the product label.  It is a wise precaution to read and understand the hazards associated with the automotive chemicals you will be working with BEFORE you start to work with them.
+~~~
+Operational Chemicals -
+Gasoline
+, of course, is the most widely-used automotive chemical (actually a mixture of chemicals).  See our article on
+Fuel
+for a more complete discussion of gasoline.  Also, see our article on the
+Safety Precautions
+you should follow when dealing with gasoline.  It's important that you know that gasoline is VERY volatile (vapor pressure 525 mgHg@25
+o
+C) and VERY flammable (flashpoint 45
+o
+F below zero).
+Gas Additives
+perform several functions, depending on their chemical makeup.  They usually contain solvents that help dissolve gum and varnish that build up on carburetor, fuel injection and intake parts. They also serve to break down carbon deposits that form on the inside surfaces of the combustion chambers.  Some additives contain upper cylinder lubricants for valves and piston rings, and others contain chemicals to remove condensation from the gas tank.
+Motor Oil
+is the lubricant formulated for use in engines.  It normally contains a wide variety of additives to prevent corrosion and reduce foaming and wear.  Motor oil comes in various weights (viscosity ratings) from 5 to 80.  The recommended weight of the oil depends on the season, temperature and the demands on the engine.  Light oil is used in cold climates and under light load conditions.  Heavy oil is used in hot climates and where high loads are encountered.  Multi-viscosity oils are designed to have characteristics of both light and heavy oils and are available in a number of weights from 5W-20 to 20W-50.
+Oil Additives
+range from viscosity index improvers to chemical treatments that claim to reduce internal engine friction.  It should be noted that most oil manufacturers caution against using additives with their oils.
+Brake Fluid
+is specially formulated hydraulic fluid that can withstand the heat and pressure encountered in brake systems.  Care must be taken so this fluid does not come in contact with painted surfaces or plastics.  In addition, brake fluid is toxic and can severely damage the eyes.  An opened container should always be resealed to prevent contamination by water or dirt.  For hazards associated with brake fluid, check the Material Safety Data Sheet (MSDS) available from the supplier.
+~~~
+Lubricants -
+Motor Oil
+(see above).
+Gear Oil
+is designed to be used in differentials, manual transmissions and other areas where high-temperature lubrication is required.
+Chassis and Wheel Bearing Grease
+is a heavy grease used where increased loads and friction are encountered, such as for wheel bearings. balljoints, tie-rod ends and universal joints.
+High-Temperature Wheel Bearing Grease - HTBG
+is designed to withstand the extreme temperatures encountered by wheel bearings in disc brake equipped vehicles. It can usually be used wherever normal bearing grease is specified too.
+Extreme Pressure (EP) gease
+is similar to HTBG but it has additives which reduce friction in very high load areas. It usually contains molybdenum disulfide (moly). It is particularly suitable for Constant Velocity (CV) joints.
+White Grease
+is a heavy grease for metal-to-metal applications where water is a problem.  White grease stays soft under both low and high temperatures (usually from -100 to +190 degrees F), and will not wash offer dilute in the presence of water.
+Silicone Lubricants
+are used to protect rubber, plastic, vinyl and nylon parts.
+Graphite Lubricants
+are used where oils cannot be used due to contamination problems, such as in locks.  The dry graphite will lubricate metal parts while remaining uncontaminated by dirt, water, oil or acids, It is electrically conductive and will not foul electrical contacts in locks such as the ignition switch.
+Moly-Penetrants
+are used to loosen and lubricate frozen, rusted and corroded fasteners and prevent future rusting or freezing.  Examples are Liquid Wrench, Kroil, Duroil.
+Of special note here is Kroil, the best penetrating oil and rust buster I've found.  It is made by
+Kano Laboratories
+in Nashville, TN.  Call them at 800-311-3374 and ask for their trial offer.
+~~~
+Maintenance/Repair Chemicals -
+Mineral Spirits
+(claims to be odorless, but it isn't, really).  Also called petroleum spirits or white spirits, this solvent is a mixture of hydrocarbons with a flashpoint above 100
+o
+F (making it much safer to use than gasoline, which has a flash point of 45
+o
+F below zero).  Mineral spirits are used to remove grease from the outside of the engine and for cleaning of parts.
+Carburetor Cleaner
+is a strong solvent for gum, varnish and carbon.  Most carburetor cleaners leave a dry-type lubricant film which will not harden or gum up.  Because of this film it is not recommended for use on electrical components.
+Brake system cleaner
+is used to remove grease and brake fluid from the brake system, where clean surfaces are absolutely necessary. It can often eliminate brake squeal caused by contaminants. It often contains Isopropyl Alcohol, which evapourates quickly leaving no residue.
+Contact Cement
+is a neoprene-based adhesive in methyl ethyl ketone (MEK) solvent.  Contact cement is good for bonding large, flat surfaces, such as carpet.  It is usually applied by brush to both surfaces that will be bonded.  See our
+Carpet Procedure
+for application instructions and precautions regarding the use of MEK.
+Methylene Chloride
+-based paint removers.  Methylene chloride works very well for stripping paint, such as when preparing the car for repainting.  It is soluble in water, which makes for easy cleanup.  You should wear appropriate gloves, as methylene chloride is a severe eye and skin irritant and causes a burning sensation on contact.  Be careful about getting it too hot; methylene chloride boils at 105
+o
+F.  Methylene chloride is also listed as a suspected human carcinogen.  Despite all of the hazards associated with methyline chloride, it's the best stuff we've found for stripping paint off of your Bug.  Please note the precautions provided in the MSDS on the container label, and use it carefully.
+Lacquer Thinner
+will occasionally find application is automotive repair or maintenance.  It works well as a solvent when overhauling/cleaning carburetors, as it contains toluene.  Toluene is relatively flammable, with a flash point of about 45
+o
+F.  Chronic or frequent exposure can caust brain damage.  Due to rapid vapor spread from this lacquer thinner, the work area should be adequately ventilated and all sources of sparks or flames should be eliminated. Please note the precautions provided in the MSDS on the container label, and use the material carefully.
+Fuel Tank Cleaning Chemicals;
+e.g. -
+POR-15 Marine Clean
+A water-based cleaner and degreaser.  Supposedly "non-toxic, bio-degradable, non-hazardous," a highly concentrated alkaline cleaner.  Long exposure to this chemical could result in severe burns.  Protective gloves and clothing should be used.
+POR-15 Metal Ready
+A powerful rust remover and pre-primer.  The recommended preprimer for rust preventive paint; guarantees perfect adhestion to steel, iron, aluminum and galvanized metal.  Metal Ready is an eye irritant.  Avoid excessive contact with skin; use of gloves is strongly recommended.  Contains phosphoric acid.
+POR-15 Fuel Tank Sealer
+Chemically bonds to metal and seals tank with a non-porous flexible film.  Seals pinholes and seams.  Used in conjunction with POR-15 Marine Clean and POR-15 Metal Ready.
+Waxes and Polishes
+are used to help protect painted and plated surfaces from the weather.  Different types of paint may require the use of different types of wax and polish.  Some polishes utilize a chemical or abrasive cleaner to help remove the top layer of oxidized (dull) paint on older vehicles.  In recent years many non-wax polishes that contain a wide variety of chemicals such as polymers and silicones have been introduced.  These non-wax polishes are usually easier to apply and last longer than conventional waxes and polishes.
+~~~
+Sealants -
+RTV Sealant
+is one of the most widely used gasket compounds.  Made from silicone, RTV is air curing, it seals bonds, waterproofs, fills surface irregularities. remains flexible. doesnt shrink, is relatively easy to remove.  RTV is used as a supplementary sealer with almost all low and medium-temperature gaskets. VW designed their engines to NOT use sealants, so if you decide to use some, make sure it's a THIN layer and that you will be able to separate the parts infuture if needed.
+Anaerobic Sealant
+is much like RTV in that it can be used either to seal gaskets or to form gaskets by itself.  It remains flexible, is solvent resistant and fills surface imperfections,  The difference between an anaerobic sealant and an RTV-type sealant is in the curing.  RTV cures when exposed to air, while an anaerobic sealant cures only in the absence of air.  This means that an anaerobic sealant cures only after the assembly of parts, seating them together.
+Thread and Pipe Sealant
+is used for sealing hydraulic and pneumatic fittings and vacuum lines.  It is usually made from a Teflon compound, and comes in a spray. a paint-on liquid and as a wrap-around tape.
+~~~
+Miscellaneous Chemicals -
+Anti-Seize Compound
+prevents seizing, galling, cold welding, rust and corrosion in fasteners.  High-temperature anti-seize, usually made with copper and graphite lubricants, is used for exhaust system and exhaust manifold bolts.
+Anaerobic Locking Compounds
+(e.g., Loktite) are used to keep fasteners from vibrating or working loose and cure only after installation, in the absence of air  Medium strength locking compound is used for small nuts, bolts and screws that may be removed later.  High-strength locking compound is for large nuts, bolts and studs which arent removed on a regular basis.
+Weatherstrip Adhesive
+is used to bond weatherstripping around doors, windows and trunk lids.  It is sometimes used to attach trim pieces.
+Undercoating
+is a petroleum-based tar-like substance that is designed to protect metal surfaces on the underside of the vehicle from corrosion.  It also acts as a sound-deadening agent by insulating the bottom of the vehicle.
+Last modified June 2019
+* 
+                    * * * *
+Design by
+Erin

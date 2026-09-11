@@ -1,0 +1,531 @@
+Bentley Index
+Index to the Bentley
+'70-'79 Beetle Manual
+~~~
+Most folks who have purchased the Bentley Manual have found it very useful but have wished for an index so they could find subjects easily.  Dave prepared the following index for his own use, but he thought that others might find it useful too.  Feel free to print it.  If you find any errors, we'd like to know - send us an email by clicking on "Contact Us" at the end of the page.
+To jump to a particular subject, choose a letter below
+(for instance, "C" for carburettor, "S" for suspension)
+~~~
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+R
+S
+T
+U
+V
+W
+Index
+Volkswagen Official Service Manual
+Super Beetle, Beetle & Karmann Ghia
+1970 - 1979
+by Robert Bentley
+~~~
+Accelerator pump, adjusting...............................................2-15
+Activated charcoal filter, replacing.....................................10-12
+Air cleaner..........................................................2-3, 2-16
+Air cleaner, servicing...................................................10-11
+Alternator and regulator, testing and repairing...........................7-21
+Alternator and regulator, removing and installing.........................7-17
+Alternator/generator belt, checking and adjusting........................10-9
+Automatic Stick Shift...............................................Section 9
+Automatic stick shift, adjusting final drive..............................9-32
+Automatic stick shift, clutch.............................................9-15
+Automatic stick shift, control valve......................................9-9
+Automatic stick shift, differential.......................................9-29
+Automatic stick shift, general description................................9-4
+Automatic stick shift, maintenance........................................9-6
+Automatic stick shift, removing and installing............................9-14
+Automatic stick shift, selector lever.....................................9-38
+Automatic stick shift, service adjustments................................9-8
+Automatic stick shift, tanks..............................................9-40
+Automatic stick shift, technical data.....................................9-41
+Automatic stick shift, torque converter...................................9-11
+Automatic stick shift, transmission.......................................9-20
+Automatic stick shift, troubleshooting....................................9-6
+Axle beam, removing and installing........................................6-19
+Axle beam, general description............................................6-3
+Back To Top
+Ball joint play, checking................................................10-15
+Ball joint and tie rod seals, checking...................................10-15
+Ball joints, repairing and replacing......................................6-15
+Ball joints, checking.....................................................6-13
+Battery...................................................................7-6
+Battery charging..........................................................7-8
+Battery, checking and filling............................................10-17
+Battery, general description..............................................7-4
+Battery, removing and installing..........................................7-8
+Battery, servicing and testing............................................7-6
+Bearing clearance.........................................................1-45
+Body and Frame......................................................Section 4
+Body and frame, maintenance...............................................4-3
+Body on frame, removing and installing....................................4-29
+Brakes and Wheels...................................................Section 5
+Brake backing plate, removing and installing..............................5-24
+Brake cylinder paste......................................................5-27
+Brake drum specifications.................................................5-25
+Brake drums, reconditioning...............................................5-25
+Brake drums, removing and installing......................................5-21
+Brake fluid reservoir, filling............................................5-4
+Brake fluid, changing.....................................................5-26
+Brake fluid reservoir.....................................................5-4
+Brake fluid reservoir, removing and installing............................5-4
+Brake fluid, checking and changing.......................................10-16
+Brake fluids..............................................................5-26
+Brake hoses, removing and installing......................................5-10
+Brake light operation, checking..........................................10-16
+Brake light warning switch, checking.....................................10-16
+Brake light/warning light switches, testing and replacing.................5-8
+Brake lines, removing and installing......................................5-9
+Brake lines and hoses.....................................................5-9
+Brake lines and hoses, checking..........................................10-16
+Brake linings, checking..................................................10-16
+Brake, parking............................................................5-27
+Brake pedal travel and freeplay, checking................................10-16
+Brake shoes, removing and installing......................................5-22
+Brake system, checking for leaks.........................................10-16
+Brake system, flushing....................................................5-27
+Brake troubleshooting.....................................................5-28
+Brakes, bleeding..........................................................5-26
+Brakes, bleeding with pressure bleeder....................................5-26
+Brakes, bleeding by pumping...............................................5-26
+Bumper molding, replacing.................................................4-6
+Bumpers...................................................................4-4
+Buzzer, warning...........................................................7-37
+Back To Top
+Camber, checking and adjusting............................................6-4
+Camshaft and bearings, checking and installing............................1-43
+Camshaft and crankshaft...................................................1-43
+Car care, basic..........................................................10-18
+Carburetor...........................................................2-3, 2-8
+Carburetor, adjusting.....................................................2-10
+Carburetor, disassembling and assembling..................................2-12
+Carburetor float bowl, adjusting fuel level in............................2-14
+Carburetor part numbers, 34 PICT-4........................................2-20
+Carburetor, removing, rebuilding and installing.....................2-11, 2-15
+Carburetor settings and jets..............................................2-20
+Carburetor troubleshooting................................................2-9
+Charging system...........................................................7-14
+Charging system, general description......................................7-4
+Clutch....................................................................1-5
+Clutch and flywheel.......................................................1-30
+Clutch cable, replacing...................................................1-36
+Clutch operating shaft, removing and installing...........................3-12
+Clutch pedal freeplay, checking..........................................10-12
+Clutch pedal freeplay, adjusting..........................................1-35
+Clutch release bearing, replacing.........................................1-34
+Clutch release mechanism..................................................3-4
+Clutch, removing and installing...........................................1-30
+Clutch troubleshooting..............................................1-36, 1-37
+Coil......................................................................1-51
+Commutator, servicing.....................................................7-18
+Compression, checking....................................................10-10
+Computer analysis, general description....................................7-4
+Connecting rods...........................................................1-5
+Connecting rods, removing.................................................1-48
+Connecting rods, checking and installing..................................1-48
+Connecting rods, reconditioning...........................................1-50
+Constant velocity joints, servicing.......................................3-8
+Constant velocity joints, removing and installing.........................3-6
+Constant velocity joint screws, checking.................................10-13
+Constant velocity joint books, checking..................................10-13
+Constant velocity joints, technical data..................................3-62
+Cooling air system........................................................1-12
+Cooling air system, removing and installing...............................1-12
+Cooling system............................................................1-5
+Crankcase.................................................................1-5
+Crankcase, disassembling and assembling...................................1-41
+Crankshaft and camshaft...................................................1-43
+Crankshaft and bearings...................................................1-5
+Crankshaft, disassembling and assembling..................................1-46
+Crankshaft end play.......................................................1-47
+Crankshaft oil seal, removing and installing..............................1-33
+Crankshaft pulley, removing and installing................................1-14
+Crankshaft reconditioning.................................................1-47
+Crankshaft, removing and installing.......................................1-45
+Cylinder head, removing and installing....................................1-19
+Cylinder heads............................................................1-5
+Cylinders and pistons.....................................................1-5
+Cylinders, general........................................................1-26
+Cylinders, removing and installing........................................1-26
+Back To Top
+Dashpot, adjusting........................................................2-11
+Diagonal arm, disassembling and assembling................................3-58
+Differential, disassembling and assembling................................3-20
+Differential in case, removing and installing.............................3-16
+Differential servicing....................................................3-19
+Dimmer relay..............................................................7-27
+Disc brakes (Karmann Ghia only).................................5-10 thru 5-20
+Distributor...............................................................1-51
+Distributor and drive.....................................................1-14
+Distributor, checking....................................................10-10
+Distributor, disassembling and assembling.................................1-55
+Distributor drive shaft, removing and installing..........................1-15
+Distributor, removing and installing......................................1-14
+Door and hood hinges, lubricating........................................10-17
+Door check, removing and installing.......................................4-16
+Door contact switches.....................................................7-26
+Door handle, removing and installing......................................4-16
+Door, removing and installing.............................................4-12
+Door striker plate, adjusting.............................................4-13
+Door trim panel, removing and installing..................................4-15
+Doors and door locks......................................................4-12
+Doors, hoods and windows, general description.............................4-3
+Double-jointed axle driveshaft, technical data............................3-62
+Drive pinion, dissassembling and assembling...............................3-39
+Drive pinion, repair procedures...........................................3-39
+Drive pinion, adjusting...................................................3-46
+Drive plate and flywheel..................................................1-5
+Driveshafts, removing and installing......................................3-5
+Drum brakes, adjusting....................................................5-21
+Drum brakes...............................................................5-20
+Back To Top
+Electrical System....................................................Section 7
+Electrical system maintenance.............................................7-4
+Electrical system voltage and polarity, general description...............7-4
+Electromagnetic cutoff valve, checking....................................2-15
+Emission controls...............................................1-5, 2-3, 2-17
+Engine...............................................................Section 1
+Engine and clutch maintenance............................................10-9
+Engine data, general......................................................1-57
+Engine, general description...............................................1-4
+Engine idle, checking and adjusting......................................10-11
+Engine maintenance........................................................1-6
+Engine mounting...........................................................1-5
+Engine oil, changing.....................................................10-9
+Engine oil viscosities...................................................10-5
+Engine, removing and installing...........................................1-6
+Engine technical data.....................................................1-57
+Evaporative emission control..............................................2-17
+Exhaust emission control troubleshooting..................................2-17
+Exhaust gas recirculation.................................................2-18
+Exhaust gas recirculation filter, servicing..............................10-12
+Exhaust system............................................................1-9
+Exhaust system, checking.................................................10-11
+Back To Top
+Fan housing, partial removal..............................................1-12
+Fenders and running boards................................................4-7
+Final drive, adjusting....................................................3-43
+Final drive gears.........................................................3-4
+Flywheel and clutch.......................................................1-30
+Flywheel and drive plate..................................................1-5
+Flywheel, removing and installing.........................................1-32
+Foot brakes, general description..........................................5-4
+Frame.....................................................................4-28
+Fresh air fan, general description........................................7-4
+Fresh air fan.............................................................7-36
+Fresh air ventilation, removing and installing............................4-20
+Front Axle..........................................................Section 6
+Front axle maintenance....................................................6-4
+Front axle technical data.................................................6-31
+Front bumper, removing and installing.....................................4-4
+Front fender, removing and installing.....................................4-7
+Front footwell flaps......................................................4-20
+Front hood lock, removing, installing and adjusting.......................4-9
+Front hood and hinge, removing and installing.............................4-9
+Front seats, removing and installing......................................4-17
+Front suspension, general description.....................................6-4
+Front wheel bearings (strut front suspension).............................8-8
+Front wheel alignment.....................................................6-4
+Front wheel alignment (strut front suspension)............................8-4
+Front wheel bearings......................................................6-8
+Front wheel bearings, checking and adjusting..............................6-9
+Front wheel bearings, removing and installing.............................6-8
+Fuel cutoff valve.........................................................2-8
+Fuel filler flap and cable, removing and installing.......................4-12
+Fuel gauge sending unit and fuel pickup...................................2-4
+Fuel gauge troubleshooting................................................7-38
+Fuel gauge sending unit, removing and testing.............................7-38
+Fuel Injection......................................................Section 11
+Fuel injection maintenance...............................................11-4
+Fuel injection, troubleshooting..........................................11-5
+Fuel injection system, testing and repairing.............................11-7
+Fuel injection, adjusting................................................11-22
+Fuel injection, intake air system........................................11-25
+Fuel injection, testing and replace EGR valve............................11-17
+Fuel injection, general description......................................11-3
+Fuel System.........................................................Section 2
+Fuel pump, removing and installing........................................2-6
+Fuel pump troubleshooting.................................................2-5
+Fuel pump and lines..................................................2-3, 2-5
+Fuel pump data............................................................2-20
+Fuel pump, disassembling and assembling...................................2-7
+Fuel pump pressure and delivery capacity, checking........................2-7
+Fuel storage..............................................................2-3
+Fuel system technical data................................................2-20
+Fuel system maintenance...................................................2-4
+Fuel tank, corroded, treating.............................................2-4
+Fuel tank, removing and installing........................................2-4
+Fuses.....................................................................7-5
+Fuse locations in fuse box................................................7-5
+Fuses, in-line--replacing.................................................7-6
+Back To Top
+Gear carrier, repair procedures...........................................3-29
+Gear carrier, disassembling and assembling................................3-28
+Gearshift lever and shift rod, removing and installing....................3-10
+Generator/alternator belt, checking and adjusting........................10-9
+Generator and regulator, in-car testing...................................7-15
+Generator brushes, replacing..............................................7-18
+Generator, disassembled--testing..........................................7-20
+Generator, disassembling and assembling...................................7-18
+Generator field windings, testing.........................................7-20
+Generator, removing and installing........................................7-17
+Generator technical data..................................................7-15
+Generator troubleshooting.................................................7-15
+Generator troubleshooting.................................................7-15
+Generator types...........................................................7-14
+Back To Top
+Headlights, replacing and aiming..........................................7-25
+Heat exchangers, removing and installing..................................1-11
+Heated rear window........................................................7-34
+Heater control flaps, replacing...........................................1-8
+Heating and ventilation, general description..............................4-3
+Heating and ventilating systems...........................................4-19
+Heating cables and flaps, adjusting and replacing.........................4-19
+Hoods and fuel filler flap................................................4-8
+Horns and buzzers.........................................................7-36
+Horn, troubleshooting and adjusting.......................................7-36
+Back To Top
+Ignition switch, removing and installing..................................7-23
+Ignition system, general description......................................7-4
+Ignition system......................................................1-5, 1-51
+Ignition timing, checking................................................10-11
+Ignition timing ....................................................1-53, 1-54
+Instruments...............................................................7-37
+Instruments, general description..........................................7-4
+Instruments, removing and installing......................................7-38
+Intake air preheating system, checking and adjusting......................2-16
+Intake manifold...........................................................1-12
+Back To Top
+Lights and switches.......................................................7-25
+Lights, general description...............................................7-4
+Lights, checking.........................................................10-17
+Locks, lubricating.......................................................10-18
+Lubricants...............................................................10-4
+Lubricating front end....................................................10-14
+Lubricating front wheel bearings.........................................10-15
+Lubrication and Maintenance.........................................Section 10
+Lubrication and maintenance, test equipment..............................10-4
+Lubrication and maintenance operations...................................10-9
+Lubrication system........................................................1-5
+Back To Top
+Main drive shaft, disassembling and assembling............................3-35
+Main drive shaft, repair procedures.......................................3-36
+Maintenance and Lubrication.........................................Section 10
+Maintenance schedules..............................................10-5, 10-7
+Master cylinder...........................................................5-5
+Master cylinder, removing and installing..................................5-6
+Master cylinder, repairing................................................5-6
+Master cylinder pushrod adjustment........................................5-5
+Mirror, outside--removing and installing..................................4-16
+Muffler, removing and installing..........................................1-9
+Back To Top
+Needle bearings and metal bushings, replacing.............................6-17
+Back To Top
+Oil cooler................................................................1-15
+Oil cooler, removing and installing.......................................1-16
+Oil filler and breather, removing and installing..........................1-42
+Oil pressure switch, testing and replacing................................1-16
+Oil pressure valves, removing and installing..............................1-38
+Oil pump, removing and installing.........................................1-37
+Oil pump, checking........................................................1-38
+Oil strainer, removing and installing.....................................1-40
+Outlet pipes, replacing...................................................1-8
+Parking brake.............................................................5-27
+Parking brake, general description........................................5-4
+Parking brake, adjusting..................................................5-27
+Parking brake cable, removing and installing..............................5-28
+Parking brake lever, removing and installing..............................5-28
+Parking brake adjustment, checking.......................................10-16
+Pedal cluster--removing, repairing and installing.........................5-30
+Piston clearance..........................................................1-29
+Piston rings..............................................................1-28
+Pistons and rings, general................................................1-27
+Pistons and cylinders.....................................................1-5
+Pistons, removing and installing..........................................1-27
+Point adjustment..........................................................1-52
+Pushrod tubes, removing and installing....................................1-19
+Back To Top
+Rear Axle and Transmission..........................................Section 3
+Rear axle, disassembling..................................................3-14
+Rear axle and suspension, general description.............................3-4
+Rear axle repairs.........................................................3-5
+Rear bumper, removing and installing......................................4-5
+Rear driveshaft oil seal, replacing.......................................3-11
+Rear fender, removing and installing......................................4-7
+Rear hood lock, removing and installing...................................4-11
+Rear hood and hinge, removing and installing..............................4-11
+Rear seat, removing and installing........................................4-18
+Rear suspension...........................................................3-54
+Rear wheel bearings, lubricating.........................................10-14
+Rear wheel alignment................................................3-60, 3-61
+Rear window defroster.....................................................7-34
+Reverse gears and rear driveshaft, removing and installing................3-19
+Reverse gears.............................................................3-19
+Reverse shaft and needle bearings, removing and installing................3-34
+Ring gear, adjusting......................................................3-50
+Rocker arm shaft, removing and installing.................................1-18
+Rocker arm shaft assembly, disassembling and assembling...................1-18
+Running boards and fenders................................................4-7
+Running board, removing and installing....................................4-8
+Back To Top
+S3 Thickness, determining.................................................3-48
+Seats, general description................................................4-3
+Seats.....................................................................4-17
+Secondary circuit.........................................................1-55
+Shift forks, adjusting....................................................3-32
+Shift housing, disassembling and assembling...............................3-24
+Shock absorbers...........................................................6-6
+Shock absorbers, checking....................................6-7, 10-14, 10-16
+Shock absorbers, removing and installing..................................3-54
+Sliding roof (sun roof)...................................................4-25
+Sliding roof, adjusting top height........................................4-28
+Sliding roof cables, adjusting............................................4-27
+Sliding roof runners and cables, removing and installing..................4-26
+Sliding roof panel, removing and installing...............................4-25
+Solenoid switch test data.................................................7-14
+Solenoid--removing, adjusting and installing..............................7-10
+Spark advance mechanism, checking.........................................1-54
+Spark plugs, servicing and replacing...............................1-56, 10-10
+Speedometer cable, replacing..............................................7-37
+Spring plate adjustment...................................................3-57
+Spring specifications.....................................................1-39
+Starter, bench tests......................................................7-14
+Starter bushing, removing and installing..................................3-12
+Starter data..............................................................7-14
+Starter, disassembling and assembling.....................................7-11
+Starter drive servicing...................................................7-12
+Starter, removing and installing..........................................7-10
+Starter types.............................................................7-9
+Starting system......................................................7-4, 7-9
+Starting system troubleshooting...........................................7-9
+Steering.............................................................6-4, 6-21
+Steering, adjusting.......................................................6-21
+Steering column, removing and installing..................................6-25
+Steering column switches, removing and installing.........................7-27
+Steering damper,removing and checking.....................................6-24
+Steering gear box--disassembling, assembling and adjusting................6-28
+Steering gear box, removing and installing................................6-27
+Steering (strut front suspension).........................................8-17
+Steering (strut front suspension), general description....................8-4
+Steering knuckle, removing and installing.................................6-9
+Steering knuckle, checking................................................6-12
+Steering knuckles (strut front suspension)................................8-8
+Steering lock, checking and adjusting.....................................6-6
+Steering play, checking..................................................10-15
+Strut front suspension technical data.....................................8-33
+Strut front suspension maintenance........................................8-4
+Strut Front Suspension..............................................Section 8
+Sun roof..................................................................4-25
+Suspension ball joints (strut front suspension)...........................8-10
+Suspension struts, general description....................................8-3
+Suspension struts.........................................................8-12
+Switches in dashboard, removing and installing............................7-25
+Back To Top
+Tapered roller bearings, removing and installing..........................3-22
+Tapped holes, repairing...................................................1-43
+Thermostat, adjusting.....................................................1-14
+Throttle valve positioner, removing and installing........................2-12
+Throttle valve positioner, adjusting................................2-11, 2-19
+Tie rods, removing and checking...........................................6-24
+Tightening torques........................................................1-57
+Timing, adjusting.........................................................1-53
+Tire condition and pressure, checking....................................10-16
+Tire inflation pressures, conventional...................................10-17
+Tire inflation pressures, radial.........................................10-17
+Tire types and pressures..................................................5-31
+Tire wear, normal.........................................................5-32
+Tires, abnormal wear......................................................5-34
+Tires and wheels..........................................................5-31
+Tires, changing...........................................................5-33
+Toe, checking and adjusting...............................................6-5
+Tolerances, wear limits and settings......................................1-58
+Torque converter drive plate, removing and installing.....................1-30
+Torque converter..........................................................1-30
+Torsion arm, removing and installing......................................6-13
+Torsion arms, checking....................................................6-13
+Torsion arms, suspension ball joints, and torsion bars....................6-13
+Torsion bar adjustment technical data.....................................3-64
+Torsion bars, removing and installing.....................................6-17
+Torsion bars and spring plates, removing and installing...................3-54
+Track control arms and stabilizer bar, general description................8-4
+Track control arms and stabilizer bar (strut front suspension)............8-14
+Transmission and Rear Axle..........................................Section 3
+Transmission..............................................................3-24
+Transmission and rear axle, removing and installing.......................3-13
+Transmission and rear axle maintenance....................................3-4
+Transmission and rear axle technical data.................................3-62
+Transmission and rear axle tightening torques.............................3-62
+Transmission and final drive, checking for leaks.........................10-14
+Transmission case, general description....................................3-4
+Transmission gear ratios..................................................3-63
+Transmission gears in case, removing and installing.......................3-25
+Transmission gears and synchronizers......................................3-4
+Transmission oil, checking/changing......................................10-13
+Transmission rebuilding data..............................................3-63
+Transmission repairs......................................................3-11
+Trim, sliding roof, and convertible tops, general description.............4-3
+Tune-up specifications, basic.............................................1-60
+Turn signal switch, adjusting.............................................7-28
+Turn signals and emergency flashers, testing..............................7-27
+Back To Top
+Valve clearance...........................................................1-25
+Valve clearance, checking and adjusting..................................10-10
+Valve gear and cylinder heads.............................................1-17
+Valve guides, checking and replacing......................................1-22
+Valve seats, replacement of...............................................1-22
+Valve seats, refacing.....................................................1-23
+Valve springs, removing and installing....................................1-21
+Valve stem diameters......................................................1-21
+Valve train...............................................................1-5
+Valves, adjusting.........................................................1-25
+Valves, general...........................................................1-20
+Valves, lapping...........................................................1-25
+Valves, refacing..........................................................1-24
+Valves, removing and installing...........................................1-21
+Ventilation system (with fan --1973 on)...................................4-23
+Ventilation system (with fan--through 1972)...............................4-22
+Ventilation system (without fan)..........................................4-21
+Back To Top
+Warning buzzer............................................................7-37
+Wheel alignment, checking................................................10-15
+Wheel bearings............................................................6-4
+Wheel cylinder repair.....................................................5-24
+Wheel cylinder, removing and installing...................................5-24
+Wheel rotation............................................................5-33
+Wheels....................................................................5-31
+Wheels and tires..........................................................5-31
+Wheels and Brakes...................................................Section 5
+Wheels and tires, technical data..........................................5-36
+Wheels, removing and installing...........................................5-32
+Windshield washers........................................................7-34
+Windshield wipers, general description....................................7-4
+Windshield wiper arm adjustment dimensions................................7-34
+Windshield wiper motor--in-car testing....................................7-29
+Windshield wiper motor troubleshooting...............................7-28,7-29
+Windshield wiper motor and frame, removing and installing.................7-29
+Windshield wiper motor, disassembling and assembling......................7-31
+Windshield wipers and washers, checking..................................10-17
+Windshield wipers and washer..............................................7-28
+Windshield wiping system troubleshooting.............................7-34,7-35
+Wiper blades and arms, removing, servicing and installing.................7-32
+Wiper shaft and wiper shaft bearing, replacing............................7-30
+Wiper switch, removing and installing.....................................7-32
+Wiring diagrams...........................................................7-39
+Wiring, general description...............................................7-4
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,113 @@
+Clutch Cable
+Clutch
+								Cable Discussion
+Please
+								see also our
+Clutch Cable Replacement
+								Procedure
+.
+~~~
+There
+								is a wide variety of clutch cable lengths available - it's
+								important that you get the right one. The following table
+								lists the various cables (by length) and gives their
+								applications -
+Cable
+												Length
+Application
+2250mm
+Beetle /Ghia 61
+2260mm
+Beetle/Ghia 62 - 71
+2268mm
+Beetle 5/74 - 79/Ghia 5/74
+2281mm
+Beetle 72 - 4/74/Ghia 4/74
+3110mm
+Bus 6/59 - 60
+3116mm
+Bus 50 - 5/59
+3200mm
+Bus 68 - 71
+3215mm
+Bus 72-79
+The
+								cables all attach the same, by way of an "eye" on
+								the pedal end.
+Rob
+								writes - On my right-hand drive (RHD) model I remove the
+								cover plate from the left side of the tunnel (where the
+								pedals on the left-hand drive (LHD) come out), and the hook
+								is visible at that edge of the tunnel. The clutch cable is
+								fed in from the front to the back on all models as far as I
+								know. It's difficult to start the cable into the tube, as the
+								threaded end doesn't allow much room to bend the cable -- but
+								not too difficult.
+And
+								knowing VW it will be the same cover plate which is moved to
+								the left side -- they seem to be very good at designing parts
+								which will work with both models. On the Standard Bugs I
+								believe the tie rods etc. are simply reversed.
+The
+								pedal cluster is different, of course, between the RHD and
+								the LHD models. On LHD cars the accelerator pedal axle is the
+								outer of the nested axles and the clutch is the inner one. On
+								RHD cars that's reversed -- the accelerator axle is the inner
+								one, since is comes from the far right on RHD models. If you
+								remove the pedal cluster on LHD models you'll find the front
+								end of the clutch cable just inside the tunnel -- it has a
+								rectangular "eye" on it which hooks over a hook on
+								the pedal cluster. The accelerator and clutch hooks end up in
+								the same position, so the cable runs are the same.
+Pedal
+								Assembly - LHD
+~~~
+Pedal
+								Assembly - RHD
+~~~
+The
+								cable is withdrawn through the front and of course if it's
+								broken you'll have to pull the rear section out from the rear
+								end too.
+Replacing
+								the clutch cable is not really hard. So long as the tube it
+								runs in is okay, it's a relatively straight-forward job. The
+								clutch tube runs the full length of the tunnel, so once you
+								have the cable started inside the tube it feeds in easily.
+								Getting the new cable started in the tunnel tube it a bit
+								awkward - there is only JUST enough room to get the solid
+								threaded end in first, then the flexible part feeds through
+								easily. It's a good idea to coat the whole cable with grease
+								as you feed it in (making it a very messy job). It doesn't
+								really matter what kind of grease you use, so long as it's
+								not too heavy - otherwise it will get very sticky in snowy
+								weather and might make the clutch operation heavier on your
+								foot. Wheel bearing grease works best.
+At
+								the rear end the cable has to go through the clutch operating
+								arm on the side of the gear box and then you install the wing
+								nut (or double lock nut if you have the old style of cable).
+Adjusting
+								the slack out of the cable is difficult as there is not much
+								working room over the gearbox, but persevere until you have
+								the clutch working in the first half of pedal travel - not
+								down near the floor. See our
+Clutch
+								Adjustment
+procedure.
+Dave
+								wrote - I recall having trouble getting the clutch cable
+								through the Bowden tube -- fussed and fussed with it until it
+								dawned on me that the Bowden tube had to be removable (I'd
+								seen replacements in the catalog). Once I had the Bowden tube
+								removed (it took a strong arm) feeding the clutch cable
+								through it was easy.
+The
+								cable CAN be replaced without removing the Bowden tube, but
+								if the bend in the tube needs adjusting, it has to be
+								moved/removed anyway.
+*
+								* * * *
+Design
+								by
+Erin

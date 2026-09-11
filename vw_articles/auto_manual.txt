@@ -1,0 +1,36 @@
+Auto to Manual
+Semi-Automatic Transmission
+~~~
+Subtopics as follows -
+Conversion to Manual
+Questions and Answers
+~~~
+Conversion to Manual
+Dave asked - How do they convert a semi-automatic transmission to manual?  Replace the transmission, or just the arrangement of the hockey stick or 
+something?
+Rob responded - The two gearboxes are identical apart from the auto missing 1st gear, so it's a simple matter of installing a manual gearbox, 
+together with the clutch assembly which replaces the torque converter.  The only tricky bit is installing a clutch cable tube through the tunnel - 
+and some semi-autos were built with that tube in the car (unused).  You can tell whether it has the cable tube from the welds where it's fixed to the 
+tunnel near the rear gearshift coupling.
+You need the manual pedal cluster of course, and the manual gear shift lever, and then remove the vacuum bottle and torque converted fluid bottle 
+(under the rear fenders), and that's it.  You end up with a couple of unused wires in the engine bay - no biggy.
+~~~
+Other Questions and Answers
+Question from a forum reader - Help! I recently experienced a gush of transmission fluid from a hose that sits on the right lower side of my engine compartment. After 
+close examination, I discovered that it was basically dryed out/rotted. Can you provide instructions on how to change this hose and tell me how to trace 
+it from the engine compartment to the other end of termination somewhere in the wall or underside of the car?
+Rob responded - I can't help you directly, because my autostick was converted to manual before I bought it and I've never owned an autostick, so have 
+no direct experience in working on the autostick components.
+However, that tank on the right side of the engine bay holds Automatic Transmission Fluid (Dexron 11 or similar) which is needed for the torque 
+converter (the "auto" part of the autostick).
+You need hose which is suitable for automatic transmission fluid.  The bottom end of the hose should be attached near the bell housing (right side) via a banjo fitting,
+the hose is swaged to a hollow metal fitting which is bolted to the fitting near the right side engine mount. The similar return line is mounted next to it, and
+this line runs up to the top of the ATF tank.
+You could try a search on John Connolly's site -
+Aircooled.Net
+. He has most parts for VWs, 
+and if he hasn't got it, he can get it (you'll find an e-mail address on his Web site.)
+* 
+                    * * * *
+Design by
+Erin

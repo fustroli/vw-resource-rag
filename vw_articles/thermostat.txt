@@ -1,0 +1,87 @@
+Thermostat
+Thermostat Installation/Adjustment
+Standard Thermostat
+Mexican-Style Thermostat
+~~~
+Note:
+Currently the only thermostat available is the Mexican thermostat, which is the original replacement style for fuel injected Beetles made from 1975 to 1979. (However, we are advised by
+Aircooled.Net
+that they have not been able to find a source for even the Mexican-style thermostat since 2004.) The factory that made the conventional thermostats has gone out of business, and the conventional thermostats are becoming more and more rare -- they may not ever be available again.  While the design of the Mexican-style thermostat is different, it is completely compatible with pre-1975 Bugs.  Kits for the Mexican-style thermostat were available through
+Aircooled.Net
+and
+California Import Parts, Ltd.
+, but neither of these firms currently carry either style thermostat. If you can find it, the kit has everything you need (including the new thermostat) to convert to the Mexican design.
+~~~
+Standard Thermostat
+If the thermostat has been removed by some enterprising PO, we strongly recommend that you replace it.  It is important that you get it done before cold weather sets in, otherwise you'll never get warm air into the cabin.  More importantly, proper operating temperature of the engine will not be maintained.  This will shorten the life of the engine as well as lower the optimum amount of heat that could be used for warming up the cabin.  The thermostat isn't very expensive, but you may have a hard time finding one of the original bellows design.  The Mexican-style thermostat (discussed below) is an excellent replacement, but this style is also becoming increasingly difficult to find.
+If the thermostat is missing, it's likely that the connecting rod and cooling vanes are missing, too.  If that's the case, get yourself some new ones and install them in accordance with our
+Cooling Vanes/
+Thermostat
+discussion.  You may have to buy a new thermostat bracket, too.  Also, make sure you have the bolt and washer that fit to the bottom of the thermostat.
+Replacing the thermostat isn't difficult; it shouldn't take you more than about an hour (at the most) to do.
+~~~
+Put the thermostat in a pot of water on your kitchen stove.  Bring the water to a boil and watch to make sure that the thermostat expands.  It should expand to at least 1-13/16".  (If the thermostat does not expand, DO NOT PUT IT IN THE CAR!  You'll have to buy another one.)
+Block the two front wheels to prevent the car from rolling.
+Raise the rear of the car and place jack stands under the torsion bars.
+Crawl under the rear of the car armed with this procedure and 10mm and 13mm box-end wrenches (you may need 10mm and 13mm sockets and a ratchet wrench as well).
+Locate the heater box on the right side.  Extending out from it toward the center of the car are two metal tabs, each of which has a 10mm bolt in it.  These attach to a metal plate (the lower air duct plate) that has three captive nuts in it.  You want to remove this plate.
+Remove the 10mm bolts that hold the lower air duct plate in place. Stow the bolts and washers in a safe place. Note how the lower air duct plate sits so you can replace it the same way, then take it out.
+Feel up between the cylinders for the connecting rod (about 1/8" diameter) coming down between them.  This rod is threaded on the end so the thermostat can attach to it.
+Right above where the lower air duct plate was there is a stud (possibly with a nut on it) sticking out of the side of the crankcase on the bottom of the engine, pointing towards the right heater box.  If there is a nut, take the nut off of this stud and save it.  If there isn't, you will need to find a replacement in your cache of extra nuts and bolts.
+Attach the thermostat bracket onto the stud and replace the nut LOOSELY.
+Place the thermostat into the bracket and screw it onto the connecting rod that just pokes down between the cylinders.  This rod connects to the cooling vanes up in the fan shroud.  As it moves up, the vanes open; as the thermostat contracts and it moves down, the vanes close.
+With the thermostat screwed completely onto the connecting rod, move the thermostat up and down to make sure the connecting rod moves freely and doesn't get hung up on the cylinders.
+Raise the thermostat all the way up, opening the cooling flaps.  While holding the thermostat all the way up (flaps fully open), adjust the bracket so that the top of the thermostat just contacts the upper inside part of the bracket.  Lock the bracket in this position by tightening the nut (13mm) that holds the bracket to the side of the engine.
+Pull the thermostat (and connecting rod) down to the bottom inside of the bracket.  This will close the cooling vanes. Bolt the thermostat onto the lower part of the bracket with the bolt and washer you took out of the old thermostat.  Snug it up tightly.
+Note:
+With the thermostat bolted to the bottom of the inside of the bracket, it only has one way to go when it is heated and expands, and that is upwards.  As it expands upwards it pushes the connecting rod up and opens the cooling vanes.  Cool, eh!?
+Replace the lower air duct plate that goes under the thermostat and between the right heater box and the engine, with the four bolts you took out.
+Note:
+The threads may be stripped where the bolt attaches to the engine and the metal around the hole in the tinware may bunged up.  Do the best you can.  Sometime when you're tinkering with the car on a Saturday you might want to wrap some Teflon tape around the bolt and try to secure it better.  Not awfully important.  Having that metal plate in place is VERY important -- it helps to make sure that the warmed air passes over the thermostat.
+Jack the car back up to clear the jack stands.  Remove the jack stands and carefully lower the car.
+The engine is cold and the thermostat is contracted completely, which means the cooling vanes are closed.  Before driving the car any distance, warm it up completely and then have a look at the thermostat -- it should be fully expanded (cooling vanes fully open) directing cooling air down over the engine.
+Note:
+MAKE SURE that the thermostat expands!  If not, you could burn up the engine.  After driving it a ways you will find that the dipstick is hot, but you should be able to touch it and pull it out without burning yourself.  If the dipstick is too hot to touch, the engine is not getting adequate cooling.  If this ever happens, reverse the above steps and take the thermostat out.  A working engine is more important that warm air in the car!
+Another Note:
+In general it is not necessary to warm the car up before driving off -- in fact the system is designed such that you should NOT warm it up before driving off first thing in the morning.
+~~~
+Mexican-Style Thermostat
+~~~
+The original style thermostat is no longer made and the only option is to use the new-style thermostat pictured above.  This thermostat is the original replacement style for Mexican fuel-injected Beetles made from 1975 to 1979 and is a suitable replacement for the old bellows-style thermostat.  The thermostat provides enough upward movement in the downrod to fully open the flaps on both Type 1 and Type 4 applications.  HOWEVER - The Mexican-style thermostat is also becoming increasingly difficult to find.
+You must use the new mounting bracket that is designed for this new thermostat, and you will need to drill a small locating hole in the bracket to prevent the thermostat from rotating.
+When you buy the thermostat "conversion kit", it comes with the thermostat, the new bracket and a new downrod that goes down through the cylinder head.  If your original downrod is still in place, it will work just fine.
+When adjusting the thermostat, it has to be adjusted 'cold' so the flaps are closed all the way.
+~~~
+Installation and Adjustment of the
+Mexican-Style Thermostat
+Block the two front wheels to prevent the car from rolling.
+Raise the rear of the car and place jack stands under the torsion bars.
+Crawl under the rear of the car armed with this procedure, 10mm and 13mm box-end wrenches (you may need 10mm and 13mm sockets and a ratchet wrench as well).
+Locate the right heater box. Extending out from it toward the center of the car are two metal tabs, each of which has a screw in it. These attach to a metal plate (lower air duct plate) that has three captive nuts in it. You want to remove this plate.
+Remove the 10mm bolts that hold the lower air duct plate in place.  Stow the bolts and washers in a safe place.  Note how the metal plate sits so you can replace it the same way, then take it out.
+Feel up between the cylinders for the connecting rod (about 1/8" diameter) coming down between them.  This rod is threaded on the end so the thermostat can attach to it.  Move the connecting rod (also called a downrod) up and down to fully open (up) and close (down) the cooling vanes.
+Note:
+If the downrod is missing, it is most likely that the cooling vanes are missing, too.  If that's the case, get yourself some new ones and install them in accordance with our
+Cooling Vanes/Thermostat
+discussion.
+Right above where the lower air duct plate was there is a stud (possibly with a nut on it) sticking out of the side of the crankcase on the bottom of the engine, pointing towards the right heater box.  If there is a nut, take the nut off of this stud and save it.  If there isn't, you will need to find a replacement in your cache of extra nuts and bolts.
+At your workbench, insert the bottom of the thermostat into the outermost hole in the new mounting bracket, then mark carefully the location of the hole that will accommodate the little protrusion that projects downward on the bottom of the thermostat.
+Measure the width of the little protrusion, then place the mounting bracket in your vise and carefully drill a hole of that diameter at the point you marked on the bracket.
+Screw the top of the thermostat onto the threaded end of the downrod.
+Loosely mount the thermostat into the outer-most hole in the bracket.
+Rotate the thermostat on the downrod as necessary and insert the protrusion on the bottom into the hole you drilled in the mounting bracket.  Tighten the nut to firmly attach the thermostat to the bracket and to secure the little downward piece into the hole.
+Note the elongated hole in the mounting bracket.  Place this hole over the stud that is projecting from the side of the crankcase.  Loosely attach a washer and 13mm nut to this stud.
+Pull the thermostat/mounting bracket down to fully close the cooling vanes.  Don't pull it TOO tight.
+Hold the mounting bracket at this point and tighten the 13mm nut to firmly attached the bracket to the side of the crankcase.
+Replace the lower air duct plate that goes under the thermostat and between the right heater box and the engine, with the four bolts you took out.
+Note:
+Having that lower air duct plate in place is VERY important -- it helps to make sure that the warmed air passes over the thermostat.
+Jack the car back up to clear the jack stands.  Remove the jack stands and carefully lower the car.
+The engine is cold and the thermostat is contracted completely, which means the cooling vanes are closed.  Before driving the car any distance, warm it up completely and then have a look at the thermostat -- it should be fully expanded (cooling vanes fully open) directing cooling air down over the engine.
+Note:
+MAKE SURE that the thermostat expands!  If not, you could burn up the engine.  After driving it a ways you will find that the dipstick is hot, but you should be able to touch it and pull it out without burning yourself.  If the dipstick is too hot to touch, the engine is not getting adequate cooling.  If this ever happens, reverse the above steps and take the thermostat out, which will fix the cooling vanes in the full open position.  This will keep the engine cool, but it has two drawbacks - you will find it impossible to get warm air into the cabin during those cold wintery months, and (more importantly) the cooling air will not be properly directed around the engine (the second function of the cooling vanes).
+Mexican-Style Thermostat Installed
+* 
+                    * * * *
+Design by
+Erin

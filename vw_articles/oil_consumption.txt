@@ -1,0 +1,15 @@
+Oil Consumption
+Oil Consumption
+Someone wrote -
+I'm using about a half liter of oil a week now in my Bug.  All the oil is coming directly from the oil breather tube and it gets spat out on the ground on a regular basis.  As well, if you look at the inside of the cap or inside of the filler neck, there is a gelatinous white-grey substance (I'm assuming it's whipped-up oil?) that's constantly reaccumulating in volumous amounts.
+Can you tell me what needs to be replaced to stop the oil from coming down and running out the breather, because its a noticeable quantity.
+As well, when I start the motor, it vibrates when I first start it - just for a few seconds until the oil seems to get finally pumped to where its needed and then it quits down to normal.
+Is that normal or is my oil pump needing to be replaced?
+Rob wrote -
+Do you have an oil breather line up to the air cleaner?  This is essential as the VW engine has a spiral groove on the crankshaft and slots behind the engine pulley which pull in fresh air to ventilate the crankcase.  This air is then drawn/forced up the breather tube into the air cleaner and the fumes burnt.  If there is no line to the air cleaner the excess stuff comes out the road tube.
+If the engine has low compression due to worn rings, etc. you will also get an excess of oily air coming out the breather, so do a compression test.  A fresh 1600 should get you more than 130psi on each cylinder. This slowly drops with age and once any cylinder gets below 100psi it's time to start planning a rebuild.  The engine will continue to run but with increasing fuel consumption and less power (and increased oil use).
+The foaming under the oil filler cap is common in colder climates especially if the car is not used for very long trips.  The cooling oil/air in the crankcase sucks in small amounts of moisture laden air which puts a little water in the oil. If the car is not driven enough to cook it all out, it builds up and foams the oil.  Sometimes a good run will clear the problem for a while - until it builds up again.
+The vibration on startup makes me wonder about the compression on one cylinder (which improves as the engine warms up a bit), or a plug misfiring.  I doubt that it's anything directly to do with the oil issue.
+* * * * *
+Design by
+Erin

@@ -1,0 +1,81 @@
+*****
+Lessons Learned
+During Longblock Buildup and Installation
+~~~
+Engine Tin
+Dave 
+              learned that before installing the fan shroud, the doghouse oil 
+              cooler tin, and the firewall tin (front-most), the cylinder cover 
+              plates must be installed, at least. Also, the rear deflector tins 
+              must be installed before installing the muffler header. With the 
+              header in place, the deflector tins are almost impossible to install 
+              (take it from me!).
+The doghouse tin fits inside the exhauster tin (i.e., the downspout that dumps hot air from the oil cooler out under the car). The fit is seldom perfect but very important to prevent hot air from being sucked into the fan. Dave fixed this by wrapping some stout, heat-resistant tape (e.g., "Gorilla" tape) around the joint between the doghouse tin and the exhauster tin.
+~~~
+Oil Cooler
+Don't be tempted to install the oil cooler adapter to the engine case first, than attach the cooler to the adapter. It can't be done - the cooler impinges on the lip of the "bell" at the front of the engine as you are trying to set the cooler onto the adapter. For this reason, it is necessary to install the oil cooler/adapter assembly onto the engine case as a unit, and
+before
+installing the left cylinder cover plate.  If the cover plate is installed first, access to the oil cooler adapter nuts is very difficult.
+~~~
+Alternator Pedestal
+Between the engine case and the alternator pedestal there is a metal "gasket" (for want of a better term) that has louvers in it to prevent blowback.  Being square, there are four ways that this metal gasket can be oriented.  Having done it wrong several times in the past, Dave learned that the louvers in this metal gasket should be down, with the flat side of the louvers (i.e., the louver's "scoops") facing the flywheel (toward the front of the car).
+~~~
+Fuel Pump
+The procedure says to "fill the lower chamber of the new fuel pump ... with universal grease." This is referring to the lower chamber in the
+fuel pump
+, NOT the hole in the engine block where the pushrod and its guide tube reside.
+Regarding the fuel pump pushrod stroke (whitch should be about 1/4") - If you find that there is too much stroke, you must add gaskets to the top of the flange. If there is not enough stroke, you will have to reduce the thickness of the insulator block. This is done by laying a piece of sandpaper on a flat surface, then sanding the flange a little at a time until you attain the measurement you are looking for (Dave had to take a full quarter of an inch off of the block). Keep in mind, you need at least one gasket between the flange and the fuel pump.
+Rob's note:
+And before doing any of that - make sure you have the correct pushrod in your pump.  The old upright rectangular fuel pumps use a 108mm push rod.  The squat round style fuel pump (designed to fit under an alternator, but they work just fine with all VW engines), uses a 100mm push rod!
+~~~
+Intake Manifold
+Dave found that the bolt (actually a stud) in his engine case that is supposed to secure the intake manifold was too short. This stud is supposed to pass through the U-shaped attachment on the bottom of the center section of the intake manifold.  The intake manifold is then secured with a large washer and nut on the stud.  If you have this problem, you must find a creative way to lengthen the stud so you can secure the intake manifold, as this connection point is very important to keep the intake manifold securely in place. 
+You might be able to remove the stud from your old engine block and reuse it for this application.
+Whatever you do, the center attachment point on the intake manifold
+must
+be firmly secured to the engine case before continuing with the longblock buildup, as it will not be accessible with other stuff installed around it.
+~~~
+Pre-Heat Tubes
+The center section of the intake manifold and the pre-heat tubes may come from the supplier in three separate pieces.  It may be necessary to bend the tube a bit to make them fit onto the connection points on the header. Dave installed them into the center section of the intake manifold with high-temperature metal repair compound, which is available at your automotive supply store.
+~~~
+Accelator Cable
+With the new configuration in the engine compartment (new longblock, new intake manifold, etc.), Dave found that the accelerator cable was too short.  The throttle lever could be attached only at the very end of the cable; this way the idle screw had to be turned in way too far to rest on the lowest step on the cam (engine hot).  Also, the idle speed could not be reduced to less than about 1200 rpm, even with the bypass screw turned all the way in!
+Dave ordered a "Bulletproof" Throttle Cable from
+Aircooled.Net
+.  This cable is 11ft long and comes in a 9ft sheath.  The cable is cut to length.  After Dave receives and installs this new cable, he will update this "Lesson Learned" and will provide a procedure based on his experience on our
+Accelerator Cable Replacement
+page.
+~~~
+Thermostat
+The mounting stud for the thermostat may not be installed in the new longblock, and the engine block may not be drilled and tapped for the stud. The block does have the boss in place for drilling and tapping to install this stud. DO IT! It is very important to have a functional thermostat  installed.
+VERY IMPORTANT NOTE!
+The hardest (and most demoralizing and most expensive) lesson Dave learned had to do with the thermostat in his new long block.  It is ESSENTIAL that you make absolutely sure the cooling vanes and thermostat are working properly!  Shortly after building up his new long block and installing it in his Bug, Dave took the car for a long run up a very steep hill (Cabbage Hill, Oregon) on a very hot day.  The result was a fried engine, caused by a malfunctioning thermostat.  (Actually the thermostat worked just fine; the stud that holds the thermostat bracket to the engine block came loose, and the thermostat pushed the bracket down instead of pushing the connecting rod up, so the cooling vanes were locked closed.)  A very costly oversight!  Before taking your car out on a hot day, make sure the cooling vanes are opening properly as the engine heats up!
+~~~
+Starter
+The heavy black wire to the starter is from the battery and attaches to the solenoid on a good-sized stud, secured with a nut. The other smaller wire, (it's supposed to be red) comes from the ignition switch. It has a female spade connector on the end of it that attaches to one of the two male spade connectors inboard of the battery connection (NOT the one outboard of battery connection, right in front of you.)
+The upper left engine mounting bolt also holds the starter motor in place.  This long (110mm) bolt is called a "D" bolt because the head is flat on one side. This flat side prevents the bolt from turning while the nut (17mm) on the other side of the firewall is being tightened. If someone has substituted a regular hex-head bolt here, you may find it very difficult to tighten the nut on the other end, as the bolt will turn as you turn the nut. And it is VERY difficult to get any kind of a holding device (socket, box-end wrench, etc.) on the hex-head of the bolt. The space up under there is very tight, and the metal-work around the head of the bolt does not allow sufficient space to grasp the head of bolt.  Dave finally was able to get ahold of the head of the bolt from the right side, then had an assistant loosen the nut.  Save yourself some grief next time - be
+sure
+to replace this long bolt with one with a D-shaped head.
+~~~
+Timing
+Since the VW engine is a four-stroke (cycle) engine, the crank has to turn TWICE to return cylinder #1 to TDC. For this reason, if you are relying solely on the TDC mark on the pulley, it is possible that the #3 piston is at TDC instead of #1. Thus the importance of the
+"straw" test
+to verify that cylinder #1 is indeed at TDC. The reason for ensuring you have No1 cylinder for the timing is the some of the older distributors had a 3 degrees retarded ignition point on No3 cylinder, so using this would put the timing out for the other three cylinders.  Timing on NO1 cylinder works for ALL distributors  used on the aircooled VW engine.
+~~~
+Fuel Line
+Dave had a difficult time with the grommet in the hole in the firewall tin (through which the fuel line passes), as he was unable to find a grommet the right size. So he took a piece of the rubber fuel line about 1-inch long, sliced it longitudinally (since he already had the metal fuel line installed), slipped it onto the metal fuel line and urged it through the hole in the firewall tin. Dave also put a little piece of rubber fuel line around the metal line where it rubs against the pre-heat tube, to prevent rattling. Worked great.
+~~~
+Ignition
+When Dave built up his longblock, he did so with the ignition system "stock" (i.e., with points and without CDI).  Dave wanted to make all of the "ancillary components" new and pretty, but he sure goofed with the coil.  He made the mistake of installing a high-performance "electronic" coil, thinking  that "high-performance" surely must be better.  After installing this coil (again, without CDI or electronic ignition), the car wouldn't run at all!  It would barely start, then lurch and lurch, responding not at all to the throttle, then die.  So Dave took the "electronic" coil out and re-installed the original one, and the engine ran just fine.
+Dave wrote to
+"Speedy Jim"
+about the problem and got the following response -
+The electronic coil is designed specifically for the
+ brief high current pulse the CDI module delivers.   The points on the other hand, delievr current most of the time and generate a spark only when the current is turned off.
+Stick with the OEM coil.....
+~~~
+Oil Pressure Switch
+Dont accidentally connect the to 12V while rewiring the engine compartment!  If you do, you will burn out the oil pressure warning light in the instrument cluster.
+* 
+                * * * *
+Design by Erin

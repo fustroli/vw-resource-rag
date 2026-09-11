@@ -1,0 +1,63 @@
+Alternator Replacement
+Alternator Replacement Discussion
+These discussions, together with Dave's alternator 
+replacement experience, culminated in our
+Alternator Removal/Installation Procedure
+.  
+Details of the alternator replacement are given there.
+~~~
+Faced with the probable replacement of his alternator, Dave experienced some confusion.  The Bentley Manual says 
+that VW changed from a generator to an alternator in 1973. Dave's Bug is a 1973 model, as evidenced by the chassis number, 
+133-3001-550.  The engine number (AE320891) says that the engine is 1971, yet it is equipped with an alternator.  It is 
+obvious that the PO who replaced the engine removed the various appurtenances from his 1973 engine (such as the alternator) 
+and used them on the rebuilt 1971 engine that he installed in the car.
+Dave talked to
+Speedy Jim
+about the situation.  Both Jim and Rob indicated 
+that an alternator with an internal voltage regulator can be installed on a 1971 engine, though the actual job of replacing 
+the alternator is a fairly difficult task.  (See discussion below.)
+Dave also had a question about grounding of the alternator, It's actually grounded through the pedestal and into the engine block.  
+This is why there must be a good grounding strap from 
+the transaxle nosecone under the car, to the chassis, and then via the battery grounding strap between the body and the battery. 
+The ground path has to carry 50 amps from the alternator body through the car body to the 
+battery, and over 100 amps from the battery ground post to starter motor body.  For more information about alternator grounding, see
+Alternator Grounding
+.
+~~~
+While he had it all apart, Dave took the opportunity to clean everything thoroughly, inside and out.  He stripped the fan 
+covers and the fan housing down to the bare metal and repainted them (Rob calls him "keen."  His wife calls him "obsessive!"  :-).
+Dave's New Alternator
+and Refurbished Fan
+~~~
+When he installed the alternator in the car, Dave was a bit surprised to find that with the vent correctly oriented on the bottom, 
+the connections on the top of the alternator are cocked to the right about 20 degrees.  
+John Connolly
+(Aircooled.Net)
+indicated that 20 degrees to the right (clockwise) is correct.
+~~~
+Alternator Wiring
+For more information, see our article on
+Alternator Wiring
+.
+Per
+Speedy Jim
+:  The wiring is simple for the internally regulated alternator:  
+The large red wire connects the battery to the B+ terminal on the alternator.  The blue wire in the main harness goes to the D+ terminal.  
+This wire connects to the alternator warning light in the instrument cluster -- it must be connected to the warning light for the alternator to work.
+Dave replaced an alternator that had the external voltage regulator with one that has an internal voltage regulator.  He found that he had more wires 
+(on the old alternator) than he had seen in the schematics.  But the internally regulated alternator wiring is very easy - you just ignore the old external regulator wires
+ and connect the heavy red wire from the alternator to the battery positive post - either via the original wire running across under the seat from the battery to the position of the old ectenal regulator) or 
+via a new wire directly to the large red wire connector on the starter motor - either method will work just fine.
+Regarding the "Alt" Warning Light:  Per John Connolly -- If the bulb is burned out, your alternator won't work!  
+And from Speedy Jim -- If there is an intermittent problem with the "Alt" light, it may well affect the alternator. 
+The alternator depends on the "Alt" light for its initial excitation.
+Speedy Jim also told Dave that the symbol with the cross is a terminal for the diagnostic plug.
+Speedy Jim's Web Page
+has details (though it really doesn't matter).
+To check to make sure the alternator is working properly -- With the VOM dial set to "Volts," put the meter terminals across the battery 
+with the engine off.  A fully charged battery should read 12.6V. Start the engine; the voltage reading should jump up to around 14V at high idle 
+if the alternator is working as it should.
+* 
+                    * * * *
+Design by
+Erin

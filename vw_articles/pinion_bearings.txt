@@ -1,0 +1,13 @@
+Pinion Bearings
+Pinion Bearings
+~~~
+Rob wrote the following regarding the pinion bearings inside the flywheel gland nut -
+Bentley calls these needle bearings.  Refer to page 1-47 in the Bentley Manual, Figure 17-7 item 3.  The bearings are also shown in Figure 14-6 on page 1-32.
+The needle bearing/pinion bearings are small cylindrical bearings that line the interior circumference of the flywheel gland nut.  The end of the transmission drive shaft goes through the clutch driven/friction plate and into this the gland nut, which has these small needle rollers in it.  The internal diameter is about the size of an index finger (just so you can get some grease in to it).  If the gland nut is to be reused when the flywheel is replaced, the needle bearings should first be cleaned with solvent and allowed to dry, then inspected to assure that they are not flattened by wear.  Then the bearings should be packed with about one gram of multipurpose grease.  Dont overdo the grease, as any excess might find its way out of the bearing and on to the clutch plate despite the felt ring just in front of it - just a nice dab or two on the end of a finger should be enough.
+You can see the pinion bearings in the middle of the gland nut when you pull the engine.  If the needle rollers look okay (undamaged/shiny etc), just lightly grease the bearings and youre done -- dont need to take them out.  If there is some old dry grease hanging about in there, you should be able to squirt in a liberal amount of WD40 to loosen it (with a straw if you have one -- to blast any gunk out), then a rag wrapped around your little finger to clean it up before regreasing.
+Since the pinion bearings are an integral part of the gland nut, they are replaced by replacing the gland nut.
+If the clutch isnt being ridden, and the car is not ALWAYS idling in traffic, then the pinion bearing gets little work, as most of the time the gearbox shaft is spinning locked to the flywheel via the clutch.
+* 
+                    * * * *
+Design by
+Erin

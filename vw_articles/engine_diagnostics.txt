@@ -1,0 +1,78 @@
+Diagnostics
+Engine Diagnostics
+~~~
+Someone provided a great lead-in to the subject -
+I have a 1968 1641cc engine that I just rebuilt.  My mechanic said to get a centrifugal advance (009) distributor, which I did.  During the fire-up the engine would barely run -- it had a bad miss on one side. I found the #4 cylinder is not firing (no heat on the exhaust manifold).  All others seem to be working fine.
+I checked all the wires all are in the correct order and appear in good condition -- I even checked the resistance of the wires and they are the same.  Common sense tells me I've got gas, I've got fire -- what is wrong with this cylinder?  I even pulled the valve cover and all of the valves seem to be going up and down okay.
+Rob responded with an excellent treatise -
+Okay - let's start at the top and work through it.
+Your tests are good so far (valves working, leads give similar ohms...)
+Which cylinder is what -
+front of car
+3  1
+4  2
+rear of car
+Firing order -
+1-4-3-2
+Distributor -
+front of car
+3 &nbsp2
+o
+4 &nbsp1
+rear of car
+(The "
+o
+" is the centre wire to the coil.)
+The '68 engine was an H series single-port 1500cc engine.  Do you still have the single-port heads, or have you converted it to twin port?
+The reason I ask is that if the single-port heads have a loose manifold attachment (air leak), BOTH cylinders on that side will misfire, but with the twin port heads, it's just possible for a manifold air leak to one cylinder only.  The twin port (TP) manifolds do need some attention to make sure they bed down correctly on the head - I've had a problem there in the past myself - thought I'd snugged the manifold down right but both cylinders that side were misfiring, and it was the manifold not quite sitting flat. There is very little working room there with the engine in the car.
+After checking that, check the plugs - swap plugs if you don't have a spare handy.  Does the misfire move with the plug?  I've had two Bosch plugs bad out-of-the-box, and have changed to NGK B5HS (or B5ES for the long thread heads).  These are excellent plugs, very reliable so far.
+If the misfire doesn't move with the plug, then get a spare plug and connect the #4 lead to it and lie it down touching the engine case, and start the engine - any spark? (easier to see at night or in the shade).  If you have a spark then the plug in the head is suspect.  (You aren't using "never seize" or similar on the plug threads I hope - that stuff can cause problems in the hot-running VW heads.)
+No spark?  Then try another lead (completely swap leads if necessary).  If the misfire moves with the lead, the lead is toast.  If the misfire stays at #4, then maybe the distributor cap is toast. Make sure all wires are seated properly, the cap is clean, both inside and out, and check for hairline cracks.  Have a look at the posts inside the cap - do they all show similar burn marks where the spark jumps from the rotor arm to the post?  Maybe there is too much gap on the #4 post (bad cap?).
+You can also check for spark leakage at the distributor cap.  Just start the engine in deep shade of at night and if the cap is bad you will often see sparks "leaking" across from one post to another - quite pretty to watch but doesn't do anything good for your ignition of course.
+I presume you've correctly gapped the points?  Points just barely opening may fail to open for one cylinder. 16 thousandths of an inch is the correct setting.
+Test all cylinders for compression (5-6 rotations of the engine is usually enough -- 2-3 seconds cranking).  They should all be more than 100 psi (usually more than 130 psi for a 1600cc engine), and less than 10 psi between best cylinder and worst cylinder.  If one cylinder has low pressure, it will not be working right at idle, but will still provide some power at higher rpm so you would not notice it then.  If the compression is lower than 100 psi, then you need to statty planning an engine  rebuild.  It will probably still run ok, but with slowly dropping power and increasing fuel and oil consumption.
+Low compression usually means either a burned exhaust valve, or worn out piston rings.  You can test for this.  Squirt about 10 ml (10cc) engine oil in the spark plug hole of the bad cylinder (try and squirt it in a circle around the cylinder using a syringe), and do a compression test again immediately.  If the pressure is better, then the rings are badly worn (the oil seals them a small amount). If the pressure is not changed, then the exhaust valve is probably burnt. Engine oil will help seal leaky rings a little, but won't help a burned valve, so this test usually works quite well.  If this test gives you results, then you will know if the cylinder heads need to be fixed, or if the pistons and cylinders need to be replaced.
+For fun you could then wait a while and then do that cylinder again.  If the compression has dropped at all, that confirms that the oil was filling gaps and has now drained away, so the rings in that cylinder have worn.
+If one valve is burned, ALL exhaust valves must be replaced. The exhaust valve is the hottest part of the VW engine (they glow dull red when you work the engine hard), and if one is damaged the others will soon follow, so you always replace all the exhaust valves together.  (The inlet valves don't work nearly so hard - you don't have to worry about them).
+~~~
+Questions and Answers
+Checking Compression
+Note:
+Please see our
+Compression Test Procedure
+.
+Question -
+When I did the compression check I took the #1 plug out, with all others still in -- does that make a difference?
+Rob responded -
+It's much better to remove all of the spark plugs from the engine before doing a compression check.  It makes for a lower load on the starter, and the engine will spin faster so you'll get a more accurate reading (less time for any leakage on each stroke).
+Question -
+Should the compression test be done on a cold or warm engine?
+Rob responded -
+A cold engine will usually give a higher reading -- and of course you want to find the 'worst case situation -- not the best case -- so it's better to check the compression with the engine warm.
+Question -
+I decided to do the oil test, so I poured a little oil down in the #1 cylinder.  I then got a reading of 120 psi -- it was 110 psi before (about the same as the other cylinders).  Is that slight difference significant?
+Rob responded -
+Yes. Most likely your rings are worn.  And since none of the other readings are up in the 120-130 psi zone, they are probably ALL worn to some extent -- it's just showing up more on one side of the engine than the other. 110 psi indicates that the engine is getting a little tired, but it's not too bad yet - the usualy point to watch for is the cpmpression pressure droppiing below 100 psi on any one cylinder - that's when you start planning a rebuild soon.
+The question continued -
+I do not understand how I could have gotten readings over 20 psi apart, doing the exact same procedure, when the only difference is that the lower reading was with all plugs out, and the higher with all plugs in (with the exception of the one being tested).
+Rob responded -
+The difference may be due to the fact that the engine was cold during the first test but warmer during the second.
+Stripped Spark Plug Holes in the Head
+Question -
+After a compression test I found that a plug wouldn't tighten when I put it back in.  So I took it out and noticed little bits of the cylinder head in the threads of the spark plug.  Have I ruined my entire engine?
+Rob responded -
+What a shame -- that sure indicates a stripped thread in the spark plug hole.  But it CAN be fixed with a helicoil.  Any competent workshop can drill out the head hole (which SHOULD be out of the car so they can clean out the metal filings properly), and screw in the helicoil, which gives you a new thread.
+The question continued -
+I think I am going to have to call Houston (Victorville --
+Desert Autohaus
+in Victorville, California) and have them beam me a new engine.
+Rob responded -
+Sounds like this plan is getting longer legs, since the stripped thread is just one more thing to add expense to the old engine anyway.
+One thing to note (VERY CAREFULLY PLEASE).  If the new engine comes with NEW heads rather than reconditioned ones, they will have the long-thread plugs in them -- the newer heads are all made to suit the 3/4" length rather than the older 1/2" length (NGK plugs are B5HS for short reach, and B5ES for long reach, for example).  If the heads are reconditioned old ones, it could be either.  Make sure you ask when you get the engine, because you MUST use the correct length plug.  Using the long plug in the "short plug" heads risks the outer electrode touching a piston.  And using the short plugs in the long-hole heads means the spark is not inside the cylinder, but inside the plug hole, and this leads to uneven firing, and being shielded by the hole, it becomes the wrong heat range, so might soot up.
+Also consider the compression ratio for the replacement engine.  It should be kept to a maximum of 7.5:1 to enable you to use any fuel from 87 "pump octane"/AKI in the USA or 91RON in the rest of the world.  Any higher than 7.5:1, and you will need to use a higher octane gasoline.
+I wrote a long article on fuels and the VW engine if you are interested.
+Fuels for VW engines.
+* 
+                    * * * *
+Design by
+Erin

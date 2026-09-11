@@ -1,0 +1,53 @@
+Heat Discussion
+Heat Discussion
+~ Miscellaneous Topics ~
+Note:
+An exhaustive discussion of the VW heating system and the problems associated with it can be found in our article
+Heating Your VW
+.
+~~~
+Moving Forward Through the System -
+Fresh Air Tubes -
+Dave reported that the tubes that run from the fan down to the heater boxes (the fresh-air tubes) fell apart in his hands when he removed them. The pretty silver ones lasted less than a year!  Rob said the original fresh-air tubes on his car lasted for about 15 years, but the replacements only last 3-4 years.  The black paper (silver inside) fresh-air tubes seem to last better, but still not as good as the originals.
+See our article on
+Fresh Air Tubes
+for more information.
+Heater Boxes -
+Rob wrote - The outlet ends of the heater boxes in my Bug were in good shape (I'm talking about the exhaust stubs here where they attach to the muffler) -- if they're rusting out it's a real sign the rest of the heat exchanger is going bad.  In my older ('68) Bug, outlet the ends just fell off when I removed my old muffler.
+See our article on
+Heater Boxes
+for a more complete discussion.
+Heater-Box-to-Body Tubes -
+Dave wrote  The original "bellows" (concertina) style hot air tubes on my car were plastic, lined with an insulating material with a wire mesh inside of them to hold the padding in place.  When I removed them they smelled very strongly of exhaust, so I did not put them back in because I was afraid the smell would be transmitted into the cabin.  The only replacements available at the time were cheap, thin plastic without the interior insulation -- these do not insulate against the lost of heat, and they readily transmit fan noise into the car.  The good ones have become available again -- I ordered a pair from
+Aircooled.Net
+and have installed them.  (They're not cheap -- $23 apiece!) The internal padding reduces the transmittal of the fan noise significantly.
+Rob said  The hot air tubes in my '68 Bug are not original.  They LOOK like plain plastic concertinas, but they have padding inside, so maybe they have two types, or maybe the earlier replacement ones were better designed.  My newer Bug also has the "bellows" style hot air tubes. My older Bug ('68) still has its original padded flexible metal tubes.  The padding on these is on the outside (insulation); the tube itself is made of spiral wound metal strip -- like the exposed flexible exhaust pipe you see on some hot-rods.  You would think these would transmit sound, but my older Bug isn't noisy from the fan whine.
+So their seems to be three designs of the heater box-to-body tubes -- the original externally-padded metal pipe, then internally padded plastic/rubber, then the unpadded type.
+Under the Rear Seat -
+Dave found that the plastic heat tube running along the side under the rear seat to the heater channel was all smashed -- yet another reason why there was no warm air up to the front!  Dave removed the insulation from the heater tube on both sides and exposed the Y-shaped metal tubes.  One branch of this tube directs warm air under the seat in the rear and the other branch connects to the heater channel to direct heated air to the front. Dave found that the plastic piece that the Y-tube attaches to at the rear was broken badly.  Dave replaced the whole heater tube assembly under the rear seat and replaced it with a single length of corrugated tubing, not being concerned about heat in the back.  This required the invention of a metal fitting to convey the tube through the body.
+Fan Noise -
+Rob indicated that the Y-shaped tubes under the rear seat are supposed to be surrounded with lagging/padding which absorbs the fan sound while sending the heated air through to the heater channels.  This lagging/padding is wrapped around the tube and held in place by thin metal straps which are crimped tight.  Under the back seat in his 1970 Bug, Rob reported, there are plain metal Y-tubes for the heater (no sound deadening), but the older car has the padded type.  I think that changed in 1969.
+Dave was surprised to find the metal Y-shaped pieces under the rear seat perforated over their entire length with holes!  Rob said the holes in the Y-tube are supposed to act as a sort of muffler for the fan noise.  The construction is very similar to muffler construction where you have a tube full of holes with an absorbent material around the outside (like the VW peashooter tailpipes for example).  If you do replace the Y-tubes under the rear seat with straight ones, Rob said, you might find that the fan noise is increased a little with the heater on.  My 1970 Bug seems to carry a fraction more of the fan whine, but it doesn't seem over-noisy though -- not as noisy as the much early Bugs I've driven.
+After Dave replaced the padded, perforated Y-pipes and the lined corrugated heater pipes, he experienced a lot of fan noise when the heater boxes are open.  The straight-shot tubes replacing the Y-tubes under the rear seat carry the fan noise right up into the car.  Bob Hoover says that most of the engine noise in the Beetle cabin is fan noise, with a significant amount of it coming through the heaters.  Bob recommends putting some heavy-gauge steel wool in the tubes under the rear seat -- supposedly this will pass the air while muffling the noise.
+Rob advised installing and testing the new insulated heater-box-to-body bellows type tubes -- that might be enough. Putting steel wool in the tubes would restrict the flow a bit, which is the opposite of what we want.
+Heater Channels -
+Concerning the heater channels, someone wrote - My Bug has no heater system, so the heater channels don't work as that. They are there just for structural purposes.  My floor pans have to be changed and so do my running boards.  So what do you think of my heater channels?  How can I know if they need to be replaced?
+Rob responded  If the heater channels are not rusty, then you won't need to change them.  Usually replacing the floor pan leaves the outer edge in place (with the line of attachment bolts) and just replaces the actual floor parts.
+You can get replacement heater channel sections (
+Aircooled.Net
+or
+Mid-America Motor Works
+for example) but it takes a lot of experience with cutters and MIG welders to fix them.  It has to be a good job because the channel under the door provide a lot of stiffness to the floor pans, and the alignment is important so the doors close properly, and the body stays straight.
+The running boards are held by bolts in the heater channel with captive nuts inside.  If the nuts twist out of the channel when you undo the bolts, then the heater channels might need replacing. When undoing these bolts, use plenty of WD40 or even a better penetrating oil like Kroil (
+Kano Labs
+) and let it soak for a day so the bolts don't snap off - they are always rusty and stuck.
+If the channels look rusty, or you can push a screw driver through them, then they are probably rusty enough to need replacing.
+Defrost Tubes -
+A Bug may have great heat inside the cabin but still no warm air or only marginal warm air on the windshield.  There is a tube that connects to a "snout" on the forward end of the heater channel, just forward of the door frame.  A paper tube then runs vertically through what has come to be called the "black hole," then turn inward to attach to the windshield warm-air plenum.
+See our article on
+Defrost
+for a more complete discussion of this knotty problem.
+* 
+                    * * * *
+Design by
+Erin

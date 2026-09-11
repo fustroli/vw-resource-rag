@@ -1,0 +1,28 @@
+Steering Damper Replacement
+Steering Damper Replacement
+~~~
+Condition:
+Excessive road shocks to the steering wheel.
+To check the steering damper:
+Firmly set the hand brake and block the rear wheels.
+Raise both front wheels off the ground and place the car on jack stands.
+Put one hand at 3 o'clock and the other at 9 o'clock on the front tire and push-pull very quickly.  Test both wheels in this manner.
+If the wheels move back and forth quickly, without resistance, the damper is probably shot.
+Look at the end of the damper for signs of oil.  If you find oil, its probably from the damper which means its no good.
+~~~
+To replace the steering damper in the Super Bug:
+Remove the steering damper-to-Pitman arm bolt.
+To get to the bolt that attaches the steering damper to the frame head, remove the spare wheel from the front luggage compartment and pry the cover out of the access hole.
+Remove the steering damper-to-frame head bolt and remove the steering damper.
+To check the steering damper, extend and compress the piston rod by hand.  It should move through its stroke slowly and uniformly.  If there's a slack or stiff spot anywhere in the range of movement, replace the damper.  Look for leaks.  A small amount of fluid leaking past the seal is acceptable, but if the damper is empty it must be replaced; it is not rebuildable.
+Installation is the reverse of removal.  Tighten the damper-to-frame head bolt and the damper-to-Pitman arm bolt securely.  Apply caulking compound around the access cover.
+~~~
+To replace the steering damper in the Standard Bug:
+Remove the right front wheel to provide easier access (use jack stands to support the vehicle - don't rely on just the jack). Remove the steering damper-to-Pitman arm bolt.
+The other end of the damper is attached to the centre tunnel under the fuel tank - you simply reach in under the tank to get at the retaining bolt.  There is not a lot of room, but it's not too difficult to reach.  (And whilst you have your head in there, check the condition of the short loop of rubber fuel hose under the tank for wetness/leaks.  This piece of hose is often neglected and eventually perishes, resulting in fuel smells inside the car, and loss of fuel.)
+To check the steering damper, extend and compress the piston rod by hand. It should move through its stroke slowly and uniformly. If there's a slack or stiff spot anywhere in the range of movement, replace the damper. Look for leaks. A small amount of fluid leaking past the seal is acceptable, but if the damper is empty it must be replaced; it is not rebuildable.
+Installation is the reverse of removal.  Simply bolt the new damper in place, replace the wheel you removed and you are done.
+* 
+                    * * * *
+Design by
+Erin

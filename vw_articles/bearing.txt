@@ -1,0 +1,34 @@
+Throw-out Bearing Replacement
+Throw-out Bearing Replacement
+See also our
+Throw-out Bearing Discussion
+(questions and answers).
+~~~
+Note:
+Both the Bentley Manual and the Haynes Manual call this a
+Clutch Release Bearing
+.  The bearing is situated at the rear of the transmission (rear is rear of car).  It is fastened to the clutch operating shaft by two retaining springs.  It is supported by a central guide sleeve.
+There are two styles of throwout (clutch release) bearing.  The older style has round "ears" and simple horseshoe shaped clips holding it to the release arm.  These bearings use a clutch plate with a metal ring in the middle.  The later style (from about 1971) release bearing has square "ears", more complex wire clips, and uses a clutch plate with bare metal fingers.  The clutch plates are identical apart from the metal ring or bare fingers in the middle.
+You cannot interchange the clutch plates, they must match the release bearing style.  If you wish to change the early style to the later style of release bearing, the operating arm in the bell housing must be changed to suit the square eared release bearing.
+this description is for the later style square eared bearing, but the procedure is generally the same for the older round eared style.
+Remove the engine from the car (see the
+Engine Removal and Installation
+procedure).
+Remove the clutch pressure plate and disk from the flywheel (see the
+Clutch Removal and Installation
+procedure).
+To lubricate the throw-out bearing, roughen the surface of the plastic facing ring on the throw-out bearing with coarse emery cloth.  Then rub in a small amount of molybdenum grease.  Do this routinely whenever the engine is removed.
+To remove the throw-out bearing, pry the retaining springs off with a screwdriver.  Hold a rag over the springs to prevent them from flying off and becoming lost when tension is relieved.
+Check the general condition of the bearing.  Hand-turn it; it should not feel gritty or be difficult to turn.  Make sure the plastic facing ring has not worn through.  If in any doubt, replace the bearing. It makes sense to change it if you have the engine out and the bearing has some thousands of miles useage - it might save you an unexpected clutch failure.
+Note:
+Never wash the bearing in solvent since this will remove the factory-installed lubricant.
+Lightly lubricate the operating shaft bushings with multipurpose grease.  Lightly lubricate the guide sleeve with molybdenum grease.
+Install the throw-out bearing and the retaining springs.  Make certain that the hooked ends of the springs engage behind the levers on the operating shaft.  Replace loose-fitting retaining springs.
+After you install the engine, check the clutch pedal freeplay and adjust as necessary (10-20mm).
+While you're there, check the condition of the rubber sleeve and the position of the flexible guide tube (Bowden tube).  If cracked or loose fitting, replace.  The flexible guide tube should sag 20 to 30 mm (0.8 to 1.2 inch).  This sag can be adjusted by adding or subtracting spacer washers at the transmission case mounting.
+Note:
+The bend in the guide tube is essential. It allows the engine to rock on it's mounts without tugging on the clutch cable. Excessive sag in the flexible guide tube will cause the cable to bind, creating noise, difficult clutch pedal operation, or even cable breakage.  If the sag is inadequate, there will be insufficient preload on the cable, and you may get bunny-hops when using the clutch.
+* 
+                    * * * *
+Design by
+Erin

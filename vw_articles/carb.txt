@@ -1,0 +1,310 @@
+carburettor
+The VW Carburettor
+By Rob Boardman
+~~~
+Following are links to various topics discussed under the general heading of "carburettor."
+The Carburettor - General Description and Discussion
+--
+Single-Port and Dual-Port Cylinder Heads
+More Technical Detail
+28 Series Carburettors
+30 Series Carburettors
+Brosol H30/31 Carburettors
+34 Series Carburettors
+The Pierburg 34PICT/3 Carburettor
+Carburettor Adjustment
+-
+Adjustment of "Single-Screw" Carburettors
+Adjustment of "Double-Screw" Carburettors
+Miscellaneous Topics Related to Carburettor Tuning
+Carburetor Overhaul
+(Disassembly and Cleaning)
+28 PICT-1 & -2; 30 PICT/1 Carburettor Overhaul
+34 PICT/3 Carburettor Overhaul
+Related Topics
+(In alphabetical order)
+Accelerator
+Accelerator Cable
+Accelerator Pump
+Alternator/Accelerator Pump Linkage 
+                        Interference
+Air Cleaner
+Air Inleakage
+Automatic Choke
+Carburettor/Distributor 
+                        Matchup
+Dual Carburettors
+Float Needle Valve
+Fuel Line Input Problems
+Flooding
+Intake Manifold
+Jets
+Throttle Positioner
+Throttle Shaft Bushings
+Vapor Lock
+Welch Plugs
+Carburettor Interchangeability
+Miscellaneous Notes/Questions and 
+                      Answers
+~~~
+The Carburettor
+The VW Carburettor
+(In this case, a 34PICT/3 model)
+~~~
+Brosol 30/31 Carburettor
+1. Bypass screw which adjusts the idle speed.
+2. Volume screw which adjusts the idle mixture.
+3. Fast Idle screw which works with the stepped cam to set the idle speed with the choke on.
+4. Stepped cam which holds a fast idle when the choke is operating.
+Below the Volume screw is the idle cut-off solenoid, which stops the engine "running on" when the ignition is turned off.
+(Fairly typical of the later VW carburettors with two adjusting screws in the left side)
+~~~
+Loosen the little clamp that runs around the top of the carburettor and holds the air cleaner in place, and lift off the air cleaner (you may have to disconnect another hose or two to remove it completely from the engine compartment).  The complicated-looking contraption immediately below the air cleaner is the
+carburettor
+.
+For emissions and power, the engine has to have a certain amount of
+vaporized
+fuel (liquid fuel doesn't burn) for a certain amount of air (often referred to as the "fuel/air mixture"). The ideal fuel/air mixture is called Stoichiometry. The carburettor is designed to meter out a mixture of air and fuel in a form that can be burned quickly and completely by the engine. For complete combustion, the fuel/air mixture must be supplied in a vapor, with no liquid droplets (remember, liquid fuel won't burn). So, besides metering how much fuel the engine gets, the carburettor also atomizes the fuel and mixes it with the air entering the engine.
+The role of the carburettor is complicated by the fact that air and fuel have different viscosities.  Since air and fuel do not flow the same, the metering of fuel is NOT LINEAR.  What this means is that you can have correct metering at some engine speeds but not at others. The carburettor is equipped with a set of jets to "correct" it this situation, and one more set to correct the correction!
+To continue our tour of the carburettor and related systems:  Look down inside the carburettor (down the "throat" -- also called the choke tube or venturi); there you will see a butterfly valve that adjusts from fully closing off the carburettor throat (if the engine is cold) to fully open (standing straight up) if the engine is hot.  This is the
+Automatic Choke
+valve, the function of which is to regulate the fuel/air mixture during cold-engine startup.  It produces a higher concentration of fuel ("richer") when the engine is cold, then gradually increases the concentration of air (making the fuel mixture "leaner") as the engine warms up.  Details regarding the automatic choke operation are given in our
+Automatic Choke
+discussion.
+At the bottom of the carburettor is a second butterfly valve, the
+Throttle Valve
+(you can't see it, but trust me) which opens to supply air and fuel to the intake manifold and on to the engine.  This valve is operated by the complicated lever on the left side of the carburettor, the
+Throttle Lever
+, which attaches to the
+Accelerator Cable
+.  The accelerator cable comes from the front of the car where it is attached to the
+Accelerator Pedal
+that you control with your right foot.  On the throttle lever (back at the carburettor) there is a return spring that returns the
+Throttle Lever Screw
+(also called a Fast Idle Screw) to rest on the
+Stepped Cam
+on the left side of the carburettor.  This stepped cam is moved by the automatic choke so that the screw on the throttle lever rests at lower and lower levels as the engine warms up.  This assures that the engine has a high idle speed when cold (or it would stall), but the idle speed reduces to normal as the engine warm up.  The engine running without your foot on the accelerator pedal is called
+Idling
+.
+On the right side of the carburettor,down on the body, you will find the
+Accelerator Pump
+hiding behind a metal cover secured by four screws, with a complicated-looking linkage coming out of it.  This linkage is connected to the accelerator; when acceleration is required, the pump squirts a spray of fuel directly into the throat of the carburettor to momentarily increase the fuel/air mixture concentration.
+Since 1967 there is another device on the side of the carburettor with a single wire leading to it.  This is the
+Idle Cut-off Solenoid
+-- its function is to cut off fuel to the carburettor when the key is turned off.  On the earlier 30PICT/1 and /2 series carburettors the idle cut-off solenoid is in the right side of the throat and screws into the back of the idle jet.  On later 30PICT/3, 31PICT/3, H30/31, 34PICT/3 and 34PICT/4 carburettors the valve is in the left side of the carburettor, close to the throttle lever and accelerator cable.
+Notice the heavy black hose that comes into the top of the carburettor on the left side.  This is the fuel supply line.  It directs fuel into the bowl of the carburettor through a
+Float Needle Valve
+(inside the carburettor bowl -- you can't see it without taking the top of the carburettor off).  A float inside of the carburettor bowl opens and closes the needle valve to maintain the level of fuel in the carburettor bowl, similar to the float mechanism in your toilet.
+Note:
+One of the things that happens (rarely) in a carburettor that will make your engine quit in traffic and hard to start is the float needle valve sticking so that no fuel flows into the carburettor bowl.  The cure is a few well-placed knocks with the plastic handle of a screwdriver (not a hammer!) on the top of the carburettor bowl.  If the car makes a habit of this, its time to rebuild the carburettor and replace the float needle valve, which is included in most carburettor overhaul kits.
+On the bottom of the carburettor bowl on the left side is a large nut.  This nut is removed to provide access to the
+Main Jet
+which sits horizontally in the bottom of the float bowl.  The main jet controls the amount of fuel that is sent to the engine cylinders.  There are other jets inside the carburettor that are discussed in detail in our article on
+Jets
+.
+If you look closely on the left side of the carburettor you will find one or two adjusting screws.  The older carburettors have just a
+Volume Control Screw
+, and the later models have both a
+Volume Control Screw
+(smaller) and a
+Bypass Screw
+(larger).  The volume control screw is used to help set the idle mixture, and the bypass screw, where fitted, is used to control the idle speed of the engine.  We use these screws to "tune" the carburettor.  Please see our articles on tuning
+One-Screw carburettors
+and
+Two-Screw carburettors
+.
+Follow the fuel supply line down from the top of the carburettor to just below the
+Distributor
+(the round orange or black thing with five heavy wires protruding from the top of it).  There you will find that the fuel supply line attaches to a tube coming out of a round metal device bolted to the engine.  This is the
+Fuel Pump
+.  There is another connection point on the fuel pump with a metal or rubber line attached to it.  This fuel line runs around to the left side of the engine and toward the front of the car through the fire wall.  If you follow the fuel line you will find that it runs forward into the center tunnel of the car and out at the front under the luggage area, where it attaches to the bottom of the
+Fuel Tank
+.  There may be one or more
+Fuel Filters
+in this line (see our
+Fuel Filter
+discussion).
+Now return to the engine compartment. The bottom of the carburettor 
+              is bolted to the top of the
+Intake Manifold
+, a metal tube 
+              which splits right and left and carries the fuel/air mixture from 
+              the carburettor down to the sides of the engine, where it attaches 
+              to the
+Cylinder Heads
+on either side.
+If the intake manifold 
+              splits in two on either side, you have what is called a
+Dual-Port 
+              Engine
+; if it continues as a single pipe from head to head, 
+              your engine is
+Single-Port
+.
+Single-Port
+Dual-Port
+(To clarify: In the single-port design the port splits INSIDE 
+                the head to provide the fuel/air mix to each intake valve. The 
+                twin-port (dual-port) heads have two holes in the cylinder head, 
+                one for each intake valve, since the split occurs in the intake 
+                manifold itself before it attaches to the cylinder head.)
+~~~
+Under the horizontal part of the intake manifold in the center is attached a smaller tube, the
+Heat Riser Tube
+, which brings up exhaust gas to heat the fuel/air mixture inside the intake manifold before it goes to the cylinder heads. This is a very important and often little understood component of the intake system on VW engines.
+Inside the heads are the
+Intake and Exhaust Valves
+.  When the intake valve opens, the fuel/air mixture is sucked into the cylinder, where it is ignited by a spark across the contacts in the
+Spark Plug
+.  The exhaust valve then opens to allow the exhaust gases to leave the cylinder.
+~~~
+More Technical Detail About
+Volkswagen Carburettors
+The VW Beetle engine originally used three different-sized Solex carburettors to suit different engine sizes, and each size has several variations, so let's look at them.
+Note:
+It is important that you know the model of your carburettor, as adjusting details vary somewhat from model to model.  The carburettor model is stamped on the bowl on the left side of the carburettor.
+Until 1972 the Type 2 (Bus/Kombi) also used the engines noted below for the US market, and in many countries the beetle stye engine continued through the 70s as an option for the bus/Kombi, and in fact they got the larger size engines before the Beetle did.  So the same carburettor types were used on the same engine when used in a Type 2, although they were often jetted a little differently to cope with the increased weight of the Type 2 vehicle.
+The
+28PCI, 28PICT and 28PICT/1 carburettors
+were used on the 36 and 40hp 1200cc engines from 1951 to 1965. These have a 22.5mm venturi (throat), which provides airflow characteristics which suit the 1200cc engine size. These carburettors are no longer made, but can be replaced by the slightly larger modern replacement 
+30PICT1, or the Brosol H30/31 (see below), which will provide a small increase in hp for the 1200cc engine.
+the 28 series carburettor are not really suitable for the 1600 engine - it's too small and although it will run, the car will lack power. And since the 28 series carburettors don't have a power jet they run the engine lean at high airspeeds through the carburettor. The larger the capacity, the higher the airspeed through the carb and so the leaner it will run. These carburettors have a 22.5mm throat.
+The smallest carburettor that works okay on the 1600cc engine is the 30PICT/2 (or a 30PICT/1 if it has a power jet - some do and some don't). These have a 24mm throat.
+The modern H30/31 works well too - it has a 25.5mm throat. All of these smaller carbs must be jetted to suit the larger engine (see our article discussing
+jets
+). They sit on the twin port manifold with a 30/34 adapter plate.
+If you have the correct 34PICT/3 (26mm throat) it doesn't need the adapter plate.
+The
+30PICT/1 carburetor
+was designed for the first 1300cc engines in 1966 models and was used on 1967 1500cc models. Then came the 30PICT/2 in 1968/1969 for the 1300/1500cc engines and the 30PICT/3 for the US-only 1970 1600cc single-port engine. These all have the same sized venturi (24mm), which allows a larger airflow than the earlier 28 series - which suits the larger capacities better. The /1, /2 and /3 30PICTs have increasingly complicated fuel circuits for better mixture control. Any of the 30 series (30PICT/1, 30PICT/2, 30PICT/3 and modern replacement H30/31) will work fine with the 1500cc and 1600cc engines.
+Someone wrote to ask -
+Can I use my 30PICT/1 carburettor on my 1600cc dual-port engine?
+Rob responded -
+You can use SOME 30PICT/1 carburettors on a 1600cc engine.  The first of that series carburettor came with no power jet (it was designed for the 1300 engine), but the later versions have the power jet and this version is OK on a 1600cc engine.  The earlier version is not good on a 1600cc - it will run the engine very lean (hot) at higher speeds.  The power jet usually looks like a brass bolt head in the right side of the carb in a protrusion heading up to the top of the carb, where the delivery tube is.
+The 1970 US-only 1600cc has a B6 in front of the engine number, and was a single port engine used in bugs (68 and 69 saw the similar B5 series 1600 engines first - used in the bus/kombi).  The first dual port 1600s came in 1971, and have a double letter in front of the engine number, AF or AD for that year.
+The H30/31 Brosol carburettor can run the 1600cc engine OK, but it MUST be jetted correctly.  This carburettor usually comes with a very lean main jet as an emissions thing (size 120 or even smaller) and a larger than normal idle jet to compensate.  On a 1600cc the main jet should be a size 127.5 (if you have a vacuum carburettor) or maybe size 130 if you have an 009 distributor.  The idle jet should be a size 55, and power jet size 65. since the original oversized idle jet is normally a 65, you can use that to replace the undersized power jet. Confused?  Ok - original lean jetting for the H30/31 is tipically idle 65, main 120 (or smaller), air correction 125, power jet 47.5. Adjusted jetting is idle 55, main 127.5 or 130, air correction jet untouched at 125, and power jet 65.
+The air correction jet size is very important when using a smaller carburetor on a larger engine.  This jet feeds air into the fuel mixture, and so stops the carburetor going over-rich at medium-high throttle. The 1600cc DP can flow more air than the 1600cc SP and smaller engines.  And since higher airfow means a higher vacuum in the throat, this sucks in more fuel for a richer mixture, so you then have to enlarge the air correction jet to match the higher airflow.  If not, the engine will run rich at medium-high throttle.  The air correction jet should be about size 125.
+Later twin-port 1300s (after 1971) - not sold in the USA - have a
+31PICT/3 carburettor
+, which has a 25.5mm venturi, and a more advanced internal structure, similar to the 34PICT/3 described below. All these 30 and 31 series carburettors ( 1200cc, 1300cc, 1500cc, and 1600cc engines) 
+can be replaced by the modern equivalent
+Brosol H30/31, so long as it is jetted to suit the engine size (airflow). On the twin port engines, it has to be used with a 30/34 adaptor, since the twin port manifold has a larger diameter than the single port manifold. (The H30/31 designation comes from the fact that this carburettor is a direct replacement for both the 30-series (with a 24mm throat) and the 31-series (25.5mm throat) used on the post-1971 1300s in Europe etc.
+Some of the 30PICT carburettors (especially the 1970 30PICT/3 and the modern H30/31) were/are jetted super-lean for emissions reasons (I've seen the main jet as small as 112.5). Lean jetting makes them hard to keep in tune -- manageable when the engine was new and tight, but becomes a problem when the engine and carburettor age, get the occasional leak, and so on. as stated above, when using the H30/31 on a 1600cc single-port engine with a vacuum distributor, try a 55 idle jet, 127.5 main jet and 125 or 130 air correction jet. The power jet in the right aside should be a 65.
+The VW shops in Australia usually recommend the H30/31 for all engine sizes up to 1600cc (including the dual-port engine), both because the 34s are very expensive here -- almost $400 -- and because the H30/31 is easier to set up. The H30/31 also tolerates the 009 distributor better than the 34 sized carburettor -- less likelihood of flat spots. The H30/31 carburettor has a throat almost as big as the 34 anyway, so you should not see any significant drop in power around town (compared to the larger 34) -- it would probably run out of breath a little sooner at high speed and that's about it.
+The development of the 30/31 carburettors is interesting... the 30PICT series has a 24mm throat, and it's final development was the 30PICT/3 used in the 1970 1600 single-port engine (in the USA). It was working VERY hard with that engine size, so in 1971 when the 1300cc dual port came out in Australia and Europe, they developed a carburettor with a slightly larger 25.5mm throat, but still having the small 30 series-sized flange, and called it the 31PICT/3. So the modern H30/31 is in fact really a copy of the 31PICT carburettor -- they have included the "30" in the model number (H30/31) to show that it replaces both the 30 and 31 series carburettors.
+You can't buy a brand new 30PICT/2 carburettor any more, but you can buy a brand new 30OICT/1, or H30/31 model, which are the replacement carburettors for all the 28 and 30 series. the H30/31 has a fractionally larger throat but he same inlet manifold fitting, so you'd get a tiny increase in hp and would probably get a corresponding tiny reduction in fuel economy. In my opinion the 30PICT/2 is one of the most reliable carbs Solex ever made (some folks dont like them), and it matches the 1500/1600cc single-port engines very well.
+The
+34PICT/3 and the California-only 34PICT/4 carburettors
+have a larger 26mm venturi, which allows the 1600cc dual-port engine to breath better for increased horsepower. These carburettors have more complex fuel metering which allows the carburettor to run a little leaner for emissions reasons.  These leaner settings also make the engine harder to tune as it ages (the VW engine really prefers to run a little rich), and so sometimes changes to the fuel jets are needed. Two replacement 34PICT/3 carburettors that are available the Bocar and the Pierburg. The new Bocar carburettors almost always have very lean jetting which may need alteration. The Pierburg carburettors come with an X130 main jet and a 50 idle jet, which usually works ok.
+Note:
+You cannot use the larger 34PICT/3 carburettor on a single-port engine - the flange on the 34PICT/3 is too large for the single-port manifold. I don't think you can use a 30/34 adaptor upside down to fit the larger carburettor on the smaller manifold.
+In summary, there are four replacement carburettors available today -- the 30PICT/1, the Brosol H30/31, the Bocar 34PICT/3, and the Pierburg 34 PICT/3:
+The
+30PICT/1 or the Brosol H30/31
+replaces the 28 series, the 30 series and the 31 series, and can be used (with different jetting) on 1200, 1300, 1500 and 1600 engines (either single port or dual port).  The 30PICT/1 especailly, and the H30/31 to a lesser extent, are just about at their limits with a 1600, and so you might lose a few hp compared to the larger 34PICT/3 carburettor, but they still works ok with this engine size.  The 30PICT/1 and the H30/31 flange fits the single port inlet manifold, and the 1300 twin port manifold ('71+ 1300s).  It can also be used on the larger 1600 twin-port inlet manifold with a 30/34 adaptor, so they are quite versatile carburettors.
+The larger
+34PICT/3 carburettor
+is used on 1600 twin-port engines and provides slightly better horsepower than the same engine with a smaller H30/31, and noticabley more than a 30PICT/1.  It can also be used on slightly larger capacities like the 1641 (87mm cylinders), 1679 (88mm cylinders) and 1776 (90.5mm cylinders).  Bigger than this and the engine will be under-carbed, limiting any gain from the larger capacity.
+Note:
+In Australia the preferred replacement for 1600 engines seems to be the Brosol H30/31, rather than the 34PICT/3.  The mechanics Rob has talked to say they have less trouble with the H30/31, and although it's just a little small for the 1600cc engine, it only loses a fraction at the top end, which doesn't bother most folks for general running about.
+The Pierburg 34PICT/3 carburettor
+is designed for 1971 dp and newer upright engines.  These have the accelerator pump linkage that clears the alternator, unlike the Brazilian carb that requires alternator grinding.  The Pierburg models are supposed to have much better casting quality, machining, and almost zero defect compared to other units.  They also have the proper port for SVDA or other vacuum advance distributors.  The Pierburg carburettor comes with an X130 main jet and a 50 idle jet, as well as a new choke and idle shut off valve.  (Dave replaced the size 50 idle jet with a size 55.)  The choke and mixture need to be adjusted after installation, of course.
+Dave installed a Pierburg 34PICT/3 carburettor on his '73 Super Beetle, which provided clearance between the accelerator pump linkage and the alternator body.  However, Dave's euphoria with the Pierburg carburetor was short-lived.  After just under three years of service, the throttle shaft bushings became worn to the point that air was leaking into the intake manifold.
+Throttle Shaft Bushings
+The original throttle shaft bushings are "garlock" split style bushings made of relatively soft aluminum, which wears after a short while and permits air to leak in around the throttle shaft, essentially making the carburetor useless.
+The following note is from a respected contact who overhauls carburetors and replaces the throttle shaft bushings -
+The problem can be cured by milling out the old aluminum bushings and inserting much better wearing brass bushings. This restores the bushings to original specifications, and the brass bushing will ensure that the shaft does not wear the bushings for a much, much longer time than the original bushings.
+Here's a picture of Dave's worn out bushings -
+Worn Out Throttle Shaft Bushings
+Later Dave replaced the Pierburg carburetor with a rebuilt German 427-1 model in which brass throttle shaft bushings had been installed.  Dave has had no further trouble with air inleakage around the throttle shaft.
+~~~
+Carburettor Adjustment -- General Notes
+Before you begin to adjust the carburettor, the valves, points, and timing should be set.  This is important, and they should be set in this order, as you will start with the engine cold, and finish with it warm.  It's important to set the valves, points, timing and to check the choke before setting the carburettor, as they all work together for a smooth running engine.  Details regarding these settings are given in the links below.
+The following descriptions apply to all types of carburettors -
+There is a lever on the left side with a cable connected to the bottom of it.  This is the throttle lever; the cable is the accelerator cable.
+Note:
+Before adjusting the carburettor, it is essential that the accelerator cable be properly adjusted.  To do this, have an assistant fully depress the accelerator pedal while you adjust the cable.  Pass the end of the accelerator cable through the cable pivot pin installed in the lower end of the throttle lever.  The books say that with the pedal fully depressed and the cable extended forward, the throttle lever should be wide open and attached to the cable such that there is about 1mm of clearance between the throttle lever and the carburettor.
+You may find it easiest to simply note where the clamp goes on the cable end in this position (wide open), then let up on the pedal and make the connection with the system relaxed.  Or, if working by myself, I find that I can come very close by adjusting the cable as follows:  With the idle screw against the very bottom of the stepped cam, pull the cable back finger-tight and snug down the screw to secure the cable.  It takes three hands -- I use my channel lock pliers and hold the end of the cable to the throttle lever while I tighten the screw with the other hand.
+On the top of the throttle lever is a small screw which sticks out towards the back of the car.  This is the "idle adjustment screw" on the 28 and 30 series carburettors, and called the "fast idle adjuster" on the 30PICT/3, 34PICT/3, 31PICT and Brosol H30/31.
+It is important to note that the fast idle adjuster sitting on the stepped cam has a different function the old 28 and 30 series carburettors (those with a single adjusting screw in the left side), compared to the newer carburettors with two adjusting screws in the left side.
+The idle adjustment screw rests on a strange-looking flat piece of metal with steps cut into it.  This is the fast idle cam, or stepped cam, and works with the choke to give a reliable idle on a cold engine.
+The engine must be warm to set the carburettor so that the choke is off (i.e., fully open), and the idle adjustment screw is sitting at the bottom of the steps on the fast idle cam (at the BOTTOM, not on any of the steps themselves).  Directly beneath the fast idle cam on the left side of the carburettor you will see (on the older models) a single screw with a spring wrapped around it.  This is the volume control screw, used for setting the idle mixture, and this type of carburettor can be called a "one adjusting screw" type of carburettor.  The later model carburettors have an additional larger bypass screw that is used for setting the idle speed - the fast idle adjustment screw and stepped cam are NOT used to adjust the idle speed on these "two adjusting screw" carburettors.
+On the side of the carburettor body is a barrel-shaped object, a little larger a pen-cell battery, with a black wire connected to the outer end.  This is the idle fuel cutoff valve (solenoid).  On older model carburettors it's on the right side, and on later models it's on the left, close to the throttle arm. This valve shuts off the flow of fuel when you turn off the engine, to prevent "running on."  Be sure the wire is connected and that it runs to the (+) terminal on the coil.  (Also attached to this terminal is the black wire that provides power to the automatic choke.)  Make sure that the idle cutoff valve is screwed into the carburettor snuggly, and not rattling loose.  Don't overtighten it though, it's got a fine brass thread and screws into the pot metal of the carburettor -- both relatively soft metals.
+Note:
+You can test the operation of the idle cutoff valve solenoid very easily.  Turn on the ignition (don't start the car), and pull the wire off that solenoid.  Touch the wire back onto the connector, and you should hear a clicking sound as the valve inside moves.  If you do not hear a clicking sound, check to make sure there is power (12 volts) to the wire (small trouble light,
+voltmeter
+, etc.). Replace the solenoid if necessary.  If it's not working, you won't get a proper idle, and you'll get rough running at traffic speeds, too.
+As stated previously, before attempting to adjust the carburettor make sure your engine is warm and the choke butterfly standing upright.  Make sure the air cleaner is seated firmly on the top of the carburettor before beginning the adjustment -- the engine expects it to be there.
+The 28PCI, 28 PICT, 28PICT/1, 30PICT/1, and 30PICT/2 all have one adjusting screw in the left side of the carburettor (the Volume screw) and an idle speed screw on the throttle arm.  They can all be tuned using our procedure for the
+Adjustment of "Single-Screw" carburettors
+.
+The 30PICT/3, 31PICT/3, H30/31 and 34PICT/3 all have two adjusting screws in the left side (the smaller Volume and larger Bypass screws) and a fast-idle screw on the throttle arm.  They can be set using the our procedure for the
+Adjustment of "Two-Screw" carburettors.
+~~~
+Carburettor Interchangeability
+Someone wrote ? In my car (1969 Beetle) I have a 30PICT/2 carburettor.  I also have an extra 34PICT/3 carburettor from an old '74 that I parted out.  Can I use the 34PICT/3 carburettor on my '69 Beetle?
+From elsewhere on our Web page - You cannot use the larger 34PICT/3 carburettor on a single-port engine - the flange on the 34PICT/3 is too large for the single-port manifold. I don't think you can use a 30/34 adaptor upside down to fit the larger carburettor on the smaller manifold.
+Rob wrote ? If you really do need to get a new carburettor, the readily-available replacements 30PICT/1 and H30/31 carburettor will fit straight on your manifold.
+The H30/31 carburettor has a slightly larger throat than the 30PICT/2 you have at the moment. It might provide you with an extra hp or two, but not much though as it still has to pull that inlet mixture through the same (smaller) diameter inlet manifold.  So the inlet manifold itself becomes a limiting factor.  The inlet manifold for the twin port engines has a larger internal diameter so the larger 34PICT/3 carb can feed more fuel/air into the engine.
+I don't quite understand what you are trying to achieve though ? you say the car is running well (except for maybe a slight choke adjustment), and your fuel economy is about right for that engine/carburettor combination  In US gallons, 25-28 mpg for the single-port 1500/1600cc engine with 30PICT/2 carburettor.  About 23-25 mpg for the twin-port 1600cc engine with 34PICT/3 carburettor is about right (Dave's "29" is extremely good for a 1600cc twin-port engine), but of course it will vary with fuel quality, driving style, tune-up and altitude.
+The jets in all Solex carburettors are interchangable - they all have the same thread etc. Just the hole size is different. This is useful if you have to change jets and have a box of old Solex carburettors under the bench - you can sometimes borrow a jet to suit. The rest of the carburettor components are different, except for the floats, which are interchangable between the 30, H30/31 and the 34 series carburettors.
+~~~
+Another person wrote wondering whether a smaller (i.e., 28PICT) carburetor would help to resolve his dieing at idle problem.  Rob responded -
+The 28 series carburettor is really too small for the 1600cc engine.  Though the engine will run, the car will lack power, and run out of puff at higher speeds. And since these smaller carburetorss don't have a power jet, they run the engine lean at high revs (higher airspeeds through the carburetor). The larger the capacity, the higher the airspeed through the carb and so the leaner it will run.  These carbs have a 22.5mm throat.
+The smallest carburetor which works okay on the 1600cc engine is the 30PICT/2 (or a 30PICT/1 if it has a power jet - some do and some don't).  These have a 24mm throat.  The modern H30/31 works well too - it has a 25.5mm throat.  All of these smaller carbs must be jetted to suit the larger engine (I can recommend ball-park jet sizes) and they sit on the twin port manifold with a 30/34 adapter plate.  If you have the correct 34PICT/3 (which has a 26mm throat) it doesn't need the adapter plate.
+~~~
+Miscellaneous Notes/Questions and Answers
+Note Regarding Carburettor Designations -
+The /4 designation means it's been set up as a lean running to control emissions -- more commonly found in California than in other parts of the world.
+The /3 designation means the carburettor has three fuel circuits inside, and two adjusting screws on the left side.
+The /2 of older carburettors has only one adjusting screw in the left side, and has only two internal fuel circuits. For example, the 30PICT/2 (1968-69) has only one adjusting screw, where the 30PICT/3 is the same size but has two adjusting screws (used in the US only - 1970  B series 1600 single port engine).
+Questions Regarding a Sticking Throttle Lever
+(see Dave's bottom line below) -
+Question - My the throttle lever won't return to the cam -- it's sticking a good 3/16" out from the low point of the cam, and that's with the throttle idle screw turned almost all the way in.  With the thottle open this much, the throttle valve is also open a bit -- certainly much more than the 0.004 inch it's supposed to be.  Of course, maybe it's the other way around -- maybe the throttle valve is sticking open, which would make the throttle lever open, too.
+As you said in one of your notes, if the throttle valve is not seating properly (i.e., 0.004 inch open) it will interfere greatly with the normal IDLE flow -- i.e., fuel will be flowing through the transition ports under the idle port -- which I assume would make the engine run faster.
+Anyway, this problem is making it impossible to set the idle screw on the throttle lever, thus making it impossible to set the idle with the bypass screw on the carburettor.  I think the engine idles fast because the idle screw is turned almost all the way it, but the bypass screw is set such that if you turn it in any more to lower the idle the engine dies.
+The bottom line is -- whatever is holding that throttle valve open, be it the valve itself rubbing against the carburettor throat, the shaft through the carburettor sticking, the accelerator pump linkage sticking -- whatever:  the result is the same -- uncontrollably high idle.  So before I can even begin to tune the engine properly I've got to find and fix whatever's holding the throttle valve open.
+Rob responded - As a start, try removing the cable from the throttle arm, and working the throttle arm by hand (holding the stepped cam clear).  You might just feel something if you are lucky.  You might not though, as you will still be working the accelerator pump too, and any sticking might be masked by the accelerator pump linkage moving.
+Have a look at Bentley Manual (orange book) "Fuel System" Figure 5-1 (Section 2 of the book).  It shows a cutaway of the carburettor in good detail.  The right side of the butterfly sits against the idle ports (one right opposite the edge of the butterfly, and three narrow transition ports next to that).   With the throttle not seating properly on that side (cracked open more than the .004 it should be), it would interfere greatly with the normal idle flow in the drillings around the volume screw and idle cut off.
+Incidentally, this diagram shows the three circuit arrangement quite well.  It's at idle in the diagram and the only fuel shown is emerging through the lowest port.  Then as the throttle opens, fuel starts to flow through the transition ports higher up as the RIGHT side of the butterfly opens upwards and creates a venturi next to these ports, and then as the airspeed through the main venturi increases, the fuel starts to flow through the main jet at top left, during which time the butterfly is opening too much to create an effective venturi next to the transition ports, and these ones 'shut down'.
+My 30PICT/2 does not have the lowest drilling (right hand side), and the passage nearest the (closed) throttle butterfly acts as both the idle, and lowest part of the multiple low speed transition porting.  There is no bypass screw on the 30PICT/2 carburettor.
+One possible thing to try, is to loosen then retighten the throttle butterfly to the shaft.  Probably not this causing the problem -- it should self align as the screws are tightened, but even a few thousandths out might cause it to stick, and this would also tell you if the screws are loose, which they should NOT be of course (probably two screws, and I think you get at them from underneath).  Also look and the sides of the throat where the butterfly moves.  You might be able to see bright 'rub' marks if the butterfly itself is binding on the sides, or on the outer edges (near where it closes).
+Dave's Bottom Line Regarding His Sticking Throttle Lever Problem -
+Dave finally discovered that his throttle lever was sticking because the accelerator pump linkage was rubbing against the body of the alternator.  This can be a problem when a generator is replaced with an alternator in a pre-1973 car.  Dave's car is a 1973 model, but the engine is 1971.  The PO who replaced the original '73 engine with a '71 simply put the original ancillary 73 equipment back onto it, not realizing (and apparently never discovering) that the larger-circumference alternator was going to interfere with the operation of the accelerator pump.  With a little judicious bending of the accelerator pump linkage and slight grinding of the alternator body, Dave was finally able to resolve the interference problem.  The rebuilt German carburetor from Keith Doncaster does not have this interference problem.  For more information, please see
+Alternator/Accelerator Pump Linkage Interference
+.
+Question Regarding the Throat (Venturi) Size -
+Question - I've been told that the throat on the 31 is smaller and that's good (I was told) because the air rushes in faster.  Any comment?
+Rob responded - Well, yes, that's sort of right.  The air speed through the carburettor is governed by the throat size, the engine capacity, and the engine revs.  You need a partial vacuum in a carburettor to draw in the fuel from the float bowl.  Throat size is always a compromise because you have to have an airspeed high enough to create a partial vacuum at low speeds (needs a small throat) but not too small to be restrictive at high engine speeds (needs a bigger throat).  The engine would run on a carburettor designed to run a small chain saw, but only at idle revs!  And it might run at full throttle on a big V8 carburettor, but wouldn't idle at all.
+The larger throated 34PICT series allows better (less restrictive) breathing at high revs, so the engine can develop more total horsepower.  But it also has to operate at idle and cruising speeds.  So the 34 copes with this by using 3 fuel circuits  - idle, low speed and main.  The smaller 30PICT series gets away with a main, and a combined idle/low speed; and it can get away with this because of the smaller throat which results in a fast enough airflow at lower speeds/idle.  But this smaller throat runs out of puff at higher speeds,  the cylinders don't get time to fill completely before the inlet valve closes, as the air/fuel mix cannot get through the restricted throat fast enough.  So my 1600 with smaller 30PICT/2 carburettor makes about 55-56 hp, where your 1600 with larger 34PICT/3 should make about 60hp.
+That's why those who race their VWs are always talking about dual 40mm Kadrons, progressive Webers etc.  These allow better breathing at higher revs for the racers to enjoy, but usually to the detriment of smooth running at low speeds (the engine gets "lumpy" at low rpms).
+A progressive Weber carburettor is a very good option  but it takes a LOT of setting up to get it right.  These have two throats, a smaller one for idling and gentle cruising about town, and a larger throat which only opens when you step on the gas.  The Japanese cars used to use them a lot.  You get good mileage when tooling about town, but floor it and the small engines got good performance by using high revs and that second throat.
+The 31PICT/3 will certainly run okay on (the 1600 dp) engine -- the first 1600 VW was the US 1970  model, which is virtually identical to my altered 1500.  It had 1600 cylinders, with single port head and 30PICT/3 carburettor.  Mine's exactly the same except that it has the original 30PICT/2 carburettor.
+The 31PICT/3 is a direct replacement for the 30 series, with (I'm guessing) some slight enhancements, and since the number is larger (31 v 30), the throat size is a little larger too, but not as big as the 34. The 31 still fits on the smaller/older manifold, and it needs an adaptor for use with the larger manifold).
+Rob wrote - The normal VW carburettors have just one throat (venturi).  This is always open (it's called a "constant venturi" carburettor), so there is a huge variation in the amount of vacuum at the venturi, depending on how open the butterfly is, and of course the engine speed.  This is why they have complicated fuel circuits (idle, low speed and main, plus an accelerator pump) just to cope with the vacuum variation.  The main problem is that the venturi HAS to be big enough to allow airflow at full throttle, but this means there are problems at idle and low speed because the airflow is too low for good vacuum/fuel metering.
+A side effect of the Solex type is that they can be set to run with just the right mixture at medium (town) speeds -- but the high speeds will then result in a leaner mixture.  Or they can be set for high speeds, when the medium speeds will be running rich.  Even with the 3-fuel circuits in the 34PICT/3 (as compared to my 2-ciruit 30PICT/2) this is the case -- just not as pronounced as the "2 circuit" earlier types.
+Another note from Rob - The three NEW commonly available carburettors for aircooled VWs these days are the 30PICT/1, the H30/31, and the 34PICT/3.  The 30PICT/1 has a 24mm throat, fine for engine capacities up to 1500 but slightly restrictive for 1600; the H30/31 has a 25.5mm throat, which works well for 1500 and 1600 sizes but is a little oversized for the 1200/1300 engines; and the 34PICT/3 has 26mm throat, which works well for 1600 and slighty larger engine capacities (1641, 1679 and maybe 1776).
+Questions Specifically Regarding the 30 PICT/2 Carburettor -
+Question - I have a simple question about the Solex 30 PICT/2 carburettor.  What does the bypass screw do?  I have screwed it all the way in while it is running and it makes a small difference in the idle but not much.  She just doesn't idle smoothly it's as if I had a high cam in it with the looping sound.
+Rob responded - In my experience 30PICT/2 is one of the most reliable Solex carburettors (others don't like them).  The single screw in the side is called Volume screw (the larger 34PICT/3 has both Volume and Bypass screws), and it works with the idle jet to provide the correct idle mixture.  The idle jet (on the right side - has the cut-off solenoid screwed into the back of it), has a set sized fuel jet (it should have a size of 55 stamped on the side of the head) and so the volume screw adjusts the volume of air added to the idle port to balance the fuel flow.  Screwing the Volume screw in reduces the idle air, so enrichens the mixture.  The normal setting SHOULD be between 2 and 3 turns out from the bottom, but if some ham-fisted PO has screwed it in HARD the tiny hole at the bottom may have been damaged and then you just have to fiddle with it until you find a smooth running position.
+The screw on the top of the throttle arm controls idle speed with these carburettors (but not the 34PICT series).
+So you set the idle speed to 850rpm or so, then use the volume screw to get the fastest idle, then reset the idle speed using the throttle arm screw.
+Someone asked - how do I set up an H30/31 which I have on my 67 bug? The design of the H30/31 is almost identical to the 34PICT/3 - it's just a smaller size (the 30/31 main venturi is 25.5mm, the 34 has a 26mm venturi).  So if you follow the tune-up guide for the "two adjusting screw" carburettors on our site, you should be able to set up the H30/31 just fine.
+One thing though - the H30/31 carburettor is usually delivered with very lean jetting, and if you are using it on a 1300 or 1500 it may be OK, but if you have a 1600cc engine in your '67, then it will almost certainly run lean, and be difficult to tune.  See the jetting suggestions above. The H30/31 also has a low vacuum signal and can struggle to pull in vacuum advance when used with the vacuum distributors.  So it is often used with a non-vacuum distributor like the 009.  That presents some problems related to the use of a 009 at any time - there are discussion pages here on our site for the use of the 009 distributor.
+Specific Tuning Questions -
+Question - When I floor suddenly (when traveling at low revs) and normally in first the engine dies and then after about a second it comes to life and runs fine. Could this be fixed by adjusting idling?
+Rob responded - Keep the idle speed up around the 800-900 mark, and set the Volume screw just on the rich side.  Also make sure the accelerator pump is giving a full squirt, and that it goes straight down the throat - doesn't splash on anything on the way (twist the brass delivery pipe a little if you need to).  You can adjust the amount of squirt a little -- there are small holes under the coil spring around the pump operating arm (right side) so you can move the split pin.
+Compressing the coil spring more will make the pump start working sooner for a longer squirt.  Doing all that will reduce the hesitation somewhat.  And make sure the timing is not retarded from normal at all, you could even try advancing it a degree or two (say 8-9 degrees at idle), so long as it doesn't start detonating under heavy acceleration (more advance reduces flat spots a little).
+Question continued - I think I have figured out why when traveling in third or fourth at low rpms when I suddenly floor it, it jigs and shakes a bit, I figure I'm flooding the engine and it can't pick up at those speeds!
+Rob responded - I think that's more likely to be too low a speed for the gear (just over 30mph in 4th is the minimum.)  And the fractional LEAN hesitation would be part of the cause too.  Have you checked and gapped the plugs lately? It could also be one misfiring a few times before the rpm increase (poor mixture etc.).
+Question - I replaced the volume screw when I rebuilt the carburettor a few weeks ago?  As far as the hole being reamed out a bit, I looked inside with a flashlight but it's hard to tell ...
+Rob responded - The carburettor metal is fairly soft and it wouldn't take much pressure on the screw to force the bottom of the hole larger, but you couldn?t see it with a flashlight down that tiny hole anyway.  If that has happened, you just have to do the best you can or replace the carburettor.
+Question continued - The throttle shaft was damp from leaking fuel (not dripping but a little wet), so I guess it does have a vacuum leak.  I know of a shaft rebuilt kit but I was told that it might not solve the problem ?  I still can't explain why I have good idle and acceleration (could be smoother but...) when the volume screw does not work the way it should.  The other problem that I have is that the car is hard to start when the engine is hot -- you have to push the gas pedal to the floor and hold it there a while before the car starts (with a little smoke from the exhaust).
+Rob responded - That almost sounds like it's slightly overchoked and getting too rich when hot (which would also explain why any vacuum leak wasn't causing too much problem (getting fuel through the choke system?).  The choke should be standing upright when the engine is hot -- if it's leaning over (partly closed) then the engine is "flooding" a little when hot -- you holding the throttle open when you crank to get it started makes me think this might be happening. Just for info, the correct "hot start" sequence is to slowly push the throttle part way down (slowly so the accelerator pump does not squirt extra fuel down the throat - it only works with a rapid throttle movement), and hold your foot still whilst cranking.  This prevents flooding a warm engine, so it should start easily.
+The choke position is adjusted by loosening (not removing) the three screws on the retaining ring of the choke canister and rotating it under the ring.  The are alignment marks on the ring and canister body so you can see how much it's moved.
+Regarding Carburettor Gaskets -
+Rob noted - I've removed the carburettor top maybe ten times and still used the same carburettor top/body gasket with no problems.  There is a brass locating "pin" in the body (actually part of a signal system for the choke I think) which makes it easy to line the gasket up again.  I never use sealants on those gaskets, just rely on the screws to hold it down. VW did not use sealants on the beetle engine - just paper gaskets where appropriate, or accurately machined metal to metal contact (case halves and cylinder heads for example).
+* 
+                    * * * *
+Design by
+Erin

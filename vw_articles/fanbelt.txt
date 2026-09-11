@@ -1,0 +1,70 @@
+Drive Belt Check, Adjustment and Replacement
+Drive Belt Check,
+Adjustment and Replacement
+Note:
+The only absolutely essential spare you need to carry in any
+VW (besides the spare tire and the means to change it) is a spare
+fan belt.  If you try to drive your VW with a broken fan belt, you'll
+wreck your engine within a few miles.
+~~~
+This article covers the following topics -
+Checking the Drive Belt
+Adjusting the Drive Belt
+Replacing the Drive Belt
+~~~
+Checking the Drive Belt
+Note:
+The belt should be at least tight enough so that turning the generator/alternator pulley with a wrench also turns the engine. If it is too loose, turning the pulley will just turn the generator/alternator shaft while the belt slips on the pulley. In the VW aircooled engine, proper fan belt tension is vital, since any belt slipping reduces the amount of cooling air that is supplied by the fan. Of course, having the belt too tight can cause premature wear on the alternator/generator bearings.
+The alternator/generator drivebelt, also referred to as a V-belt or simply fan belt, is located at the rear of the engine.  Because this belt drives both the alternator and the engine cooling fan, the good condition and proper adjustment of the belt are critical to the operation of the engine.  Because of their composition and the high stresses to which they are subjected, drivebelts stretch and deteriorate as they get older.  They must therefore be periodically inspected.
+With the engine off, open the rear hood and locate the drivebelt at the rear of the engine.  Check the belt for separation of the adhesive rubber on both sides of the core, core separation from the belt side, and/or severed core.
+Also check for fraying and glazing, which gives the belt a shiny appearance.  Both sides of the belt should be inspected, which means you will have to twist the belt to check the underside  Use your fingers to feel the belt where you can't see it.  If any of the above conditions are evident, replace the belt.
+To check the belt tension, with your thumb push in on the belt midway between the pulleys and measure the deflection with a ruler.  The drivebelt deflection should be about 5/8-inch.  If the tension is more or less than this, it must be adjusted to bring the tension into specification.
+~~~
+Adjusting the Drive Belt
+Note:
+Adjustment for the fan belt tension on a Type 1 engine is different compared to more modern cars. Since the generator/alternator and cooling fan is in a fixed place on this engine, VW had to provide for adjustment of the fan belt another way. They did this with shims. The alternator/generator pulley is really two separate halves. To adjust the belt tension, the pulley nut is removed and shims are added to or subtracted from the space between the pulley halves. Adding shims decreases belt tension, and subtracting shims increases belt tension. Any remaining shims are placed on the outside of the pulley halves, under the tightening nut.
+To adjust the belt tension, you must first remove the pulley nut.  The front half of the alternator pulley (front is front) has some cut-out slots in it.  Insert a long thin screw driver into one of these slots where it will jamb on the bolt heads underneath the pulley, to hold the pulley stationary while using your 19mm wrench (spanner) to loosen the pulley retaining nut.
+Note:
+VW supplied a tube spanner with every car just for this job (it also fits the wheel nuts and spark plugs!), but any 19mm box wrench (ring spanner) will do the job.
+Remove the pulley nut, and you see a metal bell/dish shaped washer, and under that are some shims. Remove all that stuff and then remove the rear (rear is rear of car) pulley half.
+Belt tension is adjusted by inserting or removing shims between the pulley halves.
+Note:
+Although the shims are thin, removing or adding even one makes a considerable difference in belt tension.
+Note:
+Spare shims are placed just underneath the heavy dished washer, so the complete stack of shims and pulley halves remains the same.  This ensures that the nut will fit the shaft correctly, and the spare shims will be available for future use.
+Note:
+When removing the shim stack to replace the belt with a new one, it's a good idea to keep the the shims between the pulleys in a separate stack to the spares, so you have a starting point for the number of shims needed for the new belt.  Most often, a new belt will require one of more extra shims between the pulley halves.
+Install the belt, shims as needed, the outer pulley half, spare shims, dished washer, and retaining nut. Make sure that the fat dished pressure washer is in place immediately under the retaining nut.  This washer is essential in maintaining an even pressure around the pulley hub through the shim stack.
+Stop the pulley from turning with the large screwdriver as described above and tighten the nut securely.
+If you find it hard to get the nut statrted on the thread, sometimes squeezing the new belt between the two pulleys will lift it out of the valley between the Alt pulley halves to get the nut started.
+Note:
+You may find it useful with a stiff new belt to remove the locking screw driver and keep tightening the pulley nut so the engine turns over a few times.  This will help the belt climb out of the valley between the pulley halves as they tighten. Replace the locking screw driver in the slot for the final tightening.
+Recheck the belt tension and repeat until the drivebelt tension is correct.
+Note:
+The problem with this adjustment method is that you have to guess how many shims you need to add or subtract, then put it all back together and check it. If it's still not correct, then you have to go back and do it again. This is not the best design, but it works. Fortunately, it usually only takes one or two shims extra or less, to adjust the belt tension.
+~~~
+Replacing the Drive Belt
+Note:
+The correct belt size for all upright Type 1 (Beetle/ Kharman Ghia/Thing/older Bus) engines (except 12-volt engines with alternators) is 905mm. The correct size for 12-volt engines with alternators is 11.3 x 912mm.  The length is important because of the limited tension adjustment available in this engine design. Take the old belt to the parts store for comparison if you aren't sure. The 905mm belt was at it's limits with the bigger fan and alternator from 1973 so VW changed to a wider/stronger belt - 912 x 11.3mm, which is also 7mm longer because the wider belt rides a little higher in the engine pulley.  These belts fit ALL VW type 1 engines and will last longer than the original 905mm style.
+To replace a belt, follow the above procedures for the drivebelt adjustment, then slip the belt off the crankshaft pulley and remove it.
+Note:
+If you have piece of tinware around the back of the engine pulley you will need to remove it (three screws) to gain access to the engine pulley. Some cars have this, some don't.  Don't forget to replace this tinware afterwards - it helps prevent items falling into the valley around the engine pulley. Nothing cuts up a new belt faster than that a missing screw!
+Remove the dished pressure washer and the thin shims. Remove the outer half of the pulley, and the fan belt will come off. In-between the pulley halves, will be another group of pulley shims that adjust the belt tension depending on the number of shims used.
+Note:
+You must have at least 10 shims!
+With a new belt, place two less shims between the pulley halves to start with.  You might get lucky and find that's the correct number - it not, you'll have to remove the outer pulley half again and add another shim to loosen the belt, or remove a shim to tighten the belt. Install the remainder of the shims (if any), then the dished pressure washer, and tighten the nut down the same way you removed it.
+Make sure the ignition key is off, then rotate the engine a full revolution and check the belt tension. You should be able to push the belt in between the two pulleys 5/8". No more, and no less. If you can move the belt more than 5/8", you will need to remove shims from in-between the pulley halves to tighten it, and add more to loosen it if you cannot move the belt 5/8".
+Note:
+The belt is tightened by moving the pulley halves close together, which makes the belt ride up higher, and this removes slack.
+Remember to rotate the engine between each fitting of shims, to make sure the belt is riding at it's normal height in the groove before you check it's tightness. Always put any extra shims under the dished pressure washer for safe keeping for when you need to replace the belt in the future.
+Note:
+It is VERY important that you always make belt adjustments starting too loose, then slowly tighten up. This ensures that the pulley halves are tight against one another, with some shims between them. If you make the mistake of trying to rush, and do not have enough shims between the pulleys, the belt will get tight before the pulley halves are seated (and the nut is tight), and when you run the engine the pulleys will wobble and destroy themselves, the belt, and maybe your generator or alternator. This is the most common mistake when adjusting the belt, so make sure you are patient and do it the right way to prevent walking at 3am on a rainy night. ;-)
+One last tip!
+The slightly wider 912 x 11.3mm belt rides a little higher in the engine pulley groove.  This means it spins the alternator and fan just a little faster.  That's a good thing!
+Adapted from product instructions received from
+Aircooled.Net
+, with our thanks.
+* 
+                    * * * *
+Design by
+Erin

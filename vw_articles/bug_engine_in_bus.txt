@@ -1,0 +1,13 @@
+Bug Engine to Bus
+Installing a Bug Engine in a Bus
+(e.g., Westfalia Camper)
+~~~
+Someone wrote to ask -  I bought a '69 Westy (VW Westfalia Camper) the other month , and the motor is pretty much shot, so I need to drop in another engine.  I have another 1600cc engine sitting here from a Beetle that I just rebuilt. However, I am totally lost as to where I need to tap the engine for the mounts. I could always get the engine out and just look at it, but if there was a site I could get the parameters from I could tap the other 1600cc engine before I bring it to location to be installed.
+Rob wrote - He is talking about the rear cross member engine support for the Westy - not needed in the Bug, so the Bug engine has no mount holes in the case which the Bus engines have.
+You can use the Bug engine in the Bus, but the usual method of supporting the rear end (pulley end) of the Bug engine is to make up a new cross member support with a rubber block under the split in the engine case, so it just sits on the that block.  Together with the normal engine mounts at the bell housing that's enough to support the engine.
+The 1600cc Bug engine should fit in without any problems - just remember to move the relevant Bus tinware across to the Bug engine before installing.
+You'll need to check the clutch arrangement though. The '68 Westy originally had a clutch pressure plate with a ring in the middle of the fingers, and used a throwout bearing with round supporting ears.  (Actually the ORIGINAL style pressure plate up to 1970 had about 9 coil springs set around the edge of the clutch face, but replacement versions of this clutch use diaghragm fingers with a supporting ring in the middle).
+The later Bugs used a pressure plate with no ring on the fingers, and the throwout bearing has a projecting guide ring in the middle (replacing the pressure plate finger mounted ring) and has flat supporting ears.  So check what the Bus gearbox has (flat or round eared throwout bearing) and if necessary, change either the clutch pressure plate (for the round eared throwout bearing) or change the whole gearbox clutch operating arm for the later style flat eared throwout bearing to suit the later style pressure plate....your choice.
+* * * * *
+Design by
+Erin

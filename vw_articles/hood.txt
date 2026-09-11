@@ -1,0 +1,25 @@
+Hood
+Hood (Bonnet)
+Discussion
+~~~
+Subtopic -
+Emergency hood handle and lock removal.
+~~~
+A question - With help I put the hood back on.  Now I have a little problem in that the rear of the hood isnt fitting right.  I suspect Ive put the weatherstripping on wrong.  The rear edge of the hood was raised and pushed back over the body a bit.  So I loosened the four bolts that hold the hood to the two brackets and pulled it forward as far as I could -- that helped, but it's still not fitting properly -- its raised a bit too high in the back.  I don't know of any additional way to adjust it -- I'll check Bentley and Haynes tonight.  Do you have any suggestions?
+Next Ill be working on the hood latch.  I installed the handle and the upper latch portion with new seals, but Im going to have to take the stuff back out of the trunk, including the spare tire, to get the lower half in.
+Rob responded - I don't recall any up/down adjustment -- only front/back.  There might be enough slack in the bolt slots to enable you to push the hood down on the hinge plate a little - don't know if that will help enough.
+Dave wrote to John Henry - I'm also having a little trouble with adjustment of the hood.  Back-and-forth is no problem, but the rear of the hood is too high (maybe a quarter of an inch) relative to the body.  Any words of wisdom would be appreciated!
+John Henry responded - The rear of my hood (mostly at the center) is high too.  I think the hood needs to be bent (flattened) a bit, but again, after paint, whose going to try that!!!  I never did anything.  Good luck on your progress.
+~~~
+Emergency Hood Lock Removal
+If you find yourself in the situation where your hood is locked and the release cable is broken, you have two possible options -- an easy one and a more difficult one.
+First, the easy one (provided by one of our readers).  He writes -
+I heard of a neat trick that may help some folks with this problem. The local (only!) air-cooled guru in my area said that hes had some luck by threading a rag through the handle and pulling (HARD) side-to-side while pulling up at the same time, with a helper maintaining tension on the cable (assuming its still somewhat functional). He said with enough patience, the post will work its way out of the locking mechanism. I gave this a try and got lucky! After about 45 seconds of pulling and wiggling . . . pop! The hood unlocked. Of course, this wont work for every situation, but it sure beats cutting the handle.
+If this doesn't work, it will be necessary to cut the hood handle off.  To do this, you will have to make three hacksaw cuts at the locations indicated in the picture below.
+Hood Handle Removal (Emergency)
+~~~
+With the cuts made, unscrew the pieces of the handle from the bolts.  This will free the lock's upper part so that the hood can be opened.  Remove the center piece and the lower piece, then unscrew the remaining two pieces (top and bottom).
+* 
+                    * * * *
+Design by
+Erin

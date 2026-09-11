@@ -1,0 +1,42 @@
+Electrical Accessories
+Electrical Accessories
+~~~
+Following are links to discussions of various electrical accessories -
+Starter
+Backup Lights
+Fuel Gauge
+Headlights/Taillights
+Horn
+Instrument Cluster
+Interior Light
+Rear Window Defroster
+Turn Signals
+Warning ("Idiot") Lights
+Wiring
+Conversion of a 6-Volt System to 12 Volts
+~~~
+Muir* gives some good advice -
+Whenever something goes wrong with the lights, wipers, radio, just anything electrical, don't rush out to buy new parts.  You should have a fuse kit and bulbs in your spares and now forewarned, check the fuses!  Most failures in the electrical department will be located there.  Even if one of the electrical items has failed or shorted, the trouble often shows up in the fuse box.
+The VW Driver's Manual (
+Rob's comment:
+If you dont have one they are are available on line at www.thesamba.com in their Technical section) is a most important aid in repairing lights and checking and replacing fuses.  It shows you how to take the lights apart and replace the bulbs.  All we have to add to what they say is to use your Scout knife to scrape all the contacts, especially the insides of the bulb sockets and the bottoms of the bulbs.
+When working on the lights, a friend to watch is almost a necessity.  Use the VOM if you have one, or the (static) timing light to check your fuses and connections.
+Look at the fuses well.  If they're starting to get thin in the middle, it might be time to replace them all.  The type in VW's have a tendency to first change shape with age and use, then break with vibration.
+Always carry extra fuses;
+the glove compartment is a handy place for them.  White fuses are 8 amp, red ones are 16 amp.  The fuse box is under the dash in all models and usually has a plastic snap-on cover or a Bakelite cover that screws on.
+The headlights are adjustable.  You can adjust them yourself by shining them on the wall of a building.  Draw some lines on the wall for level and straight.  The low beams should be under level and about 6" from straight ahead.  The high beams should center on the level line (height of lights from ground) and be just to the right of center (straight ahead)
+(
+Rob's comment:
+On RHD cars, the headlights should of course point a little to the left)
+.  You should adjust them every time you put in a new headlight unit.  Remember to put air in your tires before you adjust the lights.  You can do all the work on the lights with a medium screwdriver, a phillips screwdriver, and the Scout knife.  Check your Owner's Manual for location of the adjusting screws.
+The interior lights seldom need anything more than a new bulb.  You can check whether or not you have juice with your timing light.
+*How to Keep Your Volkswagen Alive -- A Manual of
+Step-by-Step Procedures for the Compleat Idiot,
+1976 Edition, page 312.
+Rob's additional comments:
+In 1968 the USA VWs changed from the bulb and reflector style lights to sealed beams.  Some consider this a big improvement but in fact they are limited to about 40-45 watts so no brighter than the original bulbs.  The USA light standard also resulted in a "fuzzy patch" of light on the road - not well directed.  The original bulb and reflector lights conformed to the European E-code lighting standard, which places a clear cut-off line across the road when on low beam, to stop glare for oncoming drivers.  It also created an angled beam on the curb side so you can see further down the road on the curb for pedestrians and signs etc. Other countries stayed with these bulb and reflector style.
+If a headlight beam fails on a sealed beam unit, you replace the whole unit.  The bulb and reflector style bulbs were originally 40/45watt too. They can be replaced with nice bright Halogen bulbs if you wish - they use a P45t (double step) base and are a plug-in replacement. Use 55/60watt bulbs and you dont need to upgrade the wiring - it will cope just fine.  Anything higher wattage than that and you will need to consider heavier wiring and/or relays. When fitting halogen bulbs, the dished mask inside the assembly can be removed as that function is taken over by the blackened outer end on the halogen bulb itself. 6 volt versions are available from some specialty suppliers, for cars retaining their 6 volt electrics - MUCH brighter lights.
+* 
+                    * * * *
+Design by
+Erin

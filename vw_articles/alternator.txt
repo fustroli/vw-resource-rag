@@ -1,0 +1,242 @@
+Alternator Removal/Installation
+Alternator Removal/Installation
+~~~
+The 
+                    following topics are discussed in this article -
+Raising 
+                        the Fan Housing
+Removing 
+                        the Alternator
+Reassembly
+Alternator Pedestal Installation
+Alternator 
+                        Wiring
+~~~
+The 
+                    alternator can most easily be accomplished with the engine 
+                    out of the car, but it can also be done with the engine in 
+                    the car by following the steps below.
+~~~
+Raising the Fan 
+                    Housing
+Remove the drive belt as follows -
+The 
+                          front half of the alternator pulley has two cut-out 
+                          slots in it. Inserting a thin screw driver in either 
+                          slot locks the pulley so you can loosen/tighten the 
+                          19mm retaining nut. Remove the retaining nut on the 
+                          alternator shaft with the 19mm wrench, then slip off 
+                          the washer, any spare shims, and the outer pulley half. 
+                          Take note of how many shims are between the pulley halves 
+                          so you can easily re-tension the pulley on reassembly.
+Slip 
+                          the belt off the crankshaft pulley and remove it.
+Remove 
+                          the inner pulley half, being careful to remove the Woodruff 
+                          key and stow it and the shims and nut in a baggie in 
+                          a safe place.
+Remove 
+                        the air cleaner.
+Detach 
+                        the accelerator cable from the throttle lever and remove 
+                        the fuel line from the fuel pump to the carburetor.
+Remove 
+                        the carburetor.
+Pull 
+                        out the accelerator cable guide tube and pull the accelerator 
+                        cable forward, out of the fan housing.
+Remove 
+                        the cable from the negative terminal of the battery.
+Label 
+                        and then detach the electrical connectors from the alternator.
+Remove 
+                        the strap that holds the alternator to the support.
+Disconnect 
+                        the ignition cable from the coil and the fresh air tubes 
+                        on either side of the fan housing. Disconnect the spark 
+                        plug wires from the attachments in the fan housing (three 
+                        places).
+Remove 
+                        the hood and the hood hinge brackets. You must remove 
+                        the brackets to get enough clearance to lift the fan shroud.
+On 
+                  the left side of the car, reach down in front (front) of the 
+                  fan housing with a 10mm box-end wrench (ring spanner) and remove 
+                  the bolt for the oil cooler cover and the bolt that holds the 
+                  fan housing to the oil cooler flange. This is awkward and you'll 
+                  be working largely by feel.
+Note:
+If these two connectors are cheese-head screws, replace 
+                      them with 10-mm hex-head bolts. This will save you lots 
+                      of trouble reinstalling them and removing them next time 
+                      (10-mm open-end wrench (ring spanner) instead of an offset 
+                      screwdriver.
+Remove 
+                        the oil cooler cover and the air duct.
+Unbolt 
+                        the thermostat and unscrew the thermostat from its rod.
+Disconnect 
+                        and remove the connecting link between the cooling flaps 
+                        in front of the fan housing (don't lose the spring).
+Remove 
+                        the two bolts on either side of the fan housing. The one 
+                        on the left also supports the metal fuel line, and you 
+                        may need to disconnect this line from the fuel pump to 
+                        move it out of the way.
+Raise 
+                        the fan housing enough so you can remove the four mounting 
+                        bolts from the outer fan cover on the rear of the shroud. 
+                        This will allow the alternator/fan assembly to be removed 
+                        -- the fan housing can be removed completely at this point 
+                        if desired. If the fan housing is simply raised, it helps 
+                        to support it on either side with wooden blocks. (Its 
+                        really easier to just pull the fan housing out of the 
+                        car.)
+~~~
+Removing the Alternator
+Make 
+                        sure that the cable from the negative terminal of the 
+                        battery is removed.
+Make 
+                        index marks on the outer fan cover and on the fan housing 
+                        (top and side for example) to ensure proper alignment 
+                        during reassembly.
+With 
+                        the fan housing raised, remove the four bolts that hold 
+                        the fan cover (with the alternator attached) to the fan 
+                        housing.
+Pull 
+                        the the alternator away from the fan housing.
+Reinstall 
+                        the pulley and the mounting nut on the alternator shaft.
+Drill 
+                        a shallow hole in a large wooden block to accomodate the 
+                        fan pulley nut on the rear of the alternator shaft. Position 
+                        the alternator/fan assembly vertically on the wooden block, 
+                        with the nut in the hole you drilled and the fan pulley 
+                        resting on the block. Put the 1-7/16" socket on the impact 
+                        driver and then use the driver to removed the fan nut 
+                        on the other end of the shaft.
+Remove 
+                        the shims, washer and hub, noting the position of the 
+                        shims and washers for reassembly. (You may need to use 
+                        a puller to get the hub off of the shaft.)
+Remove 
+                        the fan, then remove the two 10-mm nuts that are now exposed 
+                        and remove inner fan cover, reinforcement flange, and 
+                        outer fan cover.
+~~~
+Reassembly
+Install 
+                        the fan pulley on the end of the alternator shaft. Make 
+                        sure the hub is seated properly on the Woodruff key.
+Note:
+Most new/rebuilt alternators do not have a pulley installed, 
+                      so you may have to switch the pulley from the old unit to 
+                      the new/rebuilt one.
+Replace 
+                        the hub on the fan end of the shaft, making sure the hub 
+                        is seated properly on the Woodruff key. Replace the washer 
+                        and shims in the same configuration they were in originally.
+/P>
+Replace 
+                        the outer fan cover, the reinforcement flange, and the 
+                        inner fan cover. Replace the two 10-mm nuts that hold 
+                        the assembly to the alternator and tightened them securely.
+Place 
+                        a 19mm wrench on the fan pulley nut to hold the alternator 
+                        shaft in place, then tighten the 36mm fan-to-alternator 
+                        shaft nut to 40 ft-lbs using the 1-7/16" socket.
+Using 
+                        a feeler gauge, measure the distance between the fan and 
+                        fan cover. The recommended clearance is 0.08 inch (2.0 
+                        mm). If the clearance is incorrect, adjust it by varying 
+                        the number of shims under the thrust washer. Store unused 
+                        shims between the thrust washer and nut.
+Turn 
+                        the fan by hand to check for binding.
+Install 
+                        the alternator fan assembly into the fan housing. Make 
+                        sure the four bolts that hold the outer fan cover to the 
+                        housing are securely tightened.
+NOTE:
+the slot on the inside of the 
+			fan mounting plate MUST face downwards. This draws cooling air through the 
+			alternator into the fan housing.
+Reinstall 
+                        the alternator pedestal, making sure to place gaskets 
+                        on either side of the internal baffle. Tighten the four 
+                        nuts securely with a 13mm wrench.
+Reinstall 
+                        the fan housing in the car. Make sure the thermostat connecting 
+                        rod is positioned correctly and does not bind. Be sure 
+                        to properly adjust the thermostat (see Thermostat Installation 
+                        procedure).
+Reconnect 
+                        the cooling vane connector rod to the left cooling vanes.
+Reinstall 
+                        the oil cooler vent tube and oil cooler tin. Make sure 
+                        to use hex-head bolts to facilitate installation.
+Reinstall 
+                        and the drive belt in accordance with the
+Drive 
+                        Belt Check, Adjustment and Replacement
+procedure.
+Reinstall 
+                        the carburetor and accelerator cable. Reattach the fuel 
+                        line from the fuel pump.
+Check 
+                        closely for interference between the accelerator pump 
+                        linkage and the body of the alternator. It may be necessary 
+                        to place a spacer under the carburetor to raise it a bit 
+                        and/or flop the accelerator pump linkage around so that 
+                        it doesn't rub on the alternator.
+~~~
+Alternator Wiring
+If 
+                    you are replacing an alternator which uses an external voltage 
+                    regulator (mounted under the rear seat) with an alternator 
+                    having an internal voltage regulator, do the following:
+Remove 
+                        the small blue wire and the small green wire from the 
+                        regulator (terminals (61) and (DF) respectively).
+Cut 
+                        off the push-on connectors from these wires and connect 
+                        them together using a "butt" connector.
+Connect 
+                        the small green wire to the (D+) terminal on the alternator.
+Remove 
+                        the two large red wires from the (B+) terminal of the 
+                        regulator. Cut off the push on connectors from these wires 
+                        and splice them together with the red wire that WAS on 
+                        the D+ terminal on the old generator using a "butt" connector. 
+                        These two wires carry up to 50 amps to the battery, so 
+                        the new connector MUST be big enough to handle that current.
+Connect 
+                        the red wire that was on the D+ teminal of the generator 
+                        to the B+ terminal on the new alternator.
+Reconnect 
+                        the large red wire or a new 10-gauge red wire from the 
+                        (B+) terminal on the alternator to the "30" terminal on 
+                        the starter solenoid.
+Note:
+Do not run the alternator without being connected properly 
+                      from the (B+) terminal to the positive battery terminal. 
+                      This can cause damage to the alternator!
+Reconnect 
+                        the cable to the negative terminal on the battery.
+The 
+                        (D+) terminal on the alternator
+must
+be connected 
+                        to a working "Alt" light in the instrument cluster.
+Note:
+A failed bulb will cause the alternator not to charge.
+Check 
+                        to make sure this bulb is working by turning on the ignition 
+                        key (do not activate the starter motor!) If the "Alt" 
+                        light in the instrument cluster comes on, the bulb is 
+                        working and the alternator is grounded.
+* * * * *
+Design by
+Erin

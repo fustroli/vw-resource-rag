@@ -1,0 +1,65 @@
+Vacuum Lines
+Operation of the Distributor Vacuum Lines
+~~~
+Sub-topics discussed in this article -
+Vacuum Lines in Dual-Vacuum Distributors
+Retard Line
+Advance Line
+Overall Operation
+Vacuum Line in Single-Advance (SVDA) Distributors
+~~~
+Vacuum Lines -- Dual-Vacuum Distributors
+Dave wrote to Rob regarding the vacuum lines on a dual vacuum distributor - I've never understood completely which vacuum line went where.  I think I've got the vacuum lines hooked up backwards!  Let me make sure I have this straight:
+The MAIN vacuum line attaches to the port on the vacuum chamber at the rear (actually mine comes out of the side pointing toward the fuel pump, but that's okay) and goes to the vacuum port on the left side of the carby under the stepped cam.  This is the line that is metal and has the dipsy-doodle fuel condensation trip in it.
+The RETARD vacuum line attaches to the port on the front (front) bottom of the vacuum chamber and goes to the port on the rear of the carburetor, just to the right of the throttle return spring.
+~~~
+Retard Line
+Someone asked - Is there  a way to determine whether the retard vacuum line is inoperative?
+Rob responded - Yes -- take the cap off the distributor and suck on each of the lines in turn.  You should see the points plate move in opposite directions.  The retard line will only retard a little of course, compared to the main vacuum's advance.
+Someone asked - If the retard vacuum line is malfunctioning, what is the fix?
+Rob responded - First see if the hole in the carburetor is clear -- put the vacuum line back on it and blow from the distributor end to see it you get air through.  If it's good, the most likely cause is a broken/leaking vacuum chamber on the distributor.  The retard line only works (when it's working) at idle anyway, so it's less critical than the (working) advance line.
+The main vacuum line gets quite a lot of vacuum with the engine running, and may cope with a small leak, but I think the retard vacuum probably operates at a lower pressure difference (engine idling anyway), so would be more susceptible.  You can check for a leaky diaphragm by sucking on the main vacuum line, then block the line with your tongue and see if the points plate stays put.  If it slowly moves back then you have a leak.
+If you do end having to replace the vacuum chamber, they are pricey (here they cost more than a whole 009 distributor), and (on the single vacuum units like mine anyway) you have to check for a number on the vacuum operating arm inside the dizzy (the pushrod).  This identifies the exact vacuum chamber for that distributor (there are several versions   at least for the single vacuum units).
+~~~
+Advance Line
+Rob wrote regarding the vacuum advance - Try this... put the timing light on it and get is up to a steady speed where you see some advance but not all of it -- say 1500-2000 rpm.  Now blip the throttle open and let it go so the revs don't change much but the load does.  If the vacuum line is operating at all you should see the advance change momentarily then return to whatever it was.  If the advance vacuum line is not working, the advance should stay reasonably steady -- only changing with the revs.  If this is the case, the distributor is definitely a dual advance (vacuum/centrifugal) operating like a 009 distributor (centrifugal only), and this would explain the hesitation you are still getting.  This distributor is supposed to provide the best of both worlds for the VW if you can get it working right.
+~~~
+Overall Operation
+Dave wrote - We went out and conducted the test you suggested this evening.  Here are the results:
+Sucking on the main advance line alone products no movement in the points plate (however, the spark DOES advance with increasing RPMs, as we have shown with the timing light).
+Sucking on the retard line alone moves the plate clockwise.
+Sucking on both lines (advance first, then retard and holding suction on both) produces no discernible effect.
+Rob - You have said that the retard line DOES work (that's the front line - nearest to the distributor body). So since the engine is off when you do it, then contrary to John's reply, it HAS to be retarding from neutral.
+And there is only a tiny amount of suction in the advance line at idle, so how is the retard line supposed to be "only working to reduce the main advance". That doesn't make sense to me. Sure the two vacuums work against each other as you open the throttle - the retard vacuum drops away because it works at the edge of the throttle plate which is now moving away (opening), and at the same time the airflow through the main carburetor venturi is increasing which increases the main vacuum, so the retard drops out and the main vacuum pulls in some advance.
+Dave wrote - So it is my understanding that the retard line works to pull in retard first, then the main vacuum takes over as you open the throttle.
+Rob - On my vacuum-only distributor, the plate moves counterclockwise to produce advance (the vacuum arm pulls outwards).  The retard line pushes the arm inwards and rotates the plate clockwise (same direction as the rotor moves).  The RETARD pipe on the canister is the FRONT one - nearest the distributor body. The ADVANCE line is on the REAR (outer) side of the canister.
+Another test to check it all out -
+Try running the engine at 3000-3500 rpm and check the timing.  It should be AT LEAST 30 degrees or more (30 degrees if only the centrifugal is working - more if the vacuum advance is working too). If it's less than 30 degrees, disconnect both vacuum lines at the carburetor and plug them, then adjust the timing for 30 degrees at 3000 rpm (this means you are setting it using just the centrifugal advance), then reconnect both vacuum lines.
+Now drop the engine speed back to idle and look at the timing again. Is it 5 degrees ATDC or thereabouts? If so, the retard vacuum line is working OK. And if it is working, as you gently open the throttle with the timing light still on, the timing should change rapidly from 5 degrees ATDC to some positive figure as the retard line stops working.
+But if its somewhere from 0 to 10 degrees BTDC at idle, my guess is that it's the RETARD line which is not working. I say 0-10 degrees because I don't know exactly what the "neutral" plate position is on these dizzies.
+This is just a test set-up, and I haven't tried it myself as I don't have the same distributor, but it might help determine which vac line is actually working and which isn't.
+You'd need to re-time the engine properly after doing this test (5ATDC at idle with vacuum line properly connected.)
+Dave asked, regarding disconnect of the vacuum hose(s) during timing - The manuals don't clarify which end of the hose is to be disconnected from the distributor and plugged -- the point is to keep the carburetor from sucking air.  Right?
+Rob responded - Precisely.  The aim is two fold -
+Stop the advance plate from moving so you can set the timing at 7.5 degree BTDC at idle unaffected by any vacuum. Plugging the distributor end of the vacuum line is irrelevant at this point -- it's inoperative anyway.
+Prevent the carburetor from sucking air through the vacuum line so it idles evenly while making the idle adjustment. So you pull the vacuum line off and plug the carby end.  The carburetor creates the vacuum, the distributor uses it.
+It doesn't matter how the carburetor's plugged (on the carburetor or the other end of the vacuum line) so long as it's the carburetor which is plugged, not the distributor.
+Dave wrote - The book is not specific -- it just says "plug the line".  And so I did -- on the wrong end!  :-/
+Rob responded - A nice laugh.  That's what we are trying to do with the Joe Shadetree aren't we -- avoid ANY ambiguity.
+A final thought from Rob - If I ever need to replace my distributor, I'll probably be going for one of these SVDA types too.  I suspect it will work just a little better than the vacuum-only unit I have at present.  The only concern I have with them for my car is that the rate of centrifugal advance (the 009 part of it) may be slightly different to the vacuum-only rate of advance at each point in the rev range, which may change the engine acceleration characteristics a little, since it's a single port 1600cc, with different head/gas dynamics to the twin port 1600cc.  And the 30PICT/2 carby produces a different flow rate through the venturi than the larger throat 34 carburetor.  It will be interesting to find out if any difference is noticeable.
+Vacuum Line -- Single Advance (SVDA) Distributors
+With the SVDA-type distributor, the vacuum is only providing about 8 degrees of the advance and the centrifgual part the other 30 degrees or so.
+Someone wrote to ask - I have just a rubber vacuum hose on my SVDA distributor.  I have been told that I need to metal vacuum tubing because excess gas may get into the vacuum hose, causing it to deteriorate. Should I use metal or stick with the rubber tubing?
+Dave passed the question along to John Connolly
+(Aircooled.Net)
+, as follows -
+It seems common with SVDA distributors to use a metal vacuum line up to the carburetor and to put a U-bend in the line.  Can you educate me -
+Why is the line metal?
+What's the purpose of the U-bend?
+John responded -
+The reasoning given above is correct -- the vacuum line is metal because rubber will deteriorate in this application because of gas getting into the vacuum line.
+There is a U-bend in the line to make sure the vacuum diaphragm only sees vacuum. If you do not have this loop, gas can trickle/drip down to the diaphragm, causing it to rot out much more quickly.
+* 
+                    * * * *
+Design by
+Erin

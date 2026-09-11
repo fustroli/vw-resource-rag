@@ -1,0 +1,50 @@
+Engine Wobble
+Engine "Wobble"
+Why Does the Engine "Shake"
+When It's Idling?
+~~~
+Rob gives several possible reasons for the shakes.  A wobbling engine usually means one cylinder is not firing properly.  Here are some things you can check -
+Spark Plugs
+-- Sometimes a spark plug will not work well as idle but will work okay when the engine is running faster.  Electronic ignition (e.g., Pertronix, Compufire) may help, as electronic ignition usually makes better sparks at low speeds than the standard ignition.
+Spark Plug Leads
+-- Make sure they are not shorting out somewhere between the distributor and the spark plugs.  You may be able to see this arcing on a dark night with the engine running.  If you have electronic ignition, a hotter spark is produced that will jump through old spark plug wires, so make sure the wires are not crossed in their run from the distributor to the spark plugs.
+Compression
+-- Check the compression in all four cylinders.  See our discussion of
+Engine Diagnostics
+for a compression test procedure.
+Carburetor
+-- The 30 PICT and 34 PICT carburetors have an idle shut-off solenoid on the left side.  Check that this is working -- turn on the ignition (but don't start the car), and pull the wire off the solenoid.  Now touch the wire on again -- you should hear a click-click sound. This means the solenoid is working.  If it doesn't click, you will need to replace it.  This solenoid cuts off the idle, and so if it is not working properly, the car will idle very badly.
+Air Leaks
+-- Have you removed the inlet manifold for any reason?  If the engine is dual-port, the dual-port pieces at the sides (where they bolt to the heads), are very hard to install, and can cause air leaks which will mean that the cylinders on that side are getting too much air, and will not idle.  I had this problem myself when I replaced the inlet manifold on my car -- I had to loosen the two bolts on the left manifold piece, wiggle it to make it sit down properly, then tighten the bolts again.
+Another common source of air inleakage is around the throttle shaft at the base of the carburetor.  The hole through which this shaft runs can become "ovaled" over time, allowing air to leak into the fuel/air mixture leaving the carburetor.  For more information, see our
+Air Inleakage Discussion
+.
+~~~
+Test for Cylinder Mis-Firing
+This test (sometimes called a power balance test) provides a good indication of how much each cylinder contributes to the overall power output of the engine.  In addition, it also isolates which cylinders contribute little to manifold vacuum.
+You can perform this test at home on any VW engine except those with electronic ignition.  If there is a suspected burned valve or other major problem, this quick and easy test will indicate which cylinder it is.  Because VWs have only four cylinders, a faulty one will show up relatively quickly.
+To perform a cylinder mis-firing test -
+Remove all the spark plug leads from the spark plugs.
+Set the leads lightly back on the tops of the spark plugs.  This will enable the lifting of each lead off its plug without using too much force.
+Pull the lead away from the plug one cylinder at a time, and ground the lead against the cylinder head.  This will prevent that cylinder from firing.  The engine will be running on only three cylinders as you test each cylinder sequentially.
+As you disable each cylinder, listen to the change in engine rpm and performance.
+If a cylinder is faulty, when it is disabled it will have little or no effect on the engines speed or performance, as it will not be contributing fully to the overall engine power.
+A dwell-tachometer will give a more accurate indication of changes in engine rpm as you conduct the test.
+~~~
+Questions and Answers
+Someone posted to the RAMVA Newsgroup - Today I looked at a '71 Super Beetle that was for sale.  Not bad, but when it ran at idle, the motor wobbled back and forth more than any I'd ever seen.  When rpm's were increased above idle, the motor ran level.  My '71 Standard Beetle does not do this, and I wondered if there's a reason for this.
+Rob responded - Some possible reasons for engine wobble -
+Tranny mounts are shot, allowing the engine to rotate more than it should.
+Air leak at the rubber boots on the inlet manifold on one side only, or else the manifold/head joint on one side has a leak.  This results in the engine running on two cylinders on one side at idle, but when the rpm increases, the air leak becomes a smaller proportion of the total fuel/air flow, and the other cylinders start to fire again.
+The points are almost closed (almost no gap) and at low rpm the cam lobe for one/two cylinder(s) is not quite opening the points, but at higher rpm, the more rapid movement of the cam lobes results in the points JUST opening enough to produce a spark.  (Sounds weird, but I had exactly this problem once many years ago- only once because then I started checking my points every 3000 miles like I should.  :-)
+Tired spark plugs -- not firing well at the battery 12v (at idle), but working when the engine rpm is higher and the ignition is seeing 14.5 volts from the generator/alternator.
+Tight exhaust valves.  If tight, the valves are not seating correctly, resulting in combustion gases leaking past.  At idle this will be a large proportion of the total combustion, so the engine runs rough.  At higher rpm, the leak is less of the total (more mixture, and less time for it to leak) so the engine runs smoother.
+You can check for the air leaks easy enough - with the engine idling, squirt WD40 or starter fluid (use the little straw to get real close) at all the joints along the inlet manifold and around the throttle shaft at the base of the carburetor.  If you detect ANY increase in rpm/extra cylinder firing, and you've found your culprit.   For more information, see our
+Air Inleakage Discussion
+.
+You can check for tired plugs too -- remove wires one at a time (with the engine idling) and find which cylinder is not firing (no change to engine note - a good plug will immediately result in worse idle/stalling).  Remove plug and swap for another of the four (check the condition of the plugs while they are out).  If the misfire has moved, the plug is sick -- if it hasn't moved, then the problem is NOT the ignition system.  Always use heavy leather gloves or an insulated pair of pliers to remove plug leads on a running engine - 18,000 volts gives you quite a kick!
+You can test for tight valves by pulling off the rocker covers and turning the engine so the rotor arm is pointing to one cylinder after another.  At this point, BOTH valves should have a small amount of play if you push/pull the rockers.  Tight valves will quickly burn and ruin valves/heads.
+* 
+                    * * * *
+Design by
+Erin

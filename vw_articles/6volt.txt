@@ -1,0 +1,43 @@
+Converting a 6 volt system to 12 volts
+Conversion:  6-Volts to 12-Volts
+~~~
+Someone wrote regarding the conversion of a 
+                  VW 6-volt electrical system to 12 volts - I know virtually nothing 
+                  about this conversion, so I would want to know a little about 
+                  it before I do it or have someone do it for me. I know that 
+                  it will effect many components, like the wiper motor, for instance 
+                  (as I recall). And I also know that there are some out there 
+                  who ask, "Why do it?"
+Rob responded - The conversion from 6 to 12 
+                  volts is not hard. The 6-volt wiring is thicker than the 12-volt 
+                  wiring so can handle 12 volts without any changes. The fuses 
+                  need to be changed to 12-volt ratings though - mostly 8 and 
+                  16 amps (the 6-volt ratings are too high).
+You need to change EVERY light bulb to 12 volts 
+                  including the dash lights and indicator lights (gen, oil) etc.
+The regulator must be 12 volts (unless you are 
+                  going to use a 12-volt alternator with internal regulator in 
+                  which case the external regulator can be removed altogether).
+The wiper motor will work at warp speed and 
+                  overrun the auto-park feature unless you reduce it's speed. 
+                  Some folks use a high-amp resistor, but this gets really hot. 
+                  There's a neat little current-limiter circuit on our web site 
+                  which works MUCH better. See our article on
+Running 
+                  Your 6-Volt Wipers on 12 Volts
+. The circuit has only four 
+                  components and can be made by anyone who can use a soldering 
+                  iron.
+The starter motor can stay at 6 volts - it will 
+                  work very well on 12 volts, spinning the engine faster, and 
+                  it won't overheat unless you crank for long periods.
+The fuel tank sender might need altering too 
+                  (e.g., the 12-volt sender may not fit).
+"Speedy Jim"
+is certainly a guru with VW electrics, and his site,
+Speedy 
+                  Jim's Home Page
+, has a wealth of useful information - worth 
+                  a look.
+Design by
+Erin

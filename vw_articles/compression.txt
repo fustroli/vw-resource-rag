@@ -1,0 +1,38 @@
+Compression
+Compression Discussion
+Please see our
+Compression Testing Procedure
+.
+~~~
+The following topics are discussed in this article -
+Compression Test
+.
+Compression Ratio
+.
+~~~
+Compression Test
+Typical results of a compression test were reported to us:
+#1-100 psi; #2-130 psi; #3-95 psi; #4-120 psi.
+Someone else wrote to say, I am beginning to think my 1600cc engine may be ready to go, it seems I am getting some bearing noise, and now all of a sudden one cylinder has dropped from 127 psi to 100 psi.  The other three are all at 125-127 psi.  This engine is also running a little hot on the freeway.
+Rob responded, The compression tests tells a lot about the condition of the engine.  120-130 psi is fine, but 100 psi and below is not so good.  Compression dropping to 100 psi means either rings, or valves have a problem.  So you have to find our WHY those cylinders are down on pressure.  If the poor cylinders were both on one side, I'd lay odds on a head problem, but with one on each side being low...read on.
+Try doing the test again on those cylinders (engine cold) and note the pressure carefully.  Then squirt about 10cc of engine oil into each plug hole (test one cylinder at time) and then quickly do the compression test again.  If the pressure now increases a little, the problem is probably worn rings/cylinders.  If the pressure doesn't alter, then it's a valve/head problem.  The oil helps seal worn rings a little, but it does NOT help burned/tight valves or leaking heads -- so this simple test can sometimes tell you where the problem lies.
+Regarding the type of oil to be used in this test -- it really should be motor oil, as the point is to seal the rings momentarily to increase the compression.  Something like WD40 is way too light.  What actually happens is that the rings wear on the outside where they scrape the cylinder, so they get thinner, creating a larger gap at the back of the ring-groove in the cylinder, plus the gap in the rings grows wider.  The oil won't do much with the actual gap in the rings, but it helps fill in the extra space behind the rings in the ring grooves, and seals the contact between the rings and the groove itself -- the bottom of the groove and bottom of the ring particularly as the piston moves up for the compression test.
+~~~
+Compression Ratio
+If your engine has been rebuilt correctly, it should have a compression ratio of about 7.5:1, assuming flat pistons.  If the pistons are dished, the compression ratio will be lower -- 7.2: or less.  This should run okay on 91 RON octane -- normal unleaded in Australia (87AKI is the equivalent in the USA). But if a 1300 engine is converted to 1600 and the original 1300 heads were flycut to fit the 1600 cylinders, your compression ratio could be as high as about 8.4:1.  Same thing with changning yuour 1500 pistons and cylinders for 1600 cersions and keeping the 1500 heads - you'll get a compressionr atio of about 8:1.  Such changes require the use of a higher octane gasoline/petrol  8:1 need about 93 RON octane (89 AKI in the USA) and 8.5:1 compression ratio needs about 95 RON (91AKI in the USA).
+The VW engine can run very happily on unleaded, in case you were wondering -- it doesn't NEED lead in the fuel. There's a lengthy article on this web site about fuels and VW engines if you are interested.
+The main difference between the AD (outside the USA) and AE (mostly USA) series engines was the compression ratio.  Dished pistons were used on the "smogged" engines like the AE series to reduce the compression ratio from 7.5:1 back to about 7.0 or 7.2:1.  The displacement remains at 1600cc for both the AD and AE engines.
+In California, the AE series also originally had a throttle positioner and were jetted rather lean (they had a 34PICT/4 carburetor when everyone else was using a 34PICT/3).  The throttle positioner slowed the closing of the throttle when you lifted off (it would not snap shut) to reduce low rpm emmissions. I don't know if they were "original equipment" in other parts of the US or just in  California.
+~~~
+Someone wrote - There's a part in the your cooling articles that can be misleading: There's a quote by a gentleman that says that lower compression ratios make for more inefficient engines. (A reliable source) of technical information doesn't think so. To make a car more reliable as a driver that's exactly what you do and you get your power by tweaking some other things.
+Rob responded - You have used the words "efficiency" and "reliability" as though they were the same thing.  Technically, the higher the compression ratio, the higher the pressure build up inside the engine AFTER ignition, so you get a bigger push on the pistons, which means more power from that amount of fuel.  BUT, the heat inside the cylinder increases with increased compression and then you run into detonation/pinging problems, unless you use a higher octane (and higher cost!) fuel. An efficient high compression engine CAN be as reliable as a low compression engine, so long as you use the correct octane fuel for the higher compression engine.
+So it's all a compromise - the engine gets more efficient (more bang for the same quantity of fuel), but the fuel must be higher octane to cope with the increase compression ratio.  And in the bug engine, with it's higher cylinder head temps compared to a water cooled car, the compression ratio must be a little lower to prevent detonation (on the same fuel), compared to it's water cooled cousins.
+The guy wrote back - I agree with you 100%...we're on the same page. Being that the highest octane I can get here is 93 RON (and with increasing costs of fuel) it's a good decision to go with a lower compression ratio to increase longevity and be able to use cheaper fuel. It seems the advice (from my source) is to take into account all that when putting together an engine combination for your street car or daily driver as opposed to a racing car. According to them you can get more power and longevity equal or better than stock from your engine that way.
+Rob responded: The octane number is the critical thing, and unfortunately the USA uses a different method of setting octane numbers to the rest of the world, so you must be certain you are talking exactly the same terminology.  Back in the 1950s to 1970s the bugs got to America with Research Octane Number (RON) octane specifications.  But the USA changed their system of assessing octane so those original numbers are not current for the USA.  The following is a comparison.
+USA - Aki or Pump Octane (RON + MON/2)---85,87,89,91
+Rest of world RON equivalent---------------------89,91,93,95
+SO, if you see a 1970s Owner's Manual that states "use 91 octane gasoline/petrol" and you live in the USA, the equivalent these days is 87AKI. If you live outside the USA, then use 91RON octane.
+* 
+                    * * * *
+Design by
+Erin

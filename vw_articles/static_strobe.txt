@@ -1,0 +1,19 @@
+Static Timing vs Strobe Light
+Static Timing vs
+Strobe Light Timing
+See our timing procedure
+(Step #6, Timing)
+for information regarding timing the various types of distributors.
+~~~
+Timing the SVDA Distributor -
+When I first put my SVDA distributor in, will static timing get it close enough so it will start?  Since this distributor is mostly centrifugal advance I thought static timing would be a good first cut.  Once it's running, of course, I'll time it precisely with the strobe timing light.
+Rob responded - Yes.  Anything between about 5 and 10 degrees BTDC will get it idling OK.  Should be 7.5 degrees BTDC static of course.
+Remember -- if using the timing light, you have to remove the vacuum line and plug the vacuum port in the carburetor so it isn't affected by vacuum (that is, to make sure air isn't sucked into the carburetor, which would lean the fuel mixture, affect the idle, and make the timing incorrect -- just as if you had an air leak).  Timing with the strobe light is 7.5 degrees BTDC still.
+Test Light for Static Timing -
+For doing static timing, you say to use a 12-volt bulb in the static timing light, but if the car has a 6-volt system, shouldn't you use a 6-volt bulb?
+Rob responded - Yes, a 6-volt bulb would be better, but a 12-volt one will work too.  You only need something to show when the points are open/closed, so a dim light will do that as well as a bright light.
+It doesn't really matter what wattage bulb you use either, but preferably not a headlight bulb, as this would be trying to pull more amps through the points than they were designed for (so any small wattage bulb is better).
+* 
+                    * * * *
+Design by
+Erin

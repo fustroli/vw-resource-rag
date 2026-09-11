@@ -1,0 +1,118 @@
+Engine
+The Volkswagen Internal Combustion Engine
+Please also see our specific
+Engine-Related Procedures
+.
+~~~
+Subtopics related to the VW Engine are addressed in the following -
+Engine Workings
+Some Definitions and Description
+Engine Removal
+Engine Replacement
+Engine Compartment Insulation Installation
+Heads and Pushrod Tubes
+Engine Rebuild
+Flywheel and Related Topics
+Engine Oil
+Engine Cooling
+(Cooling Air System)
+Miscellaneous Topics Related to Engine Operation
+~~~
+Note:
+The sub-topics above are largely documentation of the experiences Rob and Dave have had, gleaned from their e-mails back and forth.  They are essentially "stream-of-consciousness" dialogue that provide background for many of the procedures that Rob and Dave have prepared.  We hope you find them informative, perhaps even interesting reading.
+~~~
+Engine Workings
+If you put a tiny amount of high-energy fuel (like gasoline) in a small, enclosed space and ignite it, an incredible amount of energy is released in the form of expanding gas.  If you can create a cycle that allows you to set off burns like this hundreds of times per minute, and if you can harness that energy in a useful way, what you have is the core of an automobile engine.  In an internal combustion engine, fuel combustion takes place in such a confined space, and produces expanding gases that are used to provide mechanical power.
+Almost all cars currently use what is called a four-stroke combustion cycle to convert gasoline into motion. The four-stroke approach is also known as the Otto cycle, in honor of Nikolaus Otto, who invented it in 1867.
+The four strokes of an internal combustion engine are:
+Intake stroke
+Compression stroke
+Power stroke
+Exhaust stroke
+Or, to put it another way.....Suck, Squeeze, Bang, Blow!
+In this mechanism, mechanical power is supplied by the gasoline/air mixture as it is compressed in the cylinder by a piston, then ignited by a spark from the spark plug. The piston ois pushed by the expanding gases.  Since it's connected to the crank shaft by a connecting rod, the reciprocating (up and down) movements of the piston rotate the crankshaft, which is connected by gearing to the drive wheels of the automobile.
+Here's what happens as the engine goes through its cycle:
+The first (intake) stroke:
+The piston starts at the top, the intake valve opens, and the piston moves down and sucks the gasoline/air mixture from the intake manifold into the cylinder. Only the tiniest drop of gasoline needs to be mixed with air in the carburetor for this cycle to work.
+The second (compression)stroke:
+With the cylinder now filled with the fuel/air mixture, both the intake and exhaust valve are closed and the piston starts back up on the compression stroke.  Compression of the mixture makes the rapid burning in the cylinder more powerful. The more you can compress the gasoline/air mixture before ignition, the harder the push (more power) after ignition.
+The third (power)stroke:
+Just a mite before the piston reaches the top of its stroke, the points open, generating a high voltage spike in the coil, which is fed to the spark plug,  and the spark plug emits a spark to ignite the compressed gasoline/air mixture. The gasoline charge in the cylinder burns very rapidly, causing a very high pressure in the cylinder, driving the piston down, transmitting the power of the chemical reaction in the cylinder through linear power via the piston and connecting rod to rotational power in the crank shaft.
+Note:
+The gasoline/air mixture
+burns
+very rapidly but it should not explode.  The actual burn process takes 2-3 thousandths of a second.  If the mixture burns in an uncontrolled manner, it causes an opposing pressure wave in the cylinder, resulting in a "hammer blow" to the piston rather than a steady push, and a harsh, uneven clicking sound. 	If your engine pings due to a change in altitude or fuel octane, the spark timing should be retarded a little, or a higher octane gasoline/petrol used.
+There is a lot more information on the topic of fuels, octane numbers and detonation/pinging on this article
+Fuels for VWs
+.
+The fourth (exhaust) stroke:
+Once the piston hits the bottom of its stroke, the piston moves back up and the exhaust valve opens to vent the exhaust gases from the cylinder to go out the tail pipe.
+Now the engine is ready for the next cycle, so it intakes another charge of air and gas.
+Excellent information on the workings of the internal combustion engine, with animated drawings, is given at
+How Stuff Works
+.
+~~~
+Some Definitions and Descriptions
+(Working from the transmission back through the engine.)
+The
+Transmission
+is a box containing many gears, shafts, retainers, shifting mechanisms which is complicated in the extreme, but operates on the simple principle that a larger gear will make less revolutions when driven by a smaller gear. First gear results in higher engine revs for a low vehicle speed (starting off from rest), up through the gears until 4th gear, which is used for most normal cruising - lower engine revs with a higher vehicle speed. In the VW, 4th gear is arranged so the twist from the engine makes almost the same number of revolutions going out as when it came it.
+The
+Clutch
+is a spring-loaded friction device which connects and disconnects the engine from the transmission for starting, idling and shifting/changing gears.  The
+Flywheel
+(see below) provides one face and the
+Clutch Pressure Plate
+provides the other with the two-surfaced clutch friction plate between.
+The
+Clutch Pressure Plate
+is spring-loaded and presses the clutch plate between its surface and the surface of the flywheel to make the connection between the engine and the transmission.  When you push on the clutch pedal in the car, you are actually compressing the springs in the clutch assembly through a lever and the clutch release bearing (
+"Throw-Out" Bearing
+) and letting the clutch friction plate spin freely, effectively disconnecting the engine from the transmission.
+The
+Flywheel
+is a round, heavy machined chunk of steel attached to the front (front is front of car) of the crankshaft.  The flywheel serves a triple purpose.  The machined face acts as part of the clutch.  There are teeth all around the outer circumference which the starter motor engages to turn the engine over for starting.  It also serves as a heavy rotating body bolted to the end of the crankshaft to maintain the revolving inertia of the engine through its cycles, changing the power pulses to a smooth power output.
+The
+Crankshaft
+is fastened to the flywheel with four pins and a gland nut (which has LOTS of torque on it!  Do we have experience to share!).  It runs in four bearings, called main bearings, which are massive and pressure-lubricated.  The crankshaft has four cranks, or throws, which serve to translate the back and forth movement of the four pistons, through the connecting rods, into the circular motion of the crankshaft and flywheel assembly.  The connecting rod bearings are also pressure lubricated.  Both the main and connecting rod bearings are thin shells which can be replaced as they wear.
+The crankshaft has a strange sideways gear, called a
+Worm Gear
+, pressed on the shaft next to the cam shaft drive gear.  This worm gear turns the distributor drive gear which has a slot on top that turns the
+Distributor
+and an off-center cam which operates the
+Fuel Pump
+through a push rod.
+The
+Crankcase
+is a split aluminum casting machined in the proper places, which contains that portion of the engine known as the "bottom end" -- the crankshaft and the cam shaft.  The crankcase also acts as an oil sump to collect, store, and help cool the oil that is pumped through the bearings by the oil pump.  The oil pump on the rear end (rear is rear of car) of the engine, and fits into a slot in the end of the cam shaft and turns with it.
+The main bearings and the
+Cam Shaft
+bearings run through the case so that one half of the bearing is on each part of the case.  The cam shaft is geared to the crankshaft (it spins at hald crankshaft speed) and has cams or lobes which operate the cam followers, which in turn  push the push rods which operate the valves.
+The
+Crankshaft Pulley
+is attached to the opposite end of the crankshaft from the flywheel, outside of the crankcase in the engine compartment.  The crankshaft pulley drives the generator or alternator and the cooling fan, with a V belt.
+The
+Pistons
+move back and forth in the cylinders in accordance with the strokes of the combustion cycle (see above) and are sealed to the machined sides of the cylinders by piston rings.  The pistons are attached to the connecting rods by piston pins (gudgeon pins) which go through the pistons horizontally.
+The
+Cylinder Heads
+fit over the cylinders and contain the
+Valves
+,
+Valve Train
+, and
+Spark Plug
+. The heads also provide the combustion chamber at the outer end of the piston stoke.
+The valve train consists of the push rods, which push the bottom of the
+Rocker Arms
+which in turn push the valve inward (into the combustion chamber) to open it.  The valves are returned to the closed position by the valve springs.  There are two valves to each cylinder, one intake and one exhaust, and they are operated by the valve train to let the fuel mixture into the cylinder (intake) and then let the burned gases out after the cylinder is fired (exhaust).  The heads and cylinders are held tight to the crankcase by long studs which are screwed into the crankcase.  The head nuts tighten this assembly down to the crankcase.
+The Volkswagen engine is air-cooled, which means that the heat of combustion in the cylinders and heads is carried away by the flow of air.  These parts are cast with fins to aid in the removal of heat.  A blower
+(Fan)
+is provided to force air down through the spaces between the fins to carry the heat to the atmosphere.  The entire engine is shrouded by sheet metal to force the cooling air over the finned heads and cylinders, and the oil cooler.  The fan in Type I and Type II engines is attached to the front (front is front of car) of the generator or alternator and is thus driven with the generator or alternator by a belt from the crankshaft pulley.  The fan is encased in a
+Fan Housing
+which is attached to the shrouding to make an air-tight assembly.  The cooling air is sucked through the slots under  the rear window (and in later models, also via the slotted engine lids) from the front of the fan housing and blown down through the cylinders.  Also in this fan housing (or just outside of it to the front in the "dog-house" design), bolted to the top of the crankcase, is an oil cooler which stands up in the stream of air like a radiator and cools the oil which is pumped through it. SO in one sense, the VW engine is both air cooled and oil cooled - the oil gets quite hot as it is forced through the engine oil galleries, and carries this heat to the oil cooler where air from the cooling fan cools the oil  before it is returned to the sump.
+The definitions and descriptions above are adapted from John Muir's classic, "How to Keep Your Volkswagen Alive -- A Manual of Step-by-Step Procedures for the Compleat Idiot," by John Muir, 1976 Edition, pp. 10-14
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,149 @@
+Headlights/Taillights
+Headlights and Taillights
+~ Questions, Answers and Experience ~
+~~~
+Topics covered in this article -
+Headlights
+Australian/British Headlights
+U.S.Headlights
+Headlight Reassembly (U.S.) - Notes
+Headlight Wiring
+Headlight Schematic
+Halogen Headlights
+Headlight Switch
+Front Parking Lights
+Taillights
+Taillight Assembly
+Taillight Wiring
+Taillight Schematics
+Taillight Troubleshooting
+Taillights -- Off with the Ignition Off
+~~~
+Headlights
+Australian Headlights -
+Someone in Australia wrote asking about how to increase his headlight power, as his headlights seemed very dim.  He wondered if he increased the wattage of the bulbs would this melt the wires. Also, he wanted to know when the headlights are focused properly.
+Rob responded with a description of Australian headlights:  US lighting laws are different to those in Australia, and their 12-volt Beetles usually have sealed beams, where we usually kept the globe-and-reflector type as were fitted to the older 6v beetles (now updated to 12v of course). For these reasons you might get some unusual answers from US folks.
+To check this, have a look through the glass. A sealed beam has the filaments 'exposed' in the center of the reflector, where a globe will be obvious if you have that type.
+If it's the globe type, good lights are easy. First take out the globe - unscrew the single screw at the bottom of the light housing, and gently pry up the bottom edge of the chrome light-surround. The headlight unit will pop free and the three prong plug can be pulled off the back of the globe and the globe rotated out of the reflector.
+You'll probably find it's a 40/45 watt globe. The glass should be spherical. Now take the globe with you to the auto parts store and get H4 halogen globes rated at 55/60 watts. Make sure the base mount matches - VWs use a double step P45t base. Inside the main reflector housing you'll see a curved shield  - this was used with the standard bulbs to reduce glare to oncoming traffic, but the halogen bulbs have a blackened tip which does that job, so the curved shields can be removed. The halogen bulbs then plug right back into the light assemblies and will double your light output, with a nice focus too. Stick to the 55/60w size and you don't have to change any wiring.
+We can get 6 volt 55/60 watt H4 Halogens for the older 6 volt VWs too. These are GREAT lights compared to the original 35/40watt 6-volt candles.
+As noted above, make sure the shape of the base is the same as the one you have - there are at least three different designs for the H4 globe. (The two numbers 55/60w refer to low/high beam incidentally).
+You'll be amazed at the improvement - I've been using H4 Halogens for 20 years in my Beetle. They are perfectly legal in Australia too, and the focus of the light is unchanged.
+And a word of warning about handling halogen globes - DON'T TOUCH THE GLASS WITH YOUR FINGERS. These globes run HOT, and any trace of sweat from your fingers will cook into the glass and reduce light output.
+Be careful at getting higher ratings though, as they also come in something like 60/90 or higher wattages. The standard wiring may not be up to the task for these globes, and relays and uprated fuses would be needed. Stay with 55/60 watt and you are safe on the standard wiring and fuses.
+There is also a 75/75 watt 'standard' globe, which I've tried, but these don't seem to add much light, I think because the wiring is on it's limits with this current. The light output is still a little yellow too, unlike the halogens which produce a much whiter light.
+Also check the connections to the globe and to ground. These should be clean and bright for a good electrical path. All electrical ground wires are brown, and the headlight ground/chassis wires are just tek-screwed into the body near the fuel tank - remove the screw, brighten up the contacts on the wire and reattach.  A LOT of electrical problems in old VWs are just poor ground/chassis connections, so cleaning them up is the first thing to do if you discover any electrical issues.
+Some sealed beams for other cars here (in Australia) come in 75/75 watt varieties. Not bad, and the VW wiring can just handle the 75 watts.  I had 75/75 watt globes in mine just before the H4s became available in the mid-70s - they were OK but not as big an improvement as the 55/60w halogens. You may need to increase the size of the fuse (20 amps instead of 16 amps).
+Focussing the lights is easy. The quick method is to get out on a dark night, and with no other traffic around, you should see (on low beam) a distinct line across the road several car lengths ahead of you, with a 'kick' in the line on the left (curb) side, which means the light travels further down the road on the left hand side than the right  (to all you US folks reading this, we drive on the left, okay?). This cuttoff line prevents oncoming cars getting too much glare, but allows you to see the pedestrians and sign posts on the footpath. On high beam, there should be an even spread of light much further down the road, with no cut-off line visible. Each light should point ahead of the car, and you can check this by covering each light in turn with a piece of cardboard etc, then get back in the car and look at the remaining light from behind the wheel.
+This is a fairly 'quick and dirty' method, but accurate enough to give you good lights without blinding oncoming motorists.
+---
+Someone wrote to ask -- I am currently driving a '76 Bug in Perth. I would like to enquire how do you remove the large circular shield in front of the standard VW 40/45w bulb inside the reflector/glass compartment? I read from one of the VW forums that you managed to remove the large circular shield but did not mention how.
+I have removed the entire headlight setup and it seems to me that the glass is glued/stucked to the chrome reflector, making it impossible to gain access to remove the large circular shield in front of the standard VW 40/45w bulb.
+Rob responded -- It's nice to know there is at least one '76 Bug in Perth, they are a rare breed since they are the last year sold in Australia and only a few thousand of them were sold that year.  I've seen only a few here in Adelaide.
+So you must have a rectangular cut out under the licence plate hood which has a couple of plastic flaps controlled by a thermosat spring thing under the engine lid?  (This appeared on the '76s but not on the '75s, which had the rectangular shape stamped into the lid but not actually removed.)  You'd also have the IRS rear suspension but the torsion bar front suspension.
+I haven't tried to work on a '76 myself, so they could have changed the light design. On the '70 Bug the glass lens just sits in the reflector and is held in place with the spring clips which hold the lens and reflector to the collar - no glue. The collar is that piece which has the focus/adjusting screws in it and holds the assembly in the headlight bucket. Once diassembled, the curved shield is very easily removed from the front of the reflector.
+Note:
+We kept the bulb and reflector lights in Ausralia - no sealed beams here, so getting great lights is just a matter of replacing the normal bulbs with 55/60w halogens - no change to wiring or anything else. The metal shields and/or blackened bulb tip are used to stop scattered light direct from the filament projecting forwards - ensuring that all light coming out is FOCUSSED light from the reflector.
+I presume you are using halogen bulbs and wanted to remove the metal shields which are no longer needed since the halogen bulbs have their own blackened tip?  If you can't get into the reflector itself, don't worry about it and just leave the a shields in place. The halogen bulbs should be shorter than the stock 40/45w "candles" so will fit behind the shield OK. There isn't a lot of  difference in the light output with the shields removed, they don't mask very much of the reflector.
+If the halogens won't fit with the shields in place, you might be able to use reflector/lenses from an earlier Bug which will allow access to the shield, or alternatively you can get 75/75w stock style bulbs which are a direct replacement for the 40/45w bulbs (I have a set and they do improve the lighting a little, but not as much as the halogens). The wiring will take the increased current (just), but I'd uprate the four headlight fuses a little - 8 amp fuses would be marginal with 75w lights.
+~~~
+American Headlights -
+Dave described the headlight arrangement in his '73 Super Beetle --  The headlights we are using in our Bug are Sylvania H6024 halogen sealed beam, 60/40 watts (I assume this means high/low). The H6024 is supposed to replace the H6014 and H6015 sealed beams. I don't know whether there's a higher wattage sealed beam on the market or not.
+Rob:  The 60/40 watts is high/low as you thought. It's usual for the high beam to be a bit brighter than the low, and the low beam filament usually has a partial shield over it so only the upper part of the reflector is used -- to reduce the glare to oncoming drivers (the upper part of the reflector provides the 'lower' part of the beam).
+~~~
+Headlight Reassembly (U.S.) -- Miscellaneous Notes -
+During the rebuilding of his car, after having it painted, Dave wrote -- Everything associated with the headlights is new, including the drains, the electrical connection, and the screw that holds the chrome trim.
+Dave wrote - I made an interesting discovery that everybody else probably already knows -- it's LOTS easier to start the screw on the BOTTOM of the headlight trim first, before clipping the trim into place. If you attach the top of the trim first, it's almost impossible to start the screw at the bottom. With the screw just caught, it's still possible to slip the top over the catch-lip, and you can SEE the screw to find the hole. The right trim piece went on just fine, but the trim piece around the left one won't go on for love nor money. It appears to be about a quarter inch too big in diameter. (The left headlight rim has always been a problem on this car, probably because of the accident that bashed in that side of the car.)
+Looking closely at the left headlight, the one I can't seem to get the trim ring on -- the tab inside the headlight well (after taking the headlight back out) seems to be bent back a bit - I don't know whether I can bend it far enough forward to make a difference or not.
+Point of information:
+The screw is fairly long and has a threadless section at the tip to help position it into the thread in the tab.
+Dave later determined that the hole that the left headlight rim bolt screws into was stripped. He at first thought he would have to redrill and tap the hole.
+Rob suggested the use of "one of those body clip devices which have a "thread catcher," slipped down over the tab, and then use the original bolt." Dave indicated that the hole the bolt is supposed to screw into is right at the bottom of the tab -- in fact the bottom of the hole is flush with the body. There is another, larger hole in the tab about 5mm to the right of the regular hole -- the PO was using that hole with a large, unsightly wood screw.
+Dave finally got that situation fixed --­ and it was Rob's suggestion that fixed it!  The stainless steel bolts that  Dave bought turned out to be too small in diameter for the stripped-out holes in the tab inside the headlight well, but he found that they DO fit into the larger of the clips (with the "thread catcher") that he bought, and the clip DOES fit over the tab in the headlight well!  So --­ all fixed, once again thanks to Rob's good advice. A longer stainless steel bolt and the appropriately sized clip make it a dead easy fix.
+Rob talked to a VW shop and mentioned that his '68 Bug has one headlight reflector which is a little tarnished (they still use the bulb/reflector lights in Australia - never used the sealed beams). It turns out that you can get new reflectors from Brazil (the $20 price is right but the reflectors are rubbish) or German ones - outstanding quality, but $80 each. A few years ago new reflectors were unobtainable, so someone must have decided there was a market for them.
+From John Muir --
+The headlights are adjustable. You can adjust them yourself by shining them on the wall of a building. Draw some lines on the wall for level and straight. The low beams should be under level and about 6" from straight ahead. The high beams should center on the level line (height of lights from ground) and be just to the right of center (straight ahead). You should adjust them every time you put in a new headlight unit. Remember to put air in your tires before you adjust the lights. You can do all the work on the lights with a medium screwdriver, a phillips screwdriver, and the Scout knife. Check your Owner's Manual for location of the adjusting screws.
+- John Muir -- How to Keep Your Volkswagen Alive --
+A Manual of Step-by-Step Procedures for the Compleat
+Idiot, 1976 Edition, page 312.
+~~~
+Headlight Wiring -
+Rob wrote of a strange problem with the headlights in his '68 Bug:  High beam was fine, but low beam was like the high and low beams were wired in series - very dim, but the filaments were definitely getting some power. When Rob pulled the connector and direct wired them he get normal bright lights. Rob suspected that the PO cross-wired either the light switch or the hi-low relay, since that wiring needed to be moved when he (badly) installed the radio.
+Rob spoke with "Speedy Jim" about the problem. Jim said the dimmer relay (hi-lo relay) can get partly burned and provide bad contacts and suggested a test. Rob said he had to remove the radio so he could get at the light switch to check the two connections there.
+The resolution of Rob's problem turned out to be simple, but very difficult to track down. One of the globes was a non-VW one, which worked fine but did not have the 2-step base the normal VW globes have. It turned out that the three prongs on the back of this globe have two wires reversed when compared to the VW globe. The PO must have found this out when he tried to fit the globe, and in trying to sort the problem then, reversed the wiring for BOTH headlights. The effect was that it ran the power through the low beams, then back through the high beams, so they were effectively ALL running on 6v when the lights were dimmed. All fixed now -- the lights are normal bright. It just needed bulbs with the correct double step base that VW's use and the wiring altered back to standard.
+Rob said it was a big "jump-for-joy" job -- the problem had been bothering him since he got the car. He could drive it OK with street lights around, since the lights were plenty bright enough for other cars to see him, but on dark roads they had only a candle glow on the road.
+~~~
+"Speedy Jim" has provided a good
+Schematic Drawing
+of the headlight wiring on
+"Speedy Jim's" Home Page
+.
+~~~
+Halogen Headlights -
+Someone wrote - I got me a '64 Bug 1200 bone stock with 6-volt electrical system.   The head lights dont shine, they just kinda glow.  I'm not restoring it, just putting it back the way it should be.  I had a lot of little parts missing like head liner, carpets and just little accessories.
+Rob responded - For better lights in your 6v bug, there is a guy here in Adelaide Australia who  builds halogen lights for old cars including the 6v bugs - nice BRIGHT lights for no extra power used.
+Classic and Vintage Bulbs
+Look down the page for the P45t base (I think the '64 Bug has the double step base for the bulb).
+If you are in the USA, make sure to tell them so the sideways offset on low beam goes the right way.
+~~~
+Headlight Switch -
+The headlight switch in earlier-model Bugs is either push-pull or rotary type. 1973 and later Super Beetles and Convertibles are equipped with rocker-type switches. The switch is fairly easy to replace -- getting your (in my case) big bod up under the dash is the hardest part. The Bentley Manual (page 7-25) gives good instructions for removal and replacement of both kinds of switches; we won't repeat them here.
+Before you begin, be sure to remove the ground strap from the battery. Dave learned a "school-of-hard-knocks" lesson in this regard -
+ALWAYS remove the grounding strap on the battery before doing anything electrical!!  The wires grounded while Dave was putting the switch back in -- burned the insulation off of the power wire all the way back to the fuse!  Filled the car with smoke and scared Dave half to death!  Fortunately his old ticker had recently been refurbished and could withstand the scare. So Dave immediately removed the grounding strap (after the horse was bolted!). He then replaced the red wire from the #8 fuse to the headlight switch. Everything worked (whew!).
+Be sure to label the wires so you will be able to return them to the correct terminals during re-installation of the switch.
+~~~
+Front Parking Lights -
+Regarding the bulbs in the front park lights, someone wrote: I pulled the lenses off the front turn park lights and discovered there is a big bulb and a small bulb on the housing. So I looked at the wiring and there are only three wires coming and connecting to the big bulb.I do have parking lights and turn signals from this big bulb but what is the little bulb for?
+Rob responded: In many countries, the parking lights are inside the headlights, and the headlights themselves are the bulb and reflector type similar to the old 6v style. (This makes it VERY easy to update the headlights to 55/60w halogens - it's a straight bulb swap :-)
+With this style of lighting, the housing on the fender has only one bulb - the turn signal. But in the US Bugs, the 12-volt headlights are sealed beams (just the two filaments and no space for a parking bulb) and so the parking lights are moved to the housing on top of the front fenders, so you have two bulbs up there.
+The smaller of the two bulbs is the parking light (probably about 4-5 watts), and the larger is the turn indicator (about 18-21 watts). Hopefully your wiring has grey, blue (maybe with a white stripe) and brown connecting wires (with a black wire inside the housing). The grey wire connects to the large bulb (one of the two terminals on the base) and a black wire goes from there to the small bulb (single terminal). The blue wire goes to the other terminal on the large bulb.The brown wire is and earth wire, connecting to the side of the bulb bases.
+~~~
+Taillights
+Taillight Assembly -
+There's a piece of metal inside the lens that runs horizontally from one side to the other, between the tail/brake lights and the backup light. This piece extended too deeply into the fixture and was preventing the lens from sliding all the way on, so Dave folded it over. This was a mistake. This piece is a spacer, designed to hold the lens away from the bulb. It was indeed too deep, but Dave folded it over too far, causing the bulbs to be pushed in too far such that they lost their ground. A median fold-over solved the problem -- the lenses now fit snugly on the fixture but do not push the bulbs in. Now the taillights shine brightly.
+Much later, after retreiving the car from the paint shop, Dave wrote:  We have the large "elephant foot" tailights on our '73 Super Beetle. Under the lens there is a large, heavy, strangely-shaped metal part that the four bulbs fit into, with the electrical connections on the back (all right, front! :-) side. This piece has four bolts embedded in it, one at each of the four "corners."  It has a black seal around it, which leads me to believe that it is mounted directly onto the fender.
+Rob: Mine has the metal housing bolted to the curved fender and the light assembly mounted on the metal housing. So only the two bolts for the housing project through the fender (plus the grommet for the wiring of course.)
+Dave got it sorted -- The taillight assembly, when all put together, will look like this. From the inside out, left to right -
+- Body/Backing Plate/Light Assembly/Lens
+Not like this -
+- Backing Plate/Body/Light Assembly/Lens
+That's been keeping me awake at night :-) - glad to have it sorted out.
+~~~
+Taillight Wiring -
+When Dave disassembled his Super Beetle for painting, he carefully labeled each of the five wires for the taillights, but in the process of stripping and painting the car his labels became illegible for the most part. Dave carefully removed the overspray, etc.from the wires with steel wool to determine the colors (taking care with the two-color wires, as the "thread" color can be easily rubbed off). Then he wired the taillights exactly in accordance with
+"Speedy Jim's" wiring diagram
+for the '73 - '79 Bug.
+~~~
+Taillight Troubleshooting -
+Dave wrote about a problem that developed with his taillights: Driving behind his son (who was driving their '73 Super Beetle) Dave noticed that the tail lights in the Bug were out, both of them. When they got home Dave checked out the whole system and discovered that the front parking lights were out, too. The turn signal lights and brake lights worked.
+Dave laid awake for a while ponderating. The tail lights and parking lights on each side come from different fuses, #1 and #2. It was very unlikely that both fuses would blow at once. Besides, the turn signals come from these same fuses, and they work. Hmm... Dave got the manual down and looked at the wiring diagrams. The only common point is the SWITCH. When Dave was fiddling up under there with the defroster tube he accidently dislodged the headlight switch. He was able to snap it back into place back there behind the dash, but it's possible that the single wire that goes from the switch, then splits to go to the two fuses, has come off of the switch.
+Dave laid his big bod out under the dash and tried unsuccessfully to figure out why the tail lights and parking lights don't work. He found two empty spade connectors on the headlight switch but no loose wires. Bentley tells how to get the switch in and out but does not show which wire goes where. Dave sorely felt the need of a good electrical manual that clearly shows such things -- a good, clear wiring diagram that shows "what goes where and why"!
+Later Dave discovered that the wiring diagrams in the Bentley Manual have color codes (even though the pictures black and white), and the connection points are numbered. Corresponding numbers are stamped on the actual switch. Cool!  But Dave still couldn't find the problem with his tail lights and parking lights...
+"Speedy Jim" wrote:  There are two fuses (#1 and #2) which control ONLY the tail lights and parking lights (and license plate light).  No other lights are affected by these two fuses.  Since you already replaced the headlight switch I would double check these fuses. Even if they look good, they may not be making adequate contact.  Remove them, sand the fuse holder contacts and clean the fuses or replace them. If you have some sort of tester, you can check the voltage at both sides of the fuse holder (to ground).
+On his
+Web site
+"Speedy Jim" has provided excellent schematic drawings of the taillight wiring for the
+'68 - '72 Standard Beetle
+and for the
+'73 - '79 Standard Beetle -- '73 - '79
+(applies to the Super Beetle as well).
+Dave finally reported success with his taillight wiring:  I tested through the whole system with my handy dandy
+VOM
+and found 12 volts all the way to the taillight sockets, where I discovered that the lights burned brightly with the lenses removed!  So I got to fiddling around and discovered that the inside of the lenses were pushing the bulbs IN and causing them to lose their ground.
+After getting the taillights reassembled and wired, Dave still had a problem: the brake lights didn't work on one side, and the wrong light came on on the other side. The "Compleat Idiot" strikes again! "When all else fails, read the instructions!"  I opened the 1973 VW Owner's Manual and read about the bulbs in the taillight fixture. The back-up lights are all the same (US #1073), tail lights are smaller (US #67). The &#*@ PO didn't even think to look in the Owner's Manual, and I followed along with all four lights the same -- fat, dumb and happy.It's no wonder the tail light lenses melted -- the bulb wattage was too-high and the bulbs got too hot!
+~~~
+Taillights -- Off with the Ignition Off -
+Dave wrote to Speedy Jim with a troublesome problem - With the rebuild of my 73 Super Beetle mostly done, I'm starting to hone in on little exasperating things.
+One that I would very much like to change is the taillights staying on after the ignition key is turned off. The headlights go off, which is nice, but the taillights stay on. I don't always notice this, and the lights cause enough drain to run the battery down overnight.
+Is there a simple way I can rewire the system so that the taillights go off just like the headlights when the key is turned off?  This would be a real boon to my old and easily-befuddled brain!  :-)
+Jim responded - There is a fairly easy wiring change you can make on the headlight switch, but on the Super it's a bit tough to get at. On the switch, look for a thin Red wire on Terminal "30". Remove the Red wire; tape up the end and secure it up out of the way.  Now, make a jumper wire to go from Terminal "30" to Terminal "X" on the switch. You'll need a "piggyback" crimp-on terminal or a splice to do this.
+You
+might
+be able to do this at the fuseblock, but identifying the wires will be a real chore.
+Other option is the warning beeper. Look on my site for
+"Audible Warning Circuit for Oil Pressure, Generator, Lights Left On"
+.
+* 
+                    * * * *
+Design by
+Erin

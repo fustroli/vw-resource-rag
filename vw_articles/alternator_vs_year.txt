@@ -1,0 +1,24 @@
+Alternator vs Year
+Generator/Alternator
+vs Model Year
+~~~
+Dave wrote describing his engine and alternator - One of the main problems I have with this engine -- The engine number (AE 320891) 
+says it's a 1971 (the chassis is 1973-- 133-3001-550); I know that a rebuilt engine was installed in this car some time in the past -- 
+I guess a '71 was available and would fit, so they stuffed it in. The '71 engine is supposed to be equipped with a generator; ours has an alternator, 
+and it most certainly was NOT designed for this engine. It works just fine, but it's too big and interferes 
+with the carburetor  operation.
+Rob responded - So -- when the engine died on your car as some point in its former life, someone replaced it with the 1971 engine, then just 
+put all of the original components from the '73 engine back on it. The chassis number says that the car was manufactured probably in May-June 1973, 
+right at the point when VW changed from the generator to the alternator.
+The 1971 engine is one of the highest-power Type 1 engines. In the next few years they went to lower compression and 58hp to meet smog requirements 
+etc. The next major improvement came in 74 with the AS series cases - an increase in the amount of aluminium in the magnesium alloy in the case, and they 
+coped with extra heat better (65hp and FI I think).
+So, it being a 1971 engine, it should have a generator; the alternator came out in 73.  The first Motorola generators had an external regulator. 
+That was then changed to an internally regulated alternator. There were other changes to go with the alternators too - the alternator stand has a different 
+shape (a section of the cup is cut away), and both the carburettor linkages and the fuel pump required alterations to clear the fatter alternator body. 
+They also fitted a fatter, longer fan belt, up from 905 x 9.7mm to 912 x 10.5mm.  The stronger belt was needed to cope with the larger fan plus the 
+increase in electrical power from the alternator. The original sized fan belt will still work, but it might not last a very long time.
+* 
+                    * * * *
+Design by
+Erin

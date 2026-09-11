@@ -1,0 +1,239 @@
+Pressurization
+Push Rod Adjustment/
+Brake System Pressurization
+See also
+Brake Pedal Freeplay Adjustment
+.
+~~~
+Dave has had two problems with the brakes on his '73 Super Beetle that he initially thought were one and the same problem.  These problems were -
+Excessive pedal travel before braking action actually begins (hereinafter referred to as "brake pedal travel"). 
+This topic is discussed thoroughly in our
+Brake Pedal Travel Adjustment Procedure
+.  Dave replaced all of the brake components in all four wheels from the backing plate out.  Once the brakes were properly bled and adjusted, the pedal travel was normal.
+Pressurization of the system because of improper adjustment of the master cylinder push rod (hereinafter referred to as "push rod freeplay").
+This article will deal primarily with push rod freeplay and associated problems.  We've written a
+Brake Pedal Freeplay Adjustment Procedure
+that may be helpful with adjusting the brake pedal freeplay.
+~~~
+Push Rod Freeplay
+The first of these problems, pressurization of the brake system with attendent binding of the brakes and overheating of the brake drums, was resolved by very careful adjustment of the master cylinder push rod to assure just 5-7 mm of freeplay at the top of the brake pedal.
+A Bottom Line Note:
+We've found two schools of thought on adjustment of the push rod -
+Don't mess with the length of the push rod itself; adjust the freeplay using the pedal stop in from of the pedal cluster.  Adjusting the rod length or the pedal stop both accomplish the same thing, but adjustment of the push rod itself is very sensitive and can easily be done incorrectly.
+Freeplay MUST be adjusted by adjusting the length of the push rod.  The pedal stop has nothing to do with the way the brakes operate.
+These two schools of thought are discussed in more detail toward the end of this treatise.
+The Dave's saga regarding push rod freeplay and brake pedal travel is interesting and informative -
+~~~
+System Description and Pushrod Adjustment
+In response to a query Rob has provided an excellent overview of the pushrod operation and discussion of adjustment of the pushrod length -
+The VW factory set the pushrod length and the pedal cluster position, but
+after 42 years it could have been altered by a number of previous
+owners.
+First check the floor mounting plate.  If it has been moved for any
+reason this will affect the setting of the pushrod. Check the distance
+from the back of the brake pedal to the frame member in front of the
+pedal (where the pedal will bottom out).  That distance MUST be at
+least 200mm.  If it's not, adjust that distance first and then adjust
+the pushrod.  This is critical to getting enough pedal travel even if
+the shoes are worn, and on 1968 and later Bugs with twin circuit brakes
+it's even more critical as it will ensure that you still have enough
+pedal travel to get one circuit working even if the other has failed. 
+There is a bolt on the floor (about 13mm I think) near the outer end of
+the pedal cluster which holds the cluster to the floor with an
+elongated hole in the cluster floor plate.
+That floor plate problem is only a problem for you guys in LHD cars -
+the RHD version like mine has a fixed-position floor plate.
+To adjust the pushrod length you slacken the lock nut (you'll probably
+have to push the rubber boot down out of the way a little) and turn the
+rod in or out as needed to provide a clearance of 1mm freeplay at the
+rod before the pedal moves the rod. It's almost impossible to measure
+that directly, but it translates to 5-7mm movement at the tip of the
+pedal before the piston starts to move.  Try turning it in until you
+have no resistance from contact with the pedal, then screw it out until
+you feel it touch the pedal and then back in about 1/8-1/4 turn and
+check as outlined below.
+You should be able to just feel a tiny movement in the rod itself as
+you push-pull on it once it's adjusted right, and then check the pedal
+movement gently with your hand to see it's 5-7mm (about 1/4 inch) -
+that will confirm that you have a small amount of freeplay between the
+pushrod and the piston which will allow the piston to fully retract.
+~~~
+History
+Dave replaced the master cylinder and fluid reservoir in his '73 Super Beetle in October 1999.  Soon thereafter a problem developed with pressurization of the brake system.  The pedal became tighter and tighter while driving and finally locked up the brake drums  The drums became very hot in the process.  This happened after only about ten miles of driving.  The pressure could be relieved by shortening the length of the master cylinder pushrod a bit.
+Dave replaced all four brake drums and front shoes in August 2001; the problem with pressurization of the system continued.  On the assumption that the new master cylinder was defective, Dave installed another one in August 2001.  The master cylinder was very thoroughly bench bled by a professional, and the brakes lines were very thoroughly bled.
+Dave adjusted the pushrod incorrectly, obviously, because the pressurization problem continued and became worse.  After multiple adjustments of the pushrod, Dave and his son towed the car 700 miles to where his son was attending college.  In the process, because of the unresolved pressurization problem, they completely ruined all four of the new brake drums and pads.  You can see why this was a "hard knocks" lesson!
+The master cylinder pushrod was readjusted many times in the ensuing months by Dave's son as he suffered with the problem while away at college.  A smart VW mechanic in Dave's son's college town finally adjusted the pushrod properly, correcting the pressurization problem that had plagued Dave and his son for so long.
+Though the pushrod is now correctly adjusted, there remained the problem with excessive brake pedal travel before actual braking occurs.  It was obvious that the pressurization and excessive pedal travel problems were separate and distinct problems.
+~~~
+Brainstorming
+Something in the system allows pressure to be maintained, rather than bleed away. It was initially felt that the problem was associated with the master cylinder.
+Dave wrote -- I lay awake nights worrying about the brakes.  I can think of no earthly reason why the brakes should gradually seize up when they get hot.  I've backed off the pushrod adjustment as far as I dare -- now the pedal goes
+down about 2/3 of the way before there's any braking action.  Then it's just as good and firm as can be, but as we drive the car on a hot day, within about 30-40 miles the slop in the pedal gradually decreases and the drag on the brakes increases until they lock the car up completely, and there's no play in the brake pedal at all.
+Bob Hoover wrote to Dave -- Something that allows pressure to be maintained, rather than bleed away.  It sounds as if the lip of the seal in the master cylinder is not retracting far enough to allow the residual pressure (and fluid) to return to the reservoir.  The hole could be partially blocked, the seal could have a 'feather' of rubber on the edge, or the seal could be improperly installed on the piston, or the piston travel adjustment could be incorrect.  Substitution of a known-good master cylinder might be the quickest way to diagnose this sort of thing.
+Rob responded to Bob Hoover's suggestion -- What Bob's suggesting is that the seal in the master cylinder may have been sticking or damaged so that the piston in the master cylinder was not retracting far enough to uncover the bleed hole.  This would prevent the residual pressure (and fluid) from being returned to the reservoir.  This would occur if the pushrod was too long; this was why we thought that the pushrod was not adjusted properly.
+Note:
+It turned out that this was
+precisely
+the problem.
+After replacing the master cylinder for the second time, Dave wrote -- It seems strange that two brand-new master cylinders should have the same problem.  Something happened after the replacement of the master cylinder the first time.  We did NOT have the problem with the original master cylinder, which was in terrible shape, but the problem DOES seem to come from (or result in) problems around the master cylinder.
+Bob Hoover wrote -- If the problem persists with a known-good master cylinder, you would have to explore the system to find some other mechanism that was trapping pressure in the system. This is usually associated with a failed hose, in that hydraulic fluid seeps through a tiny hole in the inner liner and expands when pressure is released, causing the inner liner to balloon and block the hose, trapping fluid in slave cylinder fed by that circuit.
+Dave -- Hmm...  Possible, I suppose, but I replaced the two front brake hoses, and we had the problem with both the old hoses and the new ones.  Something happened after the replacement of the master cylinder the first time, something, I have to think, unrelated to the master cylinder itself, since the problem occurred with both new master cylinders.
+Hoover -- This sort of thing is usually pretty easy to diagnose but sometimes difficult to repair because the root cause may not be clearly evident when the components are dismantled and inspected.
+Rob suggested that it is vaguely possible that one of the wheel cylinders could be at fault -- if the rear flexible lines have expanded internally then they would keep pressure in the rear brakes and start to heat them, which would cause them to heat to fluid and worsen he situation.  But unless there was also a problem with the master cylinder, eventually that back pressure would drain back to the reserviour, not affecting the front brakes.  It still seems more likely to me to be a problem in or around the  master cylinder -- the back pressure SHOULD bleed back into the reservoir before it pushed the rear  master cylinder piston back against the pedal rod.
+The common denominator in all of this discussion is the adjustment of the PUSHROD.  It is the only part that could have caused the problem with two brand-new master cylinders.
+Other suggestions from various sources -
+Unless there is a problem with the master cylinder, the back pressure should drain back to the reservoir before it pushed the rear master cylinder piston back against the pedal rod. This sort of thing is usually pretty easy to diagnose but sometimes difficult to repair because the root cause may not be clearly evident when the components are dismantled and inspected.
+New stainless steel braided brake lines were installed on the front in January 2001; the rear rubber brake lines were not replaced.  The rear brake lines could have coincidentally started to block up, causing the problem (the rear brakes come on first - the piston nearest the pedal), which might cause a problem for both pistons once the system has "pumped up".  If the rear flexible lines have expanded internally they could keep pressure in the rear brakes and start to heat them, which would cause them to heat the fluid and worsen the situation.
+It is possible the steel lines to the master cylinder have become kinked, or something could have got into the lines to form a partial blockage.
+The problem may be associated with a failed hose, in that hydraulic fluid seeps through a tiny hole in the inner liner and expands when pressure is released, causing the inner liner to balloon and block the hose, trapping fluid in slave cylinder fed by that circuit.
+~~~
+Correspondence
+(Theres a lot of good information here
+if you feel like wading through it.)
+Someone posted to the RAMVA Newsgroup -- Last week when I was doing my brakes I noticed that there is an adjustment for the brake pedal behind the master cylinder. What is the correct way to make the adjustment on this shaft?  I remember in my old VW days that if you adjust it to much your brakes will drag.  Is their a special tool to do the job?
+Someone replied -- The rod is adjustable, but like you said it's possible to make the brakes drag if the rod is made too long.  In a way it's like adjusting a mechanical clutch linkage, you want a little freeplay in the adjustment or you'll burn up the throw-out bearing.  Likewise the brakes will fry if they are partially depressed all the time.
+I'm sure that they have a jig or fixture that is used on the assembly line to set the correct length of the rod.  It probably attaches to the master cylinder mounting bolts.
+If you use your hand to slowly press the brake pedal down you might feel some slack in the adjustment but unless the factory setting has been disturbed I would just leave well enough alone.
+Dave posted a response to the RAMVA Newsgroup -- I just re-did my rear brakes but I am sad to report that the brake pedal still goes about a third of the way down before it feels like it makes contact with anything or starts doing any work.
+I adjusted the shoes and bled the brake lines of all air.  I tried pumping the pedal and other forms of wishful thinking but nothing helps.  Is this simply the nature of VW brakes or am I missing something here, folks?
+(I should add that the car stops fine, but the darn pedal just doesn't feel right!)
+John Muir addresses this in his famous "Compleat Idiot" book -- he gives instructions for adjusting the master cylinder push rod behind the brake pedal assembly -
+Whenever you've adjusted and bled the brakes and there is still too much free play in the brake pedal, the problem is likely the adjustment of the master cylinder push rod.  The push rod is located in front of the brake pedal inside the car.  Loosen the 13mm (or 15mm) lock nut on the push rod with an open end wrench and turn the rod until it feels like it's flush up against the piston in the master cylinder (no free play).  Turn the rod back about half a turn and tighten the lock nut on the rod.  That's it.
+- John Muir - How to Keep Your Volkswagen Alive - A Manual of Step-BY-Step Procedures
+For the Coompleat Idiot.  1976 Edition, p. 153.
+Sorry, John -- it's just a bit more complicated than that.
+Someone wrote -- I agree with the master cylinder pushrod adjustment; it's wrong on almost every car I look at!
+Also check that your brakes are adjusted properly at the drums AFTER backing out the emergency brake cable adjustments first (2 adjusters per wheel; they are NOT self adjusting). Then, readjust your emergency brake.
+Lastly, make sure that your line from the reservoir to the master cylinder is CLEAR.  If it isn't, it will do exactly what you are describing, and I have seen it a LOT.  Another little tricky error is not having the master cylinder cap WITH THE HOLE IN THE TOP to allow air in, OR where some genius replaces the cap or gasket with a "sealing" type.  No brake fluid travel to master cylinder = crappy brakes!
+Someone posted to the RAMVA Newsgroup -- I have to pump the brakes once in my 73 Super Beetle before the pedal feels firm.  Ive adjusted all the brake shoes and they seem to have enough material on them.  Could it be the adjustment on the back of the brake pedal?  What is the proper way to set this adjustment?
+Someone else responded -- Have you bled the brakes?  You should do that first.
+If you need to adjust the pedal-to-master distance, it can be done by loosening a nut (13mm?) that seems to attach the operating rod to the pedal.  Then turn the rod (its threaded into the pedal) out a bit and tighten the nut again.  With the pedal in its normal position, there should be noticeable free play in the rod before it starts to move the piston inside the master cylinder.  If there is no free play, your brakes will drag and overheat (the pressure stays on).
+I would be very careful with that rod.  (GOOD ADVICE!!)  Chances are that your problem lies somewhere else.  Like air in the system.
+Dave wrote -- I need to ask a question regarding the free play in the brake pedal.  My procedure says to loosen the lock nut on the push rod, turn it in until it's right up against the piston in the master cylinder, then back it off half a turn.
+The Haynes Manual says don't do this.  They say to "reposition the brake pedal stop plate so that the brake pedal has 5 - 7mm freeplay.  This will produce the specified clearance between the pushrod and the piston recess."
+Can you clarify this for me?  I've always reduced the brake pedal free play by adjusting the pushrod.  I don't really understand the Haynes recommendation; I didn't even know that there was a "brake pedal stop plate."  Seems strange to "stop" the brake pedal.
+Anyway, I want to do the right thing to make sure my son's car STOPS when it needs to!
+Rob responded -- I don't understand exactly what they are trying to say either.  I've always adjusted the pushrod so that you get a just noticable' amount of free movement in the pedal (Bentley says 5-7mm too), so the pushrod was not riding on the end of the piston; when pushed gently with the hand, not the foot.  It's not really freeplay, as the return spring offers some resistance.  But you can feel it with your hand when the pushrod starts to move the piston.
+I think they are concerned about people just fiddling the adjustment, and ruining the pedal travel for one circuit out braking.  There is a LOT of pedal movement when one circuit fails -- I had a rear slave cylinder go once, and the pedal travel to get the front brakes on was almost to the floor.  Worked fine though.
+Dave -- My master cylinder pushrod is different from the description in the book.  In the first place, the lock nut is 15mm, not 13mm.  And the pushrod itself has a nut surrounding it, also 15mm.  And it's a bit tricky.  I put my wrench on the pushrod nut and started turning it in, expecting resistance, but I never really got any.  So I started scratching my head.  Reached up and pushed on the brake pedal -- absolutely NO free play!  So I started backing off the push rod nut, real quick.  Discovered that really
+the only way to get it adjusted properly is to keep checking the pedal free play to make sure you end up with it within the specified 5-7mm range.
+Sure hope I did it right.
+Note:
+Do this adjustment slowly and carefully!  Be patient!  I know how uncomfortable it is to lay there under the steering wheel, but make ABSOLUTELY SURE you get this adjustment right!  You'll have no end of trouble if you don't!
+Rob -- I'm trying to picture the effect of the Bentley method of adjusting the brake pedal freeplay.  Wouldn't this result in the brake pedal being misaligned with the clutch pedal?  (Hard to visualise without the car in front of me).  It seems an odd suggestion, given that the pushrod has been made adjustable for this purpose, but I suppose there must me SOME reason for their suggestion.  I've always adjusted the pushrod myself, but then I have disc brakes and right-hand drive, so I don't know if this makes a difference or not.   In fact I can't even remember whether mine HAS a pedal stop adjuster (it probably has, but it's a while since I've been under the cover plate around the pedals).
+Dave -- I took the car out and gingerly drove around the block a few times.  There is WAY too much pedal before braking begins
+I was fussing with the timing when the brake lights in those great big elephant foot tail lights came on!  I had the pushrod snugged up too tight -- took about 15 seconds to correct that.  It sure surprised me, but didn't take long to figure out what was causing it.  Could be only one thing -- pressure in the master cylinder.  I'm amazed that about a half-turn too tight on the lock nut could cause the brake lights to come on!
+Rob -- Nice sensitive switches.  Means they come on BEFORE you start to slow down -- a good thing I think.  Both the Ford and Chrysler I have use mechanical switches on the brake pedal -- move it and the switch moves, before the pressure is applied to the brakes.  Same thing there -- warning before action.
+Dave -- I pulled it into the garage and worked on the master cylinder pushrod.  I immediately found the problem -- I had the locknut tightened against the nut that turns the rod in and out instead of against the "thing" (girl talk, but I don't know what it's called) that attaches to the brake pedal.
+Coming home from work tonight the Bug ran fine -- until I got about half way home.  Then it started to lose power (or so it seemed) -- I could not get it up to speed for the life of me.  Finally ending up driving the last ten miles in third gear at 45 mph.  When I got home the problem was abundantly apparent -- the brakes were binding, and the brake pedal with rock solid right at the top!  I strongly suspect that the master cylinder pushrod is the culprit -- obviously it still isn't adjusted right.  I'm afraid I've ruined all four of the brake drums and pads.  :-(
+Rob -- Don't despair -- if you could still drive the car they couldn't have been on all that hard (brakes have an equivalent hp of about 10 times the engine hp, so you'd never have pushed the car with 60hp if they were REALLY grabbing).
+I bet all you've lost is a little brake lining material.  When the brakes have cooled just loosen the master push rod a little and try driving it a little to see if everything still works.  It's POSSIBLE you may have boiled the brake fluid and may need a bleed, but I bet you don't.
+Thinking about it, I guess as the drums heat they expand in all directions (inwards too) and the linings would expand a little with heat, so tight brakes probably get tighter as they heat up.  You might find they feel almost normal again once cool.
+Dave -- Thanks for your quick and encouraging response.  I had a few minutes before my wife got home, so I went out with my two 15mm open-end spanners and loosened the pushrod -- and that's all it took.
+But I'll tell ya, that baby is SENSITIVE!  A quarter turn too much and the brakes will be continually on; a quarter turn too little and you have to push the pedal almost all the way to the floor before there is any braking action.  I guess that's why the Bentley Manual says "don't do this!"
+Now I have the pushrod adjusted so the pedal travels about half way, then I get good braking action.  I think I'll tighten it just a tad more.
+Rob -- Try leaving it as is for a few drives in case there is any distortion in the drums or dust on the linings -- don't want them touching each other again.  When you're sure it's all smooth, adjust it a touch -- just make sure there is a tiny amount of freeplay in the pedal.  Then check the star adjusters, just to make sure the whole thing is adjusted to spec.  (Loosening the push rod might result in all brakes needing star adjustments, but hopefully not).
+Note:
+What Dave didn't realize was that with the push rod maladjusted it was covering one (or both) of the ports back to the master cylinder reservoir.  Pressure in the system when the brakes are applied is released through these ports when the brake pedal is released.  If the ports are covered, pressure is built up in the system every time the brakes are applied.
+Dave -- The other night a friend and I thoroughly bled the brakes -- we went around twice.  I have more pedal travel before good solid braking begins than I'd like. And I can't figure out why -- I suspect that I still don't have the master cylinder pushrod adjusted properly.  I'm wary, given my experience driving in from work a year ago, when the pushrod was too tight and I heated up the brakes something fierce.  I'll let you know how things turn out in that regard.
+Rob -- I guess you could try adjusting the pushrod just a 1/4 turn at a time and see how it goes.  Bit fiddly I know, but you'd get a feel for how much each adjustment was making in the pedal.
+It may just be a function of the drums.  Because the wheel cylinders are at one end of the shoes, it takes a lot of leverage (movement) to move the whole shoe a short distance, and whilst it's moving it has to slide a fraction between cylinder and star adjuster to centre itself in the drum (you can see the shoes have ramps where they sit on the cylinder and adjuster rods, so they can slide a little to centre themselves).  The disc pads have only a tiny movement back off the discs - just a few thou, which means very little pedal movement is needed to get them touching the discs.  If I use my hand on the brake pedal I can feel the two pistons, and the first movement (rear drums) is definitely more than the second movement (discs).
+The couple of drum brake cars I have driven all had a long pedal travel feel to them in comparison (even considering for the poor adjustment on all of them.
+Dave -- Its possible that the lines from the master cylinder to the reservoir are either mixed up or blocked.  I can't quite see how mixing the lines up could cause this problem -- that would just switch the two sides of the reservoir, which shouldn't make any difference.  One of the lines being blocked could cause the problem by not allowing the pressure to bleed off after the pedal is lifted.  Then as the system heats up it gets worse and worse.  I think there must be some reason why the pressure is unable to bleed back to the reservoir.
+I'm especially sure of the second master cylinder, the one that's in the car now.  The bench-bleeding process, which was VERY thorough, showed the master cylinder to be operating correctly.
+If we, though our brainstorming, can narrow down the problem, I would be willing to have my son take the car to the shop to get it fixed.  He's going to be driving it home in April -- 700 miles -- and it scares me to death to have him driving the car with defective brakes!
+Rob -- I guess it WOULD be better to have it fixed first, although if the car is drivable (and safe) with the pedal a little sloppy then I bet you'd like to discover the problem yourself?
+I've wondered a few times why your Bug seems so sensitive to the brake adjustment since I've not had any problems setting up either of my two cars.  I've never had a problem with the  master cylinder pushrod adjustment.  I doubt that drums vs drum/disc (my combo) would make a significant difference, and I haven't noticed many other posts along the lines of that problem.  I can't put my finger on anything which might cause that sensitivity in the adjustment.
+Dave -- I dont understand why it gets tighter and tighter the further the car is driven.  Because the brakes are getting hotter and hotter, I suppose.
+Rob -- Yes -- that's why it would get worse with the distance -- the hot brake shoes would expand a little and bind more.  I see now why the manual says to leave the pushrod adjustment alone.  It's VERY sensitive...
+That's what I don't understand though -- NEITHER of my bugs are especially sensitive in the brake master cylinder rod adjustment.  I've had to adjust my older Bug 3-4 times in his life, and other one when I got it.  Each time I just turned the rod until there was a tiny amount of free play before the pedal moved it, and that was that.
+Dave -- As a result of this brake binding problem, we found that we must replace both of the rear drums.  One of the front drums must also be replaced, but the other one can be turned.
+My brake specialist friend is pretty well convinced that I didn't do a thorough enough job of bleeding the master cylinder, and when the air in there gets hot it pressurizes the system.
+Rob -- That's a possibility, and I guess the natural sponginess of drum brakes (as compared to discs) means you may not notice a tiny bubble of air as "feel".
+The master cylinder is supposed to be difficult to bleed, so that would makes sense from that perspective too.
+"Speedy Jim" wrote -- If you have the proper amount of free play in the brake pedal and still locks up, one shoe may be adjusted too tight or else a rubber hose is clogged (both probably unlikely).
+Rob -- I note that you are chamfering the ends of the shoe linings -- that's supposed to help reduce noise.  Might help the binding problem -- I don't know.
+Perhaps try loosening the wheel stars a click or two and keep the pedal adjusted up -- see if it's a drum binding.
+You say that once the brakes engage, they operate very well.  So the brakes themselves look like they are out of the problem, which only leaves the (near new) master cylinder.  That's the puzzle.
+Dave -- Last night I took a close look at the front shoes.  They were in very bad shape -- very thin and cracks running down through them.  It's unlikely that this would be causing the pressurization problem, however.
+We have finally come to the conclusion that everything points to the master cylinder as the source of the over-pressurization problem.  That's really the only possible thing it could be.  The problem started right after I replaced the master cylinder in October 1999.  My brake specialists friend called me to say that we could pick up a master cylinder at a very large auto parts store in a neighboring city.  We journeyed over there and bought the master cylinder at his price -- only $15 plus $7 exchange!  I couldn't believe it.
+We worked well into the night bench bleeding the new master cylinder.  I got a real lesson -- my in-place bleeding was GROSSLY inadequate.  That finally done (it took over an hour) we went to put the new  master cylinder in, but I dropped one of the sleeves on the master cylinder bolt down the black hole.  At that point (9pm) I'd had it, and we called it quits.  Tomorrow night I'll go and get another cylinder guide tube and make another sleeve, then my son and I will finish the job.
+I wrote a
+Bench Bleeding Procedure
+while it was still fresh in my mind.  I was such an inexperienced novice when I put the other master cylinder in -- this new one has been very thoroughly bled (thanks to my brake specialist friend).
+Rob -- The bench bleeding is quite a process isn't it?  I might have to practice it myself sometime soon -- my second Bug still has his original 1968 master cylinder (which has only one brake light switch -- they must have brought in the twin switches in '69 or '70 as my other car  has the two switches).  It's working fine at the moment, but I suspect that it won't be long since he is used every day in city traffic -- a lot of brake work.
+Dave reported on a test drive -- My son and I jumped in the Bug and headed out on the highway.  The first thing we noticed was that the brakes started to tighten up ... We stopped and backed the pushrod off a bit, and experienced no further problems.
+But -- on another occasion the brake pedal started tightening up again -- we had to turn the pushrod out just a titch more.
+"Speedy Jim" wrote -- Something wrong here.  Do this:  after a run on the road, see if any one wheel feels hotter, indicating a dragging brake.
+Rob -- I agree with Jim - something's wrong.  Like me, Speedy is looking at other sources of the problem, but you said all wheel were well adjusted.  It's a puzzle I can't put my finger on.
+~~~
+Dave and Mike towed the Bug 700 miles
+to where Mike was attending college.
+Dave reported -- At the first rest stop we found the new brake drums on the rear too hot to touch -- then completely cool at the next stop! Maybe they're just wearing in.  We couldn't loosen the shoes at all - the stars were turned all the way in, and the shoes seemed to be perfectly adjusted, per our brake specialist.
+Rob -- That's strange.  I'm wondering if they had extra thick linings, as I've NEVER had the stars all the way in with new shoes -- only about 3/4 in.  Several full turns to spare anyway.
+That could have been the problem with the push rod pumping up.
+Dave -- I talked to a fellow VW nut yesterday -- he said he had a similar experience and found it to be a kinked brake line -- the long METAL one that goes back to the right rear wheel.  I can't imagine how something like that could have happened.
+Rob -- Interesting.  The rear brake line runs under the carpet along the edge of the tunnel -- I don't suppose it got moved when you were carpeting?  Of maybe at the front or rear where it ends up outside the car?
+It's not an issue I'd considered before, and I guess that scenario has possibilities -- a slow back-flow resulting in some brake binding which heats the brake fluid and creates more pressure in the line so it binds worse, but after the car sits, the pressure would diminish and the brake pedal would seem OK for a few pumps.  Yes -- definitely a possibility.
+Rob posted to the RAMVA Newsgroup -- Dave has a '73 Super Beetle (U.S. model with drum brakes all round) which has a big problem with binding brakes which neither of us can work out.
+He's put new drums, shoes, slave cylinders, rubber brakes lines, master cylinder on it, and had the master cylinder bench bled by a brake guy before installing.
+Now he can either have the master cylinder push rod loose so the pedal goes almost to the floor before the brakes work (they work fine), or he sets the pushrod with the normal freeplay and then the brakes start to bind and pull the car up (it gets that bad).  There's no middle ground on the pushrod adjustment.
+I'm in Australia and he's in the U.S., so I can't look at the car and we've both run out of ideas. Anyone with anything they can suggest?
+Response #1
+- Sounds like air is still in the system.  The brakes binding with the pushrod too tight is perfectly normal because the bleed back port is not uncovered by the  master cylinder piston.  So you know the other position is correct.  And with that being the case, it really only comes down to a few things. Either air, bad slave cylinder, bad master cylinder, shoe not adjusted correctly, or goop in the lines. Maybe an actual leak or crack won't allow instant pressure to be built up (pushing pedal), but will let residual pressure build and hold (pushrod too tight).  When all else fails, start with the cheap stuff first and work your way up until you find it.
+Response #2
+- With the freeplay set correctly, is it still the same after the brakes bind?  And is the brake pedal in the same "off" position?  I'm wondering if some excess friction is causing the push rod to hang on its way back from the actuated position, or maybe a weak return spring.
+Response #3
+- How are you adjusting the free play?  Reason is that there's an adjustable stop on the floor and also the length of the actual pushrod.  The pushrod length supposedly isn't to be adjusted, it's gotta be a certain length and that's it.  Then you adjust the floor stop plate.  Sounds like the pedal isn't travelling back far enough to open that transfer port in the  master cylinder.
+Response #4
+- Just a thought here.  If the pushrod length had been lengthened previously, maybe trying to fix a brake problem, that could well be the problem.  I would say the brake shoes need to be properly adjusted first before bleeding the system or adjusting the free play at the pedal.  If you adjust the free play first, you could be taking needed travel out of it thus the bleed-back hole staying closed and the brakes binding up.  Does this make sense guys?  I would loosen the pushrod, adjust the brake shoes, test the lines for air, THEN set the pushrod length.
+Response #5
+- My '71 had similar symptoms. I discovered the answer when I loosened that bolt behind the pedal cluster. It turns out that what I thought was "freeplay" wasn't.  Once I adjusted it properly every thing is fine.  That adjustment isn't supposed to be done with the pushrod, you're supposed to move the whole pedal cluster back and forth.
+Rob -- Thanks for the replies guys - some good stuff there.
+No air in the system, it's been carefully bled several times, and there's no spongeyness to the brake pedal.
+The slave (wheel) cylinders are new (not el-cheapo versions so hopefully no bad ones amongst them), the master cylinder is the second new one, changed just in case, but the problem still persists.  Goop in the brake lines (or a bent brake line) is a vague possibility Dave will be pursuing.
+When the binding occurs, the pedal looses any free play -- it becomes rock hard.  The weak return spring is worth looking into.
+Good point on the floor stop plate adjustment -- I hadn't thought of that.  I'll pass it on to Dave.
+Dave -- Adjusting a bolt behind the pedal cluster is a new one on me.  I really don't know how that's done.
+Rob -- I presume he's talking about the position of the brake pedal when at rest, and there is presumably an adjustment for that, but I didn't get to look at my pedal cluster to see what gives there - I've never had to consider altering the position of the pedal itself.  Makes sense though, if the pedal is preventing the push rod returning all the way unless it's set very loose - could be preventing the fluid from bleeding back into the m/c and reservoir.
+Dave -- Regarding our problem with pressurization of the brake system -- the responses from the Newsgroup have raised more questions in my mind.
+Regarding the "slave cylinders" (wheel cylinders) -- the two on the front wheels on our car aren't exactly new.  We had them replaced shortly after Mike bought the car in 1997.  I wonder if there might be a problem there?
+Rob -- They SHOULD be fine - my first set lasted about 20 years!
+Dave -- Two of the guys mentioned the "bleed back port" or "transfer port" that is not being uncovered by the master cylinder piston; i.e., the pedal isn't traveling back far enough to open that transfer port in the master cylinder.  It seems to me that the piston is pushing the pedal back to the point that it locks up.
+Rob -- What they are saying is that there is a transfer port inside the  master cylinder which allows the "used" fluid to return to the reservoir if needed after you take your foot off the brake.
+I am not sure of the exact internals of the  master cylinder but I guess the theory here is that unless the pedal returns far enough it doesn't allow the pushrod to retract far enough to allow this transfer (depressurising the slave cylinder?), so the brakes are still binding a little, get hot, heat up the "trapped" fluid, and so pressurise the system more.
+Dave -- This problem occurred only AFTER I first replaced the master cylinder.  It continued through the second master cylinder replacement this past summer.  Did I somehow make the same mistake both times such that the internals of the master cylinder aren't working properly (i.e., uncovering the "transfer port")?  I still have the old master cylinder laying on my workbench -- I've pushed the piston in with a screwdriver, and it comes right back out again.
+Rob -- But that's because it doesn't have the pushrod and pedal attached.  The problem may lie with these components connected, not actually with the master cylinder itself.
+But I had a look at my pedal cluster at lunch time -- can't see any way of adjusting the brake pedal position.  The "rest" position seems to be fixed and the ONLY adjustment is the pushrod.  As I said - mine is right-hand drive -- I don't know if the left-hand drive cluster has a pedal height adjuster (adjustable stop).
+Dave -- The #3 responder mentioned the "adjustable stop" on the floor.  Like the manuals, he says "the pushrod length supposedly isn't to be adjusted, it's gotta be a certain length and that's it.  Then you adjust the floor stop plate."  I'm not aware of an adjustable stop on the floor.  I don't recall ever seeing such a device.  You would think that it would have been readily apparent when I installed the new carpeting.
+Rob -- The theory here is that unless the pedal returns far enough it doesn't allow the pushrod to retract far enough.
+Dave -- Sounds like a possibility.  I just don't know what to do to fix the problem.
+Someone asked -- When it is hot outside, whether driving the bug around or not, my brake fluid gets hot -- so hot that the brakes engage
+  Pushrod is adjusted 
+ Are my brakes possessed?..  Please help, this really really sucks.
+Dave -- We have had exactly the same problem.  I learned the hard way why the Bentley Manual advises that you leave the pushrod alone!
+The restoration of our 73 Super Beetle included replacement of every moving part in the braking system.  We bench-bled the master cylinder thoroughly, but then used inexperienced feelers to adjust the pushrod.  :-(
+We (I) did it wrong, obviously, because we subsequently experienced a severe pressurization problem.  After multiple adjustments of the pushrod, we towed the car 700 miles to where my son is attending college -- and completely ruined all four of the new brake drums and pads in the process.
+A smart VW mechanic in my son's college town adjusted the pushrod properly, and now we no longer have a pressurization problem -- just WAY too much pedal freeplay.  I don't dare mess with the pushrod again!
+You mentioned improper adjustment of the pedal stop as a possible cause of this problem.  I have heard this as a possible cause of our problem from several sources, but I can find no instructions regarding it's adjustment in any of my manuals.  Could you possibly enlighten me?
+James at
+Sharkeys Garage
+responded --
+Crawl down towards you pedal assembly and try to determine how much freeplay the pedal has before it begins pushing on the piston inside the master cylinder.  It is my guess that either the linkrod or pedal stop isn't adjusted properly.
+If the master cylinder is allowed to sit "at rest" with just enough pressure from the pedal as to move the piston forward about a millimetre, you close off the compensating ports inside the master and not all of the fluid can flow back from the wheel cylinders to the master cylinder reservoir, creating pressure in the system and contact between the brake shoes and the brake drums -- and thus heat.  Heat causes more pressure, and the situation worsens until the brakes lock up completely.  Damage to the brake components (e.g., loss of temper in the brake drums) will result if the situation is not corrected immediately.
+Pushing down on the brake pedal 5-7mm should move the pushrod forward about 1mm and into contact with the piston inside the master cylinder.  This is the "freeplay" (not to be confused with the pedal travel before actual braking occurs).
+Making this adjustment really isn't that hard.  The trick is that no matter which you adjust (pushrod or pedal stop) (NOTE below), you should feel about 1mm of freeplay at the pushrod or about 6mm (1/4") at the top of the pedal.
+No one has been able to explain to me why VW was so adamant about NOT adjusting the pushrod; insisting on making all adjustments at the pedal stop instead.  Both perform the very same function (again, NOTE differing opinion below),and I believe adjusting the push rod length is actually easier to do.  I simply remove the stamped steel retaining tab, remove the stubby retaining pin, and lift the pushrod right out.  The pedal doesnt suddenly move forward, and I know that the piston inside the master isnt shifting either.  The pedal is held in the fully retracted position by a large coiled spring, so the pushrod should just slip in-and-out if there is any freeplay present at all.
+My pushrod was fiddled with by the PO, so I adjusted it until the brake pedal was in a comfortable position relative to the gas pedal.  I didnt want to have to move my foot too much away from the firewall in order to engage the pedal (they should be almost in the same plane).  With that done, I crawled down into the footwell with a bright flashlight and studied the pedal-to-pushrod relationship.  I pulled the boot back from the master cylinder and confirmed that the pedal had to move the necessary distance (1mm) before the piston inside the master began to move.  I then loosened and retightened the stop bracket on the floor of the car until it held the brake pedal where it should be.
+Once youve adjusted the length of the push rod correctly, youll have to eliminate any further slack in the system by bleeding air out of the lines and adjusting the brakes at each wheel.  You usually have to readjust your brakes every oil change when new until they fully seat with the drums (sometimes even more often then that).
+Note:
+Adjusting the pedal stop can often be an even bigger pain than adjusting the pushrod because it is located on the floor where years of water/snow deposits have likely caused it to rust up solid.  When you get that bolt out, you might want to retap the threads in the floor to clean them up and use stainless steel hardware to resecure the stop.  If the bolt feels like it is rusted too badly and will break, use the VintagVW paraffin wax trick (details available upon request).
+- James -- Sharkey's Garage [sharkeysgarage@shaw.ca]
+Bradford Hendricks wrote a differing opinion --
+The mysterious sliding metal pedal stop in front of the pedals has nothing to do with the way the brakes operate. It is there to keep the brake pedal from returning too far back (toward the driver). When you adjust the freeplay to 5-7mm at the top of the pedal with the pedal stop, you are adjusting the range in which the pedal "free floats", so the fluid return-to-reservoir port is clear, yet there is minimal "push" to actuate the brakes. If the pushrod is adjusted too long, that port is blocked.
+If you unbolt the pedal assembly and look at it from the side, you will notice at the bottom of the brake pedal, there is a semi-round plate that has a raised area on the edge. When the round spring throws the pedal back after the driver removes his/her foot from the brake pedal, this raised edge hits the stop plate, preventing the pedal from coming back too far. The clutch pedal is stopped by this plate as well, instead of slipping off the connector at the end of the clutch cable inside the tunnel.
+VW says the brake actuater rod must be 5.433" plus or minus 0.019". Why VW made that rod adjustable is an absolute mystery to me. Maybe the same part is used, but is a different length in RHD cars.
+* 
+                    * * * *
+Design by
+Erin

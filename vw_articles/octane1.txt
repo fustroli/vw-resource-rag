@@ -1,0 +1,28 @@
+Octane and VW Engines
+Octane Rating and VW Engines
+Note:  Go to
+Octane Rating and VW Engines
+for more detailed information.
+~~~
+Octane rating is a measure of a gasoline's anti-knock properties in a liquid motor fuel.  The rating represents iso-octane (octane rating of 100) volume in a fuel consisting the mixture of iso-octane and normal heptane (octane rating of 0).  As consumers, we use the pump octane and manufacturers recommendation to determine which gasoline to buy.
+Note:
+Knocking/detonation/pinging it a heat related problem, and is eliminated by three main things in the design of the engine; the compression ratio, the timing, and the octane number of the fuel being used.
+Note:
+There is a common misconception here.  A lot of people think that the octane number of a fuel has something to do with how fast it burns.  This is not the case.  The octane number determines how the fuel resists uncontrolled burning, not how fast it burns.
+The pump octane is also referred to as the Anti-Knock Index (AKI).  AKI is determined based on an average of the Research Octane Number (RON) and the Motor Octane Number (MON).  The formula is RON+MON/2 normally abbreviated as R+M/2 on the pump.
+The MON is a measure of the gasoline's ability to resist knock under sever operating conditions. MON affects high speed, part throttle and performance (under load such as in passing).  The RON on the other hand, is a measure of gasoline's ability to resist knock under less severe conditions.  RON affects low to medium speed knock and engine run-on (dieseling).  For a given AKI, RON is typically 8-10 points higher than the MON.  As an example, 87 AKI (pump octane) fuel would have a MON of 82 and a RON of 92.
+You should use the minimum pump octane (AKI) fuel that will run in your engine without knocking.  You're wasting your money on higher octane fuels if there aren't needed to control knock.  The two most common myths regarding pump octane (AKI) are that it will increase performance and result in better fuel mileage.  You may see improvements in your ride due to the cleaners in higher grade, higher quality fuels, but octane by itself will not have any effect.
+In Volkswagens, only the 1200s and the newest low compression factory (Mex/Brazilian) engines are happy on fuel with a pump octane (AKI) of 87.  In the newer 1600s, fuel with a pump octane of 87 is likely to cause detonation/knocking at high throttle settings.  Because the VW engine runs hot, it needs a slightly higher octane fuel for the same compression ratio, compared to water cooled cars.  My 1500 has the usual 91 recommendation, for 7.5 compression ratio.  I have 1600 barrels and pistons with the original heads, which raises the compression to about 8.  It 'just' pings a bit if I floor it at low revs on a hot day, so 91 is a bit marginal for it.  I generally use either straight leaded (95 octane), which it is very happy with.  It will survive a mixture of leaded/unleaded, if I don't push it hard, and keep the revs up a bit so it doesn't labour.
+The octane measurements are a little different these days, but different 'in our favour'.  The VW manuals say use 91 RON (Research Octane Rating) where most US ratings are R+M/2 or 'pump octane'.  Both descriptions mean the equivalent RON number would be higher, so 91 R+M/2 might be around 92-93 RON.  All this means that fuel in the U.S. with an octane rating of 87 R+M/2 might around 88-89 RON, getting close to the '91 RON' VW recommendation, but not close enough to be used all the time.
+Detonation/knocking/ pinging can usually be heard as a distinctive pinging or clicking sound on heavy acceleration, especially when the engine is thoroughly warmed up.  But sometimes it's a bit hard to hear if it is only 'borderline' happening; however, this would certainly have the feel of a loss of power.
+Additives that are used to increase the octane of fuel include -
+Toluene (methyl benzene) has a RON of 124 and MON of 112.  In the 70s Shell here in Australia used to advertise "Over a pint of Methyl Benzene in every gallon of super Shell"!  Toluene is carcinogenic.
+MTBE (the usual additive in the US -- smells like turpentine), has a RON of 116 and MON of 103.
+TAME (another 'allowed' additive) is not so good at RON 111 and MON 98.
+The highest 'natural' fuel component is probably dicylcopentadiene RON 229, MON 167 (and this only occurs in trace amounts).
+Methylcyclopentadienyl manganese tricarbonyl (MMT) has been suggested as an alternative to Tetra Ethyl Lead (TEL) for quite some time now.  It doesn't require Bromine or Chlorine scavengers like lead products do; however, it apparently has its own pollution concerns.  It was banned by the US EPA in 1978, but this ban was recently lifted everywhere but California.   They are still reviewing it and may re-instate the ban at some future date.
+Using a good brand 91+ octane gasoline is cheapest in the long run.  I suspect, and if the pump says "92 pump octane" or similar, at least you KNOW it has that octane rating.  Additives are a bit hit and miss, unless you know exactly what is has in it, and at what concentration.
+* 
+                    * * * *
+Design by
+Erin

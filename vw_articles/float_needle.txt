@@ -1,0 +1,60 @@
+Carburetor Float Needle Valve
+Carburetor Float Needle Valve
+~~~
+Topics related to the float needle valve addressed herein -
+Sticking Needle Valve
+Fouled Float Valve
+Float Valve Washers
+Float Valve in the Pierburg Carburetor
+~~~
+Sticking Needle Valve
+Dave wrote - Years ago with one of my first Bugs (early 1960s vintage) I had a problem which was very frustrating and which I had a very difficult time tracking down.  For no apparent reason, the car would sometimes be very difficult (i.e., impossible) to start; at other times the engine would die in the middle of nowhere, not to be restarted for love nor money.
+This was before I was smart enough to march through the "fuel and spark" routine; even if I had known enough to look for insufficient fuel flow I may not have found the problem, as it occurred downstream of the fuel pump, in the carburetor.
+Finally a friend, a fellow Bug enthusiast, was with me one day when the problem occurred.  "Oh, I know exactly what that problem is," he exclaimed.  And I stood by in amazement while he opened the engine lid and tapped on the top of the carburetor with the handle of a screwdriver.  Magically, with a few short taps the car started right up again!  I was impressed, to say the least!
+Well, I needn't have been, as there certainly was no magic involved.  When you look at the exploded view of a carburetor (for example, the
+Exploded View
+on our 34 PICT/3 carburetor overhaul page), you will find a "float needle valve" that screws into the underside of the upper body assembly of the carburetor.  This valve is opened and closed by the float, which moves up and down in the bowl of the carburetor, just like the float in a toilet tank.  When the carburetor bowl is full of gasoline, the float moves up and closes the float needle valve, which in turn closes off the flow of gasoline into the carburetor from the fuel pump.
+Sometimes (rarely) the float needle valve sticks in the closed position (needle valve stuck up in the valve body), effectively preventing fuel from entering the carburetor, bringing the car to a complete halt.
+The VW fuel pump works at a modest 2-3psi, so it does not take a lot to stop the fuel flow.
+My friend temporarily fixed the problem by tapping (gently!) on the top of the carburetor, dislodging the stuck float needle valve and permitting a flow of fuel into the carburetor once again.
+Rob's comment:
+There will be an instant short flow as the pump diaphragm is now allowed to move (it's spring loaded) and once the engine starts on that sniff of fuel, the float bowl fills very quickly.
+As he emphasized to me, however, this "tap on the top of the carburetor" trick is only a temporary fix, and the problem will undoubtedly recur.  The more permanent fix, of course, is to overhaul and carburetor and replace the float needle valve with the new one that is provided in the carburetor overhaul kit.
+Very good lesson learned (but one which I have never had to use again!  :-)
+~~~
+Fouled Float Valve
+Someone wrote with a problem regarding fouling of the float valve - I'm driving a 73 SB with a 34 carburetor.  The engine began to stall soon after I bought the car.  I found that there was something on the top of the float valve - carbon deposits or similar.  I cleaned the material off of the valve and the engine operated normally for a few days, but the problem reoccurred and is now so bad that I cannot drive the car safely.  The fouling material seems to be something passing through the fuel line and blocking the flow of fuel at the float valve.
+Rob responded - You could just have contaminated fuel causing corrosion or blocking of the float valve.
+If you have a fuel filter in the fuel line, it may be blocked or partly blocked - reducing flow to the carburetor.  If you do not have a filter, try putting one in the fuel line and see if that filter fills up with crud after driving the car - that might tell you if there is rubbish (rust or corrosion) in the fuel tank.
+Make sure that the rubber fuel lines are the correct size and reasonably new.  Fuel line does break down eventually.  If the fuel line gets old it can crack under the cotton covering (very hard to see) and so the fuel pump sucks air instead of fuel.
+The special cotton covered VW fuel line (5.5mm) is the best one to use, but I have found some very poor quality fuel line for sale recently, and a VW shop here said it's hard to get good fuel line now.  He said that the early BMWs also used 5.5mm fuel line and he gets his supplies from a BMW warehouse and sells it to VW customers.
+You CAN use common 1/4" fuel line, but it's oversized and needs a serious amount of clamping to seal on the VW pipework.
+~~~
+Needle Valve Washers
+A problem can occur if the thickness of the washer under the float needle valve is incorrect, which in turn will make the fuel level in the carburetor float bowl incorrect.  The fuel level effects the fuel level on the emulsion tube.  The emulson tube works with the air bypass jet and seems to effect the rate of fuel vaporization.  This means that the level of the fuel in the carburetor bowl is critical.
+If the fuel level is a little low in the bowl (washer too thick), then facing downhill and cornering will cause the engine to run lean, causing stalling.  Facing uphill the mixture would be a little richer - closer to normal.  If the main jet in the carburetor is a little lean, that would make any bad fuel mixture settings even worse.
+Following is a procedure for correctly setting the level of fuel in the carburetor bowl -
+Position the car on a level surface (or, if the carburetor is removed from the car, place it so that it is level.
+If the carburetor is installed, idle the engine briefly to ensure that the float bowl is full.
+If the carburetor is not installed, fill the float bowl using a piece of hose attached to the fuel inlet pipe.
+Remove the carburetor upper part (5 screws) and the gasket so that the fuel level can be measured.
+The distance from the top of the carburetor body to the surface of the fuel should be 19.5mm +/- 1.0mm.
+If the fuel level is too high, use a thicker washer under the float valve.
+If the fuel level is too low, use a thinner washer.
+Note:
+Washers are available in thicknesses of 0.50mm, 
+                  0.8mm, 1.00mm, and 1.5mm. Several sizes are included in the 
+                  carburetor overhaul kit. The correct washer for the 34PICT/3 
+                  carburetor (per the overhaul instructions) is usually 0.50mm.
+Float Valve in 
+                  the Pierburg Carburetor
+When Dave was overhauling his Pierburg 34PICT/3 carburetor, he found a very small ball bearing in the bottom of the float bowl. Dismissing this find as insignificant, Dave continued with the overhaul and reinstallation of the carburetor. When he tried to start the car for the first time after the carburetor overhaul, Dave found, to his dismay, that the float bowl filled too much, to the point that it overflowed out through the bowl vent into the throat of the carburetor. This caused the fuel/air mixture to be WAY too rich, as evidenced by the exhaust spewing lots of black smoke. After running very erratically for a few seconds the engine died.
+Dave tried a number of things to solve this, including turning the float pin retainer around the right way (it was backwards - the cureved back of the retainer MUST face the side of the float bowl) and trimming the top-to-body gasket a bit (thinking the float might be hanging up on the gasket), but nothing helped.
+Then, as Dave was comparing two or three spare float valves that I had tucked away, he discovered that the small bearing he had found in the bottom of float bowl is very significant. It turns out that the float valve in the Pierburg 34PICT/3 carburetor has a spring-loaded ball bearing in the end of the needle that impinges on the float. Dave learned (the hard way, of course), that this little ball bearing MUST be in place. If it's not, the float bowl will overfill through the bowl vent and cause the over-rich problems that Dave experienced.
+So Dave replaced the float valve with a serviceable used one 
+that has the spring-loaded ball bearing on the bottom end of the 
+ needle, and fired his baby up! That tiny little ball bearing makes all the difference - the car now runs like a champ!
+* 
+                  * * * *
+Design by
+Erin

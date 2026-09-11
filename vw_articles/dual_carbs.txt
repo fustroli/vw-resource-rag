@@ -1,0 +1,18 @@
+Dual Carbs
+Dual Carburetors
+~~~
+Someone wrote - What are the best dual carburetors for a stock 1600 cc motor in a 1972? The only modifications are a 009 and electronic ignition. It's set at about 32 degrees total advance and runs great. I hear dual carburetors are even better, especially with a 009.
+Rob responded - Neither Dave nor I have used dual carburetors, but the general consensus from lots of stuff I've read is that for the stock 1600, a set of Kadrons is probably the best - they are cheap and not sized too big.  It's easy to "over carb" an engine and then it won't run at all well at lower rpm, making it difficult to drive around town.
+Yes - the Kadrons will work OK with the 009 distributor too (although the Kadrons can also be drilled for a vacuum port so you can use an SVDA distributor for better economy and smoother acceleration).
+The Kadrons will also work well for modest increases in capacity too, so if (for example) you decide to upgrade to a set of 1776 (90.5mm) cylinders, the Kadrons will still work well.
+There is some excellent carburetor information on the
+Aircooled.Net Website
+entitled
+Carburetors 101
+.  There is also an article there on
+Synchronizing Dual Carburetors
+. John Connolly (the owner of Aircooled.Net) is a carburetor and distributor guru, so these articles are worth a close read if you're into dual carburetors.
+* 
+                    * * * *
+Design by
+Erin

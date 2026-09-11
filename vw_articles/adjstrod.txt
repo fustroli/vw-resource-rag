@@ -1,0 +1,146 @@
+Brake Pedal Free Play Adjustment
+Brake 
+                        Pedal Free Play
+Adjustment Procedure
+This is one of our many "school of hard knocks" experiences!
+See also our discussion of
+Brake 
+                      System Pressurization
+.
+The 
+                      brake pedal must have about 1/4 inch (5-7 mm) of free play, 
+                      measured at the top of the pedal
+.
+~~~
+Some Background
+Brake 
+                      pedal freeplay is the amount of pedal movement before the 
+                      pushrod touches the piston inside the master cylinder, before 
+                      the piston starts to move. It's quite a distinctive feel 
+                      on the brake pedal, but you have to use your hand to feel 
+                      it properly.
+The 
+                      brake pedal free play adjustment is very important. The 
+                      5-7 mm of free play at the top of the brake pedal translates 
+                      into 1 mm of play between the end of the push rod and the 
+                      piston in the master cylinder. This distance is critical 
+                      to assure that after braking the piston comes back far enough 
+                      that it does not block the transfer port to the reservoir, 
+                      allowing the pressure built up during braking to return 
+                      to the reservoir and relax the system.
+This 
+                      brake pedal freeplay is very light and shouldn't be confused 
+                      with the "take up distance" that the piston inside the master 
+                      cylinder bore has to move before your brake lining engages 
+                      with the drums/rotors; that is, the distance the pedal travels 
+                      before braking action actually occurs. Excessive "take up 
+                      distance" can be eliminated by bleeding air out of the lines 
+                      and adjusting the brakes at each wheel. You usually have 
+                      to readjust your brakes every oil change when new until 
+                      they fully seat with the drums (sometimes even more often 
+                      than that).
+Note:
+It took us a long time to figure this out -- lesson learned 
+                    (the hardest of hard ways).
+Bottom line:
+VERY CAREFULLY 
+                    set the free play (as measured at the top of the brake pedal) 
+                    to between 5 - 7 mm by adjusting the length of the push rod. 
+                    Be careful and take your time -- this adjustment is very critical. 
+                    If it's not right, you can very easily ruin your brakes.
+~~~
+Free Play Adjustment Procedure
+Note:
+Unless you are VERY certain that the pushrod length has been tampered with, messing with the length of the pushrod is very risky and must be done with great care. VW recommends that the length of the push rod NOT be changed -- it must be a certain length (precisely 5.433" long plus or minus 0.019") and that's it.
+To 
+                        change the length of the push rod, first loosen the 15mm 
+                        lock nut on the push rod (furthest rear) with an open-end 
+                        wrench.
+Carefully 
+                        turn the 15mm nut on the push rod until it feels like 
+                        its flush up against the piston in the master cylinder 
+                        (no free play).
+Turn 
+                        the rod back about half a turn and check the free play 
+                        at the top of the brake pedal.
+Repeat 
+                        until the free play, as measured at the top of the brake 
+                        pedal, is EXACTLY within the range of 5-7 mm, then tighten 
+                        the lock nut.
+Not 
+                      understanding what we were doing, we (that is, Dave) tried 
+                      adjusting the free play by changing the length of the push 
+                      rod, and we had a "school of hard knocks" pressurization 
+                      experience as a result. If the transfer port to the reservoir 
+                      is blocked, the braking pressure cannot be released, the 
+                      brakes bind up, get hot, then the heat is transferred to 
+                      the "trapped" fluid, thus pressurizing the system even more. 
+                      This can bring your Bug to a complete stop, and heat up 
+                      the brake drums to a point that you'll burn your fingers 
+                      if you touch them. If you tow the car with this problem, 
+                      you'll ruin the drums and shoes, as we did. :-( Once again, 
+                      see our
+Brake System Pressurization 
+                      Article
+for more discussion of this hard-learned lesson.
+We 
+                      received an interesting note about this from Sharkey's Garage 
+                      -
+I 
+                      really wish an old VW engineer would explain to me why the 
+                      master cylinder pushrod should be precisely 5.433" long 
+                      (plus or minus 0.019"). If this measurement was *that* critical, 
+                      why make the damn thing adjustable in the first place? A 
+                      few others would agree with me, including a couple of actual 
+                      certified and factory-trained ACVW technicians I know. The 
+                      best response that one of them provided when somebody started 
+                      going on and on about never adjusting the pushrod went as 
+                      follows:
+VW 
+                      could not have foreseen that these cars would still be around 
+                      decades after the factory manuals were printed. VW was very 
+                      prideful of their products and the more you asked them "why", 
+                      the more they tightened their sphincters and said "because". 
+                      He gave plenty of reasons why adjustment of the pushrod 
+                      may, in fact, may be required:
+Loose 
+                          tolerances (using OEM parts with crappy Mexican master 
+                          cylinders);
+Swapping 
+                          single circuit master for newer dual circuit master;
+Substituting 
+                          pedal assemblies from cars with different years;
+Worn 
+                          or bent pedal stop;
+Decades 
+                          of wear on the pushrod tip and pin eyelet (which still 
+                          has the crusty factory grease and has never been lubed 
+                          since).
+There 
+                      has been debate in our correspondence regarding the adjustable 
+                      stop on the floor behind the brake pedal with regard to 
+                      brake pedal free play adjustment. The Haynes Manual says 
+                      -
+Reposition 
+                      the brake pedal stop plate so that the brake pedal has 5 
+                      - 7mm freeplay. This will produce the specified clearance 
+                      between the pushrod and the piston recess.
+Others 
+                      say -
+The 
+                      mysterious sliding metal pedal stop in front of the pedals 
+                      has nothing to do with the way the brakes operate. It is 
+                      there to keep the brake pedal from returning too far back 
+                      (toward the driver)...
+The 
+                      Bottom Line:
+What is being affected here is the at-rest 
+                      distance beween the master cylinder push rod and the piston 
+                      inside the master cylinder. This distance must be 1mm, which 
+                      translates to 5-7 mm of free play as measured at the top 
+                      of the brake pedal. Don't drive the car unless the brake 
+                      pedal free play is absolutely correct!
+* 
+                      * * * *
+Design by
+Erin

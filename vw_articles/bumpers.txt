@@ -1,0 +1,56 @@
+Bumpers
+Bumpers
+~~~
+The following sub-topics related to bumpers are addressed in this article -
+Bumper Bracket Bolts
+Bumper Brackets
+Bumper Bracket Seals
+Bumpers
+~~~
+Bumper Bracket Bolts
+Dave described a dilemma regarding his bumper bracket bolts - I made another unpleasant discovery last night.  I wanted to install some new bumper bracket seals in the front, and of course to do this you have to remove the bumper (worked great in the rear).  So I laid down on the cold concrete with my 13mm wrench and discovered that there is only one bolt (of three) on each side bolting the bumper brackets to the frame!  The other two have been twisted off, and the stub ends reside firmly and implacably in the holes in the frame!  Unfortunately there is nothing left of the bolts to grip -- they are all broken off inside the holes a mm or two.  And theres very little room in there -- I dont think Ill be able to get my big old drill up under there to drill holes for easy outs.  I'm gonna have to think about this for a while.
+Dave queried the RAMVA Newsgroup and got the following responses -
+If you have access to a MIG welder, build up a good blob of weld on the broken face (don't weld it to the bracket!) and grip this blob with a vise-grip to turn the bolt out.  Once it starts coming, screw it in a little from time to time to clear the rust.
+The heat and expansion when welded is usually enough to break the rust hold.  Some releasing fluid on the hot bolt may also help.  If there's enough left to grip, it may be enough.  This method works for most broken bolts, such as pan bolts, provided the rusting is not too bad.
+If all else fails, you may need to remove fender(s) and grind the surface flat again and drill out a bit undersize and retap.
+Try the method suggested above, but spray the bolts with Kroil after they cool down and before you try to remove them.  I have had the most excellent results with this product.  The fender bolts came loose on my car without my even breaking a sweat after treating them with Kroil.  It is made by
+Kano Laboratories
+in Nashville, TN.  Call them at 800-311-3374 and ask for their trial offer.  Kroil is the most amazing rust buster I have ever found!
+A
+Material Safety Data Sheet
+(MSDS) for Kroil can be found at this link.
+The best way I've found is to heat the nut part with an oxy-acetylene torch.  That breaks the rust bond and you can then easily turn the broken screw part with a plier or drill a starter hole if there is no metal protruding.  If it's rusted in there an easy-out won't help.  You may have to remove the fender to get the space you need to work.
+Rob suggested - Pesky one that.  You could try using an angle grinder to get the broken off end flattened, so you can drill into the centre of each bolt and insert an 'easy-out' -- a tapered drill-looking device, has a reverse thread which looks like the spiral of a drill bit, but grabs the inside of the hole when wound in.  You are essentially inserting a self tapping bolt (the easy-out) inside the stuck bolt.  Then use a crescent wrench or similar on the flats at the end of the easy-out to turn it.  and since the easy-out has a reverse thread, it screws the broken bolt out of the hole (unless you happen to break it too!). The fact that the bolts are broken down in the hole does makes this much more difficult, of course. Lots of penetrating oil 24 hours before might help too.  We don't have Kroil, but we have Penetrene, which I guess is similar.
+If the easy-outs don't work, you might be able to drill them carefully so that only the threaded part is left, then either dig out the thread, or drive it through with a new bolt screwed in.  But hopefully a double dose of Kroil with the easy-out will do the trick.
+Dave wrote - I've used easy outs before with mixed success.  It's very difficult drilling the hole (especially under circumstances like this -- no room) and then almost always I broke the easy-out off in the hole. I can see where the suggestions to use heat and a rust-busting penetrating fluid (like Kroil might help.  Someone even suggested welding a glob of metal onto the end of the bolt to give something to grab on to. I think if I remove the crash plate and use lots of Kroil I might be able to drill them out from the back side -- that way the drill will be rotating in the correct direction to screw them out once the rust weld is broken.  With the crash plate removed on the Super, there is quite a bit of room to access the back side of the frame where the bumper bracket is attached (on the other side).
+Rob responded - Good plan.  I haven't looked at a Super here, and wasn't sure what it would look like.  Better picture now.  On the Standards, there is no space behind the mounting plate, so removal would be more difficult.  I'll use plenty of penetrating oil on mine (Penetrene, Kroil or similar) before I attempt to remove the bolts.
+After tackling the job, Dave wrote - First thing this morning I got under the car and sprayed Kroil on all of the bumper bracket bolts, both broken and intact.  Then later in the morning I crawled back under the car and removed the three intact bumper bolts.  Slick as a whistle!  That Kroil is marvelous stuff!
+The most worrisome thing is getting those broken bumper bracket bolts out.  The smallest "easy-out" requires an 1/8th inch hole, which doesn't leave much bolt left. I thought about trying to drill the bolts out and then dig out the thread, then it occurred to me that it might be easier to drill the bolts out with a bit slightly larger than the bolt/hole and then either rethreading the hole or simply using a larger, longer bolt with a washer and nut on the other end.  There's surely enough meat around the hole to allow for a small oversize I'm sure.  Then use a little quality grease on the new bolts so they'll never rust in again.  It would be a shame to put on a new bumper and new bumper brackets with only three of the six bolts!
+Rob responded - Just make sure the larger bolts will go through the slots on the bumper brackets OK - that metal is HARD (on mine anyway) and you won't won't to enlarge the slots too.  Other than that, there's not much else you can do is there.  I guess it will make them a pain to put on if you have to use a non-captive nut (not much room in there) but you gotta do what you gotta do.
+Dave wrote of his final success - I got the bumper bolts drilled out -- used a 5/16th-inch bit.  I'll have to use slightly bigger bolts (don't worry -- I checked that against the slots in the brackets).  Then I had LOTS of fun putting the front bumper brackets on!  But now both brackets have all three bolts!  Hooray!
+~~~
+Bumper Brackets
+Dave wrote - A guy in Florida sent me some pictures of the bumper on his Super.  The new brackets that came yesterday from
+Rocky Mountain Motor Works
+(now Mid-America Motor Works) look just like these in his picture, and WAY different to mine!  Our old brackets are scrunched in something fierce -- almost totally flat!  I don't know what the PO hit, but it would take quite a bit of force to smash in the bumper brackets like that.  But then the brackets aren't all that substantial -- I think they are designed to crumple to absorb some of the shock of a collision.  I'm actually kinda looking forward to tearing into this situation.
+Rob responded - They had a knock for sure.  The PO probably replaced the bumper without bothering with the brackets, cause they still sort-of fit!   My brackets are quite heavy, and the bumper is likely to suffer a hit worse than the brackets I think.
+Dave wrote - I painted the new brackets.  I'm a bit concerned about them -- there are quite a few holes in the bumper, but they don't seem to match these new brackets.  When I line them up approximately where they're to go, they don't seem to be wide enough apart (the slots in the fenders are 31" apart; the brackets are only 28" apart).  Gotta do some cogitating on this.
+Another thing that has me temporarily baffled is the arrangement of the bumper brackets in the bumper.  I discovered today that the outer-most tab on the bracket, with a hole in it for a bolt, has been bent tightly over on the old brackets.  And it looks like I may have to either bend these tabs over or cut them off of the new brackets as well -- otherwise they will interfere with the turn signal assemblies if they are positioned out far enough for the brackets to be sufficiently wide apart.  So many wonderful little challenges!  :-)
+Rob responded - Maybe there are two different brackets - for bumpers with turn signals and for bumpers without them.
+~~~
+Bumper Bracket Seals
+Dave wrote regarding the bracket seals - I'm going to pull the rear bumper off yet again and see if I can do something with the bracket seals.  When I tried to install them previously I slipped them onto the brackets before pushing the brackets through the slots in the fenders.  That didn't work at all.  A guy from RAMVA suggested that I install the seals in the slots in the fenders first, then run the brackets through them.  We'll see if that works.
+Rob responded - That's the way I've always done it -- I didn't realise that was the problem you were having.  If the brackets try to push the rubbers through as you insert them, use some soapy water to help the brackets slip through.
+Dave reported - I took the rear bumper off and installed the bracket seals in the slots in the bumper, then slipped the brackets back through and bolted it up!  Duck soup!  I was delighted.
+~~~
+Bumpers
+Rob responded - Might as well.  If it's better chromed it should last longer anyway.
+The Mexican-style front bumpers with the punched cutouts with tabs for mounting the turn signals bumpers came out in about 74 or 75 I think.  There are only a few of these in Australia, since we stopped getting bugs in '76.
+Dave wrote, upon receipt of the new bumpers - The new bumper looks good, but the black "trim" down the middle is just a long piece of electrical tape!  The black tape trim in the bumpers barely masks all of the holes in the bumper.  I may put chromed bolts in some of them (symmetrically of course) just to hide them.
+Rob responded - That's all mine came with when new, so it might be "normal", although I thought the US models got a strip of rubber along the center.  The chrome bolts sound like a good idea.
+Dave responded - Our chassis number makes the car a very late '73 model. That would mean that our car is virtually a 1974.  It doesn't have the 74 bumpers -- I think  they started the thick rubber strip running across the middle of the bumpers in 1974.  The bumpers that were on the car didn't have a black strip of any sort down the center of the bumpers).
+Rob responded - It had probably peeled off.  Mine came with the black tape -- the back bumper (now all bent of course) still had it's original tape but the front had peeled off.
+* 
+                    * * * *
+Design by
+Erin

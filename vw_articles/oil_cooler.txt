@@ -1,0 +1,83 @@
+Oil Cooler
+Oil Cooler
+~~~
+Topics covered in this article -
+The VW Oil Cooler
+Oil Cooler Seals
+The "Hoover Bit"
+Aftermarket Oil Coolers
+~~~
+The VW Oil Cooler
+The VW Oil Cooler
+~~~
+The VW oil cooler is bolted to the crankcase inside the fan housing.  The cooler stands vertically in the stream of air like a radiator; engine oil is pumped through the cooler on the "tube side," while air is blown through the "fin side" of the cooler to cool the oil.
+In 1971 the larger 'doghouse' style aircooler was introduced and a higher-capacity (wider) cooling fan was installed. This design gives better cooling to the #3 cylinder.  The doghouse oil cooler is located outside and immediately in front of the fan housing on the left and vents to the atmosphere.
+The Doghouse Oil Cooler
+~~~
+The older in-shroud cooling arrangement is fine for the single-port engine producing up to about 55-56hp (the book says 53hp for the '69 1500cc engine and 58hp for the 1600cc single-port '70 engine with the redesigned 30PICT/3 carburetor). At 58hp cooling was getting marginal, so VW spent over a million 1970 dollars redesigning the cooling shroud to the doghouse arrangement shown above.  This was done to produce a reliable 60hp out of the twin-port 1600cc engine with the larger 34 carburetor. In fact the doghouse cooler and fan is good enough to cool the 2-litre Kombi engine converted to "upright" cooling to fit in a bug.
+Bob Hoover strongly recommends replacement of the oil cooler when you rebuild the engine.  The reason for this to get rid of the metal particles that have lodged in all those neat nooks and crannies in the cooler.
+To quote Bob -
+If you've got a dog-house cooler, the thing can't be rebuilt, nor can it be cleaned.  I've soaked/sloshed the things for as long as two weeks using MEK and worse, and could still identify metal particles in the drained solvent.  There's a vast difference between a flake of metal wiped off the cam and a gritty little particle that is actually pumped into the bearings.  The flakes tend to settle around the oil screen in the sump and cause no problem; they're the wrong shape to get into the main, rod or cam bearings.. But pumping grit directly into a bearing shell is suicide
+  A new oil cooler is cheap insurance.
+Rob Boardman's reaction to this:  I guess it could happen -- the passages are thin.  But these days with good detergent oils I doubt it would clog easily (most car oils are detergent oils).  It certainly could with non-detergent oils -- they drop their sludge inside the case etc.
+Bob Hoover recommends installing a full-flow oil filter along with the dog-house cooler.  Doing so, he claims, will double the life of your engine.  In his words, "Two engines for the price of one makes damn good sense to me."
+~~~
+Oil Cooler Seals
+The Oil Cooler Seals
+~~~
+Rob advises - When buying new oil cooler seals, be sure to specify whether you have a doghouse cooler or not.  The earlier in-shroud coolers are different, and there is even a special set to alter the earlier in-shroud cooler to doghouse cooler.  The oil cooler seals are 'stepped' seals, not just simple 'O' rings.  I think the "in shroud" cooler has only two seals.  And I think there are three types -- not sure about that, but John Connolly
+(Aircooled.Net)
+has spoken in posts about 'you need the green ones for your car' and such.
+Dave noted regarding replacement of his oil cooler seals - On our '73 SB ('71 1600cc dual-port engine) with the doghouse oil cooler -- I fussed and fiddled with the oil cooler nuts (removing the two underneath was no mean trick -- I need thinner, stronger fingers!).  I ended up taking the whole oil cooler assembly apart and found there are FOUR seals -- two on the side in addition to the two on the bottom, all made of neoprene.
+This cooler rests inside the doghouse in front of the fan shroud (which makes it difficult to remove the shroud -- you have to disconnect the connecting rod that operates the cooling vanes).
+When putting it back together, be sure to install the piece that directs warm air from the oil cooler forward through the firewall and dumps it right over the left heater box.
+~~~
+The "Hoover Bit"
+To insure proper sealing and anti-vibration to the upright doghouse oil cooler, VW installed a small "L" shaped bracket that has come to be known as the "Hoover Bit", named in honor of Bob Hoover, a major contributor on the various VW mailing lists. In the past, most people ignorant of this important piece of hardware simply tossed it away, thinking it was just a hunk of metal that didn't need to be re-installed, just in the way, an additional step to be eliminated. Without it however, it results in a crucial loss of cooling air in the fan shroud and cooler "doghouse". And we all know what happens when you lose cooling air. VW hasn't made this piece of metal for a long time and finding one in the recycling yard is like.....well, you know the story of the needle in the haystack.
+Here's what the piece looks like ...
+~~~
+And here's how it fits to the oil cooler -
+The "Hoover Bit"
+Thanks to
+Dale Mueller
+for these images.
+~~~
+Aftermarket Oil Coolers
+Everything You Ever Wanted to Know
+About After-market Oil Coolers
+by Robert S. Hoover
+(Used with permission.)
+Fundamental Stuff -
+All reciprocating internal combustion engines used in automobiles are 'air-cooled' in that their waste heat is coupled to the atmosphere.
+The main advantage of an air-cooled engine is its lighter weight. The lack of radiator, water pump and hoses translates into lower production costs. A lower parts count should mean less maintenance and greater reliability but this isn't true if the engine is required to operate near maximum output for long periods, as is the case with the Volkswagen.
+The success of air-cooling depends on the physical properties of air, such as its density and temperature; thicker air, such as found at sea level, will absorb more heat than thinner, high altitude air such found at Denver, Mexico City, or Bogota. The engine's ability to transfer waste heat to the air mass depends on the velocity of the air flow over the engine's heat conducting surfaces, the surface area of those conducting surfaces and how well they conduct heat.
+The success of a specific air-cooled engine, such as the Volkswagen, depends largely on the capacity of its blower, the shape of the air-containment shrouding, and the size & efficiency of its oil cooler. If the displacement of the engine is increased the factors above must be changed to insure the increased heat load can be coupled to the atmosphere.
+Background Stuff -
+The Volkswagen engine design dates from the early 1930's and reflects remarkable innovation for that period. Using principles adopted from motorcycle and aircraft engines, the first VW prototypes were not fitted with any form of oil coolers, depending on their deeply finned crankcase. When this proved unsuitable, a variety of oil cooling methods were tried. A surviving photograph from 1932 shows an engine fitted with an external oil cooler but it was a plumber's nightmare. By making a minor modification to the magnesium crankcase casting, it was possible to fit an oil cooler within the blower housing. Hindsight has shown this to be a compromise but the engine was less expensive to manufacture than one having an external oil cooler and appeared capable of meeting the durability specification of 100,000 kilometers before needing major overhaul. The original Volkswagen was priced at 1,000 marks; in the mid-1930's a low-cost car capable of delivering 56,000 miles of service was unheard of.
+The original Volkswagen engine was rated at 22 horsepower, its war-time version at 25. The original blower and oil cooler design proved adequate for the task except in Africa. Engine problems usually involved the failure of the #3 exhaust valve. The #3 cylinder received the majority of its cooling air from the exhaust of the oil cooler. Already heated by passage through the oil cooler, #3 cylinder typically ran hotter than the other three. The added heat stress caused the early failure of the #3 exhaust valve.
+Modern Times -
+Post-war development of the Volkswagen saw a steady increase in engine displacement and thus waste heat. Engine failures followed the now familiar pattern of #3 cylinder swallowing its exhaust valve. But no significant changes were made in either air flow or oil cooler efficiency until 1971, when Volkswagen finally bit the bullet and redesigned the blower housing to accept a larger fan. At the same time they adopted an oil cooler having a higher heat transfer rate and moved it to a new location outside of the blower housing, thus making it an external oil cooler.
+The redesigned oil cooler was housed in a 'dog-house' attached to the front of the blower housing. After passing through the oil cooler the heated air was ducted out of the engine compartment.
+The new oil cooler is the same design used on the Porsche and Corvair. Volkswagen used it earlier on the pancake engines used to power Type III's. 
+The dog-house style oil coolers have enough excess capacity to handle engines with displacements of 2000cc.
+Aftermarket Stuff -
+Within a few years of their introduction to the southwestern United States it was clear that the Volkswagen had a problem keeping a cool head. Driven at highway speeds when the temperature was above 90 degrees Fahrenheit insured your bug wouldn't last very long. Early bug owners quickly learned they had to keep their foot out of it or cross the desert at night. For bus owners it was even more of a problem. The deserts of the southwest were a lot farther from northern Europe than VW ever imagined.
+Those of us adventurous enough to do our own repairs had good evidence that our engines would last longer if we could get the oil cooler out of the blower housing. The usual method was to make a hose adaptor that fit where the oil cooler normally mounted, allowing us to put the oil cooler somewhere else, usually in front of the air inlet to the blower housing so as to get the benefit of the air flow. This didn't work very well due to the small size of the stock oil cooler so a variety of alternatives were tried, including heater cores and refrigeration coils. A large heater core appeared to be the perfect solution since they were widely available (they had remote heaters that mounted under the rear seats) and most of them worked very well... until the first cold morning, when they would burst. Refrigeration coils also looked good, and even worked after a fashion, but the diameter of refrigeration tubing was rather small. By the time you had enough of it to do a good job of cooling, the flow of oil was so restricted that you were liable to suffer a bearing failure, rather than swallowing #3.
+The interim solution was to use war surplus aircraft oil coolers. You could mount two of them across the air inlet behind the fan housing and no matter how large an engine you were running (some of us tried modified motorcycle cylinders; others used Corvair jugs) your engine would never overheat. 
+Mounting the oil cooler over the air inlet was of course a compromise since it pre-heated the cooling air. But it was a better solution since it distributed the heat stress to all four cylinders rather than roasting #3.
+By the late 1960's tube-type aftermarket oil coolers were available specifically for Volkswagens. Unfortunately, tube-type coolers have a host of problems: Most offer too much restriction and many are made of copper and burst with depressing regularity. On the cheaper models the cooling fins are not brazed to the tube but simply pressed in place, presenting the heat flow with a high-resistance path. VW owners seriously interested in durability stuck with Corvair, Porsche and Harrison (aircraft- type) oil coolers. 
+Most recently, a steel plate-type cooler has become available. Intended to serve as a utility radiator for both lubricating oil and transmission fluid, it was never aimed at the Volkswagen market, although it was quickly adopted. The oil cooler (which is available from J. C. Whitney [s/n 38XX1483T, about $50] and others) may be mounted away from the engine when used with an auxiliary fan, or to the back of the blower housing. Its steel construction insures against leaks and while steel is not as good a conductor of heat as aluminum, the large size of the radiator makes it suitable for engines up to 2400cc.
+Bernie Bergmann has made up a kit around this cooler, including fittings, thermostatically controlled valve, hose, auxiliary fan and thermostatically controlled fan switch. (See the supplier list for Bernie's address & phone.)
+General Conclusions -
+An external oil cooler is not required on dog-house engines up to 2000cc. Do not use a tube-type oil cooler.
+When installing an external oil cooler use AN8 (1/2") aircraft type fittings and high pressure oil hose with an internal diameter of 1/2". Racers and those serious about durability use Aeroquip fittings and hose, or their non-aircraft certified counterpart.
+When mounted away from the air inlet, an auxiliary fan is required. The fan is normally wired in series with a thermostatically controlled switch.
+Final Conclusions -
+When you install an external oil cooler you are doing something VW should have done in the first place, and which they got around to in 1971.  This 'Better Late Than Never' brand of retro-fit engineering also applies to oil filters and hydraulic cam followers, which VW incorporated in its late Type IV engines.
+The smartest move you can make when installing an external oil cooler is to install it in conjunction with a full-flow oil filtration system, in which case it is installed downstream of the filter, usually on the other side of a thermostatically controlled valve.
+Depending on the plumbing runs, an external oil cooler and filter will increase your oil capacity by about 1.3 quarts. Aside from doubling the life of your engine the most significant change you'll see is a slightly longer warm-up time. With a filter installed you can extend your oil change period to 3,000 miles (non-dusty conditions).
+- Copyright © 1995 Robert S. Hoover
+* 
+                    * * * *
+Design by
+Erin

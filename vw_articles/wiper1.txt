@@ -1,0 +1,52 @@
+Running Your 6-Volt VW Wipers on 12-Volts
+Running Your 6-Volt VW Wipers
+on 12-Volts
+~~~
+Reproduced by Rob Boardman,
+with permission from Lance Plahn,  Australia.
+More and more VWs have been converted to 12-volt.  This confronts us with problem of the wiper motor, running 12 volts through the 6-volt unit will cause the motor to run too fast, resulting in the linkages prematurely wearing out, making the wipers hard to turn the wipers off in the correct position on models without self-parking, and eventually causing the wiper motor to burn out.
+One way that works is to fit a 12-volt wiper motor from a later model,  but a good secondhand unit may be hard to find, and it may cost more than you'd like to spend.
+By fitting a limiting device of the correct values it will overcome the previously mentioned problems.  With no commercially made limiter on the market made for this purpose, you will have to make one.  This is a very simple operation, taking approximately one hour, and costing about $10.00.
+Note:
+This limiter is designed to work only on the wiper. It doesn't reduce 12 volts to 6 volts, it is a current limiter, designed to work with the load imposed by the wiper motor.  It will also be MUCH more reliable than placing a simple load resistance in the wiper circuit.
+Obtain the following from an electronic supplier -
+1-  330 OHM ½ watt resistor
+1-  470 OHM 1 watt resistor
+1-  TIP 142 transistor (NPN 10amp 100-volt rating)
+1-  TO3 insulation pack ( mica and nylon washer)
+1-  Tube heat sinking compound
+You will also need the following -
+100mm of aluminium angle ( 25mm x 25mm x 3mm )
+some automotive wire
+A diagram of the circuit is below.
+Now to assemble -- take the TIP142 transistor (see NOTE at bottom for transistor substitution), hold with part number up and the three legs pointing towards you.  Bridge (connect) the left hand leg to the middle leg using the 330 OHM ½ watt resistor,  soldering into position.  Solder the 470 OHM 1 watt resistor to the end of the left leg and then a length of wire (brown) to the other end of that resistor.  Solder a length of wire (red) to the  middle leg.  Finally then, solder a length of blue wire (approx. 6" to 12" long, depending on where you mount the resistor) to the right hand leg).
+_________
+      |         |
+      | TIP142  |
+       ---------
+      |B    |C  |E
+      |-330-|   |
+      |     |   B
+     470    R   L
+      |     E   U
+      B     D   E
+      R     |   |
+      O     |  switch
+      W    Fuse
+      N
+      |
+    Earth
+The B, C, E annotations above are Base, Collector, Emitter, and are noted in case you can not find a TIP142 and need to use a substitute - see NOTE below.
+Because the transistor generates some heat,  it is necessary to fit it to a heat sink to ensure maximum life.  Lance has had some on vehicles for over eight years now with out any problems when fitted as follows.  Some aluminium angle 4 inches (100mm) long will do, drill a hole in the angle, larger than the bolts to be used, and fix the transistor to the angle, placing the insulation (mica) between the transistor and angle, and using a small amount of heat sink compound (to aid the heat transfer) on both sides of the mica.
+Place the nylon washer between the nut of the retaining bolt and the transistor.  Meaning, that the transistor and the mounting bolt should not make direct physical contact with the aluminium angle, but still be mounted firmly to it.  This prevents electrically shorting the transitor and bolt, whilst allowing good heat flow to the heat sink.
+Now drill two holes in the aluminum angle (other side ) so you can mount it to the body of the car;  again use the heat sink compound ( between the aluminium angle and the body) to aid heat transfer.  The car's body now becomes part of the heat sink and ensures that the transistor just gets warm - not hot.  This is a much safer situation than using a simple load resistor, which would be liable to get really hot.
+Now connect to the vehicle.  Remove the power wire from the fuse box to the wiper switch.  Hold the transistor as before (part number up, wires pointing towards you).  Connect the wire on the left to an earth (body of the vehicle).  The wire in the middle is connected to the fuse box, and the wire on the right is connected to the wiper switch.
+You should now have wipers which work at the correct speed, and no dangerous hot-spots which might be caused by a simple load resistor.
+I haven't tried it, but with a little careful experimentation with the two resistor values, you should even be able to get two speed operations.
+Note:
+Regarding transistor substitution -- The TIP142 technical description is: power transistor, NPN Darlington, AF range Switch Power Stages, 100Vmax 10Amax 125Wmax.  If you can't find a TIP142 transistor - the following alternatives should work. BDX83C, BDX85C, 2SD628, 2SD629. These have a different shape - a round can sitting flat on a metal plate, with two pins sticking out.  If you turn the transistor so the pins are pointing at you and are on the left (they are offset) then the top pin is the Base, the bottom pin is the Collector and the flat mounting plate is the Emitter. This will help you match these transistors with the wiring diagram above.
+With these transistors, the Emitter itself is fastened to the heat sink, so it's particularly important that it be electrically insulated from the heat sink using the larger-than-needed mounting holes, thin nylon washers and heat compound (see description above).
+* 
+                    * * * *
+Design by
+Erin

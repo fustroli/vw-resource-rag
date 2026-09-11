@@ -1,0 +1,69 @@
+Bench Bleeding the Master Cylinder
+Bench Bleeding the Master Cylinder
+~~~
+Dave had the experience of bench bleeding and
+replacing the master cylinder in his '73 Super Beetle,
+after experiencing some problems from a previous
+attempt at bleeding the master cylinder in the car.
+The school of hard knocks is alive and well!
+~~~
+See an
+alternate method
+from one of our readers.
+~~~
+Bench bleeding the master cylinder before it's installed in the car is an important step in ensuring you have good brakes on your Beetle.  It's almost impossible to completely "prime" the master cylinder in the car, and any trace of air left in it will produce unusual and unexpected problems with your braking system.  It takes time to do it right - don't rush it.
+When you buy the replacement master cylinder, make sure it comes with the priming kit, which contains plastic fittings for the brake line connection holes on the master cylinder and plastic tubes to attach to these fittings.
+Note:
+Before beginning work, be sure the master cylinder can be maintained in a level configuration during this procedure.
+Remove the cap from the brake fluid reservoir and suck all of the brake fluid out with a large syringe with a length of clear plastic tubing attached.
+CAUTION:
+Be very careful not to spill any brake fluid on the painted finish of the car.  Brake fluid is an excellent paint remover!  Also, be sure to wear goggles at all times when handling brake fluid -- it is very harmful to the eyes.
+Disconnect the rubber brakes lines under the reservoir from the metal lines that run down through the body and remove the reservoir (with brake lines attached) from the car.
+Note:
+You will want to place a drip pan on the floor before you do this, as there will be residual fluid in the lines that will drip onto the floor. You may get some drips on the paint work under the reservior too - have some paper towels or rags ready to wipe them off before they damage the paint.  Any fluid left there WILL strip the paint and eventually cause rust in the bodywork (been there - done that, Rob says).  If contact occurs, immediately flood the affected area with water.
+Remove the brake light switches from the old master cylinder and install them on the new one.
+Screw the plastic fittings supplied in the bench bleeding kit with the new master cylinder into the holes where the brake lines connect.
+Position the master cylinder in a vise so that the jaws clamp on the mounting flange and the attachments for the brake hoses to the fluid reservoir are oriented upward.  Take care not to damage the flange.  DO NOT tighten the vise jaws on the master cylinder body!
+Attach the hoses from the fluid reservoir to the fittings onto the master cylinder.
+Note:
+You will need to rig up a device to hold the fluid reservoir securely in place above the master cylinder.  The bench bleeding process takes a while, and you won't be able to hold it and do everything else you have to do at the same time.
+Fill the fluid reservoir with new brake fluid up to the seam. Leave the cap off of the reservoir.
+Wait until fluid starts to drip from the two plastic fittings (this may take 15 or 20 minutes). Don't try to rush the process by pumping the piston yet - that will only result in more mixing of the air and fluid inside the master cylinder.
+Once fluid is dripping from each of the two plastic fittings, attach a piece of clear plastic tubing about 18 inches long to each fitting and run the other end of the tubes into a jar about one-third full of brake fluid.
+Note:
+This jar must be placed so that the ends of the tubes are ABOVE the fittings in the master cylinder.
+With a large phillips screwdriver, gently push the piston in the master cylinder in about one inch.  Make a mark on the screwdriver to make sure you don't push it in any further.
+You will see bubbles coming from the hoses into the brake fluid in the jar.  Wait 15 seconds, then continue this process until these bubbles become very small, then disappear entirely.  When there is no more air in the master cylinder, the level of brake fluid in the jar will rise as it is pumped from the master cylinder.
+Note:
+This process will take some time -- possibly as much as an hour.  Be patient, as removal of all of the air from the master cylinder is vitally important.  You may find it helpful to gently tap the sides of the master cylinder with a hammer to dislodge any bubbles of air that may be clinging to the inside.
+When you are certain that all of the air has been removed from the master cylinder, suck all of the brake fluid out of the reservoir with a large syringe and remove the hoses from the top of the master cylinder.
+Note:
+Have a rag ready to catch the residual fluid in the fluid hoses.
+Install the master cylinder in the car according to the
+Master Cylinder Replacement
+procedure.
+Once all of the fittings are installed, check to see that the pushrod is properly adjusted (see our
+Pushrod Adjustment
+discussion).
+Refit the reservoir hoses (use hose clamps on both ends) and fill the fluid reservoir with fresh brake fluid.
+Remove any residual air from the master cylinder as follows -
+First make sure you have a drip pan on the floor under the master cylinder, as as a little brake fluid will escape from the fittings during this process.
+Note:
+Be sure to wear goggles to keep brake fluid from getting into your eyes!
+Loosen the threaded fitting on each output line at the master cylinder (one at a time of course) 1/2 turn or so while an assistant applies the brake (pedal just half way down). Do the brake light switches first, then the two brake lines.  Tighten the fittings before releasing the pedal or air will be sucked back into the system. Repeat on all four fittings until you're sure all of the air has been removed.
+Top up the reservoir with brake fluid.
+Adjust the brakes all around (see our
+Brake Adjustment
+procedure), then recheck the pushrod freeplay. It's important to adjust the brake shoes before you adjust the pushrod, so that any variation between the four wheels is eliminated first.  Some Beetles have disc brakes up front, and these are self adjusting, which will reduce the time spent at this step.  You should also check the hand brake (emergency brake) adjustment (see our
+Hand Brake Adjustment
+procedure) after you have adjusted the rear shoes, so the balance bar on the back of the hand brake lever is level, and the rear brakes commence applying at 3-4 clicks of the hand brake ratchet.
+Bleed the brakes all around (see our
+Brake System Bleeding
+procedure), starting with the longest brake line and ending with the shortest.
+Note:
+The brake pedal should be high and firm after the bleeding procedure.  If it isn't, go back and bleed the master cylinder (in the car, not on the bench) and all four lines again.  Make sure the pushrod freeplay is correct.
+Lower the car and boogie!
+* 
+                    * * * *
+Design by
+Erin

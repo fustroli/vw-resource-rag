@@ -1,0 +1,64 @@
+Brake System Bleeding
+Brake System Bleeding Procedure
+This procedure has been prepared from various resources included our own experience.  It is an "old-fashioned" (but in our opinion a much more straightforward and reliable) method of bleeding the brakes.
+~~~
+One of the most important steps in making your brakes safe for everyday use is to be sure the system is properly bled.  If you've replaced the master or wheel cylinders, any of the lines, or had the lines open for any reason, it is essential to bleed the brakes before you drive anywhere.
+The VW brake system is called "hydraulic," but it doesn't use water as that word would imply.  Instead, it uses a brake fluid which has the same imcompressible properties as water.  Water and brake fluid are incompressible liquids, whereas air, being a gas, is compressible.  When a bubble of air is stuck in the lines, the air compresses instead of passing along the force to the pedal through the master cylinder to the wheel cylinders.  Thus it is essential that air be completely removed from the system so that the compression force from the brake pedal is efficiently transferred through the brake lines to the wheel cylinders (or to the calipers, in the case of disc brakes).
+Note:
+Wear eye protection!  Brake fluid is
+bad
+for the eyes!  Protect painted surfaces as well, as brake fluid is a great paint stripper!
+Note:
+If you are replacing the master cylinder, it will be necessary to bench bleed it (out of the car) to assure that air is thoroughly removed.  See our
+Master Cylinder Bench Bleed Procedure
+.
+~~~
+Things you'll need:
+An assistant.
+A supply of new good quality brake fluid (never use old brake fluid). DOT 3 or DOT 4 brake fuid.  Old beetles do NOT use DOT 5 silicon brake fluid.
+A clear container partially filled with brake fluid.
+A length of 3/16" tubing.
+A box-end wrench - ring spanner (usually 7mm) to open and close the bleeder valve.
+Note:
+We advise against the use of the vacuum devices that are available for bleeding the brakes.  Maybe I'm a klutz, but I've never been able to fit the tubing tightly enough onto the valve to prevent air from being sucked in around the edges.  If this happens, it's impossible to know when the system is free of air.
+Procedure:
+For easier access, raise the car and rest it securely on jack stands.  Work on a level surface to that you will be able to accurately judge the brake fluid level in the master cylinder reservoir.
+Before proceeding with the brake bleeding process, make sure the brakes on all four wheels are properly adjusted in accordance with our
+Brake Adjustment Procedure
+.
+Remove the master cylinder reservoir cover and check the conditon of the brake fluid.  If it is questionable (dirty, discoloured or filled with debris), suck the fluid out with a syringe and replace it with good-quality fluid.  Make sure the reservoir is filled to the horizontal seam with brake fluid.  Reinstall the cover on both the reservoir and the bottle to prevent absorption of water from the air. Whilst you are looking at the reservior, also check the conditions of the fluid lines down to the Master Cylinder - these lines are usually blue, indicating they are suitable for brake fluid.   Replace them if they are cracked or weeping.
+Note:
+Start the bleeding process with the reservoir filled to about one-half inch below the filler neck.  Check the fluid level often during the bleeding operation (at least after every wheel, and more often if there is a lot of air in the brake system). Add fluid as necessary to prevent the fluid level from falling below about 1/4 height.  There is a "fence" inside the bottle at about that height so if one brake circuit leaks and loses all it's fluid, the other circuit will retain enough fluid to keep working. And of course if you run the circuit your are bleeding dry, you'll allow air bubbles in the line and have to start over. Just for information, the twin brake circuits in the beelte work the front and back brakes separately - on some other manufactures models, the brake circuits work on diagnonal wheels - left front and right rear for example.
+Locate the bleeder valve.  It is below the bolt for the wheel cylinder and above the hard brake line.  It is covered (or should be) with a small rubber grommet.  If this protective cover is missing, replace it.
+Beginning at the right rear wheel (furthest from the master cylinder), loosen the bleeder valve slightly, then tighten it so that's its snug but can be loosened quickly and easily.
+Note:
+The stock valves are 7 mm; if your wheel cylinders have been replaced it's possible that the valves are 1/4-inch or 5/16-inch.  It makes things much easier if the adjusting nuts on all of the valves are the same size.
+With the box wrench (ring spanner) on the valve, place one end of the tubing firmly over the bleeder valve and submerge the other end in a small quantity of brake fluid in a clear glass container.
+Note:
+Before you start, use a hair drier or similar to take any curl out of the tubing that youll be using between the valve and the glass container. It's very frustrating to have the tubing keep flipping out of your little brake fluid container.
+Have the assistant pump the brakes slowly a few times to get pressure in the system, then depress the pedal firmly and hold it down.
+While the pedal is depressed, open the bleeder valve just enough to allow a flow of fluid to leave the valve; the brake pedal will sink.  Watch for air bubbles to exit the submerged end of the tube.
+When the fluid flow slows after a couple of seconds,
+close the valve
+and have your assistant slowly return the brake pedal to its normal position. Brake fluid will then flow into the master cylinder to replace the old fluid you have pumped out.
+Note:
+The tube will probably contain bubbles of air the first time or two, so proceed until the tube is filled with fluid and no air is coming from the system.
+Repeat Steps 4-6 until no more air bubbles appear in the container and clean bright colored (new) fluid emerges from the valve, then tighten the bleeder valve.
+Note:
+If you want to replace the brake fluid, or flush out the system, bleed each wheel until clean bright colored (new) fluid flows from the valve.  To do this, you will have to empty the master cylinder reservoir before you start and fill it with new brake fluid. Brake fluid should be completely replaced every few years to keep the system working well and stop old fluid absorbing too much water and causing rust.
+Note:
+If you find little or no air in the system, the level in the reservoir won't drop very much.
+Proceed to the left rear wheel, then to the right front wheel and finally the left front wheel, in that order, and repeat the procedure.
+Be sure to check the fluid level in the master cylinder reservoir frequently.
+NOTE:
+This order of operation is for left hand drive cars.  For right hand drive cars with the Master Cylinder on the right side of the car, the order of wheels should be left rear, right rear, left front then right front - furthest from the master cylinder first, ending up with the closest wheel to the Master Cylinder.
+At the end of the operation refill the master cylinder reservoir to the horizontal seam.
+Check the operation of the brakes.  The pedal should feel solid when depressed (in the first half of travel, not down near the floor), with no sponginess.  If the pedal does not "go hard" in the first half of travel, the brakes may need to be adjusted.
+This is very important.  If one brake circuit fails, the pedal must travel further before the remaining good circuit operates, and you dont want the pedal hitting the floor before that remaining circuit operates.  So make sure your brakes are always adjusted so they work in the first half of pedal travel.
+After the lines are properly bled, adjust the cables for the parking brake so that the brakes on each rear wheel are actuated with the same force at the same time.  (See our
+Hand Brake Adjustment
+procedure.)
+* 
+                    * * * *
+Design by
+Erin

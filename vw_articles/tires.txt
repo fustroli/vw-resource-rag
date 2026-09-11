@@ -1,0 +1,74 @@
+tires
+Tires
+The following subtopics are discussed in this article -
+General Information
+Tire Size
+Tire Quality
+Tire Pressure
+Winter Tires
+~~~
+General Information
+Metric Tire Designations
+For example -
+P  185 / 80 R 13
+P = Tire Type
+P - Passenger
+T - Temporary
+C - Commercial
+185 = Section Width
+(millimeters)
+155
+165
+175
+185
+Etc.
+80 = Aspect Ratio
+(section height/section width)
+70
+75
+80
+R = Construction Type
+R - Radial
+B - Bias-belted
+D - Diagonal (bias)
+13 = Rim Diameter
+(inches)
+13
+14
+15
+Bugs and Karmann Ghia's (1954 thru 1979) are equipped with metric-sized fiberglass or steel belted radial tires.  Use of other types of tires may affect the ride and handling of the vehicle.  Don't mix different types of tires, such as radials and bias belted on the same vehicle, as handling may be seriously affected.  Tires should be replaced in pairs on the same axle, but if o nly  one tire is being replaced, make sure it's the same size, structure and tread design as the other.
+Tire Size
+Dave wrote to Rob -- Our '73 Super Beetle has slightly oversized tires.  The diameter is the same  as the specification -  15 inches, but they are just a bit wider.  They are 165 x 15 (6.5-inch width); the standard size is 155 x 15 (6.0-inch width) if I recall correctly.  I like them -- Ive always thought the standard VW tires were too narrow.  The problem is, the spare tire wont lay down flat in the spare tire well in the trunk.  The tire binds up at the point where it has to slip just a little ways under the gas tank, so it sticks up a couple of inches in the front.  It cant need more than about another 1/4" of clearance.   I could probably force it, but then wed never get it out!  I wondered it I would do any irreversible damage if I slipped a little hydraulic jack under there and tried to raise things up a bit.
+Note:
+Dave later found that the difficulty with the spare tire in the trunk was due to the front apron being pushed in as a result of an accident.  Dave replaced the front apron, which solved the problem.  See our
+Front Apron Replacement
+procedure.
+Rob responded -- I think VW went to 165s as normal in about 71.  The Bentley Manual (p. 5-31) says "All models built before March 1972, including Karmann Ghias, are equipped with 5.60 x 15 tires.  Those built after that date have 6.00 x 15 tires."  So at a width of 165mm (6.5 inches), your's would indeed be slightly oversize.
+If your ride is a Type 2, please see the
+Summary of Tire Requirements
+for the Type 2 on the Web.
+It's important to note that the Type 2 is a load carrying vehicle, so it should NOT be fitted with passenger car tires. It will sit on the road better with light truck tires which have stiffer sidewalls. The passenger tires have softer sidewalls which will roll under when cornering if used on the Type 2, making the Kombi/Bus feel like it's wallowing in corners.
+~~~
+Tire Quality
+Rob wrote -- Michelin MX4 tyres are excellent quality, and they work very well on the Bug.  I used to use Michelins exclusively.  They're about $130 each, so I don't think I'll be getting those next time around, even though they are probably the best tyres for VWs (long lasting, great grip).  (I switched to Firestones as my protest against the French nuclear testing in the Pacific a few years ago, and I have been quite pleased with these too.  Not much of a protest really - the Michelins lasted so long they didn't make much money out of me anyway.)  Firestone doesn't sell the VW size here anymore (my older Bug has two Firestones), but Kelly Springfield does (offshoot of Dunlop -- pricey here as they are made in the US), and then there's the Chinese and Korean brands - hmmmmm.  The cheapest I can buy decent beetle tyres is about $90 Aus.
+Dave wrote -- We have an excellent tire shop here where we buy all of our tires.  They sell a very good product and provide tremendous service.  A good 60,000 mile steel-belted radial runs about $75 or so.
+~~~
+Tire Pressure
+Correct tire pressure adds miles to the lifespan of the tires, improves mileage and enhances overall ride quality.  Tire pressure cannot be accurately estimated by looking at a tire, particularly if it is a radial.  A tire pressure gauge is therefore essential.  Keep an accurate gauge in the glovebox.  The pressure gauges fitted to the nozzles of air hoses at gas stations are often inaccurate.
+Always check tire pressure when the tires are cold.  "Cold," in this case, means the vehicle has not been driven over a mile in the three hours preceeding a tire pressure check.  A pressure rise of four to eight pounds is not uncommon once the tires are warm.
+Unscrew the valve cap protruding from the wheel and push the gauge firmly onto the valve.  Note the reading on the gauge
+Because tire pressure has a substantial effect on handling and wear, the pressure on all tires should be checked at least once a month or before any extended trips. Specification tire pressures are as follows -
+Bias ply (with 1-2 persons) -
+Front - 16 psi (17 psi fully loaded; 18 psi after Jan. 1973)
+Rear - 24 psi (26 psi fully loaded; 29 psi after Jan. 1973)
+Radial -
+Front - 18 psi (both with 1-2 persons and fully loaded)
+Rear - 27 psi (both with 1-2 persons and fully loaded; 29 psi after Jan. 1973)
+Rob wrote - I have found that for radial tires, 20 psi in the front and 28 psi in the rear gives the best combination of handling and mileage.  With 18 psi in front they tend to roll a little in corners and seem to wear just a little more on the outsides.
+~~~
+Winter Tires
+Although inferior to regular tires for dry-road wear and handling, winter (mud and snow) tires can greatly improve operation on snowy or slushy roads.  Studded winter tires improve traction on icy surfaces, but can be damaged by fast driving on dry roads.  They may also damage some road surfaces.  Studded winter tires should be used only if icy conditions predominate through the winter months.  Also, check your local motor vehicle laws.  The use of studded tires may be restricted in your area.
+* 
+                    * * * *
+Design by
+Erin

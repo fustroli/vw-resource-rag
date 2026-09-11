@@ -1,0 +1,94 @@
+Brake Drum Replacement
+Brake Drum Replacement
+(Does not apply to disc brakes.)
+Note:  While this procedure applies to later-model cars
+(1966 and later), many of the points will apply to
+earlier-model cars as well.
+~~~
+Go directly to the drum (front or rear) of interest -
+Front Brake Drums
+Rear Brake Drums
+~~~
+When inspection of the brake drums indicates that turning of the drums is not possible because the metal is too thin, it is time to replace the drums.
+Caution:
+Older brake linings contain asbestos, which is a health hazard if inhaled.  Wear a face mask when working on drum brakes to avoid inhaling asbestos particles.  Keep dust levels down; do not blow or vigorously brush accumulated material from brake parts.
+~~~
+Front Brake Drums
+Block the rear wheels to prevent movement and apply the parking brake.
+Loosen the front wheel lug bolts/nuts, then raise the front of the car and place it securely on jack stands.
+Remove the front wheels.
+On the driver's side front wheel, remove the clip which secures the speedometer cable to the dust cap using a small flat-blade screwdriver.
+Using a large screwdriver, pry off the dust caps that protect the wheel bearings (both wheels).
+Loosen the spindle nut lockbolt with a 6mm Allen wrench.
+Remove the spindle nut and thrust washer from the end of the spindle.
+Note:
+The left-side spindle has left-hand threads.
+Pull the hub assembly out slightly, then push it back into its original position.  This should force the outer bearing off the spindle enough so it can be removed.  The outer race remains in the hub.
+Remove the bearing.
+Note:
+Group the various axle parts and stow them in plastic bags for cleaning later.
+Pull the brake drum and hub assembly off the spindle.
+Note:
+If the brake drum spins freely but you are still unable to remove the drum, the shoes may have worn a groove in the drum over time.  Insert a brake adjusting tool through each of the two adjustment holes in the backing plate and turn the adjusters so that the shoes move inward enough to clear the ridge on the brake surface. (See our
+Brake Adjustment Procedure
+.)
+Note:
+Remove the brake drum without using excessive force to avoid damage to the wheel bearings, etc.  Gentle tapping around the rim with a rubber or copper-faced hammer, together with pulling by hand, will usually get the job done.
+Pull off the brake drum and wipe dust from the inside of the drum with a cloth soaked in a water/detergent solution.  Avoid inhaling the dust.
+Inspect the braking surface inside the drum.  If it is excessively scored, that's why we're here!
+Cover the spindles with plastic bags and seal tightly to keep grit off of the threads.  Slosh detergent/water solution over the exposed brake assemble to remove dust.
+If you are going to be working on other parts of the braking system in addition to replacing the brake drums, run the
+Brake Shoe Replacement
+and the
+Replacing Wheel Cylinders
+procedures at this point.
+Once you have completed working on the brake shoes, cylinders, etc., return your attention to the new brake drums.  Install new inner and outer wheel bearing races in the new drums in accordance with the
+Wheel Bearings Procedure
+.
+Note:
+In our experience it saves a lot of frustration to pay the man and have the inner and outer races pressed into the drums at a machine shop.
+Repack the inner wheel bearing with grease (see the above procedure) and install it in the inner side of the brake drum, then install a new grease seal (again, per the
+Wheel Bearings Procedure
+).
+Install the brake drum on the spindle and repack the new outer wheel bearing in accordance with the above procedure.
+Replace the thrust washer and spindle locknut, then adjust the bearings in accordance with the wheel bearing procedure.
+Adjust the brakes according to the
+Brake Adjustment Procedure
+.
+Replace the front wheels and lower the car to the ground.  Fully tighten the lug bolts/nuts.
+~~~
+Rear Brake Drums
+Block the front wheels to prevent movement.
+Fully release the parking brake.
+Back off the brake adjusters slightly.
+WITH THE REAR WHEELS STILL ON THE GROUND, remove the cotter pin from the castle nut on the rear wheel shaft. Mark both the nut and the end of the axle where the cotter pin went thru so you can torque the nut to the same place when replacing it. Break the rear axle nut loose with a 36mm (1-7/16" socket) on a 3/4-inch drive breaker bar and "cheater" -- a length of pipe about four feet long to slip over the braker bar to give more torque.  Remove the castle nut, then raise the car.
+WARNING
+-- Loosen the two castle nuts (one on each side) while the car is on the ground.  The castle nut should have at least 217 ft-lbs of torque on it -- the leverage needed to remove it is enough to topple a car off the jackstands.
+Note:
+If you car is equipped with spinners (like ours is), the castle nuts will not be accessible with the wheels on the car.  After removing the rear wheels, we had success with lowering the brake drums down onto large blocks of wood and firmly appling the parking brake.  This plus the weight of the car on the wooden block held the brake drums in place while we removed and later replaced the castle nuts.
+Loosen the wheel lug bolts/nuts and raise the rear of the car and place it securely on jack stands.
+Remove the wheel lug bolts/nuts and remove the rear wheels.
+Back off the brake adjusting stars, then remove the brake drum from the splines in the rear wheel shaft.
+Note:
+If the adjusting stars are "frozen" in place, it is often possible to loosen them with a good penetrating oil (we prefer
+Kroil
+).  Even with the adjusting stars turned all the way in, it still may be difficult to remove the drum, and the wheel may be "stuck."  This is usually caused by the drum rusting to the brake shoes after sitting too long.  Someone has suggested disassembling the rear brakes by first removing 36 mm axle nut, then drilling out the pins which hold the shoes in place (from behind) and removing the wheel cylinder bolt from behind the shoe plate.  Then you should be able to use a puller carefully to remove the entire assembly.
+Speedy Jim writes - Before attempting to disassemble the brakes as suggested above, remove the tire/wheel and tap the drum on the side with a hammer, all the way around.   You can place a piece of wood between drum and hammer to soften the blow.  Often, this method will break the rust loose and allow you to remove the brake drum.
+Inspect the braking surface.  If it is excessively scored, that's why we're here.
+If you're going to be working on the brakes (i.e., shoes, cylinders, etc.) do that now in accordance with the
+Brake Shoe Replacement Procedure
+.
+Since there are no bearing in the rear brake drums, installation is straightforward.  Simply slip the new drum onto the splines in the rear wheel shaft.
+Note:
+The only problem you may encounter is getting the new drum over the new shoes.  Back off the brake adjusting stars completely to provide clearance.
+Lower the car to the ground and firmly apply the parking brake.
+Torque the axle nut to 217 ft-lb.
+Note:
+Hopefully you marked the axle nut and the end of the axle so you can return the nut to the same place (i.e., achieve the same torque).  If not, and if you don't have a torque wrench that reads up to 217 ft-lb, measure the length of your "cheater" bar and estimate the amount of weight you will have to apply to it to attain 217 ft-lb. For instance, if the total length of your "cheater" is four feet, you will have to apply 54 lb to the end of it to get 217 ft-lb on the axle nut.  It's okay if it is a little over, but it must not be under 217 ft-lb.
+Adjust the brakes according to the
+Brake Adjustment Procedure
+.
+* 
+                    * * * *
+Design by
+Erin

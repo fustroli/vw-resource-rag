@@ -1,0 +1,11 @@
+Valve Covers
+Valve Covers
+~~~
+It has been reported by a reliable source that the rocker covers should be left black (i.e., "stock"), rather than replacing them with the shiny aftermarket chrome ones. The chrome rocker arm covers have been found to increase oil temperature by up to 30F (by actual measurement).
+Rob wrote regarding this - The theory (and 'practice' too, with measured engine temperatures) is that the rocker covers are insulated from the heads by the cork gasket.  The oil mist inside the valve area condenses on the inside of the covers, which are 'transparent' to heat if they are flat black (even slightly better than VWs shiny black).  The oil then runs back down the pushrod tubes to the sump.  Chrome or aluminium covers do not transmit the oil heat to the outside very well, so the oil goes back to the sump hotter.  Also, painting the pushrod tubes flat black is supposed to help too -- the used cooling air is cooler than the oil in the pushrod tubes.  Chrome tinware is no problem -- just the parts which come into contact with the oil.
+Rob wrote regarding oil leakage from the valve covers, a common problem - You don't want continuous oil drips on the heat exchangers -- you might end up with more oil smell inside the car!  You might try two gaskets, but that might make the bails TOO tight.
+Rob recommended bending the bails to tighten them on the valve covers, as follows - If you imagine them as a U, you'd need to bend the bottom section upwards, which would makes the arms stick out, so you'd then hold the bottom section in a vice and restraighten the arms.  Wouldn't need much of a change in angle to make them tight (hopefully).  They are very large wires though, and probably spring steel, so might take some bending.  Just as an experiment, you could try putting something like a wedge under them as you pull them on (something like a piece of a plastic a milk carton so it won't scratch the covers) just to see if "tightening" the bails helps.  I always like to try the reversible things first!
+* 
+                    * * * *
+Design by
+Erin

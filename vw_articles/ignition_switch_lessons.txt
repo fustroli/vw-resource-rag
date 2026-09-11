@@ -1,0 +1,34 @@
+Ignition Switch Lessons
+Ignition Switch Lessons Learned
+~~~
+As usual, we have learned an electrical lesson the hard way.
+Take note:
+If the ignition wire shorts to ground, the
+ignition switch in the steering column will be fried.
+And remember that the ignition wire branches out from the coil -- to the idle cut-off switch, the backup lights and the automatic choke.
+Dave learned this lesson not once, but
+TWICE!
+(Slow learner!)  Consider the following two scenarios -
+Dave installed a new Pierburg 34PICT/3 carburetor that he got from
+Aircooled.Net
+.  In doing so, he accidentally pinched the several wires that run to the right side of the engine compartment between the carburetor and the fan housing.  Recipe for disaster...  Over time the insulation on the wire to the backup lights was worn away, and that wire shorted to ground, burning the insulation off of the backup lights wire from one end to the other.  On the other end of that wire, of course, is the ignition switch, which was burned out by the short.
+(It was at this point, as Dave went through the agony to be found in the guts of the steering column, that Dave generated the
+Steering Column Work
+procedure, which includes replacement of the ignition switch.)
+And then, just as Dave had finished replacing the ignition switch and putting the innards of the steering column back together -- and then tuning his Bug, he inadvertently left the ignition on while removing the timing light.  This time it was the wire to the automatic choke which came dislodged and fell down onto the alternator, causing a short to ground and frying the brand-new ignition switch.
+To prevent this from happening in the future, we'll close the barn door after the horse is gone!  No... it was suggested to Dave that he put a 25-amp fuse in the wire that goes from the ignition switch back to the engine compartment, right near the switch at the plug. Such a fuse, the guy said, "will power everything, but blow if something screws up, which will kill power to the sensitive stuff. Better to replace a 10¢ fuse that a $20 switch."  (Not to mention all the labor involved.)
+Take a lesson!
+Be mindful of that black wire coming back from the ignition switch to the coil, and to the wires that go from there to various the accessories.  If you short that wire to ground, you're in for a lot of fun!  We've given you a
+procedure
+, but you sure don't want to run it if you don't have to!
+~~~
+Someone wrote - I had to replace my ignition switch twice, and it just went bad again after a month.  Something else going on here?
+"Speedy" Jim
+responded -
+If you don't find anything causing a short, the switch is probably simply failing.  (However, the replacement ignition switches are pure junque.)  Adding a relay to control the starter solenoid will help a lot as t he solenoid draws about 35 amps during pull-in.  Glenn has a
+diagram of the relay wiring
+. it uses a common Bosch relay which can mount under the back seat.
+* 
+                    * * * *
+Design by
+Erin

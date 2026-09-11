@@ -1,0 +1,66 @@
+Shift Coupler
+Shift Rod Coupler
+Note: See our
+Shift Rod Coupler Replacement
+procedure.
+Note:
+When you are experiencing shifting problems, check the condition of the coupling at the rear of the shift rod -- under the inspection hatch on the tunnel under the rear seat.  If this is worn it too will worsen any gear selecting problems.
+~~~
+The following material consists primarily of conversations between Rob and Dave on the following topics related to the shift rod coupler, organized as follows (very informative discussion/conversation) -
+Coupler Design
+Coupler Diagnostics
+Coupler Condition
+Coupler Maintenance
+Coupler Replacement
+~~~
+Coupler Design
+After reading the shift rod coupler replacement procedure that Dave prepared, Rob wrote -- Looks good.  The only thing I missed was a reference in Step #26 about reinserting a lock wire into the square lock-nut.
+Dave responded -- There isn't a provision in the lock-nut for a lock wire.  There certainly isnt a lock wire in the kit, and I dont recall seeing one associated with the coupling thats in the car.
+Rob wrote -- Ahhh -- so they have simplified the replacement fittings then?  Maybe it's self locking now.  Let me know when you've put it in how it all fits together...
+Dave wrote -- I dont know that theyve made it better.  The coupling now has a sleeve that goes from one side of the coupling to the other and through the shift rod, then there is a sheet metal screw (!)  that goes through the sleeve and screws into a flimsy little cone-shaped affair on the other side.  Then of course the square-headed screw in the top rear of the coupling (which you have to order separately), but no sign of a lock wire...
+Rob wrote -- My coupler is the original 28 year old one, and has NO sideways play in it, and almost no fore-aft play.  It looks identical to the one in the RMMW catalogue -- even the square head bolt with lockwire hole is identical.
+Dave responded -- Mine is a completely different design.  I'm really confused by the design of the coupling.  The self-tapping screw is especially confusing to me.  That seems like an awfully poor design, and it is VERY difficult to install -- you have to exert lateral pressure on the screw while turning it, and the space is very limited.  I about wore the skin off the tips of my fingers, and still couldn't get it to catch.  So like I said, I finally give up and put a long skinny bolt through the sleeve -- MUCH easier, and should work just the same, I would think.
+Dave's conclusion -- I can't believe German engineers designed this piece of junk!
+Jon Chabot
+(TopLine Parts)
+wrote -- There are such shift couplings on the market, (near solid ones, made of  urethane) but we dont recommend them.  Both the early one (a rubber donut ) and the late one are designed to move a little while shifting.  This helps the shifter click into gear, and also eases the strain on the  "hockey stick" in the transmission.
+Rob wrote -- It's only hand pressure on the gear stick which moves the hockey stick -- I don't see it being stressed easily!  I guess there is something I don't know here.
+Jon Chabot continued -- If you have a good shift rod bushing in the front, the system can live with a fair amount of slop in the coupler.  I suggest you just try the new part you bought and see how it works.
+Rob wrote -- Well of course, but that doesn't help if the new one goes bad too.
+Dave wrote to Rob -- If I'm reading the catalog correctly, the type you have (which Jon Chabot calls a "donut"), marked #2 in the catalog, is for '46-'64 Bugs.  The coupling for our car is the one marked #1 in the catalog, for '64-'74 Bugs.  The picture in the catalog clearly shows the sleeve and the self-tapping screw.
+Your 28-year old coupling must be a somewhat different and more substantial design.  This whole thing is very poorly designed in my opinion.  I sincerely doubt that it is the original German design.
+Aircooled.Net
+sells a coupler with urethane bushings, supposedly better than rubber. But the write-up gives a warning -- "The inserts can be difficult to put in."
+Rob wrote -- The urethane is much harder, so that's why it might be difficult to get the inserts in - less give.  There's a chance you might end up with a little more vibration in the gearstick, and maybe a bit more noise from the harder rubber, but it's worth a shot for the modest price.
+~~~
+Coupler Diagnostics
+Dave wrote -- I'm really wondering about the coupler.  Seems to me there is too much rotational movement between the U-shaped coupler and the sleeve on the rear that attaches to the tranny shaft.
+Rob responded -- I'm wondering if you have the sleeve missing (the sleeve that the self-tapping screw fits into it) -- that would make for a lot of sideways movement in the gear stick.
+I was thinking that if that were missing it would allow a lot of sideways (rotational) movement.  I'm guessing that this problem is where most of your loose gear lever problem comes from, since you say you can see the free play.  In mine the side-play is miniscule at the coupling.  If they are cheap enough to replace, maybe that might fix it for you.
+Dave wrote -- All of the side-to-side movement in my shifter has been due to a broken shift rod coupling.
+~~~
+Condition of the Coupler
+Dave wrote -- Today I took out the rear seat and removed the access panel to expose the end of the shift rod and the coupling.  Lo and behold!  Some enterprising soul has wrapped a spring around the shift rod right in front of the coupling and attached it to the metal on the left side of the hole (had to drill a little hole to do it).  What THAT is in aid of I have no idea, unless they thought it might help with the chattering problem.  I wiggled the coupling back and forth -- the shift lever moved about two inches in both directions (top of the lever).
+Rob wrote, regarding inspection of the coupler -- I'll have to get rid of all the accumulated gunk ...
+Dave responded -- I'm confused -- where did the accumulated gunk come from?  Mine was clean when I replaced the shifter bushing and coupling last year, though I have no way of knowing whether it was the original coupling or not.  I think it was, because it was shot!
+Rob responded -- I'm guessing that because the gearbox has never been out, the seal at the front is worn and allowing a small seep of gear oil into the tunnel cavity, and this has slowly accumuated over the years --  collecting dust along the way.  It's not a thick layer of grime -- just a complete coating.
+Dave wrote -- We've got a problem --can't find third gear.  I went out this morning and couldn't find either first or third.  After fussing unsuccessfully with the stop plate, I pulled the rear seat out to have a look at the shift rod coupler -- and found it in pieces, barely hanging on to one side of the shift rod.
+Rob responded -- How strange.  I wonder what the problem is.  I suppose the two shafts are lining up reasonably well (not putting it under side load)?
+~~~
+Coupler Maintenance
+Dave wrote -- I've been communicating with a guy in Pueblo, Colorado -- he mentioned that he oiled the shift coupler (under the rear seat) and it seemed to help.  He said, I was wondering if it was sticky, and maybe oil would help it go thru it's gyrations.  It looked like someone before me had greased or oiled it - so I thought it might help..  It seemed to a bit, it doesn't seem to be preventing me from going into gear quite as much as before.  Do you have any comment on this?  I'm curious, as last time I ran the car (last May!) it was still giving me a few shifting fits.
+Rob responded -- This is a new one to me.  Oiling the coupler does what?  I don't believe it is usually lubricated.  I haven't heard of any need to lubricate this coupler.  It flexes only a tiny amount -- it's really only an alignment tool so the gearbox can rock a little on it's rubber mounts whilst the shift rod stays relatively still as it's held in the tunnel by the bush and the gear stick.  I think it's more likely he needs either/both the tunnel bush and a new coupler.  If that doesn't fix it - it's on to the hockey stick inside the box!
+~~~
+Coupler Replacement
+Dave wrote -- When I took off the cover plate under the back seat I found that the old coupler was in pretty bad shape.  I attached the new coupler to the transmission shaft with the single bolt (old one was square headed and had a hole thru it for a lock wire; new one is 10 mm hex had and has no hole).
+Then I took a break from kneeling inside the car and turned to the shift lever assembly -- wire brushed and sanded all the metal and painted the base of the assembly.  When it was dry I put it all back together, filled the bottom of the assembly (where the spring is) and the shift cup with grease, oriented the stop plate properly, and reattached the assembly, making sure it was standing up straight (in neutral).
+Then back to the coupling, where I discovered that I'd made a mistake.  I must clarify the procedure.  The coupling has to be attached to the shift rod FIRST, with the shifter assembly still off, otherwise you can't turn the rod enough to get to the self tapping screw and push & turn at the same time.  (Strangest design I ever saw!  VERY difficult to hold the end of the tube that passes through the hole shift rod and force the screw into it from the other side at the same time.  Fiddly, as a friend of mine would say!)  So I pulled the shifter assembly back off and did it right -- put it on the end of the shift rod first, then onto the transmission shaft, no problems (or is it "no worries"? ;-).  Put the shift assembly back on, and DONE.
+I had a VERY hard time getting the "self tapping" screw started that goes through the sleeve in the coupling, which sleeve goes through the hole in the shift rod.  I finally gave up and replaced it with a long skinny bolt which works great.
+Rob responded -- I'd say if the bolt works, stick with it.  If there's room and enough length on the bolt, I'd screw on a second nut.  Then you can tighten one against the other, and lock them tight, without having to tighten it down on the coupling too much.
+Dave wrote -- Now the coupler's replaced, but the gear change isn't as nice and crisp as I had hoped it would be, as I discussed earlier.  Just a little disappointed in that -- can't imagine why it should be.
+Rob responded -- Hopefully it will "wear in" as the gearbox settles down.
+Regarding a later shift coupler replacement, Dave wrote -- My son and I took all the seats out and then worked together on the job -- it was great! Sure easier to put in that self-tapping screw with two pairs of hands! My son held the flared end of the tube with pliers while I screwed in the self-tapping screw with a 11mm socket on my 1/4-inch ratchet. VERY easy with the shifter off -- virtually impossible with the shifter on.  The coupler MUST be attached to the shift rod first, then to the transaxle rod.  We got the job done in about half an hour -- it's amazing how much tighter the shifter is now!
+* 
+                    * * * *
+Design by
+Erin

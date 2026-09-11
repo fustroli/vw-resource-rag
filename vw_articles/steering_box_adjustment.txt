@@ -1,0 +1,44 @@
+Steering Adjustment
+Steering Box Adjustment
+~~~
+To check the worm and roller steering adjustment -
+Raise the front wheels off the ground.
+With the front wheels in their straight-ahead position, grip the steering wheel by one of the cross braces with your fingers.
+Turn the steering wheel lightly in both directions.  In the standard Bug, freeplay must not exceed 15mm (about 9/16-inch) measured at the rim of the steering wheel.  In the Super Beetle, freeplay must not exceed 13 - 16mm (1/2 to 5/8-inch).
+If worm and roller steering freeplay is excessive, check to see that the looseness is not caused by worn tie rod ends or a worn idler arm bracket bushing.
+Check also to see that the steering gearbox and the idler arm are not loose on their mountings and that the gearbox cover bolts are torqued properly (14 to 18 ft-lb).
+Finally, make certain that the drop arm is not loose and that there is no play in the steering column's universal joints.
+If none of the above faults are found, check and, if necessary, adjust the steering gearabox in the following sequence:
+The play between the worm and the roller;
+The axial play of the worm spindle;
+The axial play of the roller.
+~~~
+To adjust play between roller and worm -
+If the front wheels aren't already off the ground, raise the front of the car so the wheels can be turned freely.
+Turn the steering wheel 90-degrees to the left or right of its centered position.
+Raise the luggage compartment hood, remove the spare tire, and remove the access hole for the steering gear.
+Note:
+In the Super Beetle there are two access holes -- one in the spare tire wheel and one up on the shoulder on the left side (right as you're looking at the car) just forward of the strut.  It is through this access hole that you gain access to the adjuster.  (I'm not sure about the location of the access hole in the Standard -- I will check with Rob and revise this procedure.)
+Loosen the adjusting screw locknut (17mm in the Super).
+With a large screwdriver, turn the adjusting screw out about one full turn.
+Turn the adjusting screw slowly clockwise until you feel the roller contact the worm.
+While holding the screw in this position, torque the locknut to 18 ft-lb.
+Note:
+This is a bit difficult in the Super, as the nut is recessed below the sheet metal.  While holding the screw in place with the large screwdriver, I turn the nut as tightly as I can with a 17mm open-end wrench (spanner) held vertically, then tighten it the rest of the way with a 17mm socket.
+Turn the steering wheel first 90-degrees to the left and then 90-degrees to the right.  Check the freeplay in both these positions as described above.  It must not exceed 15mm (about 9/16-inch) (13-16mm -- 1/2 to 5/8-inch -- in the SB).
+Note:
+If the freeplay is excessive on only one side, repeat the adjustment with the steering wheel turned 90-
+degrees to that side.
+Remove the filler plug on the steering box and fill the box up with 90 weight hypoid gear oil.  If it takes a lot, look for a leak; if there is a leak, your steering box may need overhauling.
+Road test the car.  If after taking a corner at 10 to 12 mph, the steering does not return to about 45-degrees from the center position, the roller is too tight.  The adjustment must then be repeated to prevent damage to the worm and roller.
+~~~
+Other adjustments -
+If you have made the preceeding adjustment correctly, yet freeplay remains excessive, check the axial play of the worm spindle.
+To do this, grasp the lower part of the steering column and turn the worm spindle clockwise and counterclockwise.  If you can see the worm spindle moving slightly in and out of the steering gearbox, there is excessive play.
+Note:
+Because of the location of the body crossmember, you cannot adjust the worm spindle axial play with the gearbox installed.  Adjustment must be carried out with the steering gearbox removed.
+If there is no worm spindle axial play, yet there seems to be play in the gearbox, remove and disassemble the gearbox so the roller can be checked for axial play.  If the roller has excessive axial play, the entire roller shaft must be replaced.
+* 
+                    * * * *
+Design by
+Erin

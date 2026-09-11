@@ -1,0 +1,195 @@
+Hesitation
+Hesitation/Stumbling
+See also our articles on
+Cutting Out at Idle
+and
+Stumbling on Acceleration
+.
+~~~
+Topics included in this article include -
+Introduction to the Problem
+Advice We Have Received Regarding Our "Hesitation" Problem
+.
+The 009 (Centrifugal Advance) Distributor
+What We Did To Resolve Our "Hesitation" Problem
+Questions and Answers
+The Bottom Line
+~~~
+Introduction to the Problem
+When Dave bought his 1973 Super Beetle in May 1997 it was equipped with a 1971 dual-port 1600cc engine, a 009 centrifugal advance distributor, and a 34PICT/3 carburetor.  Ever since Dave purchased the car it has been plagued off and on with what we have come to call a "hesitation" problem.  Sitting in the driveway, cruising down the street or flat out on the highway the engine purred like a kitten.  However, when pulling away from a stop we couldn't just step on the gas and let out the clutch and drive smoothly away -- the car would die every time.  We had to pump the gas several times to get the rpm's up, then let out the clutch and off we went.  The car also hesitated when we went to accelerate out of a low-speed turn (e.g, a 90-degree corner in town), and virtually whenever we would call for acceleration.  (This problem is also discussed in our article on
+Stumbling on Acceleration
+).  The problem worsened to the point that in the end we couldn't even get the car to idle without jacking the rpms way up.
+Someone wrote of his experience and expressed very well the frustration this problem causes - I recently installed a new 34PICT/3 carburetor on a stock 1971 Type I 1600cc dual-port engine with a 009 centrifugal advance distributor and an alternator.  Timing, points, valves, plugs, plug wires, air filter, and fuel filter have all been recently adjusted/replaced, and the unused carburetor vacuum ports are plugged.  I have tried a variety of accelerator pump settings, richness settings, idle settings, and choke settings, with no solution to the following problem:
+I let it warm up, make the proper carburetor adjustments, and it purrs along at 900 rpm.  Take it for a test drive, and acceleration is great:  quick, with no real flat spot.  As long as I keep the pedal down, there seems to be no problem.  However, if I let up on the gas and coast, the rpms will drop and drop, to the point that the gen/alt light flickers, and its 50/50 as to whether it stalls once I get below 10 miles an hour.  If it doesn't stall, or if I intervene by goosing the gas pedal, it will catch itself and go back to normal idle.
+Someone else described a similar problem - I've got a '73 Super Beetle with a 1600cc engine.  She runs just fine around town, fine getting on the highway, fine on the highway, but as soon as I slow down, i.e. get off the interstate, engage the clutch, she stalls out on me.  I usually pop the clutch and get her running again.  Most of the time though, she won't even idle after I get off the highway.  It usually takes a few minutes for her to be back to normal.  I've tried adjusting the carburetor (Solex 34PICT), and adjusting the timing (009 distributor), to no avail.
+This problem has come to be known as "the dreaded bog."
+~~~
+Advice We Have Received
+to Resolve the Hesitation Problem
+Dave received advice from many quarters on how to resolve his hesitation problem.  Following is a list of the various things we have been advised to try, as the experience of others may be different from ours, and then I will elaborate on what we have done in an attempt to resolve the problem.
+Valve Clearance:
+The Haynes Manual indicates that incorrect valve clearance may cause hesitation.
+Intake Manifold:
+Two considerations regarding the intake manifold:  Pre-heat and air inleakage.
+Pre-Heat -
+If the manifold pre-heat tubes (also called heat risers) don't get hot, fuel from the accelerator pump just "lays" in the manifold and doesn't vaporize.  Drive the car around the block and then feel the pre-heat tubes.   They should be hot over their entire length (use caution -- they should be VERY hot).  Several things may prevent the pre-heat tubes from being heated -
+The tubes may be clogged with carbon deposits.  See our procedure for
+Clearing a Blocked Heat Riser
+.
+The muffler is not creating enough pressure difference.
+If you have an aftermarket header exhaust system, the heat riser flanges on the exhaust header may not have been drilled through into the header to allow the flow of exhaust gases (either direct from one side to the other or pulsing back and forth).  If this is the case, you will have to remove the exhaust header and drill through the flanges.
+Exhaust header systems are usually supplied with the heat riser flanges NOT drilled through, so they can be used with twin carb setups which dont use heat risers. When fitted to any bug using a centre mounted carburettor, the heat riser flanges must be drilled through at each end so exhaust gases can flow through the heat riser pipe.
+Air Inleakage -
+If air is somehow leaking into the intake manifold downstream of the carburetor, the fuel mixture will be too lean and the car will not run properly.  The system is easily checked for leaks by 1) choking the carburetor with the palm of your hand over the throat (if the engine immediately dies, there is no leak), and 2) spraying starter fluid (ether) on every possible leak point and listening for changes in the engine speed as the ether is sucked into the manifold.  For more information, please see our
+Air Inleakage Discussion
+.
+One critical area that is not very accessible is where the manifold attaches to the engine itself.  Spraying with the straw applicator that comes with the starter fluid usually does the trick, as you can then get the spray closer without it dispersing too much.  (On single port engines, this connection has a large copper 'washer' as a gasket, and this gets compressed slightly when tightened.  On dual-port engines, this gasket is a flat paper type, which is easily damaged.)
+On later models the intake manifold is in two pieces, joined by rubber connectors with hose clamps.  Loose clamps at these points can cause air inleakage.
+Vacuum Advance Distributor:
+There are two types of vacuum distributor -- single vacuum and double vacuum.  Make sure that the vacuum system is operating correctly by sucking on the vacuum lead(s) and looking at the movable points-plate inside the distributor to see if it moves to the relevant stop.  If you now pinch off the hose, the plate should stay near the stop.  If it drifts back to the centre, the vacuum chamber has a leak in it.
+Centrifugal Advance Distributor:
+The well-known Bosch "009" distributor is being widely substituted for the stock vacuum advance distributor.  The 009 distributor has centrifugal advance only.  Some people swear by it; others swear at it!  Lacking vacuum advance, the 009 cannot "load sense" - it has no idea if the throttle is open or closed, and responds ONLY to engine revs. This creates a hesitation "flat spot" as you accelerate off-idle.  Many people try to fix this by fussing with the carburetor, when the problem is actually with the distributor.
+Many who have responded to our queries prefer the stock distributor (single or double vacuum, depending on the engine model), but they are hard to find in good condition and expensive to buy new.  Swap meets are a good source.  Be aware, though, that there were a dozen or more models, all of which look very much alike.
+Aircooled.Net
+is a good source.
+Rob Boardman gives a good discussion of the problems associated with the 009 distributor. The 009 distributor does often cause an acceleration flat spot, as it does not have the vacuum advance adjustment of the original distributor.  It only STARTS to advance from about 1200rpm, which is too late, and it must be limited in how much total advance it makes so it wont cause detonation under any combination of throttle and RPM. So although it sort-of works, it's definitely NOT ideal for any driving conditions.  It was never used on any bug by VW - the factory distributors ALWAYS had a vacuum component to them - either vacuum-only, or vacuum plus mechancial advance.
+Bob Hoover described it this way - The Bosch 009 distributor was developed for early Type2 (Transporter/Kombi) with the 1200cc engine.  The heavy body and small engine resulted in a driving style which was mostly flat out -- open throttle; and the low gearing resulted in high revs.  This suits the 009 distributor.   Starting off in these vehicles was another matter altogether, and required great care - pumping the throttle to get the revs up, and slipping the clutch to keep those revs up.  These days the 009 distributor is the favorite for racers and drag cars as they use the same conditions as the early Kombi's -- open throttle and high revs.  But the advent of larger 1500cc and 1600cc engines, together with higher gearing, made the 009 distributor unsuitable, and the Kombis got the vacuum distributor which was always standard on the Beetles.  So it is a mystery why the 009 distributor is so popular with the Beetle-brigade today, as it was NEVER designed to be used in Beetles and larger engined Type2s in on-road vehicles.  Sure it's cheap, and it does work -- sort of, but the vacuum distributors will almost always give you a better result - smoother acceleration,  better fuel economy, and a longer engnine life.
+If your car is equipped with the 009 distributor, make sure that the vacuum ports on the carburetor and the intake manifold are plugged.
+Incorrect Ignition Timing:
+There has been a great deal of discussion regarding ignition timing with different distributor/engine combinations.  With the 009 distributor on the 1600cc engine, the proper timing is to set the MAXIMUM advance at 30-32 degrees at 3000+rpm, and then check the static timing, which will usually be between 5-10 degrees BTDC (the 009 distributors vary a bit in total advance).    The single-vacuum distributors use 7.5 degrees BTDC - static timing on 1500/1600s, and 10 degrees BTDC for 1200s. The proper timing setting for the vacuum advance distributor with two vacuum hoses is 5 degrees retarded (ATDC) - set with the engine running at idle revs. Timing changes as the point gap (dwell angle) is changed, so make sure the points are properly set (50 degrees plus/minus 2 degrees) before setting the timing. US model 1500 bugs from 68 and 69 used 0 TDC timing (as a first emissions minimisation setting) where the rest of the world was using 7.5BTDC with the same distributor, so you can use 7.5BTDC on those cars in the USA if you wish.
+Spark Plugs:
+The Haynes Manual indicates that fouled spark plugs may cause hesitation.
+Rob Boardman suggested the use of NGK plugs to help with the hesitation problem - NGK is the world's biggest manufacturer of spark plugs.  In the VW they are reported to have a greater tolerance to the changes in cylinder head temperature changes - that is, they have a good "heat range."
+Rob says
+- I used to use Champions (L88s, then L86YC I think from memory) when I first bought my 1970 bug, but changed to Bosch many years ago when I was told that Champions had a rougher thread on them, which tended to cut the aluminum heads out after a while, and were easy to cross thread.  The Champions did work just as well though, and that was years ago - they look like they have smooth threads now.
+After getting twon Bosch plugs which wete bad out-of-the-box (and it was a difficult diagnosis as they only failed when the engine was fully warmed up), I now use NGKs with great success, after they were recommended to me by a VW mechanic with well over 20 years experience. The correct NGK plug is a B5HS for the 1/2-inch heads, and B5ES for the 3/4-inch heads (Type 4s, and replacement new factory heads from Brazil/Mexico for beetles).
+If you can find the 'grooved electrode' type, the numbers are B5HY, and B5EY.  The grooved center electrode is supposed to generate the spark at the sides of the electrode, rather than burying it in the gap - better at lighting lean mixtures, and better at propagating the flame.  The grooved plugs could conceivably reduce the 009 distributor flat spot a bit.
+Carburetor:
+Spitting/sputtering/cracking is an indication of the fuel/air mixture being too
+lean
+. The engine speed (RPM) at which the problem occurs tells which jet needs to be changed.  Test the engine's performance through the range of 1000-4000 RPM, paying attention to
+steady
+throttle position through this range.
+If the engine runs good at 3000-4000 rpm but stumbles elsewhere, the correct main jet is being used, and the problem lies somewhere else. If the hesitation problem occurs at higher rpm (2500-4000), a larger main jet needs to be installed.  If the main jet doesn't solve it, try setting the accelerator pump (see below).
+If the stumbling occurs at 2000 RPMs and lower, a larger idle jet may need to be installed to enrichen the mixture. (Don't go much beyond 65, however.)
+If you have an 009 centrifugal-advance distributor, a larger main jet may sometimes help to compensate for the flat spot inherent with this distributor.  The standard jet is 127.5 (in a 34PICT/3 carburetor); try a 130 or even larger. This "papers-over" the 009 advance problem with extra fuel, and a better solution is to use a distributor with vacuum.
+While you're into the carburetor, it would be a good time to overhaul the carburetor and install a new kit.  (See our
+Carburetor Overhaul Procedure
+.)  Check the float; if there is a dimple where the needle valve impinges on it, replace it. After reinstalling the carburetor, make sure to tune it correctly.  Idle speed may cause hesitation if it is improperly set.  (Please see our articles on tuning
+One-Screw Carburetors
+and
+Two-Screw Carburetors
+.
+Automatic Choke:
+Make sure the automatic choke is working properly (wire to the coil attached, choke properly adjusted and opens the butterfly valve in the top of the carburetor as the engine warms up).  See our
+Automatic Choke Adjustment Procedure
+.
+Idle Cut-off Valve:
+Make sure the idle cut-off valve is properly seated, electrically connected and working.  Test the valve by removing the wire, turning on the key, and touching the wire back to the connector on the valve.  You should hear a distinct "clicking" sound; no "click" means "replace."
+Accelerator Pump Faulty or Out of Adjustment:
+If the engine stumbles when you open the throttle, the problem could lie with the accelerator pump, or it could mean that either the main jet or the idle just is too small. Check to make sure that the pump delivery tube (in the very top of the carburettor throat) is pointed directly down the carburetor throat (not splashing on anything on the way), and check to make sure that it discharges fuel when the throttle arm is pulled down sharply.  If it doesn't, it is likely that the accelerator pump needs to be overhauled (i.e., diaphragm replaced).  If the pump is discharging fuel down the carburetor throat, check the discharge volume (see our
+Accelerator Pump Adjustment Procedure
+).  For the 34-PICT/3 carburetor, the squirt volume should be 1.45-1.75 mL.  Adjust it per the procedure.  If you are running an 009 distributor, adjusting the accelerator pump to full stroke helps to minimize the flat spot that is inherent to this distributor (using a vacuum distributor is a better fix though).
+Clogged Fuel Filter:
+Most air-cooled VWs are fairly old, and there is a good possibility that the fuel tank may be rusty on the inside.  This rust can clog the fuel filter(s) and contribute to the hesitation problem. The standard bug fuel tank (not the superbug) has a small gaize filter sitting inside the tank above the fuel outlet - remove the outlet and it comes out too. Some VW fuel pumps have a small fuel filter under a brass bolt head in the rear (rear is rear of car) side of the pump - near the fan belt.  If your car has one of these pumps, check this filter too.  (See our
+Fuel Filter Service Procedure
+.)
+Someone recommended that we remove and clean the gas tank.  We have since done this, and our experience is documented at
+Fuel Tank Removal and Refurbishment
+.
+Fuel:
+According to Rob Boardman, the hesitation problem is almost certainly a lean-burn thing.  VWs like a fractionally rich mix -- they don't like lean burn conditions.  A larger main jet in the carburetor will provide a richer mix and may help the problem.  Also, Rob advises the use of a brand-name fuel with at least 91 RON (87AKI in the USA) octane  fuel, preferrably NOT containing ethanol.  Only the 1200cc engines and the newest low-compression factory (Mex/Brazilian) engines are happy on 87 RON (84AKI) octane gasoline.
+Dave's son accidentally made an interesting discovery that may well have contributed to their hesitation problem.  His VW was almost out of gas, so he went to the gas station to fill up.  The last time he gassed up the brand-name station was closed, so he filled the tank with 92 octane at the local convenience store.  On this occasion as he was on his way to the gas station (brand-name) with a near-empty tank the car died at every corner; once the tank was full with the good stuff the car ran fine.
+Rob's comment:
+This was around the year 2000 and we dont know if it was filled with ethanol-added or non-ethanol gasoline. Adding ethanol to gasoline reduces the amount of energy per litre/gallon, and since cars with carburettors deliver a VOLUME of gasoline into the airstream without knowing anything about the energy content, our old VWs run lean and hot on ethanol-added fuel.  If you have to use ethanol-added fuel, then increasing the size of the main jet is almost a required modification.
+Some more data points would be helpful, but the apparent lesson is that the cheap stuff is just that.  The more expensive brand-name gas is higher quality and the Bug seems to like it a lot more.  The VW seems to be sensitive to the quality of the gas.
+Someone wrote regarding possible contamination of the fuel - When you run the tank down near empty you are also allowing any sediments and general crap to enter your fuel lines.  Almost any gas tank in any car has depression areas in the bottom of the gas tank.  The crap and water that has condensed is supposed to settle into these low areas and not enter the system.
+Unfortunately this is not the case in the VW bug fuel tanks.  The fuel outlet is at the bottom of the tank, so it doesn't really matter if the tank is full or almost empty - any rust flake or other crud in the tank can get into the fuel line in either situation. The wire gauze strainer in the standard bug tank is just that - it will stop coarse rust flakes from entering the fuel line, but not fine particles.
+Regarding octane levels, someone reported that his VW has the most pep when he uses 94 octane gas.  He tries to avoid convenience store gas stations, having experienced poor running when he filled up there.  He also reports success with the use of a fuel dryer (HEET or simialr) in the gasoline.  This may help remove the water and some of the crap that might be fouling the fuel lines, carburetor, etc. Isopropyl alcohol is said to be superior to methyl alcohol for this purpose.
+Rob advised me that leaving the car out under damp conditions overnight may result in condensation in the fuel tank, resulting in water droplets in the fuel.  He says that the only sure way to avoid condensation is the aircraft way - fill the tank up to the brim every night so there is no airspace above the fuel and thus no opportunity for water vapor in the air to condense in the tank overnight. If your car lives in a garaage rather than out in the open, condensation is less likely too.
+We came to the conclusion that the hesitation problem may be caused by the fuel in one of several ways:  1) the gas is poor quality or low octane; 2) the tank is rusty and is depositing corrosion products in the gas, and/or 3) there is water in the gas, most likely as a result of condensation.  All of these can cause hesitation.
+~~~
+What We Did In An Attempt
+to Resolve the Hesitation Problem
+Following is an exhaustive list (pant, pant!) of all the things Dave did to fix the hesitation problem in his '73 Super Beetle, with an 009 centrifugal-advance distributor at the beginning -
+Adjusted the valves (0.006", both intake and exhaust).
+Tuned the engine completely (new spark plugs and wires, new points, condenser, rotor, distributor cap, spark plug wires, and coil).
+Made absolutely sure of the TDC, 7.5 degrees BTDC, and 30 degree BTDC marks using a pencil in the #1 spark plug hole and high school geometry to calculate the distance of the arc for each angle on the pulley.
+Rob's note:
+we now recommend you use a straw rather than a pencil - it will bend rather than break if you get it wrong.
+(See our
+Finding Top Dead Center Procedure
+.
+Set the timing to 7.5 degrees BTDC at idle and, and checked it was getting 30 degrees BTDC at 3000 rpm.  (See our
+Timing Procedure
+.
+Overhauled the carburetor and replaced the float.  (See our
+Carburetor Overhaul Procedure
+.
+Replaced the X127.5 main jet in the carburetor with a X130 jet.
+Adjusted the accelerator pump to maximum stroke.  Later we found that the accelerator pump was not working at all, and we were experiencing a severe stumbling problem on acceleration.  We fixed this by overhauling the accelerator pump (i.e., replacing the disphragm).  We also cleared the interference between the alternator body and the accelerator pump mechanism (this problem is addressed in our
+Accelerator Pump Adjustment Procedure
+).
+Set the idle properly. (See our
+Idle Adjustment Procedure
+.)  We found that if we set it much lower than 1200 rpm the engine would not stay running at idle -- a problem that turned out to be air inleakage around the throttle shaft at the bottom of the carburetor.  The volume control screw is set at about 2-1/2 turns out and the bypass screw is only open a turn and a half or so.
+We had an unforeseen glitch here.  The procedure warns against screwing the Volume Control Screw in too tightly.  Heeding that advice, we screwed the Volume Control Screw in very gently; when we felt the first resistance we thought we were there.  But we were not!  The result was that the Volume Control Screw was turned out way too far, and the idle was about 1200 rpm with the Bypass Screw turned in
+all the way!
+This caused a serious stumble on acceleration.  Bottom Line:  When setting the idle, don't be TOO afraid of turning in the Volume Control Screw all the way, then 2-1/2 turns out.
+Replaced both in-line fuel filters.  (See our
+Fuel Filter Service Procedure
+.)
+Checked for air leakage into the intake manifold leak by 1) choking the carburetor, and 2) spraying starter fluid (ether) on every possible leak point and listening for changes in the engine speed. Initally we found no leaks, but on rechecking later we found serious air inleakage around the throttle shaft.  (See our
+Air Inleakage Discussion
+.)
+Checked the manifold pre-heat tubes; they seem to be heating properly (a later check with the engine and intake manifold removed confirmed this).
+Checked the idle cut-off valve. We found it to be operating properly.  (It was lying loose in the hole when we first bought the car!)
+Changed to a brand name 92 octane gasoline (we were using 87 octane from a convenience store).
+Rob's note:
+It probably wasn't the octane number which was the problem as the beetle engine needs on 91RON/87AKI gasoline/petrol to avoid detonation, but other parts of the fuel formulation can change between suppliers, so it does not hurt to try different brands of the same octane number.
+Added a fuel dryer (99.9% isopropyl alcohol) to the gas tank; now we routinely add 12 oz of fuel dryer to the tank with every other fill up.  This has helped but did not resolve the hesitation problem.
+Rob's note:
+Fuel driers absorb any small quantities of water in the tank (condensation mostly) so it is dispersed in the fuel rather than going through the engine as free water. It's never been a problem for me in Australia, with it's generally warmer climate.
+Dave wrote, after all of this was done - None of the above actions fully resolved the hesitation problem, but some of them helped considerably.  For a while we were pretty well convinced that the problem was basically due to water in the gas, probably from condensation.  Adding fuel dryer to the gas helped, but the hesitation problem remained.  Finally, having exhausted all other avenues, we broke down and installed a rebuilt vacuum-advance distributor.  This helped but did not fully resolve the problem.
+After all the many things that we have done to resolve the hesitation problem, we finally tried the starter-fluid-spray trick again and found that there was severe air inleakage around the throttle shaft at the base of the carburetor. (For more information on diagnosing and resolving an air inleakage problem, see our
+Air Inleakage
+page).
+Because our carburetor was old we figured other things could be wrong with it as well, so we bought a new Bocar 34PICT/3 carburetor from
+Desert AutoHaus
+in Victorville, California.  We also bought and installed a Single-Vacuum Dual Advance (SVDA) distributor from John Connolly at
+Aircooled.Net
+(the combination of the SVDA distributor and the 34PICT/3 carburetor is the combination recommended by John Connolly -- see John's
+"Choosing the Right Distributor"
+article).
+The jets in Dave's Bocar 34 PICT/3 carburetor are -
+Main jet - X130
+Idle jet - 55
+Air correction jet - 80Z
+Having done all this, Dave's car was still stuttering and stumbling when cold.  Once the engine warmed up, the car ran just fine.  With symptoms like that, one "automatically" thinks of the automatic choke.  Upon inspection Dave found that the choke butterfly was standing straight up with the engine cold!  Disassembly of the choke element revealed the cause -- the hook on the end of the bimetallic spring inside the choke element was not connected to the choke lever, causing the butterfly to be full open all the time.  This, of course, caused the engine to stutter and stumble until it warmed up to match the position of the choke.  Another lesson learned!
+Our little Beauty ran smoothly for a while.  It was such a pleasure to listen to it purr at 850 rpm in the driveway, and to drive it smoothly and powerfully away from a stop sign!  But our euphoria was short-lived -- the "Dreaded Bog" rose its ugly head once again!
+~~~
+Questions and Answers
+Question - I own a '69 Bug. It's a 1641 with dual Solex carbs, dual exhaust, and a 10.5 lb. flywheel.  I just rebuilt the engine about 10,000 miles ago and it ran great until about a month ago.  Now when you shift into any gear and go to give it some gas it hesitates.  I have replaced the fuel pump and cleaned out the filter, needle, and strainer in the carburetors. I have taken it to my local Volkswagen "backyard" shop and the man can't figure it out.
+Rob responded - Here are a few ideas -
+First, you don't say if you have a 009 distributor (no vacuum advance), but I assume you do as they are common with dual carb set-ups.
+The 009 distributor is notorious for causing hesitation on acceleration as they don't provide the shot of advance needed for a smooth increase in engine rpm which the vacuum distributors provide.
+As carburetors age, they can occasionally suffer slight air leaks and this will compound any hesitation problem caused by a 009 distributor. (The normal method of overcomining any hesitation problem is to run the carburetors rich - replacing the lost vacuum advance with more fuel, so if a carburetor runs a little lean the hesitation reappears).
+Try testing for air leaks with WD40, starter fluid or similar with the engine idling - ANY increase in rpms indicates an air leak as WD40 adds more "fuel" for a moment. Throttle shafts, intake manifold/head joint, etc. -- anywhere an air leak could occur.
+The 1641 cylinders.  These have very thin walls and can warp with engine heat, causing a loss of compression.  Some folks get a good run with them - and others find that they wear out very quickly.  Try a compression test -- if the cylinders have a large variation in compression, or if any one cylinder is below 100psi, they need to be replaced (a complete pistons-and-cylinders (P&C) set).  Many VW folks say that using either stock 1600cc P&Cs or getting the case machined for 1776cc P&Cs (which have thick walls) gives a much longer lasting engine that using 1641s.
+Rob's note - 2019:
+There is another option these days, the 88mm "machine in" pistons and cylinders.  These cylinders are stepped - thin at the bottom to slip into the unaltered case, but thicker walls up from the case, so they need the heads fly cut (hence "machine-in") to fit over the wider cylinder tops.  This gives you 1679cc with nice thick walled cylinders which will last as long as the stock 1600s)
+A worn P&C set will not necessarily cause hesitation by itself, but if one cylinder is particularly bad it may "miss" under heavy acceleration, and with your light flywheel this would be more noticable than otherwise (less inertia in the flywheel to smooth out the missing power stroke).
+~~~
+Bottom Line
+We found the most common causes of stuttering and stumbling (i.e., "hesitation") to be -
+A distributor/carburetor mismatch.  See John Connolly's
+"Choosing the Right Distributor"
+article.
+Incorrectly adjusted carburetor (especially the Volume Control Screw).
+Leakage of air into the intake manifold. Such leakage will make the fuel/air mixture too lean and will render tuning of the carburetor (and thus the ignition) impossible.
+A clogged fuel filter. We've found that six months is about the limit.
+Automatic choke problems.  Make sure your automatic choke is assembled properly and is correctly adjusted.
+* 
+                    * * * *
+Design by
+Erin

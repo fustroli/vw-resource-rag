@@ -1,0 +1,69 @@
+Fuel Filter Service
+Fuel Filter Service
+See also our
+Fuel Filter Discussion
+.
+~~~
+WARNING:
+Gasoline is extremely flammable, so take extra precautions when you work on any part of the fuel system; such as -
+Don't smoke or allow open flames or bare light bulbs near the work area.
+Don't work in a garage where a natural gas-type appliance (such as a water heater or clothes dryer) with a pilot light is present.
+If you spill any fuel on your skin, rinse it off immediately with soap and water.
+When you perform any kind of work on the fuel tank, wear safety glasses and have a Class B type fire extinguisher on hand.
+~~~
+Note:
+In cars with the fuel filter located below the 
+              fuel tank under the car, replacement is easier if the fuel tank 
+              is empty. Try to schedule fuel filter replacement when the tank 
+              is nearly empty. For standard Bugs with a fuel filter inside the 
+              tank, the tank MUST be empty, as you will have to remove the gas tank to get at the filter.
+Often times poor performance (or NO performance!) can be traced to the fuel filter, which is located under the fuel tank. Rob had an interesting experience in this regard -
+When I examined the filter it looked okay, and when I blew backwards though it I had no trouble blowing air through it.  But I discovered that the thing was apparently partially blocked - enough that only a trickle of fuel could get through.  So giving it a rest allowed what was in the pump to leak through and partly fill the bowl in the carburetor, then as I drove, the trickle was less than the fuel use and eventually the car conked out again.
+Lesson learned
+-- When in doubt, replace the filter!  It can cause you serious headaches if it gets clogged or even partially clogged.  The filter is very inexpensive (your local auto parts store will probably have them) and relatively easy to replace.
+Clogged Fuel Filter
+Clogged and New Fuel Filters
+~~~
+Procedure (Super Beetle)
+Note:
+In the Super Beetle the fuel filter is located under the fuel tank in the right-front wheel well.  This procedure includes removal of the right front wheel.  Dave has found that the filter can be easily accessed by jacking the front of the car up and supporting it on jack stands.
+Firmly set the parking brake.
+Loosen the lug nuts on the right front wheel.
+Raise the front of the car and put it on jack stands so you can get under it.  Make sure the car is stable before you crawl under it!
+Remove the right front wheel.
+Note:
+You ARE going to spill some gas - a lot if you're not careful!!  Be prepared with a flat metal pan to put under the working area (before you begin work on the fuel filter!), a quart jar to catch gas as you break connections, a couple of nail punches, and lots of rags.
+Note:
+We formerly recommended using sharpened pencils to plug the fuel lines when they are removed from the filter.  This will work okay if you are careful, but it is easy to break off the end of the pencil in the fuel line and not  realize it.  Poor performance will result.
+Clamp off the hoses on either side of the fuel filter by whatever means is available to you.
+Note:
+Dave has tried various means of clamping the hoses, with only marginal success, lots of frustration, and lots of spilled gas.  He has found that the following method is easiest and results in the least amount of gas spillage.
+Loosen the hose clamp on the upstream side of the filter (that is, the hose coming from the fuel tank) and pull that hose off of the fuel filter.
+QUICKLY
+plug the fuel line with a nail punch and (also quickly) place the open filter into the quart jar.   Allow the fuel to drain back (from the fuel pump) through the filter and into the jar.
+Note:
+You will probably need to build a little pedestal out of 2x4's or something to set the jar on, as the removed line won't extend all the way down to it.  There won't be much gas spillage in any event, since with the front of the car raised the fuel line is sloping toward the rear of the car.
+Remove the fuel line from the other end of the old filter, leaving the line to continue draining into the jar (if necessary).
+Note:
+Carefully examine the condition of the fuel line.  It can become hard and brittle over time, making it very difficult to insert the nozzle on the fuel filter into it.  Dave found the end of the line to be cracked, so he cut it back about half an inch.  Then he had a VERY difficult time getting the fuel filter into it.  He had to ream it out repeatedly with the nail punch, all the while spilling gas all over the place.  If this happens to you, replacement of the fuel line from the tank down to the filter is in your future.  See our
+Fuel Tank Removal and Refurbishment Procedure
+for details.
+Attach the larger end of the new filter to the line out to the fuel pump (there will be an arrow on the filter indicating the direction of flow), and secure it with a hose clamp.
+QUICKLY
+remove the nail punch plugging the line from the fuel tank and attach the end of the line to the smaller end of the new fuel filter.  Secure the line to the filter with a hose clamp.
+Note:
+It is important to attach the line from the fuel tank to the filter as quickly as possible, as there may be up to ten gallons of head behind this line!
+Note:
+Note the direction of flow carefully.  It's easy to get the hoses mixed up and install the filter backwards.
+~~~
+Fuel Filter in the Engine Compartment
+Please note:
+If you have a filter between the fuel pump and the carburetor, MOVE IT!  The brass inlet pipe in the top of the carburettor is just a push fit in the carb metal, and the extra weight of a fuel filter jiggling on that fuel line CAN be enough to work the inlet pipe loose, and if that happens, you'll have fuel sprayed all over your hot engine.  A toasted bug it not a pretty site!  Any fuel filter in the engine bay should be BEFORE the fuel pump, so it gets nice clean fuel to work with, and that inlet pipe for the carburettor has no extra weight hanging from it.
+While you're looking at fuel filters, clean the filter screen in the fuel pump (if there is one - usually only on standard Bugs with the old style upright rectangular pumps), as follows -
+Remove the screw or bolt on the top of the fuel pump and lift the cover off.
+Remove the screen; clean it with solvent and reinstall it with a new gasket.
+Reinstall the fuel pump cover, being very careful not to break the top gasket (voice of experience!).
+* 
+                    * * * *
+Design by
+Erin

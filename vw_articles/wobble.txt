@@ -1,0 +1,61 @@
+Wobble
+The Notorious Super Beetle "Wobble"
+~~~
+The following subtopics regarding the SB "Wobble" are discussed here -
+Why Do Supers Wobble?
+Resolving an "Out-of-Round" Problem
+Make Sure the Front Wheels are Balanced - On the Car!
+When All of the Above Fails...
+Conversations re the SB "Wobble" Problem.
+~~~
+Why Do Supers "Wobble"?
+The Super Beetle is notorious for a wobble (shimmy) at about 35-45 mph.  This "wobble" at 35-45 mph can be very annoying!  Why do Supers shake?  There are a number of possible reasons:
+The front suspension is out of alignment.
+Bushings in the suspension may be worn out (note that bushings and bearings on lowered cars can wear faster.
+The front wheels are out of balance.
+The front wheels are "out of round."
+~~~
+Resolving an "Out-of-Round" Problem.
+Sometimes the problem can be solved by simply changing the position of the wheel on the brake drum.  The wheel will bolt up in four different locations on the drum.  Mark a spot by one of the lug stud's hole on the wheel and drum.  Move the wheel around 90-degrees at a time and test drive each time to see if it helps.  This procedure is easy and will sometimes get rid the shakes.
+If changing the position of the wheels on the drums doesnt resolve the problem, first get the front end aligned, then make sure the wheels are not "out of round."
+A wheel being "out-of-round" means that it is not centered exactly on the brake drum.  Centering it is a matter of trial-and-error -- here's the way we do it -
+Block the rear wheels and set the parking brake.
+Loosen the lug nuts just enough so you'll be able to tighten or loosen them with the front wheels off the ground.
+Jack up the front of the car and set it securely on jack stands.
+Make sure the front wheels roll freely, with the lug bolts loose enough that you can tap the wheel down with a rubber mallet, but tight enough that the wheel will remain in place.
+Wiggle the wheel up-and-down or back-and-forth a bit to center it better.
+Lay your big bod down on the floor/ground/whatever and hold a piece of chalk very still under the wheel as you spin it.  Very slowly move the chalk up nearer and nearer the spinning wheel.  If the wheel is out-of-round, the chalk will mark the "high" point.
+Rotate the wheel 180 degrees so that the chalk mark on the tire is now on the top.  Tap the wheel on the top with a rubber mallet to move it down just a titch.
+Continue this process until the wheel is perfectly round.
+Not too difficult, and a bit of patience really pays off.
+~~~
+Make Sure the Front Wheels are Balanced -- On the Car!
+Once you have the front end aligned and the wheels centered properly on the brake drums, get the front wheels balanced on the car!  Not many places do this anymore, but its worth searching for a shop with the proper equipment.
+Dave suffered with the Super Beetle wobble for quite some time.  He had all of the bushings in the front suspension replaced and the front end aligned, to no avail.  He finally went the centering and balancing route and reported that "balancing and centering the wheels was the ONLY thing that worked for me."
+~~~
+When All of the Above Fails ...
+If the wobble is still present after the wheels are centered and balanced and the front end is properly aligned, check/change in this order:
+steering damper ('71-'74)
+control arm bushings
+anti-sway bar bushings
+idler arm bushing
+pitman arm bushing
+center tie rod
+strut bearings
+ball joints
+wheel bearings
+tie rod ends
+strut inserts (shocks)
+steering shaft (requires removal of the gas tank)
+steering gear box (adjust or replace)
+You may want to have a alignment shop check all these individual components for you and only replace the needed items.
+~~~
+Conversations Regarding the Super Beetle "Wobble" Problem
+Dave reported - The car is running perfectly -- the only down side is that blasted wobble.  The wobble starts at about 35mph and smooths out by the time we get up to 45 or so (classic SB wobble as I understand it).  And I don't see any uneven wear pattern (though the uneven wear may not show up until the tire is well worn, I guess).
+When I replaced the spinner on the right front I intentionally rotated the wheel forward 90 degrees.  That made the wobble much worse.  We had a combination once (position of the wheel on the brake drum) that pretty much corrected the problem.  I'll try the wheel rotation trick a couple more times, then I'm going to take the car to the shop I found that can center the wheels and spin balance them on the car.
+Dave wrote following the centering and balancing - They centered the right front wheel, which almost completely cleared up the wobble!  What a joy driving it home!  No 35-40mph wobble, no hesitation or stumbling, 70mph on the freeway -- FUN to drive again!  I'm delighted!
+Ive learned a lesson -- every time the front wheels taken off the car they have to be very carefully re-installed so they aren't out-of-round, and then spin balanced on the car.  That way you balance the whole works -- brake drum, wheels, tires, etc.  It may be hard to find a place that can/will do this, but persevere.   They do still exist out there.
+* 
+                    * * * *
+Design by
+Erin

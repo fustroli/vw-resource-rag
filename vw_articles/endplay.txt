@@ -1,0 +1,34 @@
+Endplay
+Endplay/Engine Bearings
+~~~
+Dave's first indication of a possible endplay problem was a slipping clutch.  It was especially noticeable when shifting down while climbing a hill.  Also, Dave noticed an excessive amount of oil on the floor in the garage.  Upon examination it was found that the leak was coming from between the engine case and the tranny, indicating a probable main seal problem.
+So Dave resignedly removed the engine from the car for the fourth time.  The further he got into it, the more problems he found.  The most disturbing thing was that the metal of the engine casing forward of the flywheel was worn, in about a 4-inch diameter area around the seal, and there were little shavings of metal laying around.
+Rob wrote to say -- That's typical when the front main bearing spins in the case.  This is starting to get into "gulp" country - internal case work is required if the main bearing has spun.  They are normally held in position in the engine case by some kind of pin or bump in the shell of the bearing (I can't picture it from memory) and if they spin they can wear out the bearing carrier, which is part of the case.  I think it can be repaired by boring the case and using a "fatter" bearing shell to take up the space induced by the boring.
+"Speedy Jim"
+wrote with a "poor man's" endplay test -
+Remove the flywheel and push in on the bearing.  (Prying with a large screwdriver works well.)
+Push the crank back in from the pulley end.
+Repeat.  What you're trying to do is make the crankshaft move longitudinally through the case.
+Look for movement at both/either end of the crankshaft.
+If you can see
+any
+movement of the crankshaft, the bearing has spun.
+In other words, see if the crankshaft can be push-pulled long-wise through the case.  If you can see/feel more than the tiniest motion (0.006"-- same feel as a  normal tappet movement), the end-play is excessive, usually due to the bearing.  If the bearing has been spun, you can NOT compensate by shimming more.
+The main bearing takes the "end load" -- the push-pull load on the crankshaft.  So if this bearing has "spun" in the engine case, then the end-play is no longer properly controlled and the crankshaft can move fore-aft.  That's what causes the main seal to get rubbed and damaged.  Also, if the bearing has spun, the engine case may be damaged; if so, internal engine case work will be required to repair it (at least a partial engine rebuild).
+The excessive endplay isn't so much the fault of the bearings themselves (though they may cause some of it), but more the engine case -- the bearing holders in the case, and areas like that.  It's common for a rebuilt to include an align-boring to clean up all the areas which hold the bearings, and to re-face the two case halves.  You can get different bearing sets for re-ground crankcases.  There are three thin shims at the flywheel end which are used to adjust the endplay, and this would be done if you completely rebuild the engine.
+When Dave measured the end-play using Speedy Jim's poor-mans method (see our
+Flywheel Removal Procedure
+, step #21), he found that the end play was in excess of 1/8th (0.125) of an inch!  Dave could push the crankshaft back and forth an eighth of an inch, almost by hand!  Dave talked to his VW mechanic about the end-play -- he said that the end-play on a worn engine can be a bit greater than 6 thousandths, but he agreed that 125 thousandths is a bit too much!
+Dave called "Speedy Jim" on the phone and talked with him about it right after he discovered the excessive end-play; Jim said that it would indeed be necessary to ream out the case and install an over-sized bearing.
+Dave stripped everything off of the engine block, then loaded it into the truck, and hauled it to a VW shop in a neighboring city.  The mechanic there found that the spun bearing had done irreparable damage to the engine case -- he reamed the case out, but the oversize bearing still spun in it. But all of the other internals (pistons, cylinders, rings, valves, etc.) look good, he said. There was no damage to the flywheel, but the main oil seal was absolutely shredded.  The mechanic found a rebuilt engine case in a nearby city and had the engine back together the following afternoon.
+Dave talked with his mechanic about the wear on the rear face of the engine case.  He said that was due to the crankshaft moving back and forth, and the wear was from the flywheel rubbing on the engine case.  The flywheel isn't damaged because it's made of steel and is much harder.
+Dave mentioned that there was oil everywhere, even up into the fan housing.  Dave had to take the cooling vanes out and clean them and the inside of the housing (of an obsessive nature, Dave gave everything a nice coat of black paint). Dave's mechanic said that oil all over the place is typical of this situation -- the whole problem, main seal and then clutch -- was due to the bearing failure and the resulting excessive endplay.
+Dave was quite frankly relieved that he was going to be getting a new engine case -- and VERY relieved to learn that all of the engine internals were in good shape.  Once the engine is reassembled nothing should be different -- the case houses the crankshaft and will have all new bearings -- the cylinders, pistons and heads, which the mechanic says are in excellent shape, will be the same.
+The trail of discovery to this problem is interesting -- first the clutch slipping, which was caused by oil getting by the main seal, which in turn was damaged by the excessive endplay due to a spun bearing.
+~~~
+BOTTOM LINE:  Check your end-play every time you have the engine out!
+Save yourself some grief!
+* 
+                    * * * *
+Design by
+Erin

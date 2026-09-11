@@ -1,0 +1,17 @@
+Capacitor Test
+Capacitor (Condensor) Test
+~~~
+Condensors last a long time, but a defective condenser makes a huge difference in the spark voltage.
+Here's a good snippet from an Aussie manual for testing the capacitor -
+Remove distributor cap.
+First, make sure the condensor is connected to the points properly.
+Turn crankshaft until the points are fully open (any cylinder).
+Disconnect the LT (green) wire from the coil.
+Connect a test lamp wire to the ignition coil terminal and the other lead to the distributor wire.
+Switch on the ignition.  If the lamp lights, the condensor is grounded internally and must be replaced.
+Now reconnect the distributor wire to the coil.
+Pull the main high tension wire from the coil, and with the ignition on, turn the engine over.  The spark should jump a 1/4 inch gap to earth.  If it won't jump this distance, replace the condensor.
+* 
+                    * * * *
+Design by
+Erin

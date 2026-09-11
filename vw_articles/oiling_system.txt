@@ -1,0 +1,27 @@
+Oil Pressure Relief
+Oil Pressure Relief
+From 1970 onward, there are two oil pressure valves in the engine.  The oil pressure valves are spring-loaded pistons that move in bores machined into the left-hand crankcase castings.  (See the following schematic view of the oiling system.)
+Schematic View of the Oiling System
+~~~
+The oil pressure relief valve is located at the pulley end of the engine, near the oil pump (on the right in the above schematic).  When the oil is cold and thick, the resulting increased oil pressure forces the valve down against spring tension.  This allows oil from the oil pump to go directly to the engine bearings.  In by-passing the oil cooler, warm-up is speeded and the oil cooler is protected against excessive pressures that might cause it to burst.
+The oil pressure control valve is located at the flywheel end of the engine, at the extreme end of the main oil passage (at the left in the above schematic).  When oil pressure rises above the point necessary to supply lubrication to the bearings, the valve's piston is forced down against spring tension.  This allows oil to be returned directly to the crankcase sump.
+Note:
+The spring in the pressure relief valve is longer than the spring in the pressure control valve.  Make sure you don't mix them up!
+The oil pressure control valve ensures that oil pressure will remain constant at the bearings, regardless of engine speed.  Thus, at high engine speeds, when pump output is greatest, the excess oil is allowed to escape.  If the surplus oil were delivered to the engine's working parts, it might sspray out onto the cylider walls in excessive quantities and cause increased oil consumption.  Avoiding excess oil pressure also reduces the power lost by the engine in driving the oil pump.
+A cracked or otherwise leaking oil cooler should prompt the removal and inspection of both oil pressure valves.  If either valve is stuck or sticks intermittently in its closed position, it can cause excessive oil pressure.  Usually, the oil pressure valves become sticky only in neglected engines.  If the oil is not changed regularly (i.e., every 3000 miles), foreign matter or corrosive agents may attack the valves and prevent them from moving freely.
+Note:
+If you plan to install an oil temperature gauge in the dash, the sensor should replace the plug in the oil pressure relieve valve at the rear of the engine (pulley end), NOT in the oil pressure control valve at the front (flywheel end) of the engine.
+When removing the valves - note the slotted plugs.  These are a tight fit in the crankcase, and you should not try to remove them with an undersize screwdrive.  Use a tool that will completely fill the slot.  Otherwise, the alloy plug may be ruined or deformed.
+To remove an oil pressure valve -
+Using a properly fitting screwdriver, remove the slotted plug.
+Remove the spring and plunger.  If the plunger is stuck, remove it by screwing a 10-mm tap into it.
+To install -
+Check the plunger and bore for signs of seizure.  Carefull remove rough spots and deposits, then install a new plunger if necessary.
+Examine the spring.  It should not be deformed or damaged by abrasion or corrosion.
+Caution:
+Once again, if both valves are removed, be careful not to mix up the springs.  The springs for the pressure relief valve (rear of engine) and pressure control valve (front of the engine) are not interchangeable.
+Reassembly the valve by inserting the plunger first, then the spring, and finally the gasket and plug.
+Caution:
+Do not overtighten the plug.  You could strip the threads in the crankcase casting.  Also, do not apply sealing compound to the plug or gasket.  Doing so could make future removal difficult or impossible.
+* * * * *
+Design by Erin

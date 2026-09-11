@@ -1,0 +1,38 @@
+Interior Light Replacement
+Interior Light Replacement
+~~~
+Some enterprising previous owner installed a beautiful black headliner in Dave's '73 Super Beetle, and in the process covered up the interior light.  On purpose, obviously, because they also removed the light fixture itself and disconnected and removed all the wiring (the reasoning behind this escapes me).
+See also our
+Interior Light Discussion
+.
+~~~
+Here's how we fixed the problem
+and restored the interior light -
+Locate the rectangular hole (about 1" x 3") under the headliner directly above the door on the driver's side.  If a previous owner has covered the hole with the headliner, it will be necessary to cut through the liner longitudinally the length of the hole, then make diagonal cuts into the corners.  Apply a small amount of contact cement to the underside of the resulting flaps and fold them around the lips.
+The light fitting has a three position switch, 'door-off-on', so even without the door switches, you can still use it.  It should clip in the hole by inserting the rear end, then 'snapping' the front end (switch end) into the hole.  The front end has a U-shaped flat spring for this purpose, and a 'cut-out' in the plastic lip to allow a screwdriver to push in this spring for removing the light.  The tip of the flat spring is just visible at the front edge of the fitting with the light installed.
+If the wiring is missing:  Measure lengths of wire (distinctly colored) sufficiently long to reach from the interior light through the left door jam to the fuse holder; add 12-18" to work with.
+We used the following colors (basically because the proper VW colors were not available):
+One red (hot)
+One yellow (ground)
+One green (ground)
+Starting at the hole for the light fixture, snake a stiff piece of coat hanger wire with a hook in one end down and into the left door jam, then through the hole in the tin that the defroster tube passes through.  Push the coat hanger wire on into the cabin right above the top of the carpeting.  (Or, you may find it easier to push the wire up through the door jam to the light fixture opening.)
+Twist the three wires (red, green and yellow) together at one end and attach the end securely to the hook in the coat hanger wire that is protruding into the cabin.  Pull the wires back through the hole for the interior light.
+At the fixture end of the wires:
+Separate the three wires at the fixture opening.  Attach a female spade connector to the end of the red wire (positive) and then attach this to the single spade connector at the end of the fixture opposite the switch.  This wire goes to the #9 fuse in the fuse holder.
+Attach a female spade connector to the end of the yellow wire (ground, originally brown) and attach it to the bottom of the two pins on the switch end of the fixture.  This yellow wire goes to the driver's side door switch, then travels across the dash to the door switch on the passenger side.
+Attach a female spade connector to the end of the green wire (also a ground, originally brown/white) and attach it to the top pin on the switch end of the fixture. This green wire goes straight to ground (there should be a spare ground connecting spade on the back of the instrument cluster).
+At the in-cabin end of the wires:
+Attach a female spade connector to the green wire and connect it to male grounding connector on the speedometer cluster.  You'll need to pull out the speedometer cluster to do this.  (Alternately, find any other convenient grounding point under the dash.)
+Cut the yellow wire an easy working distance from the left door jam and attach a female spade connector.  To this connector connect a three-way male spade connector.
+Attach female spade connectors to both ends of a yellow wire of appropriate length.  Attach one end to one of the two remaining connections on the three-way connector and run the other end back into the door jam and through the square hole in the jam.  Attach it to the door switch and install the switch per the instructions below.
+Attach a female spade connector to a length of yellow wire and attach it to the remaining connection on the three-way connector.  Run this wire across the car under the dash, into the right door jam and through the square hole in the jam.  Attach a female spade connector and then attach the wire to the door switch and install the switch per Step #9 below.
+Attach a female spade connector to the end of the red wire and attach it to fuse #9 in the fuse holder (you will need to remove the holder to do this; two screws attach it to the underside of the dash).
+The door switches are installed from the front (outside) of the door jam.  Having attached the yellow (ground) wire to the switch, simply pass the switch through the square hole in the door jam and secure it with a single self-tapping screw on the bottom.  This screw also provides the ground connection for the switch.
+Note:
+These switches do corrode occasionally, causing failure in the light when you open the doors.  However, the switches are an open design, and the contacts are easy to clean with a piece of emery paper.
+Install a #211 5-watt festoon globe in the interior light.
+The circuit can be closed, causing the light to come on, in three ways: 1)  by turning the switch to the full on position; this completes the circuit to the ground on the speedometer, 2) by opening the driver's door; this completes the circuit to ground on the left door jam, and 3) by opening the passenger's door; this completes the circuit to ground on the right door jam.  The light can be operated without the door switches if they are found to be difficult or impossible to replace.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,39 @@
+Safety
+Fuel Safety
+~~~
+Dave, a chemist and a hazardous materials specialist, provides the following safety information regarding gasoline (petrol).
+Gasoline has a flashpoint (FP) of 45 degrees F BELOW ZERO!  This means that if you were to take a gasoline container to Alaska in the middle of the winter (-45F), then open the container and provide an ignition source at the mouth of the container, you would get a flash.  There is sufficient molecular movement even at this very low temperature to kick enough gasoline into the vapor space above the liquid to reach its lower flammability limit (LFL).
+Gasoline has a vapor pressure (VP) of 525 mm of mercury at 25C.  Since atmospheric pressure is 760mmHg@25C, this fact tells us that gasoline is extremely volatile (the closer the VP is to atmospheric pressure, the more volatile the substance is).
+Bottom line
+-- Gasoline is extremely volatile and extremely flammable.  It is most certainly one of the most hazardous substances we commonly deal with.  BE CAREFUL!
+Of course, gasoline isn't the only hazardous material we use as we work on our precious little Bugs.  See our article on
+Automotive Chemicals and Lubricants
+for a listing of some of the others.  To work with these materials safely, it is imperative that you understand the
+nature
+and
+degree
+of any hazards that may be associated with them.  For instance, the nature of gasoline is that it is flammable and volatile; the degree of these hazards is VERY in both cases.
+All chemicals sold in the United States have associated with them a written Material Safety Data Sheet (MSDS) that tells all about the chemical.  It is a wise precaution to read and understand the MSDSs for the automotive chemicals you will be working with BEFORE you start to work with them.
+~~~
+Bug Fires
+Something that seems unimportant but causes most engine fires is the rubber o-ring that the fuel line goes through in the sheet metal in the front of the engine by the #3 cylinder. Because of the heat, this rubber seal becomes brittle with time.  If it breaks, the fuel line will rub against the sharp edge of the sheet metal and eventually spring a leak.  Then the fuel runs down onto the hottest exhaust manifold of the engine, and gasoline vapors are exposed to the sparking going on in the distributor, and a fire can result.
+Another potential problem is the fuel line running from the fuel pump to the carburetor.  Make sure this line is secure; if it breaks free for any reason, a fire can result.  Many people put a fuel filter in the line between the fuel pump and the carburetor.  This may not be a good idea, as the weight of the filter may pull the fuel line off of the carburetor and put fuel and spark in close proximity.
+~~~
+A 5-Minute Safety Training Aid
+Pub. No. HS99-138B(04-03)
+Gasoline is the major fuel source used to power cars, lawnmowers, boats, motorcycles, snow blowers, some tractors, and some light planes.  It is so much a part of our everyday living that we forget how dangerous it can be if not properly handled or stored.  The number one hazard of gasoline is fire or explosion.  Liquid gasoline does not burn, but gasoline vapors do.  Since the vapors are heavier than air, they move along close to the ground and can collect in low areas.  Any ignition source (cigarette, match, hot exhaust pipe or any spark) can ignite gasoline vapors.  When gasoline vapors ignite, one gallon of gasoline can explode with the same force as 14 sticks of dynamite.
+Gasoline can also cause adverse health effects.  Contact with the skin causes the skin to dry and crack. Prolonged breathing of gasoline vapors can cause dizziness, nausea, or vomiting.  Siphoning gasoline by mouth may cause you to swallow gasoline, which can cause vomiting.  Gasoline may then enter your lungs causing chemical pneumonia.  Chemical pneumonia can be fatal.  Gasoline contains a toxic chemical called Benzene.  Benzene is a known carcinogen.  Avoid breathing gasoline vapors or taking gasoline into your mouth.  When handling, transporting, or storing gasoline, take all necessary safety precautions.
+Never use gasoline as a cleaner, solvent or charcoal lighter.  The vapors may float along the ground and contact an ignition source, causing an explosion.
+Always wash your hands thoroughly after handling gasoline, even if you didnt spill any.  If gasoline spills on clothing, remove the clothing immediately.
+Use gasoline in open areas where there will be plenty of fresh air and keep it away from your skin and eyes.  Avoid prolonged breathing of gasoline vapors.
+Keep gasoline away from children and pets.
+While filling a container with gasoline, remove the container from the vehicle and place it on the ground.  (Never fill a container in a truck bed or trunk of a car.)  Keep the nozzle in contact with the container.  Fill the container only 95 percent full.  This will allow the gasoline to expand during temperature changes.
+When filling a vehicle or container with gasoline, turn off the engine.  Extinguish cigarettes, pipes, etc.  Never smoke or keep an open flame within 50 feet of a gas pump or any refueling activity.  Allow gas-powered equipment, such as lawnmowers, to cool before refueling.  Refueling hot powered equipment can cause the vapors to ignite or explode, resulting in severe injury or burns to anyone close by.  Always move the gas container at least 50 feet from gas-powered equipment after fueling and before starting the machine.
+When placing a container of gasoline in a vehicle, tighten both the container cap and vent cap. Always place the container in the pickup bed or the car trunk. Secure the container so it will not slide around or tip over.  Do not leave the container in direct sun and remove it from vehicle as soon as possible.  Heat will build up the pressure in the container.  Never place the container in the passenger compartment.  Placing a container of gasoline in the passenger compartment can create a hazardous atmosphere inside the vehicle, which can ignite and is harmful if inhaled.
+Store gasoline in approved metal or plastic containers only.  Look for the UF or CSA label.  Never store gasoline in the house.  Gasoline should be stored in an outside well ventilated shed away from ignition sources, or in a fireproof container.
+Following these rules for the safe handling of gasoline will reduce your chance of injury or even death.
+~ Remember To Practice Safety. Dont Learn It By Accident! ~
+* 
+                    * * * *
+Design by
+Erin

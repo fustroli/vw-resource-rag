@@ -1,0 +1,23 @@
+Ignition Key
+Ignition Key
+Someone wrote with a problem - I have no key for the ignition switch in my Bug and have purchased a new switch with a key.  Your
+ignition switch removal
+instructions indicate that the key is necessary to get the existing ignition switch out.  Is there something else that I need to know to make this change?
+Dave responded - You do have a bit of a problem.  As we indicate in our
+ignition switch removal
+instructions, the lock cylinder is removed by inserting the key into the lock and then turning it all the way to the "start" position then pulling the lock cylinder out of the housing using a strong, steady pull.  Obviously to do that you must have the ignition key that fits your car.
+The guy wrote back - It turns out that on the door handle (on the inside), which is very easy to remove, there is a is the key code.  Since the key is the same for both the door handle and the ignition, I took the handle to the lock smith who made a new key -- that worked like a champ!
+Rob weighed in in his imitable fashion - This is interesting.  So as long as you have the door and ignition keyed alike, you can get the code off the door lock, even though the door locks have only 5 tumblers and the ignition has 7.  (Dave Hall's Web site in the UK -
+The Website for Type 3 and 4 Volkswagens
+,  explains how to reset the tumblers so you can get the door and ignition using the same key -- after replacing the door locks for example).  You always reset the door locks to the ignition though, as then you only have to reset 5 tumblers rather than
+7, but of course then the code on the door tumbler will be incorrect (so don't ever lose both sets of keys after doing this! 
+:-) )
+Of course you can also just record the code number for the key someplace away from the car so you can get a new set of keys cut from that.
+My Camry uses the same coding method - in a 30 years younger car.  When we lost both keys to the Camry we had to get a 
+locksmith to disassemble the door and cut a new key from the door cylinder number so I could get the steering lock off and get the car on to the truck to get it to a Toyota dealer.  Unfortunately that wasn't the end of the story due to the electronic transponder in the Toyota key heads and it took a $1000 and two days for them to install a new ECU and 
+ignition tumbler (which has the transponder reader) so the ignition would activate and then a new set of keys could be coded to the car.
+Moral of the story - don't lose ALL sets of keys, especially in modern cars with electronic key heads.
+* 
+                    * * * *
+Design by
+Erin

@@ -1,0 +1,85 @@
+Lubrication
+Lubrication of the Front Suspension
+~~~
+Topics discussed in this article -
+Lubrication Procedure from the Manuals
+Discussion Between Rob and Dave
+Also note the following "Sermons of Bob Hoover" on the subject of lubrication (reproduced here with Bob's permission) -
+"Lube Jobs, Needles and Looking Kewl"
+"Doing the Deadly Deed"
+"Zerks! Zounds! and Needles"
+~~~
+From the Manuals
+(Bentley, Haynes, Muir)
+On all models 1964 and earlier without ball joints:  You have six places to grease on each side, two for the king pins, two for the torsion arm link pins and two places for the torsion tubes.  If there are grease fittings on your tie rod ends, grease them too.  Check the tie rod ends for play and the whole front end while youre at it.  (Some early models have grease fittings on the tie-rod ends.)
+On all models 1965 and later with ball joints:  There are four grease fittings on the front axle beam (two on each of the two torsion arms, near the outer ends) that need to be greased (except Super Beetles with MacPherson strut front suspension).
+On 1970 through 1972 models, the front axle should be greased every 6000 miles;
+On 1973 and 1974 models, the front axle should be greased every 18,000 miles;
+On 1975 and later cars, grease the axle every 15,000 miles.
+~~~
+Lubrication Procedure
+Carefully raise the vehicle and support it securely on jackstands.  The grease wont go in unless the weight is off the suspension.
+Note:
+On the end of the flex hose attached to the grease gun theres a female fitting.  The grease fittings in the front suspension (often referred to as zerks, or, outside the USA, as "grease nipples") are all male, screwed into all the places on the front end that need grease.
+Force a little grease out of the gun nozzle to remove any dirt, then wipe it clean with a rag.
+Wipe the grease fitting (zerk) with a clean cloth until the ball is shiny before pumping grease into it.
+Push the nozzle on the hose from the grease gun firmly over the grease fitting.
+Note:
+It helps to push the fitting on the grease gun nozzle over the male fitting on the car at an angle, then pull the gun nozzle up straight; that makes the connection.
+Grab the barrel of the gun with one hand and the handle with the other and pump a little.  If grease starts to come out of the connection, stop right away and make the connection to the fitting over again.
+Squeeze the lever on the grease gun to force grease into the fitting until fresh grease appears in the joint between the torsion arm and axle beam or the tie-rod end dust boots.
+Note:
+You want to CHANGE the grease, not just top it off -- just like changing the oil.  Keep pumping until you see NEW grease coming out of the joint.
+Wipe all surplus grease from the fittings and the suspension parts.
+Note:
+If the connection between fitting and hose refuses to seal, the fitting has been damaged and will have to be replaced -- they just screw in.
+If you cannot force grease through any of your fittings, some people recommend that you take the car to the service station and get the power grease gun on it.
+Bob Hoovers response to this
+- Bad, bad idea.  What if the fitting is filled with dirt? What if the spring has failed and the ball is rusted in place?  (Hint: You'll pump parts of the spring into the joint you're trying to lubricate.) And finally, what if even the powered grease gun can't force grease through the nipple?
+If you have a bad zerk fitting, replace it.  You can buy zerk fittings at any auto-parts place that sells grease -- they come with the territory.  You should keep a couple of spare zerks of each type (they come in both straight and angled flavors) in your tool kit, just as you keep a few spare fuses and a few spare tire-valve cores.  It's not anything special, it's what mechanics DO. Make sure you buy zerks with the correct metric thread!
+Carefully lower the vehicle to the ground.
+Clean the grease gun and put it away -- thats all youll use it for.
+~~~
+Lube Jobs, Needles and Looking Kewl
+Condensed from a Bob Hoover "Sermon"
+(Used with permission)
+A youngster asked Bob Hoover how much grease he should put in his fittings when he gives his '64 Bug a lube job.  It squeaks, he said.
+Bob wrote - Instead of telling him, I pull out the manual, to point him toward the proper page and paragraph.  But it wasn't there.  Haynes says only to grease the thing -- no mention of how much.  Muir says the same thing.  The Bentley manual does a little better, saying "Continue with the greasing until fresh grease begins to emerge from the lubrication points."
+The kid responded - But that takes something like twenty strokes and all of my friends say that's "way too much."
+In his inimitable way, Bob wrote - Ah yes -- peer pressure, and the deadly need to look kewl.  This fellow's friends, one or two of whom might own a Volkswagen, were giving him the benefit of Conventional Wisdom.  And then there's the Muir manual, which sez to stop greasing as soon as you see grease come out.  Wrong.
+I sent the kid a long, carefully worded message explaining that the purpose of a lube job is to CHANGE the chassis lube, offering him some tips on how to keep things greasy so they'll last a long time.  The kid fires right back to say that after sending his second message he's checked with his dad and the local quickie-lube emporium (shudder) and EVERBODY AGREES...  one or two squirts of grease is all you need.   Faced with the possibility of looking un-kewl, the kid had taken the easy way out
+I begin to wonder....  doesn't everybody know the whole idea is to CHANGE the lube rather than just add a bit?   A lube job is in fact the REPLACEMENT of the lubricating grease, not just its replenishment.
+Lubricants -- oils, greases and soaps -- literally wear out.  Their long-chain molecules are sheared by heat and pressure and over time they become contaminated with moisture, dust -- and in the case of engine oil, with combustion products.  We deal with worn-out, contaminated lubricants by replacing them.
+Everyone knows they have to CHANGE their oil rather then just topping up.  And most of us know we have to CHANGE our tranny-lube every couple of years.  And we scrub all the old grease out of our wheel bearings and the spindle bore and repack them with NEW grease...
+So what's different when it comes to chassis lube?  A lube-job is just another form of oil-change.
+When doing a lube-job, too make sure you do a proper job of it, you keep pumping until you see the new grease coming from the part.  Yeah, it's a mess -- the old grease gets all over everything.  You put down some newspaper or something else disposable to catch the globs of falling grease, and use paper toweling to wipe off any grease that clings to the part.
+When you're done, you should put a cap of some kind over the zerk fitting.  Cars used to come with neat little rubber caps for this job, and replacements were commonly available, although I haven't seen their like in recent years.  Instead, I've taken to molding aluminum foil over the zerks after every lube-job.
+Lube jobs, like oil changes, are not carved in stone    you can't just go by miles traveled or a set period of service, you need to pay attention to the TYPE of miles traveled and the CONDITIONS encountered during a given period of service.  Normally, your steering and front suspension needs its lube replaced about every six thousand miles -- that's the spec.  Then comes the fine print.  Rough roads? (meaning lots of action from the suspension) -- replace the lube more often.  Dusty roads? (meaning more contaminants, plus the wicking-effect of dust) -- replace your lube more often.  (Oddly enough, a vehicle that does NOT drive very much needs its lube replaced more often than one which does.) It's all there in the manuals (at least, in most of them : ).  And has been, for about seventy years.
+It is not just proper lubrication that prolongs the life of the vehicle, there is also the implied CLEANING that accompanies any lube-job.  Dirty, dusty or harsh conditions, you need to clean your undercarriage more often.  That's what you do before you change the lubricant, just as you clean off your engine when do an oil change.
+Keep it greasy -- it lasts longer.
+~~~
+"Doing the Deadly Deed"
+Condensed from a Bob Hoover "Sermon"
+(Used with permission)
+Bob wrote - There are many different types of grease.  For most chassis lubrication needs any good grease will work, but see your manual for their recommended specifications.  For constant-velocity joints (CV's) you want a different formulation than the grease you use for your torsion bars -- one more suitable for high pressures.  This is often called EP - extreme pressure - grease and is black and VETY sticky.  This CV lube is also great stuff for tie rod ends and ball joints.
+There are three basic types of manually-operated grease guns but all of them are in fact a form of hydraulic pump, designed to pump grease rather than oil.  The lever-type gun can usually generate about 3000 psi, more than enough to force the thick grease into the finest fitting.
+It is common practice to maintain a different grease gun for each type of grease your vehicle requires.  I use a moly-based EP grease for CV's, tie-rods and ball-joints, a lithium-based wheel bearing type grease for the torsion-bar and steering knuckles.
+Grease is sold in convenient cartridges, although you can bulk-load your gun if you wish.  Wheelbearing grease is normally sold in cans.  The best wheelbearing grease has very long molecules -- it's called 'long-fiber' grease -- and is unsuitable for use in manual grease guns.  Each cartridge holds about 400 grams of grease -- about fourteen ounces.
+~~~
+"Zerks! Zounds! and Needles"
+Condensed from a Bob Hoover "Sermon"
+(Used with permission)
+Bob wrote - A zerk fitting is a nipple shaped to match the nozzle of a grease gun.  The grease passage through the nipple is closed with a check-valve, a tiny steel ball supported by an equally tiny spring.  Left exposed, zerk fittings go bad quite quickly, which is why they should always be protected with a cap.
+Being a lubricated joint, tie-rod ends were once fitted with zerk fittings and many still are.  The same is true of ball-joints.  Unfortunately, it has become common for auto-makers to equip their products with ball-joints and tie-rod ends that are 'lubricated for life,' which is automotive double-speak meaning the things will only last about sixty thousand miles before they must be replaced due to lack of lubrication.  They'll last longer if you stick to smooth, paved roads but the bottom line is that you can't lubricate them, meaning they'll wear out faster than a fitting you CAN lubricate.
+The solution to this 'Lifetime Lubrication' BS is pretty simple.  Some VW ball-joints have a threaded hole for a zerk fitting.  Simply replace the nylon plug with a zerk and pump away -- your ball-joints will love you for it.  Another, less effective method, is to inject grease directly into the fitting through the rubber boot, using a large hypodermic needle.  I know it sounds crazy but it works.
+The 18 gauge hypodermic needle is swaged to...  you guessed it    a zerk fitting!  Plug it into the nozzle of your grease gun, stab the needle through the boot of your tie-rod end, CV or ball-joint, and pump away.  Yeah, it makes a hole, and yeah, some of the grease will leak out.  But the thing will last a lot longer, too.
+~~~
+Discussion
+Both Rob and Dave enjoy lubing the front suspension -- their Bugs are always so grateful when they do!  Those four grease nipples are symbolic -- you do the maintenance routine and finish up under the front end with those grease nipples and the car just sighs with pleasure - "it's all done now and I feel good - want to go for a spin?"
+I guess not everybody enjoys crawling under the front of the car with a grease gun, Dave wrote.  To which Rob responded -- Then they shouldn't get a VW!!!  I like pumping grease in those four nipples (zerks) and watching it squeeze out the blackened stuff from the torsion bar rubber boots.  Make me think "happy bearing".  A couple of extra nipples is no biggy.
+Both Rob and Dave share Bob Hoover's discomfort with the "good for life" ball joints.
+As we always say, "Ya gotta love 'em!"
+* 
+                    * * * *
+Design by
+Erin

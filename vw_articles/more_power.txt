@@ -1,0 +1,115 @@
+More Power
+More Power!
+~~~
+Horsepower Through the Years
+1300cc Upgrade
+Dual Carburetors
+Effect of Added Components on Horsepower
+No Power In Fourth Gear
+~~~
+Horsepower Through the Years
+Year
+Displacement
+Horsepower - BHP
+*
+1940
+985cc
+22
+1943
+1100cc
+25
+1954
+1200cc
+36
+1961
+1200cc
+34
+1966
+1300cc
+40
+1967
+1500cc
+44
+1970
+1600cc
+47
+1971
+1600cc DP
+50
+1973
+1600cc DP
+50
+*
+BHP stands for Brake Horsepower - The measure of an enginne's horsepower without the loss in power caused by the gearbox, generator, and other auxiliaries.  The actual horsepower delivered to the driving wheels is less.
+~~~
+1300cc Upgrade
+Getting a little more power from a 1300cc engine is not hard and it is not too expensive.
+The 1300cc, 1500cc and 1600cc engines are almost identical.  In many countries it is almost impossible to get 1300cc or 1500cc pistons and cylinders, so these engines are often upgraded to 1600cc.
+The 1600cc pistons and cylinders will plug straight into the 1300cc or 1500cc case without any changes.  BUT - using the the 1300cc cylinder heads with 1500cc or 1600cc cylinders will result in much higher compression and will require 95 or 98 octane petrol to run properly, so it's more usual to replace the cylinder heads too - with the proper 1600cc single port heads.  This then gives a normal 7.5:1 compression.
+Your 1300cc engine probably has a Solex 30PICT/1 carburettor (it might just say 30PICT on the side).  These are NOT suitable for the larger 1500cc or 1600cc engine sizes because the 30PICT has no power jet and wil cause the bigger engine to run lean and hot at higher speeds.  So it's better to use the later 30PICT/2 or new Brosol H30/31 carburettor - both of these will fit on the 1300cc manifold.
+You must make sure the case in very good condition.  The F and E cases use cylinder heads studs screwed straight into the soft magnesium case material, and if you increase the engine size to 1600cc it is usually a
+good idea to put case savers into the case at the same time.  These are collars with threads inside and outside.  A larger hole is taped into the case for each stud - and the case savers are screwed into this
+hole.  Then the head studs are screwed into the case savers.  This will stop the head studs pulling out of the case with the increased power.  The head studs are changed from 10mm (straight into the case) to 8mm
+(into the case savers).
+If the engine has never been rebuilt before it probably needs new bearings too - camshaft and cam bearings especially.
+And always use new exhaust valves when rebuilding an engine - they slowly stretch as they get old and eventually they can break, because they are working very hot all the time.  The inlet valves get a much
+easier time and if they are in good conditon you can use them again if you want to.
+So - to summarize...for a little more power but keeping the cost down as much as possible...
+A set of 1600cc cylinders and pistons
+A set of 1600cc single port heads
+A 30PICT/2 or H30/31 carburettor
+Case savers inserted into the case
+New bearings as needed
+If you don't want to bother with all that you can buy a brand new Mexican built engine.  It will be a twin port engine and so will need a larger 34PICT/3 carburettor (or the H30/31 sitting on an adaptor plate).
+You will probably need changes to the clutch throwout arm and throwout bearing too - the newer clutch plate has no metal ring in the middle of the clutch fingers and it uses a different throwout bearing which has flat ears to hold it in place . The earlier type throwout bearing (up to about 1970) has round ears, and uses a clutch plate with a metal ring in the middle of the fingers.
+And always get the brakes checked over and replace anything which needs it - it's no good accelerating better if you can't stop properly :-)
+~~~
+Dual Carburetors
+Dave wrote to Rob  My son's got a friend in Milwaukee who is also a VW buff.  Apparently the guy showed Michael a picture of his engine with it's dual carburetors.  Now Mike's expressing possible interest in putting dual carburetors on Beauty.  I wrote Mike to say -
+My emphasis to this point has been primarily to fix everything that was wrong -- and the result was pretty much a full restoration.  All I did by way of souping it up was to install the Capacitive Discharge Ignition system, which improves the engine performance dramatically.  I'm not really sure what dual carburetors buy you -- yes, some increased horsepower, but what's the point?  A VW isn't exactly a race car.  If somebody wants a muscle car they should buy one in the first place.  If you want to do things like that I will certainly help you, but like I said -- to this point my whole emphasis has been making the basic car good (and pretty, too!  :-) )
+Having said that, I turn to my mentor to ask -- Is there any real advantage to installing dual carburetors on a VW engine, other than to try to "soup it up"?  Like I said, I really don't see the point -- a VW isn't a dragster and was never meant to be.  I'm open to persuasion, but it seems to me that such things as you often see in the popular VW magazines are just an attempt to put muscle in a little car that was never meant to have muscle -- that's not it's appeal.
+Or am I missing something?
+Rob responded  The VW engine is very amenable to souping up, but there's always a price.
+Twin carburetors will produce only a little extra power by themselves -- you need to use them with larger valve heads (041 or 044 heads for example) and a mild (or hot) cam to get any real increase, and with ANY twin carburetor set up they take a lot of extra tuning to keep in synchronization, otherwise your extra horsepower just disappears again.
+You also really need a better exhaust system, though your sports system would be OK for a mild soup-up.
+Great for those really into cars who don't mind spending extra hours on the weekend getting dirty.
+You need to think to whole process through.  To get more horsepower out, you need to get more air and fuel in.  Bigger or twin carburetors is only a small part of the story -- you need bigger valves and higher duration cams, maybe ratio rockers (to lift the valves higher).  And that's just to get the stuff in - then you have to get it out too (exhaust system)!
+Twin carburetors will cost some big pennies.  It's useless going the el-cheapo route with carburetors -- you get what you pay for, and they can be touchy enough even with only one (as we well know).  You could also try fuel injection, of course, but ANY significant increase in horsepower comes at a proportional cost.
+Oh -- and if you increase the "go" performance you also need to increase the "stop" performance (preferably first!).  Disc brakes and maybe an upgrade of the rear brakes to the larger Type 3 rear brakes (very easy conversion) etc.
+A well built 1600cc engine is a decent-performing engine in my opinion.  I've always thought that the appeal of the VW was in it's "cute" factor and engineering, rather than in a screaming performance.
+That said, I've thought frequently of how to get a little more grunt, and still retain the ease of maintenance etc., and the solution I always come back to is a 1776 conversion, still using the 34PICT/3 carburetor (with slightly larger jets for the increased capacity), so that you get plenty of acceleration, but without much more top speed (carburetor limited).  This still keeps everything close to stock, performance in the "safe zone" and retains reasonable reliability.  Maybe one day, but until then - the 1600cc engine does me just fine...
+~~~
+Effect of Added Components on Horsepower
+Someone wrote to ask - I have a 1971 1600cc AE block on my sand rail. I was trying to find out the stock horsepower. It has a Scat dual intake with a weber two-barrel carburetor and Prosteet 2 heads. Can you tell me approximately how much horsepower each  should add to the stock motor.
+Rob responded - From memory (we never saw the AE engines here in Australia), the AE was a low
+compression version of the 1600 twin-port engine, using dished pistons,
+and ran about 58hp in stock form.  If it now has the flat top (normal
+compression) pistons that puts the stock hp back up to 60.  You might
+be able to tell if it has dished or flat-top pistons by putting a straw
+down a plug hole with the piston at the bottom of it's stroke (so you
+have the longest possible straw for a "straight" wipe) and wipe the
+straw from side to side across the piston top.  The dishing isn't much
+and I haven't tried this (as I said we never saw the low compression
+engines here) but you MIGHT get enough indication (without having to
+remove a head see the piston tops) to tell if they are dished or flat.
+I know nothing about Prostreet heads so can't help you there, but
+porting, polishing and raising the compression ratio will of course all
+add some hp.  The Weber two-barrel carb will add maybe 2-4hp - mostly at
+the top end, since it breathes better than the stock single barrel
+Solex carburetor.
+It's very common with sand rails to stick to the single centre-mounted
+carburetor - the rough riding these cars get makes balancing twin carbs
+difficult, and in any case absolute hp is less important that keeping
+good torque and good reliability.
+~~~
+No Power In Fourth Gear
+Someone wrote - I am not getting the fourth gear speed after I get on highway.  It runs fine starting, 1st, 2nd, 3rd, gear but when I get into 4th gear, it will only run maybe 40 mph.  Any advice?
+Rob responded - To check if the throttle is opening up all the way, get a friend to press the pedal all the way down (or maybe put a brick on it if you don't have a friend available at the moment) and look at the linkage on the carburetor.  The throttle arm should be pulled up to the stop.
+Another easy test - floor it in 3rd and you should get up close to 60mph in that gear.  The engine is noisy at that speed but it's revving at less than 5000rpm so perfectly safe.  If you are getting only about 30mph then yes - the throttle must be limited or there is some other problem.
+Are you sure it's firing on all cylinders?  Smooth idle?
+Dave also had some input - Check for any interference that may be causing the accelerator cable to hang up so that it will not open the throttle fully  like between the accelerator pump linkage and the generator  or have you replaced the generator with an alternator?  If so, the interference is even more likely.  Some judicious grinding on the alternator body may be necessary.
+Check to make sure the accelerator cable isnt too loose so that it will not pull the throttle arm down all the way.  You can adjust the accelerator cable length with the barrel clamp at the base of the throttle arm.  Either too loose or too tight can cause problems.
+* 
+                    * * * *
+Design by
+Erin

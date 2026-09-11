@@ -1,0 +1,35 @@
+Front Suspension Adjustment
+Changing Tie Rods
+and Tie-Rod Ends
+Adapted from John Muir, "How to Keep Your Volkswagen Alive -- A Manual of Step-by-Step Procedures for the Compleat Idiot," 1976 Edition.
+~~~
+Parts needed -
+You will need new tie-rod ends, cotter pins, and tie-rod tab lock washers as required.
+Note:
+Never try to straighten a bent tie rod.  Buy a new one, complete with new tie-rod ends and locks and everything.  Remove the two old tie-rod ends from the arms, then remove the tie rod from the car and lay it out on the ground.  Lay the new one next to it and screw the new tie-rod ends up on the new tie rod to the same distance the old ones are on the old tie rod, so the new tie rod is the same length the old ones are on the old tie rod, so the new tie rod is the same length the old one was before it was bent.
+Tie Rod Removal -
+Note:
+VW has a neat puller to remove them, but you probably don't so you'll need a scissors jack for the tie rod ends with the bolts pointed up and a two-foot bar for the ones with the bolts pointed down.
+Pull the cotter key out of the hole in the bolt with vice grips.  Find the right size box end wrench (ring spanner) for the nut, then loosen and remove it.
+Turn the nut over and screw it on the bolt until the back of the nut is flush with the end of the bolt.
+If the nut end is pointing toward the grount, get the two-foot bar on the arm, or whatever the tie rod is bolted through, and pry the arm down while you hit the nut up with a heavy hammer.  Usually one good blow will do it, but if it doesn't come right away, put some penetrating oil (Kroil, Liquid Wrench, etc.) on the shank of the bolt, give it a minute or two to soak in, and try again.
+When it comes loose, unscrew the nut and push the tie rod end out of the tapered hole.
+If the nut is pointing up, screw the scissors jack up under the arm that the tie rod end is through and tighten a strain on the arm with the jack (run the jack up until it pushes against the arm), then hammer the tie-rod end bolt down until it's loose.  Take off the nut and push the tie-rod end out.
+Note
+which end points up and which end points down for reassembly.
+If you run into a busted up tie-rod end and the shank of the bolt is already loose in the hole so that the nut just merrily turns around without unscrewing, find your sharpest chisel, pick out a castellation on the nut that looks weak, put the chisel on it and give the chisel a hard blow with the hammer.  A few hard blows will break the nut so you can screw it off and remove the tie-rod end.
+That takes the tie-rod ends out of the holes -- now for the tie rod part.
+Note:
+You have two types of tie-rod ends:  one with left-hand threads that goes on one end of the tie-rod, the other with right-hand threads that goes on the other end.  This difference in thread direction makes a turn buckle out of the tie rod.  When you turn the tie rod in one direction with the vice grip, the assembly grows shorter, and when you turn the other way the assembly lengthens.  This is how the toe-in is adjusted.
+Loosen the locknuts or the clamp.  Just bend the little tabs straight up, then use two wrenches to loosen the locking nut.  Now turn the tie rod end that you're replacing off.  If turning it one way moves it away from you, turn it the other way and remove it.
+Tie Rod Installation -
+Put the tie-rod end in the tie rod with a new tab lock between the locking nuts (or you may have clamping-type locks, not locking nuts).  Screw the new tie rod end to approximately where the old one was in the tie rod, tighten the lock nuts or the lock clamp, but don't bend the tabs until you have adjusted the toe-in.
+Put the tie-rod end in its hole the same way the old one came out, up or down.  If the bolt points up, get the scissors jack under the tie rod end while you put the nut on and tighten it tight, ukntil the old in the bolt matches one of the castellations.  Put in the cotter key.
+If the bolt points down, get your bar on the top of the tie-rod end to hold the shank in the tapered hole so the bolt doesn't turn, then put the nut on, tighten as above, put in the cotter key, bend the points out, and you're through.
+Adjust the toe-in in accordance with the
+Toe-In Adjustment
+procedure.
+* 
+                    * * * *
+Design by
+Erin

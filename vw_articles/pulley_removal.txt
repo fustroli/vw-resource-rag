@@ -1,0 +1,84 @@
+Crankcase Pulley Removal
+Crankcase Pulley Removal and Reinstallation
+Getting the crankshaft pulley off is fairly difficult.  It is easiest if you have the engine out of the car.  Even then, you have to lock the flywheel in place to prevent it from turning.  See our
+flywheel removal procedure
+to see how to do that.
+If you need to remove the crankshaft pulley with the engine in 
+              the car, you still need to hold the crankshaft firmly in place (prevent 
+              it from turning) so that you can apply torque to the pulley nut. 
+              The book says to do that by placing the transmission in 4th gear 
+              and setting the parking brake (I've never done that -- I'm skeptical.)
+With the crankshaft held firmly stationary, you can remove the 
+              bolt and washer from the center of the crankcase pulley. With the 
+              bolt and washer off, you still have to use a puller to remove the 
+              pulley from the crankshaft.
+Removing the Crankcase 
+                Pulley with a Puller
+Don't try to pry the pulley off -- you can easily damage the crankcase 
+              by doing so.
+Replace the pulley if it is bent or cracked.
+~~~
+Crankcase 
+              Pulley Replacement-
+Note:
+You
+must
+install the breast plate before you install the 
+                crank pulley. If you install the crank pulley first, the two bolts 
+                that secure the breast plate to the engine block will not be accessible.
+Install the new engine breast plate with two 10mm bolts that 
+                secure it to the engine block.
+Engine Breast Plate
+~~~
+Crankshaft Pulley
+~~~
+Install the new crank pulley -
+To replace the pulley, first clean the pulley hub. Extra-fine 
+                  emery cloth can be used to remove dry rust or corrosion. A fine 
+                  file can be used to remove or repaair any burrs. Clean the oil 
+                  return thread on the pulley hub and coat it with molybdenum 
+                  grease.
+Make certain that the key on the crankshaft lines up with 
+                  the pulley keyway and is firmly seated.
+Start the pulley on the crankshaft -- simply push it onto 
+                  the crank as far as you can by hand. It should slide on fairly 
+                  easily. Then draw it into place with the center bolt onto the 
+                  threads on the end of the crankshaft.
+Start the crank pulley bolt on the threads on the end of the 
+                  crankshaft.  Tighten the bolt using a 1-1/4" socket (a bit 
+                  large, but it will work). Tightening the bolt down will pull 
+                  the new crank pulley onto the end of the crank.
+Torque the bolt to about 35 ft-lb
+Note:
+Again, you must hold the crankshaft firmly in place 
+                  (and prevent the engine from turning over) to apply torque to the crankcase pulley bolt.  Do this by placing a 1-7/16" 
+                  socket on the flywheel nut, with a 4-foot "cheater" (just an 
+                  ordinary pipe) against the floor so the crankshaft will not 
+                  move.
+Note:
+It doesn't matter where on the pulley the keyway is. When you 
+                  turn it so that the keyway is at 9 o'clock, piston #1 should 
+                  be at TDC, and the TDC mark on the pulley should line up with 
+                  the crankcase split.
+If the pulley seems tight or does not install easily, follow 
+                  these steps:
+Immerse the new pulley in very hot tap water until the pulley 
+                    is hot to the touch. This will expand the pulley slightly, 
+                    making it easier to slip onto the crankshart.
+Apply a thin layer of "white" grease to the pulley hub serface, 
+                    then place the pulley on the crankshaft, making certain that 
+                    the key on the shaft lines up with the pulley keyway and the 
+                    key is seated on the key in the crankshaft.
+Note:
+If you find it 
+                    necessary to tap the pulley to slide it onto the crankshaft, 
+                    gently tap the center hub only with a rubber hammer or block 
+                    of wood. Never strike the outer rim of the pulley.
+You will install the fanbelt and the pulley tin later. Installation 
+                  of that tin must be done in coordination with the installation 
+                  of the air deflector tins, the cylinder covers, the muffler 
+                  header, and the pre-heat tubes.
+* 
+                * * * *
+Design by
+Erin

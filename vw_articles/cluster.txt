@@ -1,0 +1,83 @@
+Instrument Cluster
+Instrument Cluster
+Please see our
+Instrument Cluster Removal and Installation
+Procedure
+, which includes a diagram of the wiring on the
+back side of the cluster.
+See also our
+Speedometer/Odometer
+commentary.
+~~~
+Sub-topics included in this article -
+General Discussion of the Instrument Cluster
+Warning Light Woes
+Instrument Cluster Lights
+Bezel/Cluster Face
+~~~
+General Discussion of the Instrument Cluster
+The "instrument cluster" is the big circular dial in the dashboard just forward of the steering wheel.  What you'll pay attention to most is the big hand (the speedometer) that tells you how fast your baby is going.  In addition to the speedometer, however, there are other instruments in the "cluster" that you should pay attention to -
+The odometer.  This is a series of wheels with numbers on them that rotate as the car travels and indicate the cumulative distance that the car has gone.  In later models, the number to the extreme right is tenths of a mile (or kilometer); the next number to the left is miles, then next tens of miles, then next hundreds of miles, and so on.  In earlier models, the right-most number is miles (or kilometers), and so-forth to the left.
+The fuel gauge.  This needle moves across a series of hash marks and indicates how much fuel you have remaining in the tank. The standard bug fuel tank holds 40 litres or 8.8 Imp gals or 10.6 US gals. The superbug tank holds 42 litres. The first fuel gauges were a separate mechanically operated guage to the side of the main cluster, and prior to that there was no fuel guage but a reserve tap on the floor over the front of the tunnel (upright for normal, 45 degrees to the right for a reserve of 5 litres).
+The turn signal indicator.  The is a two-headed arrow right in the middle and on the bottom of the cluster.  It blinks in time with your directional signals that are flashing outside the car, indicating your intention to turn right or left.
+The "idiot" (warning) lights.  These are little round lights on either side of the turn signal indicator.  Both of these lights MUST go on when you turn the ignition key to the first notch, then go out once the engine is started.  If they do not, you don't have a car to drive until the problem is fixed.  The two warning lights are as follows -
+The little light on the left, a red light, indicates the function of your generator or alternator.  It is usually referred to as the "Alt" (or "Gen") light.  If this light goes on and says on, stop the car immediately, as there is something wrong in the electrical system (e.g., a broken fan belt [which could cook your engine within minutes], something wrong with the generator/alternator, etc.).  If your car has an alternator, this light must illuminate when you first turn the ignition on - the alternator uses the small current through this light to excite the alternator into charging when it's spinning.  Generators will usually charge if this light isn't working, but alternators wont, and your battery will eventually go flat. If that light does not come on when you turn the ignition, you can borrow one of the two illumination lights each side of the speedo - you'll still be able to read the speedo at night although it will be dim.
+The little light on the right (green in earlier models, red in later) is the "oil" light.  If it goes on, or even blinks on occasionally at speed, STOP!  (John Muir says, "It's the least you can do for the beating heart of your Volkswagen.")  You may be in for an engine overhaul, or (more likely) you may just need a quart/litre of oil.  Stop and check.  The "oil" light may also go on during hard cornering, as oil sloshes in the sump to the right or left.  This also indicates a low oil condition, but it is not as critical that you stop immediately and top it off.  Be sure to do so as soon as it is convenient, however. Its quite common for this light to "flicker" at idle when the engine is hot, and that's no problem so long as the light extinguishes as soon as you increase tthe rpm.
+The lights that provide illumination of the instrument cluster face at night.  These are discussed in more detail below.
+~~~
+Warning Light Woes
+Please see also our separate discussion of the
+Warning Lights.
+Dave had trouble with the little "Alt" and "Oil" lights on one occasion after removing and then replacing the instrument cluster.  Following is some dialogue regarding that problem and it's eventual remedy.  Dave described the problem as follows -
+The three little lights down there on the bottom of the cluster seem to have somehow shifted one notch to the right, so that the "Alt" light is shining through the turn signal lens and faintly through the "Oil" lens, and though the "Oil" light may be on you can't see it because its behind the face of the cluster.  Could it be possible that the colored lenses have shifted (the lights themselves are fixed)?
+"Speedy Jim"
+wrote the following with regard to the instrument cluster wiring -
+The "Oil," "Alt/Gen," and "Turn Signal" lamps share a black "common" connection in the lamp housing.  The Black wire is the power feed from the fuse.  If this common wire becomes open at any point, you will get odd symptoms as you describe.
+Pull the instrument cluster out and check the Black wire going to the lamp assembly.  Make sure it's tight at both ends.  I think it's spliced off the fuel gauge.  If that's okay you may have to unscrew the lamp assembly itself.  It's possible that the speedometers guys cracked it when they had it apart.
+Wiring specifics:  NOTHING goes to Ground from the three lights.  Blue is the wire from the generator/alternator to the "Alt" light.  Blue/Green connects to the "Oil" light.  Blue/Red connects to the "Turn Signal" light.  There is no solid Green wire.
+Additionally, Rob wrote:  One simple explanation would be that the lights in the front of the cluster were inserted wrong when you got it back from the repair shop.  You should be able to see this just by looking at the cluster in the car.  Also possible is that the little shields and coloured plastic covers have slipped inside the cluster -- you'd have to partly dismantle it to see if this is the case.
+Dave:  The Owner's Manual makes it clear that when you turn on the key the "Alt" and "Oil" lights are supposed to come on, but the turn signal indicator is NOT.  This is the "test" to see if the lights themselves are working, since they both need the engine spinning to extinguish them.
+A further test for the "Alt" light:  Get the engine running and measure the voltage across the battery.  If it's 12-12.6 volts (or less), the alternator is NOT charging.  If it's 14-14.5 volts, the alternator IS working, which of course means the light is working since it's part of the alternator circuitry.  This might help show which light is in which hole in the cluster.  And another further test -- turn the ignition on and turn on a blinker.  Which light in the cluster blinks?
+"Speedy Jim" wrote: To verify that you have 12 volts at the end of the blue wire to the "Alt" light -- remove the Blue wire from the D+ terminal on the Alternator.   Then connect the meter from negative to the dangling Blue wire and turn the key On.  With the cluster out of the car, run a wire from the positive (+) terminal on the battery and clip it onto the female spade connector that the Black (or Green) that is Common to all the lamps.  You should read 12V and the light should not be lit.
+Rob:  You could check the globe itself using an ohmmeter - if there is any  resistance, the filament is intact (should actually be roughly 6 ohms I think so use the 1-100 ohm scale) -- 2 watts at 12 volts.  If there is no  resistance, the filament is broke!  You do this by setting the ohm meter to X100 and then touching one lead to the little silver dot on the bottom of the bulb and the other to the side of the bulb.
+When checking continuity on the wire, you should read 12 volts from negative to the Blue wire that goes to the "Alt" light.  Also, if you ground the Blue wire, the lamp should light.
+Dave reported:  I checked for continuity from one end of the D+ line to the other (alternator to "Alt" light) -- and the line is indeed continuous.
+I have the instrument cluster out of the car and laying on my workbench.  I think I've found the problem (at least I hope so).  My theory was incorrect -- the three lights along the bottom of the cluster are right where they are supposed to be.  BUT -- there is a pair of wires, one black and one green, that are supposed to attach to a spade connector on the grounding ring, right on the bottom, that had come disconnected.  So far I can find nothing else wrong.
+I checked the bulb by connecting the positive (+) terminal on the battery to the spade connector on the "Alt" light, then connected the negative (-) terminal on the battery to the common spade connector on the bottom of the instrument cluster.  Viola!  Beautiful red glow!  I checked all three of the bottom lights this way, and they all work.
+While I've got the cluster out I'm going to replace ALL of the little lights.  It seems like an awfully weak link in the system for the alternator to stop working just because the "Alt" light in the instrument cluster fails.  I've never heard of this happening, but it seems strange nonetheless.
+Rob:  These little 2-watt lights don't work at a very high temp, so they don't tend to blow.  I've replaced only one of the six in my cluster in 28 years.  If one were to blow, you just replace it with one of the "general" cluster lights (at the sides) until you can replace the burned one.  The cluster just looks a little dark on one side then, but still readable.
+VW did use some interesting circuitry at times.  Like the horn - it's "hot" all the time, and the horn ring is the ground wire, not the active wire.  Seems weird, but I guess theres a good reason for it.
+Dave:  I replaced all of the little light bulbs (6) in the instrument cluster, which is laying on my kitchen table.  Before I put it back in the car I wanted to test the bulbs to make sure they all work.  (I didnt want to go to all the trouble of reinstalling the instrument cluster (reattaching the speedometer cable is VERY difficult) only to find later on that one of the bulbs wasn't functioning.)
+This is how I did it -
+Connect the ground strip on the lower back of the instrument cluster to the negative terminal on the battery with a test lead.
+Connect a test lead to the positive terminal (big alligator clip) of the battery and then touch the other end of the lead to each of the spade connectors on the lights in succession.
+If the bulb is good, the light will come on when subjected to this test.
+Given continuity from the D+ terminal on the alternator to the "Alt" light, and given that the "Alt" light does work, Dave reinstalled the instrument cluster (with lots of muttering and snorting), and both the "Alt" and "Oil" lights now illuminate when the key is turned on and when the blinkers are turned on only the center green light in the cluster blinks!
+~~~
+Instrument Cluster Lights
+There are several very small wheat-style light bulbs in the instrument cluster that provide illumination of the cluster face at night.  Regarding these little lights, someone wrote -- Is there a brighter type of bulb that I could use in place of the working bulb that would give me more light at night?
+Dave responded -- I dont know of any brighter lights.  I only see the 1.2W wheat-style bulbs available commercially, at about two bucks apiece.  Personally, given the rheostat in the dash, I have found the standard bulbs plenty bright enough at night.
+John Connolly
+(Aircooled.Net)
+wrote -- before jumping to conclusions, what is the voltage at the bulb? It's very possible bad switches, wiring, or wire are resulting in a significant voltage drop.
+What I'm saying is that it should have over 13.5 volts at the bulb; DOES IT? If the alternator/generator is putting out 14.4 volts, but the bulb is receiving only 10 volts, this would explain why the bulb is dim.
+Dave wrote -- what John is saying is that the wire to the bulb should have more than 13.5 volts, up to 14.4 volts.  If the wire is only delivering 10 volts, then the bulb would be dim or not putting out any light at all.
+Its fairly easy to check, though youd have to have the instrument cluster out (or a smaller bod than mine) to do it -- and you would need a multimeter set on 15 or 20 volts.  Then its just a matter of turning the ignition on and touching one lead of the meter to the wire youre checking, and the other to ground.
+And you should check the output of the alternator with the engine running by putting the test leads across the battery terminals; you should read 14.4 volts, which is the alternator output.
+>Bottom line --
+if the voltage at the bulb is low (e.g., 10 volts), then theres a problem in the circuitry somewhere.  If its right up to snuff (14.4 volts) and the bulb still doesnt light, then the bulb itself is the problem.
+John Connolly wrote -- A voltmeter is essential here. You can check the voltage at the bulb -- if it's low, start back-tracking to find where the voltage drop is occurring. Once you find it, you'll know that the resistance in that item is causing the voltage drop at the bulb, hence the dim bulb. Your wiring and switches are over 30 years old, they do corrode over time, it is copper wiring.
+Last elaboration.  You can use the voltmeter to measure across the device to get the voltage drop at the device, OR just measure the absolute voltage coming out of it. The voltage will drop the further you go from the battery/alternator. The key is to find which items are sucking the voltage, that's indicative of the faulty item.
+Do not forget the ground side of the device. If you have a bad ground, the supply side will measure fine, but the ground will have the voltage drop instead.
+Note:
+On later-model cars there is a rheostat integral to the headlight switch that controls the brightness of the instrument cluster lights.  This is a little wheel just to the right of the headlight switch (on some cars you turn the headlight switch itself).  The headlight switch and rheostat unit is fairly easy to replace -- getting your (in my case) big bod up under the dash is the hardest part.  Just remember to remove the ground strap from the battery before you begin.
+A note about LED bulbs.  You might like to try replacing some or all of the cluster bulbs with LEDs.  The 2 general illumination bulbs on each side are no problem, although the dimming circuit might no longer work properly, but the Oil/Alt/blinker bulbs are wired back-to-front. This does not matter for filament bulbs but is critical for LEDs, and for LEDs to work there they MUST be reverse wired types.  You can buy them from VW shops.  One word of warning though - that Alt light is critical for getting the alternator to start producing power and LEDs have such a low current usage, it might not be enough to excite the alternator into action, so if you fit any LED to the Alt light in the speedo, check the battery voltage with your multimeter (engine running) to make sure you see 14+ volts across the battery terminals.  If so, the alternator is making power as it should.
+~~~
+Bezel/Cluster Face
+I've been calling around trying to find the trim that goes around the outside of the instrument cluster (the bezel) -- it can't be had for the '73 Super Beetle.  Also on my list is replacement of the instrument cluster face.  Looks to be quite a job -- the trim ring is crimped on.  I hope I can get it off, cleaned up and polished, and back on without ruining it.
+Rob:  It's just crimped on with bend-over tags if I remember right.  It's aluminium, so the edge/tags can't be bent too often (brittle).  I very gently bent them JUST enough so I could pull the ring off, and when putting it back together I eased the half bent tags over the cluster edge one by one, and I haven't FULLY closed the tags again, so I might be able to remove it again without the tags breaking.
+Dave later replaced the instrument cluster face with a plexiglass one cut for him at a local glass shop, and successfully reinstalled the original bezel.
+* 
+                    * * * *
+Design by
+Erin

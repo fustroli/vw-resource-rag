@@ -1,0 +1,28 @@
+Timing Advance
+Timing Advance Discussion
+See also our Tune-Up Procedure for
+Checking Timing Advance
+.
+~~~
+Someone wrote -- The nice thing about the 009 centrifugal-advance distributor is that it can be timed statically (7.5 degrees BTDC).   BUT -- make SURE that both of the vacuum ports (on the carburetor) are plugged.  (They should be plugged all the time with this distributor anyway.)
+Rob responded -- The 009 distributor should be timed at 28-30 degrees at 3500 rpm.  THEN you check the static (or stroboscopic) timing, which may or may not be 7.5 degrees BTDC.  It can end up anywhere from 5-8 degrees BTDC, because the 009 distributors vary in the total amount of advance they make. The FULL advance is much more important than the idle advance.  Once a particular 009 distributor has been set at 3500 rpm and the resulting idle timing determined, the idle timing can be set statically at that point for
+that
+particular 009 distributor (be it 5-7-8 degrees BTDC, whatever, based on the maximum advance timing).  7.5 degrees BTDC without checking the maximum advance is only a rough starting point.
+The maximum advance depends mostly on compression ratio and the available fuel.  If compression is high or fuel quality (high oxygenates) is low, set the maximum advance at 28 degrees BTDC.  If compression is low or fuel quality is high enough, set the maximum advance at 30 degrees BTDC.
+Bottom line for the 009 distributor -- set it at 30 degrees at 3500 rpm and try it.  If it detonates, back it off to 28 and/or try another fuel.
+The 009 distributor (which has varying amounts of internal advance) has to carefully limited to 30 degrees maximum advance so it won't be over advanced in "worst case" conditions.  This means that it's not ideal in part-load conditions, so it's not quite as economical as the vacuum units.  Once the 009 distributor maximum timing has been established and the total amount of internal advance noted (checking the static timing) this static timing can then be used to set
+that
+particular 009 distributor.
+Dave responded -- So, to summarize -- with the 009 centrifugal-advance distributor, set the maximum advance timing with a stroboscopic timing light at 30 degrees BTDC at 3500 rpm.  Then return to idle (800-900 rpm) and note the point on the pulley that crosses the crack in the crankcase when #1 fires.  That is the idle timing point for
+that
+particular 009 distributor (be it 7.5 degrees BTDC or whatever) and from then on it can be timed statically to THAT point.
+Rob responded -- Exactly.  Regarding the 28-30 degrees advance at 3500 rpm:  With the single-vacuum units, setting the (static) idle means the vacuum decides how much advance is introduced, and when.  With the single-vacuum distributor working right, don't be surprised if you see about 40 degrees at 3500 rpm!  The mechanical part will pull in about 30 degrees total, but the vacuum part adds 8-10 degrees under certain conditions (mostly higher revs at light loads) for more economy.  The vacuum part then backs off if you plant your foot, so it doesn't become over advanced under load -- just the centrifugal part working then.  Then as the revs increase further, the vacuum will gradually pull the extra advance in as needed.
+Try running it with a little more or a little less maximum advance too (28-32) -- you might be able to tweek with just those modifications.
+Question -- You're saying play with the timing at 3500 rpm to find the optimum point?
+Rob responded -- Yes.  You want as much advance as you can without it pinging (more advance = less hesitation).  You might end up with an idle advance of 10 degrees BTDC or so, but that should not cause any problems.
+Remember:  The timing advance at idle is not nearly as important as the maximum advance.  If it will take 32 degrees without pinging, and the idle comes to 11 or 12 degrees BTDC it doesn't matter much to the idle, but will help with the hesitation.  In fact cold weather, it might even take 33 or 34 without pinging at full throttle, but if you do that, don't forget to reduce it a touch when the weather warms up again (detonation is a function of heat remember, so it's more likely in hot weather with an advanced ignition).
+The 7.5-degree BTDC standard simply matches the vacuum distributor's maximum advance characteristics.  Some of the early 1200cc engines used 10 degrees BTDC anyway, to suit their particular distributor design.
+* 
+                    * * * *
+Design by
+Erin

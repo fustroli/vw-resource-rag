@@ -1,0 +1,60 @@
+Valve Adjustment
+Valve Adjustment Discussion
+Please see our
+Valve Adjustment Procedure
+, which is a culmination of several years of experience and  correspondence between Rob and Dave, together with instructions given in the various VW repair manuals.
+Also, regarding valve covers,
+please see our
+Valve Cover
+discussion.
+~~~
+The following topics are discussed in this article -
+In General
+Valve Clearance
+The Importance of Frequent Valve Adjustment
+The Effect of Head Torquing on Valve Clearance
+Miscellaneous
+~~~
+In General...
+Incorrectly adjusted valves can cause the engine to stall.  Too tight, and they don't seal/seat down properly, so that cylinder isn't working hard enough and will eventually burn that valve.  Too loose and the valve timing changes, so the engine sounds rattly and runs rough.
+Rob wrote in general - If the valves are tight, they just lift off the valve seat slightly, so they don't fully close.  This just makes for leaking gases.  The exhaust gas is the problem here.  If it leaks past the valve continuously on each stroke, it heats up the valve (which needs to sit down on the cooler seat to shed some of it's built up heat) and so the valve stretches, which causes it to be opened more, which creates a worse leak.....
+Driving the car around with tight valves for a short time in cooler weather (and on reasonably short trips) would not cause any real problems, since the valves would not have been at peak temps anyway.
+Tight valves for too long would probably eventually cause excess wear on the cam follower too, since it would be rubbing all way round the cam, rather than  just on the hump.
+Remember that valves must be set COLD, as the valves stretch when hot to take up the slack.
+The fastest method to do this is to take off the right valve cover, rotate the engine so that piston#1 is at the top of its stroke (using the timing marks on the pulley) with both valves shut (loose -- I rattle the rockers to check that they are loose -- even with only 0.004" clearance you can feel it move).  Adjust the valves on the #1 cylinder.  Now rotate the engine BACKWARDS (counterclockwise) - turn and adjust the valves on #2 on the same side.  Close up that valve cover, and remove the left valve cover.  Rotate the engine BACKWARDS - turn and do #3, then rotate the engine BACKWARDS - turn and do #4.  Close the valve cover and you're done.
+Note:
+More detail is given in our
+Valve Adjustment Procedure
+.
+A dab of white paint in line with the TDC timing notch, near the hub, and another 180 degrees on the pulley directly opposite) makes it easy to see when the cylinder is at TDC, even with the cover plate at the back of the engine (which hides the TDC notch when it's at the bottom) still on.  Doesn't have to be exact, as you only need it roughly at TDC for each piston for this exercise.
+~~~
+Valve Clearance
+Regarding valve clearance, there has been considerable discussion.
+Rob wrote - The VW manuals all used to say to use 0.004", but many folks say this is too tight, and use 0.006".  I still use 0.004" on mine (1970), and it works fine -- but you have a different engine model to mine (lots of changes to the '71 engine). I notice that the 1973 recommends the 0.006" valve setting.  Mine, and ALL earlier engines were set to 0.004". They changed to 0.006" in '71 with the AS... series engines, and say 0.006" is okay for all engines. I've tried adjusting my valves to 0.006", but they are too noisy, so I stick with 0.004".
+It seems that the '71 and later cases are designed for 0.006".  Might be the aluminium case instead of the magnesium case I suppose -- different expansion.  I've always set mine at 0.004" and never had any problems.  The 0.006" will work on all models, though it might be a little noisy on the older cases.  But this is better than too tight (using 0.004" on the later cases), as you'd get blow by and burning valves. It might be the US experience was always to set them at 0.006", but here (Australia) and in Europe the older cases are definitely 0.004".
+If you check your valves very regularly, you could try setting them at 0.004" thou instead of 0.006".  VW only went to 0.006" so there was more leeway for the valves stretching with age, expecting drivers to be lazy with maintenance.  I've always used 0.004", and don't have a tappet noise problem.  You only need about 1 thou clearance when they are hot to preventing binding.  John Connolly
+(Aircooled.Net)
+says he runs 0.002" and checks it every 1000 miles.  Mine rarely need adjusting at the 3000-mile check-ups when using 0.004".
+I'm guessing here, but I think that 0.004" would be just fine on all VWs if the engines were used normally and checked each 3000 miles.  But SOME VW engines get used hard in hot conditions, where the exhaust valves are right at their limits (they glow red hot when you work the engine hard -- the exhaust gasses exit at about 800C).  Here the 0.006" makes more sense, just as a precaution.  Don't forget, the 1600cc engine got an extra 7-12 hp (depending on the version) over the 1500cc engine.  That's at least 5.5kw extra heat to get rid of at full throttle, so the exhaust valves are working that much hotter.  But if the engine is used kindly, the car doesn't actually need extra hp (heat) to travel the same speed on the road as the 1500cc engine does -- they are almost the same weight.  Therefore, the 1600cc engine should be okay with the smaller clearance unless it's going to be used hard.
+There was NO change in my valve settings (they didn't start tightening up) after I installed the 1600cc cylinders, despite the slightly higher horsepower available at full throttle.
+The exhaust valves need adjusting more often, because they run hotter and stretch, I think.  They seem to tighten up a bit occasionally anyway.  And as I indicated above, I still use the original 0.004" settings on my valves, which makes any variation more noticable.
+~~~
+The Importance of Frequent Valve Adjustment
+Rob wrote - Many people don't bother to adjust their valves often enough (you HAVE to check them every 3000 miles), and they stretch slowly in use (especially the exhaust valve).  So you'd get tight valves and resultant valve burning (because they start to leak hot gases when they don't sit hard on the valve seat when they are 'tight').  Usually my inlet valves were fine at 0.004", but the exhausts usually needed a tiny adjustment each time.
+This frequent adjustment procedure also means that you get a chance to pick up a faulty exhaust valve before it breaks.  If the adjustment needed is beyond normal (which on my car is usually less than 1/8 turn on the adjuster), the valve has started stretching abnormally, and replacement time has arrived.
+This is a great protection "device" (frequent checking) -- the exhaust valves are the hardest working part of an aircooled VW engine, and breakage can be disaster for the engine.  When replacing valves, always use the German made valves unless you know absolutely for sure that the aftermarket ones are best quality.  The Mexican and Brazilian ones are supposed to be good (but not as good) and some other brands are an unknown quantity.
+~~~
+Effect of Head Torquing on Valve Clearance
+(Please see our discussion of this subject in the article
+Head Bolt Torque/Valve Adjustment
+.)
+~~~
+Miscellaneous
+Someone wrote - Will 0.006" hurt if valves are adjusted at this setting?
+Rob responded - You can use 0.006" valve setting on the 1200cc engine.  The only "adverse" effect will be a slight increase in tappet noise.  These engines were designed for 0.004" though, and so long as you check them every 3000 miles, this setting gives the quietest running - the 0.006" setting just allows for more "sloppy" maintenance -- valves getting tight is a BAD thing in a VW and the larger gap means that a missed valve check is less likely to end up with a tight (read burned - leaking) valve.  So with the advent of the 1600cc engine which produces more heat (resulting is hotter running valves), VW started recommending 0.006" for a bit more leeway for the valves.  You can still use 0.004" in those engines too though, so long as the clearances are checked regularly.
+And finally, an interesting story - You'll never believe what happened... The other day I went to check the valve settings.  They were all correct apart from one, where the locking nut and the screw had both come off, with the screw going down a pushrod tube! I couldn't believe it!  Needless to say, I had to take the rockers off and remove the rods to ease the screw out.  Once I put it back together, checked and adjusted all the distances and made sure the lock nuts were rather tight, she runs a lot quieter.
+Surprise, surprise!
+* 
+                    * * * *
+Design by
+Erin

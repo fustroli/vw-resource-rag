@@ -1,0 +1,34 @@
+Lifting the Car
+Lifting the Car
+Note:
+The very best treatise on lifting your Bug that we have found was written by John S. Henry and appears on his
+BugShop
+page.  Go there and click on "Tech Help," then scroll down to "Miscellaneous Techniques," where you will find Johns article on How to Lift Your Beetle (or more easily, search on "lift").
+Theres not much we can add to that  perhaps a few illustrative experiences.
+~~~
+The Original VW Jack
+John Muir, in his
+How to Keep Your Volkswagen Alive
+book, calls the original jack supplied with the VW Bug a Bilstein jack. I'm not sure that his is exactly what it is called, but it functions by jacking up the car on one side, using the jacking points that are welded the the longitudinal center of gravity of both sides of the car. The jack operates by gradually ratcheting up the horizontal rod that extents into the jacking point.
+The original VW jack was missing from Daves car when he bought it, and one of the jacking points was missing as well. Wanting/needing a good jack, Dave finally settled on a 2-ton scissors jack with a lift from 4-1/2 inches to 13 inches.  Not enough, since the car rides at about 10 inches off the ground.  But the base of the jack has two very convenient holes by way of which Dave bolted a couple of pieces of 2x6 to the bottom of the jack, raising it up another three inches.  Thats enough to get the wheels off the ground, which was Dave's main concern.  It's not likely that the jack will be used for much more than emergency (e.g., flat tire) purposes.
+Dave took off the handle that was supplied with the scissors jack and hammered a 17mm 1/2" drive socket onto the end of the gear that drives the jack.  Now the jack can be operated with a 1/2" drive ratchet, and with an extension on the ratchet the jack can be used on a jacking point that is further underneath the car.
+The instructions that came with Dave's scissors jack says it is for side lifting only.  With the jacking point completely missing on one side, the lip of the pan/body frame under there to cannot be used to lift on, it WILL bend.  And jacking under the pan itself will cause it to buckle.   So when using a scissors jack it is necessary to put a short length of wood (8-10 inches), about 1 inch square hardwood, running fore/aft in the groove that body lip makes, and then jack against that.  (This groove has the body mounting bolts in it).  Using a piece of wood like this will spread the load a bit, as the body and pan steel is not thick enough to take the whole weight of the car in one place.  The old jacking point uses spot welds in several places to spread the load.
+~~~
+The Trolley (Floor) Jack
+The floor jack is great on the nice smooth floor in the garage, but not too good in the soft dirt on the side of the road.  Dave found his small two-ton floor jack adequate for virtually all of the VW raising needs.  He has removed the engine from the car four times with just this little jack (and many, many blocks of wood!). The only minor problem Dave has with his small jact is that when used under the engine, down very low to begin with, he can't get quite enough movement of the jack handle under the rear apron.  There is only about 1/2-inch lift for each stroke until the car has been raised about an inch.  The larger trolley jacks with long handles don't have this problem.
+Rob uses the cross-member at the engine/tranny junction as his rear jacking point (it gets pretty beat up over time), and of course its a ways under the car and the handle wont move up and down very far.  The jack handle has a little dog-leg in it; if turned over you can get more leverage.
+~~~
+Lifting the Car for Engine Removal
+See our
+Engine Removal
+procedure for instructions
+regarding raising the car for engine removal.
+Dave described his first engine removal experience -- What took me the most time was just getting ready, what with all of the disconnections and then the back-and-forth, front-to-back movement of the jack and all of the wood for the jack pedestal. Lots of lifting!  Next time it will be a lot easier and will go a lot faster, having done it once.  Next time, though, I think Ill get a bigger jack with more lift.  The main reason for the nine lifts (four in the front and five in the back) was because my little 2-ton trolley jack only has a lift of about ten inches.  Makes for a lot of back-and-forth running around with heavy chunks of wood!  (See the picture of
+Dave's first engine removal
+for a look at the pyramid of wood.)
+Since it is used only occasionally by the "shade-tree" mechanic, it's hard to justify the $75-80 it would cost to get a larger jack.  The compactness of the small trolley jack is nice, but a greater lift would be good -- and it would stick out more so you wouldn't bang the lift handle on the underside of the car so much.
+Dave reported that a lot of thought went into the design of the jack pedestal.  It was pretty handy during the engine removal process, with the six independent layers, each 3" high.  The system made raising the car with just the little jack a breeze (except for having to lug everything back-and-forth, front-to-back and back again).  A problem with using a little trolley jack like ours for this job is that once the engine is disconnected and supported by the jack only, it wobbles all over the place, and it's difficult to keep it level.  It helps to have another pair of hands.
+* 
+                    * * * *
+Design by
+Erin

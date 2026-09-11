@@ -1,0 +1,44 @@
+Horn
+The VW Horn
+Here's a link to an excellent article on
+Hella 6V Horn
+repair and adjustment.
+Rob's 2019 note:
+This link doesn't work any more but I've left it there just in case others wish to search.  Here's a description of repairing the 6v horn.
+"Just for information to others...I took the contact points out and cleaned them with emory paper, when I returned them the feramic disk that is hit by the large steel plate was too far to the side so it didn't break the contact and just kept the plate pinned to the magnet when power was applied, hence the "Klunk" . Then I set them up properly but had them so out of adjustment that the plate was separating the contact points without power, so I got no response at all, nothing nada .....
+The key was testing the resistence, it was an open circuit. I turned the adjuster on the back till it zeroed out the ohm meter and viola...it are so loud you can hear it inside the garage, probably too well, from the other side of the street."
+~~~
+The following topics are discussed in this article -
+Adjusting the Horn
+Horn Wiring
+Horn Operation
+~~~
+Adjusting the Horn
+The VW horn has been described as "wimpy," and we're often asked how it can be adjusted to be louder.  Rob gave this response:
+If the horn has a threaded screw on the back, it's adjustable.  You just turn it a little either way until it sounds loudest.  This moves the diaphragm closer or further away from the electromagnet inside to get the best combination of amplitude and good vibration of the electrical contacts inside.
+I rather like the sound - it's certainly distinctive.
+~~~
+Horn Wiring
+It's amazing what the Haynes and Bentley manuals DON'T tell you.  They say absolutely nothing (that I can find) about how the horn wiring works.
+The best treatise we have found on horn wiring is John Henry's
+Horn Wiring Hell
+(How to survive and understand it).  (From
+"The Bug Shop"
+, John Henry's Web page.)  This article describes the horn wiring from 1957 onward.
+The horn wiring is complicated because the horn button has to be attached to the steering wheel, which must be able to rotate freely.  And one would assume that the horn is switched by way of the positive (+) side, which it is not.  In the later-model ('71 - '79) Bugs, which is the range in which Dave's '73 Super Beetle fits, a copper pick-up (slip) ring is mounted to the base of the steering wheel (hub), and a copper contact is mounted on the turn signal switch.  This copper contact on the turn signal switch applied pressure against the rotating slip ring, allowing current to pass through.  From the copper contact on the turn signal switch a brown grounding wire is connected to the horn.
+The horn button connects the floating horn negative side to ground by way of the wire that goes down the steering shaft to the steering box coupler.  When the horn button is pressed, the circuit is completed to ground (through the steering box) and the horn sounds. The horn positive (+) side is direct wired to the battery by way of a fuse.
+Rob elaborated regarding the horn wiring -- The horn itself has a 'hot wire' to one contact (it has 12+ to it), and the other wire goes through the horn contacts for the grounding.  That is, the horn ring/button grounds the circuit, rather than being the more usual active lead switch.  I guess it's easier to do the 'ground switch' arrangement through the steering column, as any rubbed leads here will simply activate the horn, rather than shorting an active lead.  A blip...blip on the horn as you turn the wheel would forecast a problem -- like a self-diagnosis.
+~~~
+Horn Operation
+Dave wrote -- My horn gave off kind of doleful sound right after I reinstalled the steering wheel, but now it doesn't work at all and I have no voltage at the horn wire (at that time Dave didn't realize that this wire to the horn button is a GROUND wire).  I know exactly what the problem is, but I've yet to figure out how to resolve it.  Screwed on the bottom of the old steering wheel assembly is a brass contact ring with a wire attached that runs to the horn.
+John Connolly
+(Aircooled.Net)
+wrote -- Here's the deal.. they never tell you this, and I have never seen anyone else that knew of this problem either! The brass contact on the turn signal switch is probably dirty/greasy, and most likely it's not making contact the brass ring you installed on the steering wheel hub.  What you need to do is bend the brass tab carefully so it contacts the gold ring.  I put TWO bends in it, one to bring it up, and one to "level it off".  Make sure it doesn't rub TOO hard, or it will wear through quickly!  If it is dirty or greasy, it can be cleaned with solvent on a rag (gently!) and, if necessary, very fine emery cloth.
+Dave reported this experience -- I pulled the steering wheel again to fix the horn.  I found that the brass contact tab (for want of a better term) that impinges on the contact ring to pass juice on up to the horn button was worn completely through in one spot (almost worn in half).  I couldn't see an easy fix, so I just polished all the brass with emory cloth and bent the tab so that a different part of it would touch the contact ring.  The horn works now, but it sounds very wimpy.
+Later while replacing the ignition switch Dave also replaced the turn signal switch, which has the horn contact as an intergral part.  This restored the operation of the horn, which now has a nice lusty (LOUD!) sound.  However, sometimes (especially when turning corners) the horn sounds all by itself (shades of "Herbie the Love Bug"!) -- very embarrassing.  I enjoy attention being called to my Bug, but not for that reason!  Obviously there was some short between the copper disc on the steering wheel hub and the steering column housing, which would act as a ground (the horn is powered all the time and works when grounded).  Dave found that if one of his keys would accidentally stick into the gap between the hub and the steering column housing the horn would sound, equally as embarrasing.
+The fix for this problem turned out to be very simple, and did not require removal of the steering wheel hub.  Dave peered into the gap between the hub and the steering column housing with a flashlight (torch) and found that the copper disc on the hub was deformed.  When the the steering wheel was turned just right the copper disc would make contact with the steering column housing (ground) and the horn would sound.  (A key inserted into the gap would connect the copper disc to ground and have the same effect.)
+To fix this annoying problem Dave inserted a medium flat-bladed screwdriver into the gap and pressed the copper disc so that it was flat all the way around rather than deformed.  He also pressed it up more firmly onto the splined fitting in the center of the hub that fits over the steering rod.  End of problem.
+* 
+                    * * * *
+Design by
+Erin

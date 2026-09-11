@@ -1,0 +1,100 @@
+Transmission Troubleshooting
+Transmission Troubleshooting
+Discussion
+~~~
+Questions and Answers
+From the Manuals
+~~~
+Questions and Answers
+We're often asked about reverse not working.  One writer said that if he pulls rather hard he can hold the shifter in reverse but can feel something turning.  And there is an audible "click" every 1/2 second or so, the click is accompanied by a push-back.  He said that if he didn't keep his hand on the shifter it would pop out of reverse during the click.
+We received the following excellent response to this question - Almost always, the problem is that the reverse gear and its mating 1st/2nd operating sleeve inside the trany are damaged and must be replaced.  VW has a very bad design for reverse gear.  As the reverse linkage inside the transmission wears over time, it fails to engage the reverse gear deep enough with it's mating sleeve/slider gear.  This causes the reverse gear to hang on half of the tooth width and eventually destroys the tooth surface which will the pop out of reverse.
+Other less likely causes that Rob suggested, in order of difficulty -
+The stop plate under the shifter -- this has to be positioned right to get all gear smoothly.  It's called a stop plate because it stops you getting reverse until you push down on the stick.  Remove the two bolts and the gear stick.  Have a look at the plate - it should be mounted "ramp to the right".  Have a look at the inner lip of the small ramp - if it's worn and has a sharpish corner where the metal is bent up to form the ramp (rather than a smooth bend) then it's worn out and should be replaced.  Clean and regrease the cup in the shift rod in the tunnel and the ball on the gear stick and put it back together.
+There are several techniques for finding the right position for the stop plate -- one is to have the bolts just finger tight, then jam to the stick HARD into first, and tighten the bolts.  Try for each gear and if 1/2 or reverse are a little hard to get, loosen the plate slightly and tap it rearwards a few mm and try again.  It should not normally need to be tapped to the right at all using this method - just fore/aft.
+Rear coupling.  Under the back seat inside the tunnel.  If the gear changes are sloppy/loose, then this coupling and maybe the tunnel bushing (3. below) are probably to blame.  The coupling is easy enough to replace if it looks at all loose.
+The tunnel bushing - inside the tunnel just behind the gear stick. There is a procedure on our site for replacing this.  The main symptom is a sloppy gear change and if the rear coupling has been renewed it's the most likely candidate on the list.
+The hockey stick inside the nose cone of the gearbox -- worn or broken.  It's called a hockey stick for it's shape -- it slides between/pushes the gear selectors as you move the stick.  If the above fixes don't work, this is the most likely cause, and it's a gearbox-out job to fix, and probably a gearbox expert to repair it.
+~~~
+Another question we received has to do with the transmission popping out of all gears on its own, even when going over just a slight bump.  Someone wondered whether the problem might have to do with the linkage from the stick shift to the transmission, wondering whether the "rod" between the stick shift and transmission might need to be lengthened.
+Again from a reliable source - the real cause of this problem, by far, is defective (worn out) sync teeth on the gear that's popping out (especially 4th) and defective teeth on the mating operating sleeve. These keystone-shaped sync teeth are solely responsible for holding the operating sleeve/slider into gear.  When the keystone shape wears parallel over 200K miles, then the operating sleeve will pop away from the gear.
+Rob added a few other possible causes -
+That rod can NOT lengthen or shorten in use (if it did the only result would be that the gearstick would angle more to the front or rear of the vehicle).
+If the gearbox is jumping out of gear it usually means that the hockey stick (gear selector) inside the nose cone of the transmission is cracked or broken, or else the gearbox is just very worn (for example - worn bearings allowing the shafts to move off line a little.)
+Other problems (loose gear stick, difficulty in finding gears) are often caused by a worn tunnel bushing (a plastic bushing inside the tunnel just behind the gear stick) or the rear coupling (under the hatch under the rear seat) is worn/loose.  Instructions for dealing with these problems are given elsewhere on the Web page - please see our Index.
+~~~
+One fellow wrote about his purchase of a '73 Super Beetle convertible, only to find on getting it home that it wouldn't go into gear.  He finally got it to go into 3rd gear, but then the shifter wouldn't come out of 3rd.  He said that the shifter felt like it was in neutral but would not go into another gear.
+Rob wrote that it could be a stop plate problem -- but it isn't clear why the stop plate would go out of adjustment so abruptly like this.  Other possible problems are a broken coupler or a broken hockey stick inside the nose cone.  Other than that, we're stumped by this one.
+~~~
+Another guy wrote to say that if he puts the transmission into reverse and then takes his foot off the throttle, the gearbox would really whines.  It sounded like the whining was coming from the reverse gear itself.  The guy said that he planned to check the gearbox oil, at that time, he was going to do a little trick he had heard of.  He said that if you remove the filler plug, and put the car into reverse, you will be able to just barely see the reverse gear through the hole.  Then you can inspect to see if the front (of car) of the teeth are rounded/worn.  If so the gearbox is probably ready for a rebuild.  When you change the transmission oil you should always look for filings in the drained oil.  A little grey sludge is normal, but not shiny flakes.
+~~~
+Some wrote describing a strange squealing sound - I live in Wyoming where it's quite cold this time of year.  When I start my Bug cold the transmission makes a squealing rrrrrrrrrr sound. Why?
+Rob wrote that a squealing sound could be several things.
+The most obvious is to check the fan belt tension - it should move
+about 1/2 inch when you press it 1/2 way between the two pulleys.
+Next most likely is a dry throwout bearing in the bell housing.  This
+will usually only make noises when you press the clutch pedal.  The
+only fix it is to sdrop the engine and replace the bearing (check the
+clutch plate whilst you are there and replace if it's getting a little
+thin so you don't have to drop the engine again soon).  The throwout
+bearing should always be replaced when the clutch plate is replaced.
+Also check the oil level in the gearbox - it should drip out of the
+filler hole in the left side of the box.  VW recommends 80W90 hypoid
+gear oil for most climates but in really cold climates you can get
+smoother gear changes when the car is cold if you use a 75W90 synthetic
+gear oil.
+~~~
+Someone wrote regarding a forth gear problem -
+I have recently purchased two new trikes with VW motors. I have a problem with a gear box jumping out of 4th gear. Do you think it would be the syncro?
+Rob responded - The gearbox jumping out of 4th is not usually caused by a poor synchro - that will show up as crunchy gear changes.
+The most common cuase is poor adjustment of the gear stick selector system (stop plate position, worn tunnel bush or rear coupling), but you may not have the normal setup on the trike, so that is probably irrelevant.
+The next most common cause is that the bronze "hockey stick" in the nose cone, which slides between the gear selectors and moves them when you work the gear stick, has worn or is not moving far enough to correctly engage the gear selector fork for 4th gear.  This can be changed without complete disassembly of the gearbox.  If it's not that, then it's probably an internal problem like worn shaft bearings inside the box, and THAT's a job for the experts.  It takes some special tools to get things properly aligned when reassembling.
+~~~
+From the Manuals
+Note:
+Correction of the symptoms below that are marked with an asterik (*) are generally beyond the scope of the average "shadetree" mechanic.  The information provided below should be helpful in isolating the cause of the condition so the ownere can communicate clearly with a professional mechanic.
+- Information courtesy of the Haynes Automotive Repair Manual.
+~~~
+Knocking noise at low speeds
+Worn driveaxle constant velocity (CV) joint(s).
+Noise more pronounced when turning
+Differential gear noise.*
+Clunk on acceleration or deceleration
+Loose engine or transaxle mounts.
+Worn differential pinion shaft in case.*
+Worn or damaged drive axle CV joints.
+Vibration
+Rough wheel bearing.
+Damaged driveaxle.
+Out-of-round tires.
+Tire out of balance.
+Worn CV joint.
+Noisy in neutral with engine running
+Damaged input gear bearing.*
+Noisy in one particular gear
+Damaged or worn constant mesh gears.*
+Damaged or worn synchronizers.*
+Bent reverse fork.*
+Damaged fourth speed gear or output gear*.
+Worn or damaged reverse idler gear of idler bushing.*
+Noisy in all gears
+Insufficient lubricant.
+Damaged or worn bearings.*
+Worn or damaged input gear shaft.*
+Slips out of gear
+Worn or improperly adjusted linkage.
+Transaxle/engine mounts loose or worn.
+Shift linkage does not work freely, binds.
+Worn shift fork.*
+Leaks lubricant
+Final drive flange seals worn.
+Excessive amount of lubricant in transaxle.
+Input gear shaft seal damaged.*
+Torn axle boot.
+Leaking axle tube retainer gasket.
+Locked in gear
+Lock pin or interlock pin missing.*
+Coupling pin for shift rod loose or missing.
+* 
+                    * * * *
+Design by
+Erin

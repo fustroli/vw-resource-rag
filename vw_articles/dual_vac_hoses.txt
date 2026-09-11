@@ -1,0 +1,14 @@
+Dual Vac Distributor Hoses
+Dual Vacuum Distributor Hoses
+A very common question regarding the dual-vacuum distributors is - which vacuum hose goes where?  Following is a quick run-down -
+First, take a look at the vacuum can on your distributor. On the flat side of the can (nearest to the distributor body)is a hose fitting. This is the fitting for the RETARD side.
+Second, on the rounded side of the vacuum can (away from the distributor body) you will find another hose fitting -- this fitting is for ADVANCE side.
+Third, look at your 34PICT carb.  The fitting on the LEFT side of the carburetor near the throttle arm is for the ADVANCE side of the vacuum can on the distributor. With a rubber hose, connect the fitting left side of the carburetor with the fitting on the rounded side of the vacuum can on the distributor.
+Rob's note:
+The advance line should have a vacuum line which bends UPWARDS (under the air cleaner) from the carburettor before running downwards to the vacuum canister. The original method was an inverter J shaped metal pipe with short flexible vacuum lines at each end. This was designed to prevent any fluids from the carburettor getting into the vacuum diaphragm.
+Fourth, look at the carburetor again. On the rear (rear is rear of car) of the carburetor sticking straight out backwards is another port. This is for the RETARD side of the vacuum can (the port on the side nearest othe distributor body). With a rubber hose, connect the fitting on the rear of the carburetor with the fitting on the flat side of the vacuum can on the distributor.
+If you have the new replacement H30/31PICT carburetors, the procedure above is the same as they come with the same vacuum fittings as their distant 34PICT cousins. The original 30PICT series carburetors did not have the retard fitting.
+* 
+                    * * * *
+Design by
+Erin

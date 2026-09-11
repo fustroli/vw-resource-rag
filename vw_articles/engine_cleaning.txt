@@ -1,0 +1,30 @@
+Engine Cleaning
+Engine Cleaning
+Cleaning Engine Internals
+~~~
+A question from Dave -
+My son has decided that he wants to clean up his VW engine, both top and bottom.  I read somewhere about some stuff you can spray on, let sit for a while, and then wash off with water.  Any experience?
+Rob responded -
+It depends whether or not you are taking the engine out to do it.  The easiest way is to spray some "Yuk-off" (or whatever you call degreaser there) all over, leave it for a bit to soak in, and spray it off with the hose set to a hard blast.  Pull off the plug wires from the distributor cap and cover the distributor with a plastic bag, tied under, so you don't get any water in it.  Also tie some plastic around the alternator to keep water out.  And avoid squirting too much behind the engine pulley, there are slots there which pull fresh air into the sump.  And I use a toothbrush and degreaser or kerosine to scrub off the really stuck stuff.  Let the engine dry for a while, then give it a run to really dry it off.  It's then a good time (a few days later) to crawl under and look for oil leaks, such as the flywheel gland nut (usually wet around the bottom of the engine at the front), push rod tubes etc...
+If you remove the engine, remove the shroud and clean it out.  Clean the fan too -- they pick up a lot of crud over the years, especially with any missing engine seals, as some of the cooling air is coming from under the car, rather than the slots under the window etc.  You might find there is some gunk on the oil cooler air entry side too, and cleaning this off will help with summer cooling.
+Dave reported his experience -
+Yesterday I parked the Bug on the street, a couple of feet from the curb so I could crawl under it, then jacked up the rear end and put it on jackstands.  Then I put plastic bags around the distributor, carburetor and alternator and sprayed the entire engine, top and bottom and behind (in front of) the fan housing with Gunk Foamy Engine Brite engine cleaner -- then washed it all off with the hose about 20 minutes later.  Worked pretty good.  Now I should be able to tell where the oil leaks are coming from.  I'm afraid I've got leaking push rod tube seals.
+~~~
+Cleaning Engine Internals
+Someone wrote -
+John Muir says to clean the inside of the engine you can pour a quart of diesel fuel into the carburetor while the engine is running. Will doing this help me improve my gas mileage?
+Dave wrote -
+Muir says a lot of things that are not exactly correct (with all due respect to the Dearly Departed).  I would make sure to get advice from a good (living) source before pouring a quart of diesel fluid down the throat of the carburetor!
+Rob wrote 
+The theory here is that diesel will act as a cleaning agent.
+Diesel does have some solvent properties, but pouring a quart into the engine while it's running is not going to do much for the engine except produce a LOT of smoke from half burnt dollops of diesel.  The diesel is not atomised if you just pour it in, and it does nothing for cleaning the carburetor either, since it's running straight through the carburetor.
+I have in the past put a cup of diesel into a full fuel tank of gasoline as an engine cleaner - I think it helped a little, but only because the engine was getting ready for a rebuild and was burning some oil - sludging up the combustion chambers and spark plugs.  The small amount of diesel seemed to help clean up the plugs a little.
+Some upper cylinder lubricants are based on hydrocarbons in the kerosine/diesel part of the crude oil fractionation, so I guess adding straight diesel would have similar effects as adding upper cylinder lube.
+Diesel does have some oily properties too (like upper cylinder lube), so a little might be useful for some older engines which have cast iron heads. But upper cylinder lubricant is not needed in VW engines due to the good valve and head design.
+You have to be careful here though - adding diesel REDUCES the octane rating of the gasoline.  Diesel has a cetane number instead of an octane number, and the cetane number works the opposite to the octane number.  Diesel is supposed to self ignite as it's injected, whereas gasoline is supposed to resist spontaneous ignition.  Gasoline is supposed to wait for the spark, then burn smoothly after the spark and not all combust at once. There is lots more information on fuels and the VW engine here
+Fuels for VW engines.
+A small amount of diesel in the gasoline/petrol won't change the gasoline's octane number significantly, but more than a small amount will, to the detriment of the engine -- there will be a greater likelihood of pinging/detonation.  And since it doesn't evaporate as easily as gasoline, diesel is likely to stay in droplet form inside the engine and burn incompletely, so anything more than small quantities is likely to cause smoke in the exhaust.
+* 
+                    * * * *
+Design by
+Erin

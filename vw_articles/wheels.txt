@@ -1,0 +1,61 @@
+wheels
+Procedures Related to the
+Wheels and Tires
+Please see our specific
+Procedures Related to the Wheels and Tires
+.
+~~~
+Subtopics related to the VW wheels discussed herein -
+General Notes
+Wheel Balancing/Wobble
+Air Leakage
+Wheel Bearings
+Tires
+Questions and Answers
+Note:
+The sub-topics above are largely documentation of the experiences Rob and Dave have had, gleaned from their e-mails back and forth.  They are essentially "stream-of-consciousness" dialogue that provide background for many of the procedures that Rob and Dave have prepared.  We hope you find them informative, and even interesting reading.
+~~~
+General Notes
+The normal wheels on our Bugs (1970 - 1973) are the four-stud variety (VW changed from the five-stud pattern to four studs in 1968).  Normally the wheel is bolted to the brake drum with lug bolts which pass through the four holes the surround the hub in the wheel into the four threaded 14mm holes in the brake drums.
+In late 1972 the tire size changed from 140 x 15 to 155 x 15.  To me tire-size designations are strange -- mixing mm and inches.  In inches these sizes equate to 5.6 x 15 and 6.0 x 15.  Normally a tire size designation will look something like P165R15 (this is the size Dave runs on his Bug).  The P is the tire type, Passenger in this case.  165 is the section width (widest part of the tire) in millimeters.  R is the construction type, radial in this case.  15 is the rim diameter in inches.
+This page will be primarily devoted to the mixed blessing of having cool alloy wheels!  Daves 1973 Super Beetle is equipped with 8-spoke alloy wheels with four holes to mate with the four holes in the brake drums.  To accommodate the custom wheels, four 14mm x 1/2" studs are installed in each brake drum.  These studs have a 5.5mm (7/32") hex drive on the end.  The wheels are secured to the brake drum with four 1/2 cool chrome lug nuts which screw onto the four studs in the drum.
+To complicate the situation, Dave soon found that the wheels are of two slightly different types, each of which requires a different lug nut.  One type of nut has long shanks and requires a washer; the other type is tapered on the end and does not require a washer.  Both are 1/2-inch.  They are removed/installed with a 13/16" deep-set socket (the lug nuts are NOT metric!  The 21mm socket is close).  The socket must have sufficiently thin walls to clear the spokes on either side of the lug nuts.  The walls on a standard deep-set 13/16" socket are too thick -- the socket will not fit between the wheel spokes unless it is ground down all the way around.  (Stanley makes a thinner-walled socket.)
+To complicate things even more, Dave found very early on that the 14mm portion of one of the studs on the left rear was stripped.  To fix it, the hole in the brake drum was drilled out and the hole countersunk from the backside to accommodate a 1/2-inch splined bolt that was pounded in from the back (inside) of the drum.
+The tires on the car are 1 cm wider than stock (165R15 rather than 155R15).  Also early in the game Dave had to replace one of the wheels -- his son had a flat, and when we took it in to be fixed they found a tube in the tubeless tire.  A little investigation showed why -- the wheel itself was cracked and leaking, and the roughness on the inside of the wheel had worn through the tube.  So we bought a new wheel and for a while used the cracked one (with a new tube) as the spare.  We figured that if the cracked wheel wasn't actually in service most of the time it won't wear out the tube, thus adequate for the spare.  Trouble was, the wheel/tire assembly will not fit in the spare tire well up front because it's too big.  (The fact that the car had been front-ended and the spare wheel well scrunched in a bit didnt help!)
+The wheels were (and still are) equipped with way cool spinners (which you can see in this
+picture
+taken before the restoration was complete.  The eight-spoke wheels on the car have about a 3-inch hole in the center into which the dust caps on the front and the axle nuts on the rear protrude.  The spinner set comes with a threaded cylinder that fits into this hole and is held in place with three set screws (have to take the wheels off  to do it, we found, which of course made the job more difficult and much more time consuming than my wife thought it should have been!)  Once these threaded cylinders (for want of a better term) are in place, the spinners screw onto them and then are secured with a single set screw.  You can get spinners that are either two-pronged or three-pronged -- we got the two-pronged ones because I was sure that at least one of the "propellers" would cover a lug bolt, necessitating removal of the spinner to remove the wheel.  Anyway -- they're just for fun -- and they really do set off the wheels and add to the "coolness" factor.
+Dave wrote to Rob regarding the two different types of wheels on the car - On the older two (left rear and right front) the metal is thicker where the studs come through, and the lug nut has a bit of a sleeve (threaded on the inside) that goes through the wheel and onto the stud.  On the newer two (right rear and left front) the metal is thinner and the hole is beveled to accommodate the lug nuts. The older kind are a bear cat to put on, as the holes have to line up exactly over the studs or they bind -- and it's very easy to strip the studs as a result.
+We shuffled the wheels and tires around so that the two older wheels (the harder ones to deal with) are on the rear and the two newer ones are on the front, and also that the two better tires are on the front.  We continued to fuss and fiddle for quite a while.  I was lamenting to my wife about the situation -- she shocked me by saying, "Why don't you just forget it and go down and order two of the newer type wheels!"  So we did!  Having all four wheels the same made the job of removing and replacing the wheels very much easier.
+We think that a previous owner put the alloy wheels on the car originally -- and all four of them were of the more difficult design (the sleeved lug nuts through thicker metal in the wheel).  Well, one of the wheels went bad (cracked, I think), and so the PO replaced it with a wheel of the newer design.  That makes three old and one new.  Then we bought the car, and when my son had a flat and we discovered that that wheel had a tube in it that the PO had put in because THAT wheel was also cracked.  Somebody had tried to weld it and had only succeeded in roughening up the inside surface, which eventually wore out the tube.
+~~~
+Wheel Balancing/Wobble
+Daves car suffered from the notorious Super Beetle "wobble" at 35-40 mph.  One cause of this is the wheel being "out-of-round;" i.e., not centered exactly on the brake drum.    Dave also surmised that two different kinds of wheels on the front may have been contributing to the wobble problem, since the two different kinds of wheels are most certainly different weights.  The subject of "wobble" is discussed in depth on our
+"Notorious Super Beetle Wobble"
+page.
+The wheels being out-of-balance can also contribute to the "wobble" problem.  Proper wheel balance is also very important for this and other reasons; balancing should be done with the wheels ON THE CAR.
+Dave wrote regarding wheel balancing - Ive searched all over the Tri-Cites for someone who will balance the wheels on the car, but so far I havent been able to find anybody with the necessary equipment.  Just no call for it, I guess.
+Later Dave wrote of success - I just got off the phone with a guy at a tire shop in a neighboring town.  He gave me lots of good advice, which essentially boils down to checking the wheels for an out-of-round problem.  He says theres a good possibility the wheels may not be centered exactly on the brake drums; it may be possible (if the wheel is out-of-round) to loosen the lug bolts and wiggle the wheel up-and-down or back-and-forth a bit to center it better.
+I dunno -- doesnt seem to me like theres all that much play in the lug nuts -- the front ones are tapered so that they fit into a mating taper in the wheel and center exactly on the stud.  But -- first thing is to check for out-of-round and then go from there.
+Rob wrote - I'm not even sure if doing it on the car gives you a dynamic balance (side to side as well as radially), or just static (radial) balance.  If only static, it would not eliminate any dynamic balance anyway, and this would probably still give you the Super Beetle wobbles even if the tyre seems to be balanced.
+If the lug nuts have tapers, it normally means they are self centering -- no play possible.
+Most steel wheels use tapered lugs, but many mag wheels use bolt-like lugs with flat surfaces which means the lug area of the wheel doesn't have to be quite so substantial (the mag wheels are softer of course, so more susceptible to stretching with taper lugs, so if taper lugs are used, this area is usually heavier than an equivalent mag wheel using "flat" lugs).
+Getting the wheels rounded properly and balanced on the car finally resolved Dave's "wobble" problem.  Initially Dave had the rounding work done professionally; since he has learned to do it himself and has found that its really not all that difficult.
+~~~
+Air Leakage
+Dave wrote - We found that the right rear tire was very low.  So we went to a nearby gas station and pumped it up -- then after work took it to the tire shop that we frequent.
+There the guy found that the leak was not in the tire but in the WHEEL!  Just a pinhole, but enough to cause the tire to go flat.  He recommended that we take the wheel to an establishment over in Pasco to be welded.  I did, but the welder said the wheel was beyond repair.
+Dave ended up ordering two new new EMPI style 8-spoke aluminum wheels -- $90 apiece through his tire shop.  As a result, all four wheels are now the same.  Dave had the tire shop mount two new 165R15 all-season radials on the new wheels.
+~~~
+Questions
+Someone wrote - I am looking into installing aftermarket rims on my Super and will not be lowering it.  Will installing rims with say a 195/50 tire give me the slight lowered look I want and still give me the needed clearance.  What would be the widest I could go on the rim?
+Rob responded - 195/50 tyres on a 15-inch rim will lower the car almost exactly one inch compared to standard 165/75 15s. If you are using smaller rims, the overall diameter of the tyre will reduce even more.  The standard 165/75 15s are about 24 inches in diameter, so use that to compare with any new tyre.
+Going to a tyre with a smaller diameter will cause your speedometer to read too fast -- which is better than reading too low, but still not good.
+For example, if the standard tyre is 24 inches in diameter, a tyre which is 22 inches in diameter (lowers the car one inch remember) would read about 15% fast (60mph would read as about 69mph.)
+You may get a harsher ride too, as there is less tyre to flex on the bumps.  The VW suspension was not designed with low profile tyres in mind, and it's rarely a simple job to fit a truely different style of tyre/wheel combination.  Shockers and such will probably need altering too.
+You might find that 195s rub on the inside of the fenders on full lock, depending on the offset of the rim on the centre section.  And if the offest is too far outward (to stop any rubbing on the inside) the tyre might project beyond the fenders, not legal here in Australia and I imagine that's the case in the US too.
+It would be wise to talk to a tyre dealer experienced in VWs for rim and tyre combinations which will work on the beetle without causing problems.
+* 
+                    * * * *
+Design by
+Erin

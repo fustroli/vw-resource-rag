@@ -1,0 +1,39 @@
+Backfiring
+Backfiring
+This article should be studied in conjuntion with
+our articles on
+Air Inleakage
+and
+Cutting Out at Idle
+.
+~~~
+Backfiring is basically a condition caused by air-fuel mixture igniting in the intake manifold or exhaust system; i.e. -
+The pre-explosion of an air/fuel mixture so that the explosion passes back around the opened intake valve, through the intake manifold, and through the carburetor.  Backfiring through the carburetor is often caused by improper ignition timing, crossed spark plug wires, or an intake valve that is stuck open.
+The loud explosion of unburned air/fuel mixture that is ignited in the exhaust manifold, usually upon deceleration.  This explosion exits through the muffler and tailpipe with a loud popping noise.  This condition is often caused by leakage of air into the intake manifold, resulting in a lean fuel-to-air mixture.
+We received a question about backfiring that prompted an excellent treatise from Rob on the problem of backfiring -
+If I rev the engine while the car is stationary, and as the engine speed drops to normal, there's a loud bang or poot from the muffler, and sometimes fire comes out of the exhaust.  This also happens when I coast down a hill and I'm in gear but I'm not pressing the accelerator, I hear the same poots and bangs from the rear. Is this what they call backfire?
+Yes indeed, what you are describing is backfiring.  From what you say it sounds like a case of running lean -- backfires on overrun are very common with a lean-running VW engine.
+The 31PICT/3 carburetor you have is usually jetted rather lean (a lot of VW carburetors after 1970 were jetted lean by VW) and so you may find a simple rejetting will resolve your backfiring problem (see below).
+Like the 30PICT series, the 31 series carburetor is actually a little small for the 1600cc engine (they have the same 24mm throat).  That results in very high airflow speeds at higher rpm, and this can make the engine run a little lean too.  Don't worry about the "little small for the 1600cc" comment though -- you lose only a few hp at the top end with this sized carburetor, and you actually get slightly greater torque at low/medium speeds.
+The distributor/carburetor combination can make a difference, too. The 009 centrifugal-advance distributor was never intended to be used on road-going vehicles, and has to have a carburetor that is jetted a little richer, or you get "flat" spots (hesitation) on acceleration. The 30 and 31 series carburetors are not as bad for that as the larger 34, but this hesitation problem can still happen when these smaller carburetors are teamed up with the 009 distributor.  These carburetors, especially the 34PICT, are much better suited for use with a vacuum-advance distributor, and especially with the single-vacuum dual-advance (SVDA) distributor, which combines the best of both worlds.
+With regard to jet sizes:  for a vacuum distributor, with a 30 or 31 series carburettor, try a size 55 idle, X125 or X127.5 main jet and a 125Z or 130Z air correction jet (try the first number first.)
+If you are running the 009 distributor, try a size 55 idle, X127.5 or X130 main and a 115Z or 120Z air correction jet (once again, try the first number first).
+I'll bet you have a main jet which is too small - a X122.5 or even a X120 ehich was stock for the 31PICT/3.  Just changing that (without touching the air correction jet) may solve the backfiring problem.
+Note:
+These jet sizes should be very close to correct, but there is always some variation with set-up, engine age, etc., so the alternate sizes mentioned might be needed.
+Note also:
+The air correction jet feeds AIR into the mixture (at medium to higher rpm only) to stop the mixture richening to much at high airflows.  Therefore, SMALLER means richer with the air correction jet.
+The idle jet is a brass "bolt" on the right side, and the main jet is in the bottom of the float bowl.  The air correction jet is a brass screw with a hole in it -- vertical between the float chamber and main throat -- you have to take the top off the carburetor to get at it, and it's about an inch long.  It has the emulsion tube attached underneath.
+The jets are supposed to have a tiny number stamped on them.  These numbers are the hole size in millimeters -- so a size 55 idle jet is a 0.55mm hole, and a X125 main jet is a 1.25mm hole, etc.  With the main jet, each increase in jet size increases the fuel flow by about 2%.
+Note:
+Dave bought a new Pierburg 34PICT/3 carburetor from
+Aircooled.Net
+.  The jets in this carburetor did NOT have the size numbers stamped on them.  Dave replaced them so he knew what he had.  Dave jetted his new carburetor as follows:  main jet - X130; idle jet - 55; air correction jet - 80Z.
+Another thing that may cause backfiring is that an aftermarket air cleaner and free flowing exhaust system, which may also slightly lean the engine out.  So even if the carburetor is jetted "correctly" for the capacity, distributor and standard aircleaner/muffler, it may be running a tad lean for your set-up, resulting in backfiring.
+And finally, the lean fuel-to-air mixture could be caused by leakage of air into the intake manifold.  See our article on
+Air Inleakage
+.  Dave had a very severe problem in this regard -- he finally found that the hole through the carburetor for the throttle shaft was worn to an oval shape, allowing air into the intake manifold AFTER the carburetor had done its excellent job of producing just the right fuel-to-air ratio.  For Dave, this leakage of air into the system made the mixture way too lean, made it impossible to properly adjust the idle speed (and thus the timing), and caused backfiring.
+* 
+                    * * * *
+Design by
+Erin

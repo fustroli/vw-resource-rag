@@ -1,0 +1,17 @@
+Exhaust Smell
+Exhaust in the Heated Air
+~~~
+Someone wrote to ask  I was reading the section "Exhaust in the Heated Air" on the "Heating Your VW" page.  I'm running into this problem in my '73 Super Beetle, but I seem to be only experiencing this smell, which I think is exhaust, occasionally.   It maybe happens once or twice when I drive to work (about 15 minutes away).
+I can get rid of the smell by briefly rolling down the windows.  A short time later the smell comes back.  Any idea what the problem might be?
+Rob wrote a response the pretty much covers the causes of smelly air in the cabin 
+There are several possible caused of smelly air in the cabin -
+You may not have all the engine tinware/seals in place (or open holes in the tinware) and underside air is "leaking" up into the upper engine compartment where it's drawn into the cooling fan and blown into the cabin heaters from there.  If the smelly air has an oily tinge to it rather than a burnt gasoline smell, this is definitely a possible cause, since it would indicate that used cooling air (which gets oily from travelling over the engine) is the culprit, rather than the exhaust itself  (used cooling air will ALWAYS leak up into the low pressure area above the engine if holes are left open or tinware/seals are missing).
+There may be an exhaust leak near the lower sleeve fittings going into the muffler (rear end of the heat exchangers), and this is sending blasts or exhaust air forwards towards the heat exchangers.  The heat exchangers are only pressed metal around the exhaust header and there are gaps which can allow squirts of exhaust gas from the donut fittings to get in.  The male (header) part of those fittings DO wear as the car ages and it become difficult to seal that joint.  The end fittings eventually rust out too, but they can be replaced by hammer-in replacement stubs, which also gives you a new gas-tight fitting into the muffler.
+The flexible heater pipes from the engine to the body may be poorly fitted, though this is more likely to result in lost cabin heating air rather than letting in smelly stuff.
+You may have rusted out heater header pipes inside the heat exchangers.  If this is the cause, the only solution is to replace the complete heat exchanger.
+Dave wrote  After all I've done to resolve this problem, it's still there -- very exasperating.  It must be the heater boxes  it can't be much else.
+Some time later Dave replaced the heater boxes in his Super Beetle.  Afterwards there was still a trace of smelly air when the car was idling, but no smell when cruising.  There may be a tiny leakage into the heat exchanger "box" from the donuts perhaps, as there are small gaps in the molded tin "box" around the J tubes.  At idle, the pressure of fresh air inside the box is small, but as the car speeds up the pressure inside would increase, keeping out the intruding smelly stuff.
+* 
+                    * * * *
+Design by
+Erin

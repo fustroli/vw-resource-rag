@@ -1,0 +1,69 @@
+Windows
+VW Windows Discussion
+See our
+Installing Fixed Windows
+and
+Installing Door Windows
+procedures.
+See also a discussion of
+Rebuilding Door Windows
+.
+~~~
+Early in Dave's '73 Super Beetle rebuild, Rob wrote -- It looks like you have Cal-look rubber (no chrome trim) around the windows -- no metal trim strip -- and is it dark grey, rather than black?)
+Dave responded -- That's right.  No metal trim -- is that "Cal-look"?  The rubber was originally black, but it's oxidized and turned a dark grey.  We need to replace all the rubber -- it's very crumbly.
+Rob wrote -- There are two sorts of window rubber:  With a slot for a chrome trim strip(normal), and without the slot for the trim (Cal-look).  And people going for the "Cal-look" remove the side body-chrome strips and fill the holes, and usually remove the bumpers too.
+About the "oxidized" rubber -- it must be a different rubber compound to the German stuff.  Mine (28 year old original) is badly oxidised.  It's getting badly cracked and powdery, but still as black as it's always been.  It will all get replaced when I get to do the restoration (with
+West Coast Metric
+rubber, not the Mexican stuff).
+Note of caution here -- the glass gets more brittle as it ages, so don't be surprised if you crack a pane or two when replacing the rubber.  You've got to be as gentle as possible with the glass.  One trick is to have the assistant (pushing on the glass from the outside) wearing cotton gloves so they can slide his hands along as you pull the string from the inside -- keeping a nice steady pressure whilst sliding along the glass.  Also protects the helpers hands if the glass does let go.  Flat hands (rather than finger pressure) will help spread the load too.  (Again, see our
+Installing Fixed Windows
+and
+Installing Door Windows
+procedures.)
+~~~
+Questions & Answers
+Question -- I had difficulty removing the old window regulator. I've got the window chocked all the way up and I'm trying to pull the regulator out from the bottom, but the plate where the handle attaches gets stuck on something up by the quarter panel window.  Even if I do finally muscle it out, I'm doubtful I'll be able to get the new one through that tight space. Can you think of anything off the top of your head that I'm doing wrong?
+Rob responded -- You have to remove the window glass before the regulator will come out.  VW managed to get it all in through the hole in the inner door frame, so it has to come out the same way!
+Question continued -- With some help, I got the God-forsaken window regulator out of there and a new one in.  My mechanic friend got it out with a little muscle.  Let me tell you so that if you or Dave ever get this question again you can make short work of it -
+Once all of the bolts have been removed (5 hold the regulator, 2 hold the window to the regulator) you can do one of two things with the window.  It makes no difference to the removal of the regulator -- you can chock it all the way up either with a C-clap and rag holding it above the door, or with a long screw pushed through the hole near the window scraper -- through the bolt-hole of the window - until it rests on the ledge at the other side. If you don't like either of these ideas, you can take the window out through the bottom with little trouble.  Just be very gentle.
+After removing the bolts you will see a metal plate pressed against the door just to the upper-right of the door lever.  Here's the tricky part:  You have to pull the Window Regulator straight down and force it BETWEEN this metal plate and the door.  Then the regulator will simply fall out the bottom hole in the door.  It's not easy but it's simple.  Getting the new one up in there takes a little more patience because it can get hung up on lips and ledges that you don't have a clear view of. If you can reach up inside the door from the bottom and push & pull that way you will succeed (don't be afraid of using too much force - that interior door steel is very flexible). Once it's in simply bolt everything in, lower the window by hand (if it's chocked up) and bolt it to the regulator.
+After writing this I have a whole new respect for the way you guys describe Bug repairs. It's not easy! I especially have to restrain myself from using my favorite auto-part word: "The Thingy"!
+Rob responded -- Thanks for the very clear description -- with your approval we might be able to incorporate that into one of our procedures.
+Getting the terminology right is one thing, but being sure that the reader knows what that terminology means is another.  So our descriptions are usually a little longer than you'd find in a repair manual -- we assume a lower level of knowledge as most people reading them are likely to be on their "learner's permits" with regards to VW repairs.
+Question -- I just called a local windshield repair shop (they make house calls!) about getting the little rock chip in the windshield repaired.  The guy strongly advised that I wait until I have the windshield back in the car -- if it survives the reinstallation without cracking, when I should go ahead and get it repaired.  The other thing is that we don't have comprehensive insurance coverage on the car at the moment (we didn't see the point, it being an older car).
+Rob responded -- Makes good sense - any glass does get brittle with age, so there's a chance it will crack when re-installed anyway (hopefully not).
+Dave wrote -- I had planned to get the new rubber on the side fixed windows over the weekend, but I got stopped by the fact that the windows were dirty around the edges and I wasn't in the mood to clean them!  :-)  But I do need to get those windows cleaned up and the new rubber on them -- replacing the three fixed windows in the rear is first on my agenda.  (Dunno why - just seems like a good place to start.)
+(Later) Between my friend and I (and with lots of puffing and snorting) we got the three rear fixed windows in!  Hooray!  I am DEFINITELY going to write a procedure and clearly identify the technique in detail, as well as all of the pitfalls.  It really isn't possible to put the windows in by yourself!
+I was impressed at how easy the rear quarter windows come out.  If you're going to replace the rubber, it's easiest (by a long shot!) to just cut the rubber all the way around.
+(See our
+Installing Fixed Windows
+procedure.)
+Rob wrote regarding the procedure Dave wrote on installing fixed windows in VWs -- It might be a good idea to include a comment or two about the lubricant -
+Avoid silicone spray or WD40, etc. as it will leave a mess on your interior and paint work.
+The lubricant should be water based -- like KY Jelly or soapy water.
+That's an interesting comment (from John Henry) about the glass breaking easier if it's installed from the top first.
+Dave wrote to John Henry -- I've finalized my
+Installing Fixed Windows in  Beetle
+procedure, complete with a cross-section of the (Cal-look) rubber.  I used a lot of your words, as well as your comments and Rob's, then finished it off with my own experience.  I appreciate your letting my use you as the starting point!
+Dave wrote about the door window reinstallation -- As usual, the procedure in the manual leaves out all the hard parts!  It shows how to snap the scrapers into place, but says nothing about the need to cut them to size and bent the ends up into nice smooth curves.
+The U-shaped pieces lined with fuzzy stuff that fit up into the door frame and down the sides and into the door - the window slides up into it as you roll it up ("felt channels" or "padded window tracks".  On yours you'll find in on the rear side of the wing window, up and across inside the door frame, and down the rear side of the door frame.  It guides the window as it's going up, and the window nestles in it when it's all the way up.
+I had to buy special longer felt channels (from
+Aircooled.Net
+), as the windows in this car have been modified to single-piece -- there are no wing windows.  I suspect the channel is glued into the door frame with contact cement, just like the rubber around the outside.
+Rob responded -- I think it's held by a tiny screw or two somewhere at the top (the quarter window track is certainly held that way) and the rest just clips into place.  Yours has a metal or rubber backing with a groove running along the sides of it?  This is all memory (and uncertain, it's a long time since I looked) but I think the turned in doorframe edge grabs that groove, and the whole thing may just pull out (with just the couple of maybe screws hidden in the valley of the track.
+Dave wrote -- The regulator tube is bent such that it interferes a bit with the window right at the bottom of the window opening in the door.  I need to somehow bend it back into shape so it fits under the lip inside of the door (if you can visualize what I'm talking about).
+Once I get that done and the regulator and window back in the door, then I will turn to the window scrapers and felt channels.  It's not real obvious to me which should be done first, but I think the scrapers should be done first.  To put them in I have to detach the window from the regulator so I can lower it down into the bottom of the door out of the way.
+It's going to be hard enough getting my fat fingers in there to snap the scrapers into place -- with the window right there it would be impossible.
+Rob responded -- You might be able to supply the push with a flat paint scraper etc from the top -- the window opening itself.  Maybe make a wedge with a piece of wood so pushing it into the glass slot forces the scrapers outwards into the clips/holes.
+Dave wrote -- In our car the window regulator is attached right at the bottom of the door ...  My problem is right at the U-bend under the window opening.  I'll have to bend the tube towards the inner side of the door so it clears the glass properly.
+(Later) - I got a pair of new heavy-duty window winder handles for Beauty -- they look real nice, too.  The shanks and plastic knobs keep breaking on the normal ones -- as the cars get older the winder gets a little stiff.  I have broken two winder shafts.  I was pleased to find the heavier-duty models.  The replacement cranks have shafts made of pot metal -- very easily broken.  I remember when my Bug was new the windows went up and down like a breeze!
+I think the window winding stiffness is in the regulator.  While I had the car apart I completely cleaned and lubricated the regulators and put new Tygon tubing on them -- they work much better now (other than the one being bent out of shape, of course).
+I found that an ordinary screwdriver works about the best for installing the window scrapers.  My fingers would work the very best if they were considerably smaller and considerably stronger!  I've still got two hold-out clips on the passenger side -- after fussing with them for about an hour (and dripping sweat all over the place -- summer has arrived! -- 85F) I gave up and mowed the lawn.
+I finally got all of the window scraper clips snapped into place on the driver's side, and I moved the window up into place and bolted it in.  I have yet to glue the front edges of the scrapers in, and I need to straighten out a few irregularities in the scrapers and the felt channels, but at least ONE of the windows is in!
+I'm going to have to take the door catch mechanism out of the passenger-side door.  When the door is completely closed (and the tongue pushed in completely) the front bottom edge of the window hits it, so the window can't be rolled down.  John Connolly
+(Aircooled.Net)
+wrote to say there are door catches (he called them door stops) designed to be used with the one-piece windows.
+* 
+                    * * * *
+Design by
+Erin

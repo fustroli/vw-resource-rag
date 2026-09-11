@@ -1,0 +1,14 @@
+Icing
+Carburetor Icing
+Carburetor icing can be caused by either of two things - a malfunctioning inlet air pre-warmer, or a plugged heat riser on the intake manifold under the carburetor.  If icing is happening at the carburetor itself, the inlet air pre-warmer system is probably malfunctioning.  If the icing just under the carburetor is usually an exhaust heat riser problem.
+If your setup for the inlet air pre-warmer has a temperature activated vacuum switch built into the air cleaner (with two vacuum tube connections), then make sure it's working okay and the vacuum tubes are connected correctly.  One side of the switch has a vacuum line going to the port in the manifold just under the carb, and the other side goes to the flap mechanism in the air inlet.  It shouldn't matter which side of the air cleaner temperature switch goes where, but try swapping the vacuum lines on the switch over anyway, just in case.
+As a further test, you could try bypassing the air cleaner switch (connect inlet manifold port direct to the inlet air pre-warmer flap mechanism) so the inlet air pre-warmer is permanently on.  If that improves the problem then you know there is something wrong with the temperature switch in the air cleaner.
+Please see our article on
+Heat Risers
+for more discussion and correction of a blocked heat riser problem.
+Icing will always be more likely when the temperature is about 5 to 10C and the relative humidity is high.  At higher temperatures the under-carburetor temperature drop is usually still above freezing; below freezing the air is usually drier.  So it is at temperaturess just above freezing that under-carburetor icing is most likely to occur.
+The two warming systems are not just to prevent icing -- they are also needed to make sure the fuel stays as a fine evapourating mist in the fuel/air mixture and doesn't condense on the inside of the carburetor or intake manifold, Such condensation will cause uneven fuel/air mixtures and rough running. Most older carburettor equipped water cooled cars have a under-carb manifold heater system working with hot water (or the inlet manifold is close-coupled to part of the exhaust manifold) to do the same thing.
+* 
+                    * * * *
+Design by
+Erin
