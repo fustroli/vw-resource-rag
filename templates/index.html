@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VW Resource Assistant</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <div class="inner">
+        <h1>VW Resource Assistant</h1>
+        <p class="subtitle">Ask about aircooled Volkswagen repair &amp; maintenance</p>
+      </div>
+    </header>
+
+    <main id="content">
+      <div class="inner">
+        <section id="answer-section" hidden>
+          <div id="answer"></div>
+          <div id="sources"></div>
+        </section>
+        <p id="empty-state">Ask a question to get started.</p>
+      </div>
+    </main>
+
+    <form id="ask-form">
+      <div class="inner">
+        <input
+          id="question"
+          type="text"
+          placeholder="e.g. How do I change the oil?"
+          autocomplete="off"
+          autofocus
+        >
+        <button id="submit-btn" type="submit">Ask</button>
+      </div>
+    </form>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

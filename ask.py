@@ -60,7 +60,8 @@ def build_prompt(question: str, docs: list, metas: list):
     )
 
 
-def stream_answer(question: str, docs: list, metas: list):
+def stream_answer_tokens(question: str, docs: list, metas: list):
+    """Yield answer text as it streams from Ollama, one piece at a time."""
     payload = {
         "model": CHAT_MODEL,
         "messages": [
@@ -78,21 +79,28 @@ def stream_answer(question: str, docs: list, metas: list):
                 continue
             chunk = json.loads(line)
             content = chunk.get("message", {}).get("content", "")
-            print(content, end="", flush=True)
+            if content:
+                yield content
             if chunk.get("done"):
                 break
-    print()
 
 
-def print_sources(metas: list):
+def get_sources(metas: list):
     seen = set()
-    print("\nSources:")
+    sources = []
     for meta in metas:
         url = meta["source_url"]
         if url in seen:
             continue
         seen.add(url)
-        print(f"- {meta['title']}: {url}")
+        sources.append({"title": meta["title"], "url": url})
+    return sources
+
+
+def print_sources(metas: list):
+    print("\nSources:")
+    for source in get_sources(metas):
+        print(f"- {source['title']}: {source['url']}")
 
 
 def main():
@@ -100,7 +108,9 @@ def main():
     docs, metas = retrieve(question)
 
     print()
-    stream_answer(question, docs, metas)
+    for token in stream_answer_tokens(question, docs, metas):
+        print(token, end="", flush=True)
+    print()
     print_sources(metas)
 
 
